@@ -1,0 +1,4 @@
+# I file si servono come sono scritti: un CRLF introdotto da git
+# cambierebbe i byte senza che nessuno lo decida (D484, D506).
+*.json text eol=lf
+*.md text eol=lf
