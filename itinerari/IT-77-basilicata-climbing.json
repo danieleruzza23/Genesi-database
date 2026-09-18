@@ -1,0 +1,50 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-18T11:14:49Z",
+  "luoghi": [
+    {
+      "nome": "Maratea",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Maratea",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 40.041802111952016,
+          "longitudine": 15.646394577341383,
+          "itinerari": [
+            {
+              "nome": "Mare d’Inverno",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 90,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/maratea-mare-dinverno/"
+            },
+            {
+              "nome": "Oceano di Silenzio",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 85,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/maratea-oceano-di-silenzio/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

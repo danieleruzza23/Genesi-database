@@ -1,0 +1,63 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-18T11:14:49Z",
+  "luoghi": [
+    {
+      "nome": "Sappada",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Sappada",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.56950625388796,
+          "longitudine": 12.656751380737287,
+          "itinerari": [
+            {
+              "nome": "Massacro delle Caprette (Cascata)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 60,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/massacro-delle-caprette/"
+            },
+            {
+              "nome": "Specchio di Biancaneve (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/specchio-di-biancaneve-cascata/"
+            },
+            {
+              "nome": "Diagonal (Cascata)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "3+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 70,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/diagonal-cascata/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

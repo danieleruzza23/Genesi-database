@@ -1,13 +1,18 @@
-# Itinerari, una zona alla volta
+# Itinerari, una zona e una disciplina alla volta
 
 Elenchi pronti da importare dalla schermata **Database** del Profilo: formato
 `4monkeys-itinerari` v1, lo stesso che l'app esporta
 (`apps/mobile/lib/domain/catalog_file.dart`).
 
-- `<ZONA>.json`, una regione per file
+- `<ZONA>-<disciplina>.json`, una regione **e una disciplina** per file
 - Le zone sono quelle di Profilo → Database
   (`apps/mobile/lib/domain/territory.dart`): codice ISO dello stato e della
   regione, `IT-25-lombardia`, come in `strutture/`.
+- Le discipline sono `climbing`, `ice_mixed`, `skialp`, `mountaineering`.
+
+**Una disciplina per file, non quattro insieme**: la schermata Database chiede
+una zona **e** una disciplina alla volta, e un file con dentro tutto darebbe a
+chi ha scelto l'arrampicata anche le gite con gli sci.
 
 Dentro, la gerarchia che l'import si aspetta: **luogo → parete → itinerari**.
 Ogni itinerario ha i campi della tabella `Routes` — `nome`, `gradoMassimo`,

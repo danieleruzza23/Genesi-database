@@ -1,0 +1,89 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-18T11:14:49Z",
+  "luoghi": [
+    {
+      "nome": "Scheggia e Pascelupo",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Catria (Corno di)",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 43.43086061,
+          "longitudine": 12.7206639,
+          "itinerari": [
+            {
+              "nome": "Un Mercoledì da Leoni",
+              "gradoObbligatorio": "5b",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 180,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/catria-corno-di-un-mercoledi-da-leoni/"
+            }
+          ]
+        },
+        {
+          "nome": "Catria (Corno di) via del Centenario",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 43.4315659,
+          "longitudine": 12.72066941,
+          "itinerari": [
+            {
+              "nome": "Catria (Corno di) via del Centenario",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 170,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/catria-corno-di-via-del-centenario/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Terni",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Penna della Rocca, Parete Austeri -Via Austeri",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 42.599898317939974,
+          "longitudine": 12.630178928375244,
+          "itinerari": [
+            {
+              "nome": "Penna della Rocca, Parete Austeri -Via Austeri",
+              "gradoObbligatorio": "5b",
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 110,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/austeri-parete-via-austeri/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

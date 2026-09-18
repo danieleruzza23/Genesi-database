@@ -1,0 +1,63 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-18T11:14:48Z",
+  "luoghi": [
+    {
+      "nome": "Bad Gastein",
+      "paese": "AT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Bad Gastein",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "latitudine": 47.06772492,
+          "longitudine": 13.12926292,
+          "itinerari": [
+            {
+              "nome": "Supervisor (Cascata)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 270,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/supervisor-cascata/"
+            },
+            {
+              "nome": "Eisarena Federweissfall (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 180,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/bad-gastein-eisarena-federweissfall/"
+            },
+            {
+              "nome": "Höhkarfall (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 180,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/eisarena-badgastein-hohkarfall/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
