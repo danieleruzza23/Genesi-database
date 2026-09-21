@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Adelboden",
@@ -22,12 +22,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/adelboden-bonderalpeglucksritter/"
+              "link": [
+                "https://www.gulliver.it/itinerari/adelboden-bonderalpeglucksritter/"
+              ]
             }
           ]
         },
@@ -44,12 +46,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/adelboden-bonderalpe-oltre-lurking-fear/"
+              "discesa": "su Abalakov, e maillons nella prima parte della cascata, Lurking Fear.",
+              "link": [
+                "https://www.gulliver.it/itinerari/adelboden-bonderalpe-oltre-lurking-fear/"
+              ]
             }
           ]
         },
@@ -66,12 +70,14 @@
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 275,
+              "sviluppo": 275.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/north-shore/"
+              "link": [
+                "https://www.gulliver.it/itinerari/north-shore/"
+              ]
             }
           ]
         }
@@ -91,17 +97,19 @@
           "longitudine": 7.997875213,
           "itinerari": [
             {
-              "nome": "Grindelwald- Namenlos (Cascata)",
+              "nome": null,
               "gradoObbligatorio": "II",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/namenlos-cascata-2/"
+              "discesa": "su alberi e poi Abalakov. Nessun materiale in posto.",
+              "link": [
+                "https://www.gulliver.it/itinerari/namenlos-cascata-2/"
+              ]
             }
           ]
         }
@@ -121,17 +129,19 @@
           "longitudine": 7.6738219,
           "itinerari": [
             {
-              "nome": "Blausee Namenlos recht",
+              "nome": null,
               "gradoObbligatorio": "IV",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 345,
+              "sviluppo": 345.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/blausee-namenlos-recht/"
+              "discesa": "in parte su Abalakov e su soste a fix.",
+              "link": [
+                "https://www.gulliver.it/itinerari/blausee-namenlos-recht/"
+              ]
             }
           ]
         },
@@ -148,51 +158,86 @@
               "gradoMassimo": "6+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/breitwangflue-saule/"
-            },
+              "discesa": "su Abalakov. Attenzione la cascata si frattura spesso a causa del freddo, divenendo a rischio di crollo improvviso!",
+              "link": [
+                "https://www.gulliver.it/itinerari/breitwangflue-saule/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Breitwangflue",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.52095754,
+          "longitudine": 7.700901031,
+          "itinerari": [
             {
               "nome": "Metro (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/breitwangflue-cascata-metro/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/breitwangflue-cascata-metro/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Breitwangflue",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.52212387,
+          "longitudine": 7.704126205,
+          "itinerari": [
             {
               "nome": "Beta Block Super (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "7",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/breitwangflue-beta-block-super/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/breitwangflue-beta-block-super/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Breitwangflue",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.5566132,
+          "longitudine": 7.660905799999999,
+          "itinerari": [
             {
               "nome": "Crack Baby (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 340,
+              "sviluppo": 340.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/breitwangflue-crack-baby-cascata-breitwangflue/"
+              "link": [
+                "https://www.gulliver.it/itinerari/breitwangflue-crack-baby-cascata-breitwangflue/"
+              ]
             }
           ]
         },
@@ -209,12 +254,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 305,
+              "sviluppo": 305.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/blauseenamelos-60-1/"
+              "link": [
+                "https://www.gulliver.it/itinerari/blauseenamelos-60-1/"
+              ]
             }
           ]
         }
@@ -234,17 +281,19 @@
           "longitudine": 7.6727571,
           "itinerari": [
             {
-              "nome": "Breitwangflue Alpha saule",
+              "nome": null,
               "gradoObbligatorio": "V",
               "gradoMassimo": "6+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/breitwangflue-alpha-saule/"
+              "link": [
+                "https://www.gulliver.it/itinerari/breitwangflue-alpha-saule/"
+              ]
             }
           ]
         },
@@ -261,90 +310,158 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 220,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/antifa-cascata/"
-            },
+              "discesa": "su cordoni e soste attrezzate lungo la linea di salita.",
+              "link": [
+                "https://www.gulliver.it/itinerari/antifa-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kandersteg",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.4947342,
+          "longitudine": 7.6744158,
+          "itinerari": [
             {
               "nome": "Reise in Reich der Eiszwerge direct (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 155,
+              "sviluppo": 155.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/reise-in-reich-der-eiszwerge-direct/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/reise-in-reich-der-eiszwerge-direct/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kandersteg",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.49189266,
+          "longitudine": 7.692317962,
+          "itinerari": [
             {
               "nome": "Lochroute (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lochroute/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/lochroute/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kandersteg",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.493499,
+          "longitudine": 7.6727571,
+          "itinerari": [
             {
               "nome": "Grimm-Haizahne (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/grimm-haizahne/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/grimm-haizahne/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kandersteg",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.494734,
+          "longitudine": 7.674416,
+          "itinerari": [
             {
               "nome": "Rubezahl (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 220,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rubezahl-cascata/"
-            },
+              "discesa": "in doppia su abalakov e spit.",
+              "link": [
+                "https://www.gulliver.it/itinerari/rubezahl-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kandersteg",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.45276051,
+          "longitudine": 7.683734893,
+          "itinerari": [
             {
               "nome": "Black Nova (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/black-nova/"
-            },
+              "discesa": "su soste attrezzate.",
+              "link": [
+                "https://www.gulliver.it/itinerari/black-nova/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kandersteg",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "latitudine": 46.492498822070935,
+          "longitudine": 7.655584476383481,
+          "itinerari": [
             {
               "nome": "Allmenalpfälle (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/kandersteg-allmenalpfalle-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/kandersteg-allmenalpfalle-cascata/"
+              ]
             }
           ]
         },
@@ -361,12 +478,14 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1300,
+              "sviluppo": 1300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/namenlos-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/namenlos-cascata/"
+              ]
             }
           ]
         },
@@ -383,77 +502,86 @@
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/saule-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/saule-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oeschinenwald",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.4916563,
+          "longitudine": 7.686309814,
+          "itinerari": [
             {
               "nome": "Namelos 63.5 (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 165,
+              "sviluppo": 165.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/oeschinenwald-namelos-63-5-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/oeschinenwald-namelos-63-5-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oeschinenwald",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.4962652,
+          "longitudine": 7.680473327,
+          "itinerari": [
             {
               "nome": "Schone Genusskletterei 5.3 (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 135,
+              "sviluppo": 135.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/schone-genusskletterei-5-3/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/schone-genusskletterei-5-3/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oeschinenwald",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.494734,
+          "longitudine": 7.674416,
+          "itinerari": [
             {
               "nome": "Arbonium (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 260,
+              "sviluppo": 260.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/oeschinenwald-arbonium/"
-            },
-            {
-              "nome": "Rattenpissoir/Groll (Cascata)",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "5+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 170,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/oeschinenwald-rattenpissoir-groll/"
-            },
-            {
-              "nome": "Blue Magic (Cascata)",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "5+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 210,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/oeschinenwald-blue-magic-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/oeschinenwald-arbonium/"
+              ]
             },
             {
               "nome": "Baretritt (Cascata)",
@@ -461,25 +589,86 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/oeschinenwald-baretritt-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/oeschinenwald-baretritt-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oeschinenwald",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.49183357,
+          "longitudine": 7.686395645,
+          "itinerari": [
+            {
+              "nome": "Rattenpissoir/Groll (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "5+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/oeschinenwald-rattenpissoir-groll/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oeschinenwald",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.49177448,
+          "longitudine": 7.686309814,
+          "itinerari": [
+            {
+              "nome": "Blue Magic (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "5+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 210.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "a piedi o in doppia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/oeschinenwald-blue-magic-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oeschinenwald",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.4916563,
+          "longitudine": 7.686481475,
+          "itinerari": [
             {
               "nome": "Pingu (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/oeschinenwald-pingu-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/oeschinenwald-pingu-cascata/"
+              ]
             }
           ]
         }

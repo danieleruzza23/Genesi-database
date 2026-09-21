@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Bregaglia",
@@ -9,137 +9,6 @@
       "latitudine": null,
       "longitudine": null,
       "pareti": [
-        {
-          "nome": "Balzetto (Pizzo)",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "latitudine": 46.33661172404643,
-          "longitudine": 9.66398931743309,
-          "itinerari": [
-            {
-              "nome": "Via Spidi",
-              "gradoObbligatorio": "5b",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 260,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/balzetto-pizzo-via-spidi/"
-            },
-            {
-              "nome": "Face to Face",
-              "gradoObbligatorio": "6a",
-              "gradoMassimo": "6c+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 320,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/balzetto-pizzo-face-to-face/"
-            }
-          ]
-        },
-        {
-          "nome": "Frachiccio (Pizzo)",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "latitudine": 46.32440665238757,
-          "longitudine": 9.633867372766849,
-          "itinerari": [
-            {
-              "nome": "Roland",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/frachiccio-pizzo-roland/"
-            },
-            {
-              "nome": "Schildkrote/Tartaruga",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 13,
-              "sviluppo": 550,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/frachiccio-pizzo-via-schildkrote-tartaruga/"
-            },
-            {
-              "nome": "Ana Maria",
-              "gradoObbligatorio": "6a+",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 450,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/frachiccio-pizzo-ana-maria/"
-            },
-            {
-              "nome": "Forza Bregaglia",
-              "gradoObbligatorio": "6b",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 320,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/frachiccio-pizzo-forza-bregaglia/"
-            },
-            {
-              "nome": "Via Kasper",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 9,
-              "sviluppo": 400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/frachiccio-pizzo-via-kasper/"
-            }
-          ]
-        },
-        {
-          "nome": "Lago (Placche del)",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "latitudine": 46.330877137832644,
-          "longitudine": 9.655127022998142,
-          "itinerari": [
-            {
-              "nome": "Wassersinfonie",
-              "gradoObbligatorio": "5b",
-              "gradoMassimo": "5b",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/placche-del-lago-wassersinfonie/"
-            }
-          ]
-        },
         {
           "nome": "Albigna (Punta)",
           "disciplina": "climbing",
@@ -153,38 +22,62 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/albigna-punta-via-steiger/"
-            },
+              "discesa": "Dalla fine della via risalire il canale ghiaioso (possibile neve ad inizio stagione) fino alla forcella. Da qui seguire i rari ometti e percorrere il ghiaione in discesa, fino ad imboccare un sentierino che ci conduce a destra su delle placche che si attraversano grazie all'aiuto di corde fisse. Seguire gli ometti fino a imboccare il sentiero sulla morena che ci riconduce al ponticello percorso all'andata e da qui a ritroso per il sentiero che porta alla funivia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/albigna-punta-via-steiger/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Albigna (Punta)",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "latitudine": 46.31847279672974,
+          "longitudine": 9.664126313322962,
+          "itinerari": [
             {
               "nome": "Tempi Moderni",
               "gradoObbligatorio": "5a",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 11,
-              "sviluppo": 360,
+              "sviluppo": 360.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/albigna-punta-tempi-moderni/"
-            },
+              "discesa": "Si segue la cresta X circa 50 metri fino ad un evidente canale camino che si deve risalire , circa 70/80 metri , passi di 2* grado e roccia cattiva, fino all'uscita dell'avancorpo dell'Albigna. Dal colletto, faccia a valle, si seguono a dx tracce ed ometti che portano nel vallone attraversato per raggiungere l'attacco ed il rifugio. Prestare attenzione se bagnato o innevato, comunque corde fisse facilitano il passaggio su placche inclinate.",
+              "link": [
+                "https://www.gulliver.it/itinerari/albigna-punta-tempi-moderni/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Albigna (Punta)",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "latitudine": 46.32383902686068,
+          "longitudine": 9.663107902158922,
+          "itinerari": [
             {
               "nome": "Via Meuli",
               "gradoObbligatorio": "4",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/albigna-punta-via-meuli/"
+              "discesa": "in teoria a piedi dalla fine della via (se la si finisce!), in pratica in doppia lungo la via, con qualche problema di incastro della corda. Calate in doppia sconsigliate (necessarie comunque due corde) e comunque possibili solo dalla sosta sullo spigolo (prima del traverso, sosta n°7 o 8) in giù.",
+              "link": [
+                "https://www.gulliver.it/itinerari/albigna-punta-via-meuli/"
+              ]
             }
           ]
         },
@@ -201,12 +94,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vergine-e-gallo-traversata-per-la-cresta-nord/"
+              "discesa": "da dietro il buco si deve passare a sin sul lato albigna per un passaggio stretto tra 2 massi, scendere alcuni metri su blocchi e traversare a dx (faccia a valle) per 3m fino alla prima sosta di calata lungo la cesta sud. In altrnativa, dal buco scendere alcuni metri su sfasciume e risalire a sx. C1 - 10 m in cresta fino a un terraziano con ometto dove si trova la seconda sosta di calata (poco visibile) C2 - calarsi 15m in cresta o scendere arrampicando (2° expo) fino ad una sosta a spit C3 - calarsi lato albigna per 25m fino a raggiungere gli sfasciumi. da qui per sfasciume e placche costeggiare la base del Gal e Vergine e raggiungere il sentiero di salita",
+              "link": [
+                "https://www.gulliver.it/itinerari/vergine-e-gallo-traversata-per-la-cresta-nord/"
+              ]
             }
           ]
         },
@@ -223,51 +118,134 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/badile-pizzo-stella-retica/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/badile-pizzo-stella-retica/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Badile (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "latitudine": 46.299715,
+          "longitudine": 9.588704,
+          "itinerari": [
             {
               "nome": "Via Cassin",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 16,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/badile-pizzo-via-cassin/"
-            },
+              "discesa": "1) scendere con una serie interminabile di calate in corda doppia dallo spigolo nord (sconsigliato per probabilità di incastro delle corde); 2) scendere dalla Normale del versante italiano seguendo le tracce di passaggio con qualche tratto in disarrampicata e qualche calata in corda doppia (segnate da bolli rossi), facendo attenzione ad un certo punto a non calarsi in un canale ma seguendo una traccia verso destra (viso a valle) dapprima in salita poi in leggera discesa fino alla croce metallica Castelli-Piatti dalla quale ci si cala in uno stretto camino. Scendere qualche metro a piedi fino ad un ultima calata sulla destra con anello in loco (viso a valle). Infine per detriti, gande e liste erbose al rifugio Gianetti. N.B.: il ritorno dal passo Porcellizzo e dal passo della Trubinasca è molto lungo, faticoso e può dare qualche problema di orientamento con nebbia. Occorre avere ancora buone energie.",
+              "link": [
+                "https://www.gulliver.it/itinerari/badile-pizzo-via-cassin/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Badile (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "latitudine": 46.29518,
+          "longitudine": 9.586837,
+          "itinerari": [
             {
               "nome": "Linea Bianca",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/badile-pizzo-linea-bianca/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/badile-pizzo-linea-bianca/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Badile (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "latitudine": 46.297462,
+          "longitudine": 9.583426,
+          "itinerari": [
             {
               "nome": "Ringo Starr",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/badile-pizzo-ringo-star/"
+              "link": [
+                "https://www.gulliver.it/itinerari/badile-pizzo-ringo-star/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Balzetto (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.33661172404643,
+          "longitudine": 9.66398931743309,
+          "itinerari": [
+            {
+              "nome": "Via Spidi",
+              "gradoObbligatorio": "5b",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "in doppia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/balzetto-pizzo-via-spidi/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Balzetto (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 46.337061908793736,
+          "longitudine": 9.664278029797865,
+          "itinerari": [
+            {
+              "nome": "Face to Face",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6c+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 320.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "calatone da 60 fino al canale a destra. Qualche metro a piedi (noi assicurati) fino ad altro anellone modello mucca. Calata da 35 m fino a spit e catena. Altro calatone da 60 m fino alle ghiaie. Oppure fermarsi prima e andare a sinistra (viso a monte) per effettuare un'altra doppia su placca molto adagiata che riporta in prossimità dell'attacco. Utile se c'è neve.",
+              "link": [
+                "https://www.gulliver.it/itinerari/balzetto-pizzo-face-to-face/"
+              ]
             }
           ]
         },
@@ -284,25 +262,38 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 260,
+              "sviluppo": 260.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bio-pfeiler-classica/"
-            },
+              "discesa": "alla sella scendere nel canale detritico verso est tenendosi sul lato sx, non banale, in 20 minuti alla base",
+              "link": [
+                "https://www.gulliver.it/itinerari/bio-pfeiler-classica/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bio Pfeiler (Pilastro)",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.32729066531531,
+          "longitudine": 9.676628079090136,
+          "itinerari": [
             {
               "nome": "Miky",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": 7,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bio-pfeiler-miky/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bio-pfeiler-miky/"
+              ]
             }
           ]
         },
@@ -319,25 +310,158 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": 14,
-              "sviluppo": 460,
+              "sviluppo": 460.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cengalo-pizzo-punta-angela-dalai-lama/"
-            },
+              "discesa": "in doppia lungo la via Carosello, come per lo spigolo vinci. Circa 7 doppie.",
+              "link": [
+                "https://www.gulliver.it/itinerari/cengalo-pizzo-punta-angela-dalai-lama/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cengalo (Pizzo), Punta Angela",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 46.29265889,
+          "longitudine": 9.600951317,
+          "itinerari": [
             {
               "nome": "Morbegnesi ’62 + Carosello",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": 7,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "la classica in doppia comune allo spigolo Vinci. 7 doppie a piombo tutte lunghe almeno 50m, tranne la prima da 30m. Molte calate intermedie a fix. Ho notato una serie di calate (nuove?) a fix sulla direttiva della morbegnesi, a sx viso a monte della discesa classica.",
+              "link": [
+                "https://www.gulliver.it/itinerari/angela-punta-e-pizzo-cengalo-morbegnesi-62-carosello/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Frachiccio (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 46.32502341677399,
+          "longitudine": 9.634574485128432,
+          "itinerari": [
+            {
+              "nome": "Ana Maria",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/angela-punta-e-pizzo-cengalo-morbegnesi-62-carosello/"
+              "link": [
+                "https://www.gulliver.it/itinerari/frachiccio-pizzo-ana-maria/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Frachiccio (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 46.32440665238757,
+          "longitudine": 9.633867372766849,
+          "itinerari": [
+            {
+              "nome": "Roland",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "Dalla sosta proseguire sulla cresta (meglio in conserva protetta) seguendo gli ometti in direzione Nord. Dopo 10-15 m. si trova una sosta di calata sul versante Nord-Orientale. Con tre calate in corda doppia si arriva alla base della parete Orientale del Pizzo Frachiccio. Attenzione, durante la prima calata, non farsi tentare dal seguire l'evidente e grande diedro che scende verso destra (faccia a valle), ma proseguire in verticale rispetto alla sosta di calata. La seconda sosta di calata si trova dopo circa 40-50 metri spostata a destra (faccia a valle) rispetto alla verticale. L'ultima sosta, invece, si individua più facilmente. Dalla base della parete scendere per l'evidente canale caratterizzato da enormi blocchi di granito e poi gande e balze in direzione della diga fino ad intercettare il sentiero percorso all'andata.",
+              "link": [
+                "https://www.gulliver.it/itinerari/frachiccio-pizzo-roland/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Frachiccio (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 46.324870815740276,
+          "longitudine": 9.635013762724132,
+          "itinerari": [
+            {
+              "nome": "Forza Bregaglia",
+              "gradoObbligatorio": "6b",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 320.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/frachiccio-pizzo-forza-bregaglia/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Frachiccio (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 46.32512911474876,
+          "longitudine": 9.63418331591801,
+          "itinerari": [
+            {
+              "nome": "Schildkrote/Tartaruga",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 13,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "dall’ultima sosta si scende per traccia e disarrampicando nel primo tratto circa 80 m. fino ad incontrare a sx (faccia a monte) un ometto ben visibile. Da questo andare a sx, sempre faccia a monte, per 2/3 m. dietro un pilastrino si trova la calata. Una sola doppia da 60 metri (oppure 2 da 30 metri con sosta intermedia attrezzata) vi deposita sul ghiaione basale, da qui scendere fino ad incrociare il sentiero per passo Cacciabella che vi riporterà alla base ed alla funivia. (1 h circa)",
+              "link": [
+                "https://www.gulliver.it/itinerari/frachiccio-pizzo-via-schildkrote-tartaruga/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Frachiccio (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "latitudine": 46.326144705219676,
+          "longitudine": 9.632484141395125,
+          "itinerari": [
+            {
+              "nome": "Via Kasper",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 9,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "due alternative: 1. si prosegue sulla cresta a blocchi, cercando il facile, fino alla forcella che separa l'avancorpo dalla cima del pizzo vera e propria. Sono circa 100-150 metri di dislivello ulteriore, calcolare almeno ancora un'ora. Dalla forcella con due calate da 60m comuni anche alle altre vie del Frachiccio si giunge nel canale di discesa 2. (consigliato) dall'altima sosta raggiunta, con 4 doppie su parete verticale, si tocca il ghiaione alla base della parete. Attenzione a reperire gli ancoraggi predisposti nella vasta parete: la prima doppia deve essere fatta leggermente verso Dx (faccia a valle), la altre sono invece verticali",
+              "link": [
+                "https://www.gulliver.it/itinerari/frachiccio-pizzo-via-kasper/"
+              ]
             }
           ]
         },
@@ -354,12 +478,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/grevasalvas-piz-pilastro-2740m-spigolo-se/"
+              "link": [
+                "https://www.gulliver.it/itinerari/grevasalvas-piz-pilastro-2740m-spigolo-se/"
+              ]
             }
           ]
         },
@@ -376,12 +502,14 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/innominata-di-cacciabella-torre-hofmaister-jubileum/"
+              "link": [
+                "https://www.gulliver.it/itinerari/innominata-di-cacciabella-torre-hofmaister-jubileum/"
+              ]
             }
           ]
         },
@@ -398,12 +526,38 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/innominata-di-cacciabella-torre-spigolo-no/"
+              "link": [
+                "https://www.gulliver.it/itinerari/innominata-di-cacciabella-torre-spigolo-no/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lago (Placche del)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 46.330877137832644,
+          "longitudine": 9.655127022998142,
+          "itinerari": [
+            {
+              "nome": "Wassersinfonie",
+              "gradoObbligatorio": "5b",
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/placche-del-lago-wassersinfonie/"
+              ]
             }
           ]
         },
@@ -420,12 +574,29 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
+              "discesa": "con una doppia da 50m sul versante opposto, fino alla base del canale, e poi per tracce si riprende il sentiero.",
+              "link": [
+                "https://www.gulliver.it/itinerari/pal-piz-dal-piccolo/"
+              ]
+            },
+            {
+              "nome": "Hokus Pokus",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2300,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pal-piz-dal-piccolo/"
+              "link": [
+                "https://www.camptocamp.org/routes/898449"
+              ]
             }
           ]
         },
@@ -442,12 +613,14 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ferro-da-stiro-via-normale-dal-rifugio-sciora/"
+              "discesa": "in doppia sulla via. Arrampicata in ambiente fantastico di facile percorribilità.",
+              "link": [
+                "https://www.gulliver.it/itinerari/ferro-da-stiro-via-normale-dal-rifugio-sciora/"
+              ]
             }
           ]
         },
@@ -464,12 +637,14 @@
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 750,
+              "sviluppo": 750.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sciora-ago-di-spigolo-w-integrale/"
+              "discesa": "2 doppie da 60 dalla cima (altre soste intermedie), poi in facile arrampicata lungo l'evidente cengia della via normale. quando diventa troppo difficile 5 doppie da 30 mt su spuntoni, alcune attrezzate da noi, depositano sul ghiacciaio dell'albigna. con ampio giro tornare alla diga dell'albigna dalla dx orografica. non banale e molto faticoso!! non meno di 4-5 ore dalla vetta.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sciora-ago-di-spigolo-w-integrale/"
+              ]
             }
           ]
         },
@@ -486,168 +661,362 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 7,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-lasciamili/"
-            },
+              "discesa": "a sinistra per prato fino a un torine con una catena di calata.30m di corda doppia portano nel canale che sceso brevemente a piedi porta a un'altra corda dopppia da 10m e da li in breve alla base",
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-lasciamili/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 46.33907667,
+          "longitudine": 9.641039371,
+          "itinerari": [
             {
               "nome": "Nuova via per Claudia",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-nuova-via-per-claudia/"
+              "discesa": ". Dall'uscita fino all'albero di S4 Fino ad una sosta dedicata alle doppie una decina di metri più in basso di S2. A terra. In tutto 3 doppie con le 60 metri.",
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-nuova-via-per-claudia/"
+              ]
             },
+            {
+              "nome": "Arête NE + Dente + Fiamma",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2487,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55789"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "latitudine": 46.33729895,
+          "longitudine": 9.640374183,
+          "itinerari": [
             {
               "nome": "Cresta NE + Dente",
               "gradoObbligatorio": "5a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": 9,
-              "sviluppo": 360,
+              "sviluppo": 360.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-pizzo-cresta-ne-dente/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-pizzo-cresta-ne-dente/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 46.338306015632334,
+          "longitudine": 9.639687130923837,
+          "itinerari": [
             {
               "nome": "Dente per Dente + Normale",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 8,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-albigna-dente-per-dentenormale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-albigna-dente-per-dentenormale/"
+              ]
             },
+            {
+              "nome": "Voie Buttamigiu + Militärgrätli + La Fiamma, Spazzacaldeira ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2487,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1817903"
+              ]
+            },
+            {
+              "nome": "Nuova Via per Claudia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1131978"
+              ]
+            },
+            {
+              "nome": "Guarda Ben",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1131974"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 46.33513596136549,
+          "longitudine": 9.637047399439197,
+          "itinerari": [
             {
               "nome": "Nasi Goreng",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": 7,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-nasi-goreng/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-nasi-goreng/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 46.338005477447226,
+          "longitudine": 9.641113869370104,
+          "itinerari": [
             {
               "nome": "Sun Power",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-sun-power/"
-            },
+              "discesa": "con due calate nel canale oppure proseguire su “Scpazzalunga”.",
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-sun-power/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 46.35811039940653,
+          "longitudine": 9.644507915364517,
+          "itinerari": [
             {
               "nome": "Fiamma sud + Fiamma",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 190,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-via-fiamma-sudfiamma/"
-            },
+              "discesa": "dalla cima della Fiamma calata 15 metri poi a ritroso fino al colle con ometto di qui sentiero evidente",
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-via-fiamma-sudfiamma/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 46.34088397,
+          "longitudine": 9.642906188,
+          "itinerari": [
             {
               "nome": "Coco Driller",
               "gradoObbligatorio": "6c+",
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 280,
+              "sviluppo": 280.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-coco-driller/"
-            },
+              "discesa": "in doppia sulla via saltando la S5, oppure proseguire fino in cima.",
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-coco-driller/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 46.34097285,
+          "longitudine": 9.642080068,
+          "itinerari": [
             {
               "nome": "Peperina + Benno",
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-peperina-benno/"
-            },
+              "discesa": "con due doppie, la prima dall'alberone e l'altra da S2. Benno: 1) Bellissima placca a funghi. 30 m, 6a, 4 spit. 2) Dritti pochi metri per diedro giallo, poi affrontare il tettone traversando su una rampa sospesa fino ad uscirne e proseguire dritti alla sosta. 30 m, 6a+, 4 spit. 3) Dritti per la bellissima fessura che purtroppo si trasforma in un camino fino ad una zona più appoggiata, scavalcare a sinistra e percorrere una rampa erbosa fino alla base di un camino. 30 m, 6a, nessun materiale in posto. 4) Dopo un paio di metri abbandonare il camino a sinistra e continuare obbligando a sinistra in una rientrano. Superare un pierino strapiombante da ci sì esce per un muretto a sinistra. Proseguire in placca piu facile ma esposta tornando a destra fino in sosta. 35 m, 4 spit , 1 chiodo, 6b con boulderino all' inizio.",
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-peperina-benno/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 46.33715315225141,
+          "longitudine": 9.639607759790332,
+          "itinerari": [
             {
               "nome": "Steinfresser",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 230,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-steinfresser/"
-            },
+              "discesa": "In doppia lungo la via. In alternativa, risalire la Cresta Nord (sud) fino alla cima di Via Da Capo e in doppia lungo la via. In alternativa, si può scendere lungo la cresta nord sul versante ovest. Questo ripido ghiaione, privo di elementi caratteristici, è ben vegetato e impiega 30 minuti per tornare al punto di partenza. Discesa con tre calate in doppia dritte da 55 metri.",
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-steinfresser/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 46.33878479641775,
+          "longitudine": 9.640282740392982,
+          "itinerari": [
             {
               "nome": "Spazzalunga Alta",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-pizzo-spazzalunga-alta/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-pizzo-spazzalunga-alta/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 46.338399234201724,
+          "longitudine": 9.641225693814327,
+          "itinerari": [
             {
               "nome": "Buttamigiù",
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-pizzo-buttamigiu/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-pizzo-buttamigiu/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Spazzacaldera (Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 46.39359963241048,
+          "longitudine": 9.671974848942817,
+          "itinerari": [
             {
               "nome": "Via Seifert",
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 130,
+              "sviluppo": 130.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spazzacaldera-pizzo-via-seifert/"
+              "link": [
+                "https://www.gulliver.it/itinerari/spazzacaldera-pizzo-via-seifert/"
+              ]
             }
           ]
         },
@@ -664,12 +1033,14 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": 6,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-della-neve-pizzo-di-niedermann/"
+              "link": [
+                "https://www.gulliver.it/itinerari/val-della-neve-pizzo-di-niedermann/"
+              ]
             }
           ]
         },
@@ -686,12 +1057,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vecchia-dente-della-via-fiorelli/"
+              "discesa": "con 2 calate sulla esposta parete SUD, sfruttando la seconda sosta della via Champignon. 1^ calata 30m. 2^ calata 55m. La via Champignon sale poco a sx della Fiorelli.",
+              "link": [
+                "https://www.gulliver.it/itinerari/vecchia-dente-della-via-fiorelli/"
+              ]
             }
           ]
         }
@@ -711,17 +1084,19 @@
           "longitudine": 8.853883,
           "itinerari": [
             {
-              "nome": "Cavardiras (Piz) Cresta Sud",
+              "nome": null,
               "gradoObbligatorio": null,
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cavardiras-piz-cresta-sud/"
+              "discesa": "esistono varie possibilità. La più comoda probabilmente è quella da noi seguita. Dalla croce di vetta si segue la cresta NW che porta in circa 100 metri alla sommità del picco adiacente (Brichlig, 2964 m, grosso ometto in vetta). La cresta è facile ma esposta e richiede attenzione. Raggiunta la cima del Brichlig, si scende per circa 50 m la sua cresta W (non difficile) e si guadagna la prima forcella. Con due doppie lunghe (ancoraggi in posto) ci si cala sul lato sud della cresta fino ad una grande cengia con blocchi (neve ad inizio stagione), che si attraversa verso W (destra) fino al punto in cui un breve pendio erboso (20 m) permette di risalire in cresta (ometto). Sul lato opposto della cresta (nord) per blocchi di roccia con ometti si raggiunge in breve il passo (Brunnipass, 2740 m), dove si riprende il sentiero per il Rifugio Cavardiras, seguito per andare all'attacco (ore 1.30 dalla vetta a qui). Si segue ora il sentiero il senso inverso (catene all'inizio) ritornando a Plaun Tir e da qui al parcheggio (ore 2.30 totali).",
+              "link": [
+                "https://www.gulliver.it/itinerari/cavardiras-piz-cresta-sud/"
+              ]
             }
           ]
         }
@@ -746,12 +1121,14 @@
               "gradoMassimo": "6c+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/klein-venedig-gruobenbutz/"
+              "discesa": "possibile in doppia lungo la via (tutte le soste hanno catena e anello di calata), consigliabile a piedi per il sentiero che si insinua tra il Klein Venedig e la parete a placche chiare del Gruobenflueli, ben visibile in salita. Richiede circa 1-1.15 ore fino al laghetto di Partnun, 1.30 ore fino al parcheggio.",
+              "link": [
+                "https://www.gulliver.it/itinerari/klein-venedig-gruobenbutz/"
+              ]
             }
           ]
         },
@@ -768,12 +1145,14 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": 18,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ratikon-aurora-kathedrale/"
+              "discesa": "comoda a piedi, rientrando al lago di Partnun.",
+              "link": [
+                "https://www.gulliver.it/itinerari/ratikon-aurora-kathedrale/"
+              ]
             }
           ]
         }
@@ -798,12 +1177,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 8,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/balzetto-pizzo-cresta-sud-sud-ovest/"
+              "discesa": "dalla cima seguire brevemente la cresta, scendendo per rocce un po' ripide a destra (sud) fino ad una catena di calata. Da quì con una doppia di una cinquantina di metri si scende alla forcella tra Pizzo Balzetto e Torre Est (in realtà si arriva poco più in basso, e si risale a sinistra di qualche metro fino alla forcella. Non seguire altri ancoraggi di calata (cordini su spuntoni) che scendono direttamente nel canale a destra). Traversare orizzontalmente sul versante nord (cioè a sinistra rispetto al senso di marcia) seguendo gli ometti, raggiungendo una sosta di calata (spit e cordini, oppure catena su spit qualche metro più sotto), da cui con una doppia da 30 metri si scende alla forcella sottostante (fare la calata stando verso sinistra). Dalla forcella scendere verso sud (destra) per tracce di sentiero fino ad un ulteriore ancoraggio, da cui effettuare una doppia di una dozzina di metri. Per tracce di sentiero ed ometti si ritorna a prendere il percorso fatto per salire, indi al rifugio e alla funivia. (1h30)",
+              "link": [
+                "https://www.gulliver.it/itinerari/balzetto-pizzo-cresta-sud-sud-ovest/"
+              ]
             }
           ]
         }
@@ -828,25 +1209,38 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sulzfluh-via-neumann-stanek/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/sulzfluh-via-neumann-stanek/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sulzfluh",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 47.00830297,
+          "longitudine": 9.837203989,
+          "itinerari": [
             {
               "nome": "Belina-Route",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sulzfluh-belina-route/"
+              "discesa": "puntare a destra alla cima principale (grande croce) e reperire il sentiero bollato bianco-rosso che scende sul fianco nord della montagna e quindi piega a destra nel Gamstobel, raggiungendo in circa 45 minuti la base della parete in prossimità dell'attacco della Via Ferrata (1 corda fissa in fondo). Da qui a destra si riprende il sentiero seguito nell'avvicinamento, per il quale in ulteriore mezz'ora si torna a Partnun.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sulzfluh-belina-route/"
+              ]
             }
           ]
         }
@@ -871,12 +1265,14 @@
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 550,
+              "sviluppo": 550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/grosser-drusenturm-seth-abderhalden-gedachtnisfuhre/"
+              "discesa": "dalla vetta per tracce (ometti) alla forcella tra Grosser e Mittlerer Drusenturm, poi a destra verso la Kleiner Drusenturm. Ci si infila quindi nel vallone tra Kleiner e Mittlerer Drusenturm (corde fisse, ometti, bolli rossi più in basso) in direzione della Lindauer Hutte sul versante Austriaco. Superato l'ultimo salto ripido, dove il sentiero attraversa una pietraia grossolana, staccarsi a destra (cercare bene gli ometti) e attraversare in direzione est verso la Drusator (tracce, ometti) che si raggiunge con breve risalita sul sentiero che proviene dalla Lindauer. Una volta al passo, si riprende il sentiero seguito all'andata. Ore 1.15 dalla vetta alla Drusator, ore 2.30 fino a Partnun.",
+              "link": [
+                "https://www.gulliver.it/itinerari/grosser-drusenturm-seth-abderhalden-gedachtnisfuhre/"
+              ]
             }
           ]
         },
@@ -893,12 +1289,14 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/quinta-kirchlispitze-haldejohli/"
+              "discesa": "(soluzione da noi scelta): dalla sosta 11 calata di 60 metri (oppure 2 di 30 m) fino alla cengetta della sosta 9, seguendo la quale a destra si esce dalla parete sul versante nord. Per un breve canale si raggiungono gli sfasciumi basali, si attraversa a sinistra e per un ghiaione si scende ai prati sotto le torri, lato Austria. Verso destra in pochi minuti alla Schweizertor.",
+              "link": [
+                "https://www.gulliver.it/itinerari/quinta-kirchlispitze-haldejohli/"
+              ]
             }
           ]
         }
@@ -918,17 +1316,19 @@
           "longitudine": 9.859542846,
           "itinerari": [
             {
-              "nome": "Grosser Drusenturm Schweizerpfeiler",
+              "nome": null,
               "gradoObbligatorio": null,
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/grosser-drusenturm-schweizerpfeiler/"
+              "discesa": "si attraversa a sinistra a prendere il sentiero della via normale, che si insinua nel vallone tra la Grosser e la Kleiner Drusenturm (ometti, qualche corda fissa, bolli rossi in basso). Superato l'ultimo salto roccioso, prima di raggiungere la Lindauer Hutte sul versante Austriaco si attraversa a destra tenedosi alti sulle ghiaie sotto la Kleiner Drusenturm (tracce e rari ometti), raggiungendo la Drusator, stretto valico tra la Kleiner Drusenturm e la Sulzfluh. Da qui per sentiero alla Carschina Hutte. Ore 1.45-2 dalla vetta.",
+              "link": [
+                "https://www.gulliver.it/itinerari/grosser-drusenturm-schweizerpfeiler/"
+              ]
             }
           ]
         },
@@ -940,17 +1340,19 @@
           "longitudine": 9.857304233,
           "itinerari": [
             {
-              "nome": "Klein Venedig Honigvogel + Rialto",
+              "nome": null,
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/klein-venedig-honigvogel-rialto/"
+              "discesa": "in doppia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/klein-venedig-honigvogel-rialto/"
+              ]
             }
           ]
         }
@@ -975,12 +1377,14 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/innominata-di-cacciabella-torre-via-di-mezzo/"
+              "discesa": "In doppia lungo la via.",
+              "link": [
+                "https://www.gulliver.it/itinerari/innominata-di-cacciabella-torre-via-di-mezzo/"
+              ]
             }
           ]
         },
@@ -997,12 +1401,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 14,
-              "sviluppo": 380,
+              "sviluppo": 380.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pizzo-torrone-orientale-osio-canali/"
+              "discesa": "con 3 doppie sul filo, ritornare alla spalla. Abbassarsi sul fianco SE (sx scendendo), e traversare a sx (faccia a valle) fino ad un blocco con cordone e maillon (trascurare altri ancoraggi malsicuri). Calarsi 50 m fino ad una sosta con 2 ch. Calarsi 35 m fino ad una cengia con ometti. Seguire la cengia a dx (faccia a valle) fino ad un ancoraggio con 2 ch. Calarsi per 25 m ed attrezzare una sosta. Traversare circa 50 m verso dx (faccia a valle) su placche lavorate, dapprima in discesa, poi risalendo ad un marcato spuntone con cordoni. Scendere nel canale (o calarsi 50 m) fino ad un ometto. Traversare a dx (faccia a valle) su cengia fino ad una lama con cordini. Calarsi 50 m fino ad un ancoraggio su cordoni. Calarsi 30 m fino alla S2 (2 ch.) della via di salita. Ultima calata di 50 m (appena sufficiente). (3h00) Discesa originale (desueta, solo per informazione): dalla cima percorrere un tratto verso N fino ad una spaccatura dalla quale si scende direttamente per la parete SO, dapprima in arrampicata, poi con 2 calate da 40 m. Si arriva così ad una serie di cenge e roccette friabili che scendono verso dx raggiungendo il nevaio sottostante. Si prosegue in discesa lungo il nevaio fino allo sperone roccioso a dx (faccia a valle) della parete SO del Torrone Or. Si scende lungo le facili roccette dello sperone fino ad una cengia che va seguita verso dx, fino ad un punto di calata per una doppia da 40 m che permette di scendere sul ghiacciaio basale.",
+              "link": [
+                "https://www.gulliver.it/itinerari/pizzo-torrone-orientale-osio-canali/"
+              ]
             }
           ]
         }
@@ -1027,12 +1433,14 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": 10,
-              "sviluppo": 325,
+              "sviluppo": 325.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/torelli-punta-selen/"
+              "discesa": "in doppia lungo la via. In alternativa si può proseguire con due facili lunghezze per lo spigolo Mauri-Fiorelli sino in punta e di qui scendere a piedi per la normale: scendere su grossi blocchi e gradoni, giunti ad un netto intaglio, scendere per circa 20 metri nel canalino a sinistra, è possibile effettuare una breve calata in corda doppia già attrezzata con un cordino ripassato in una clessidra formata da due grossi massi, proseguire in diagonale a destra (faccia a valle), seguire qualche ometto di pietre sporadico che porta ad una serie di cenge erbose e successivamente alle placche basali della costiera rocciosa. Continuare la discesa su pietraie (ometti), lasciare sulla sinistra il “Dente della Vecchia” e raggiungere in breve il rifugio Gianetti (1h).",
+              "link": [
+                "https://www.gulliver.it/itinerari/torelli-punta-selen/"
+              ]
             }
           ]
         }
@@ -1052,17 +1460,770 @@
           "longitudine": 9.065090486,
           "itinerari": [
             {
-              "nome": "Zerfreilahorn NE Grat",
+              "nome": null,
               "gradoObbligatorio": "5b",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 345,
+              "sviluppo": 345.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "dalla cima lungo una delle numerose vie.",
+              "link": [
+                "https://www.gulliver.it/itinerari/zerfreilahorn-ne-grat/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Piz Cavardiras",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.736772,
+          "longitudine": 8.815233,
+          "itinerari": [
+            {
+              "nome": "Via Cristallas",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/zerfreilahorn-ne-grat/"
+              "link": [
+                "https://www.camptocamp.org/routes/1932041"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Föhnmauer",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 47.044977,
+          "longitudine": 9.484566,
+          "itinerari": [
+            {
+              "nome": "S'Entli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1902753"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Zervreilahorn",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.552565,
+          "longitudine": 9.068534,
+          "itinerari": [
+            {
+              "nome": "Medea",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1686732"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gross Seehorn",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.887971,
+          "longitudine": 10.032191,
+          "itinerari": [
+            {
+              "nome": "Nordwestgrat",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3121,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1574993"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Balzet",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.338058,
+          "longitudine": 9.654957,
+          "itinerari": [
+            {
+              "nome": "Spidi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1564864"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz dal Päl",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.333697,
+          "longitudine": 9.655012,
+          "itinerari": [
+            {
+              "nome": "Mild West",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1564733"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kirchlispitzen",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 47.034917,
+          "longitudine": 9.780952,
+          "itinerari": [
+            {
+              "nome": "El Viaje",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1561845"
+              ]
+            },
+            {
+              "nome": "Kamala",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1559773"
+              ]
+            },
+            {
+              "nome": "Galadriel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/806193"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valetta di Güglia",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.480503,
+          "longitudine": 9.744697,
+          "itinerari": [
+            {
+              "nome": "Elephanten Rücken",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1339610"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Zervreilahorn",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.55063,
+          "longitudine": 9.06138,
+          "itinerari": [
+            {
+              "nome": "Braveheart",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2840,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1248433"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Drusenfluh",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 47.027399,
+          "longitudine": 9.791436,
+          "itinerari": [
+            {
+              "nome": "Schwarzer Diamant",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1238157"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cabane d'Albigna",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.331479,
+          "longitudine": 9.652541,
+          "itinerari": [
+            {
+              "nome": "Seeplate: Wassersinfonie",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2300,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1236920"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schijenzan",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 47.005822,
+          "longitudine": 9.87039,
+          "itinerari": [
+            {
+              "nome": "Éperon S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2370,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1229642"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kirchlispitzen",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 47.038818,
+          "longitudine": 9.768804,
+          "itinerari": [
+            {
+              "nome": "Unendliche Geschichte / The Neverending Story",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "8b+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1204111"
+              ]
+            },
+            {
+              "nome": "Silbergeier",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/668010"
+              ]
+            },
+            {
+              "nome": "Hannibal alpstraum",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/668009"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gruobenflüeli",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 47.020904,
+          "longitudine": 9.863238,
+          "itinerari": [
+            {
+              "nome": "Hühnerhaut",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/911805"
+              ]
+            },
+            {
+              "nome": "Nebelmeer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/911802"
+              ]
+            },
+            {
+              "nome": "Vergissmeinnicht",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/911790"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sulzfluh",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.993129,
+          "longitudine": 9.834079,
+          "itinerari": [
+            {
+              "nome": "Rialto",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2500,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/911247"
+              ]
+            },
+            {
+              "nome": "Abraxas",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2817,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/647559"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Seehorn",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.81231,
+          "longitudine": 9.855095,
+          "itinerari": [
+            {
+              "nome": "Lumia (voie n°17)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2165,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/790809",
+                "https://www.camptocamp.org/routes/786756",
+                "https://www.camptocamp.org/routes/786754",
+                "https://www.camptocamp.org/routes/786751",
+                "https://www.camptocamp.org/routes/786741"
+              ]
+            },
+            {
+              "nome": "Open Air (voie n°9)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2165,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/790808",
+                "https://www.camptocamp.org/routes/786744"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Saas di Cherp",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.241207,
+          "longitudine": 9.097044,
+          "itinerari": [
+            {
+              "nome": "Annatina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 920,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/771934"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzo Frachiccio",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.337888,
+          "longitudine": 9.644006,
+          "itinerari": [
+            {
+              "nome": "Via Roland",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2905,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/288938"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzo Spazzacaldera ",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "latitudine": 46.342255,
+          "longitudine": 9.646033,
+          "itinerari": [
+            {
+              "nome": " Lasciami lì",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/285586"
+              ]
+            },
+            {
+              "nome": "Variante Nigg al Dente",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2478,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/284216"
+              ]
+            },
+            {
+              "nome": "Via Steinfresser",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/181396"
+              ]
+            },
+            {
+              "nome": "Fiamma",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2487,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/175988"
+              ]
+            },
+            {
+              "nome": "Dente per dente",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2487,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/175970"
+              ]
+            },
+            {
+              "nome": "Nasi Goreng",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/175114"
+              ]
+            },
+            {
+              "nome": "Via  Mosaico",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2487,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/137856"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Mitgel",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.597244,
+          "longitudine": 9.618523,
+          "itinerari": [
+            {
+              "nome": "Senda Ferrada",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3159,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/230049"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sciora di Fuori / Sciora Dafora",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.313573,
+          "longitudine": 9.605738,
+          "itinerari": [
+            {
+              "nome": "Spigolo NW - diretta integrale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3169,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/183075"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzo Spazzacaldera ",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.34835,
+          "longitudine": 9.641432,
+          "itinerari": [
+            {
+              "nome": "Leni",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2487,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/176010"
+              ]
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Viggianello",
@@ -22,12 +22,14 @@
               "gradoMassimo": "F",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 750,
+              "sviluppo": 750.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2248,
+              "quotaMassima": 2248.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pollino-monte-cresta-nord/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pollino-monte-cresta-nord/"
+              ]
             }
           ]
         }

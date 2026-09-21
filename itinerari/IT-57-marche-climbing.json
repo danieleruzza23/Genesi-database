@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Arquata del Tronto",
@@ -22,12 +22,14 @@
               "gradoMassimo": "6c+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 420,
+              "sviluppo": 420.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vettore-monte-piramide-cheope-dyrecta-direttissima-alla-piramide/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vettore-monte-piramide-cheope-dyrecta-direttissima-alla-piramide/"
+              ]
             }
           ]
         }
@@ -52,38 +54,62 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": 8,
-              "sviluppo": 220,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-game-over/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-game-over/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Montiego (Monte), Balza della Penna",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 43.59700521,
+          "longitudine": 12.54477739,
+          "itinerari": [
             {
               "nome": "Grande Traverso",
               "gradoObbligatorio": "5a",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-via-del-grande-traverso/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-via-del-grande-traverso/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Montiego (Monte), Balza della Penna",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 43.59758018,
+          "longitudine": 12.54565715,
+          "itinerari": [
             {
               "nome": "Uscita di Sicurezza",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 240,
+              "sviluppo": 240.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-uscita-di-sicurezza/"
+              "link": [
+                "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-uscita-di-sicurezza/"
+              ]
             }
           ]
         }
@@ -108,12 +134,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": 7,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/revellone-monte-cresta-dellanfiteatro/"
+              "link": [
+                "https://www.gulliver.it/itinerari/revellone-monte-cresta-dellanfiteatro/"
+              ]
             }
           ]
         },
@@ -130,12 +158,14 @@
               "gradoMassimo": "8a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/revellone-monte-falcioni-megalodonte/"
+              "link": [
+                "https://www.gulliver.it/itinerari/revellone-monte-falcioni-megalodonte/"
+              ]
             }
           ]
         }
@@ -160,12 +190,14 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 220,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-fantaghiro/"
+              "discesa": "Seguire la cresta verso sinistra fino a raggiungere l’evidente sentiero (bolli e ometti) che riscende fino alla base delle pareti ricollegandosi al sentiero fatto in salita. 1h",
+              "link": [
+                "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-fantaghiro/"
+              ]
             }
           ]
         }
@@ -190,12 +222,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/igno-monte-fessura-dei-vesuviani/"
+              "discesa": "seguire con attenzione una traccia segnata con bolli rossi, che prima sale, poi scavalca una dorsale verso destra e va a congiungersi con uno stradello che scende verso il paese (si torna al bivio che si era superato durante l’avvicinamento).",
+              "link": [
+                "https://www.gulliver.it/itinerari/igno-monte-fessura-dei-vesuviani/"
+              ]
             }
           ]
         }
@@ -220,12 +254,14 @@
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 230,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/frasassi-monte-gola-di-frasassi-radio-alice/"
+              "link": [
+                "https://www.gulliver.it/itinerari/frasassi-monte-gola-di-frasassi-radio-alice/"
+              ]
             }
           ]
         },
@@ -246,8 +282,10 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/revellone-monte-fata-morgana/"
+              "discesa": "abbastanza comoda per tracce che scendono a sinistra e riportano alla base dello spigolo, non lontano dall’attacco (20 minuti)",
+              "link": [
+                "https://www.gulliver.it/itinerari/revellone-monte-fata-morgana/"
+              ]
             }
           ]
         }
@@ -272,12 +310,14 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-segui-londa/"
+              "link": [
+                "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-segui-londa/"
+              ]
             }
           ]
         }
@@ -302,12 +342,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 6,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/anna-punta-alla-balza-forata-lanno-delle-cicogne/"
+              "discesa": "per tracce di sentiero che scendono sul lato opposto (ometti) e riportano sulla traccia di avvicinamento nei pressi del piccolo ghiaione.",
+              "link": [
+                "https://www.gulliver.it/itinerari/anna-punta-alla-balza-forata-lanno-delle-cicogne/"
+              ]
             }
           ]
         },
@@ -324,12 +366,14 @@
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/appennino-marchigiano-le-rocche-il-pifferaio-magico/"
+              "link": [
+                "https://www.gulliver.it/itinerari/appennino-marchigiano-le-rocche-il-pifferaio-magico/"
+              ]
             }
           ]
         },
@@ -346,12 +390,14 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/le-rocche-appennino-marchigiano-i-giorni-delle-cicale/"
+              "discesa": "3 doppie infilate da circa 25m lungo la via, oppure in doppia sul versante ovest.",
+              "link": [
+                "https://www.gulliver.it/itinerari/le-rocche-appennino-marchigiano-i-giorni-delle-cicale/"
+              ]
             }
           ]
         },
@@ -368,12 +414,14 @@
               "gradoMassimo": "7c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/appennino-marchigiano-le-rocche-elfo-che-ride/"
+              "discesa": "3 doppie infilate da circa 20m lungo il diedrone poi seguire la corda fissa che porta verso il grande anfiteatro sulla destra (viso a monte) per poi scendere per tracce nel bosco fino alla base in 10 minuti. (passare qualche rinvio durante la prima calata per non finire troppo lontani dalla parete).",
+              "link": [
+                "https://www.gulliver.it/itinerari/appennino-marchigiano-le-rocche-elfo-che-ride/"
+              ]
             }
           ]
         },
@@ -390,12 +438,14 @@
               "gradoMassimo": "7c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/penna-balza-della-passaggio-a-nord-est/"
+              "discesa": "4 doppie infilate sulla via a sinistra (viso a monte) La Sfinge.",
+              "link": [
+                "https://www.gulliver.it/itinerari/penna-balza-della-passaggio-a-nord-est/"
+              ]
             }
           ]
         }
@@ -420,12 +470,14 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ravellone-monte-via-cotichelli-guglielmi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ravellone-monte-via-cotichelli-guglielmi/"
+              ]
             }
           ]
         }
@@ -450,12 +502,14 @@
               "gradoMassimo": "6c+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rossa-gola-della-paretone-oggioni-opec-80/"
+              "discesa": "se si esce in cima, salire in breve raggiungendo una traccia indicata con bolli rossi e seguirla a lungo verso sinistra (faccia a monte) in direzione Ovest, con molti saliscendi. Infine scendere ancora seguendo i bolli rossi, e con passi in arrampicata (attenzione) raggiungere un terrazzino (uscita delle Placche Alte) attrezzato con catena. Da qui calarsi (una calata lunga o 2 corte) fino a una zona di terrazze esposte, da qui con molta attenzione scendere alla meglio con passi di arrampicata (II) prima dritti e poi verso destra (faccia a valle), ritrovando alcuni bolli rossi sbiaditi, seguendo tracce fino a raggiungere la strada asfaltata. Contare almeno 1h30. In alternativa può essere consigliabile la calata in doppia, possibile anche dalla fine di L6 a patto di rifare a ritroso il trasferimento di L5 (verificato anche con singola da 70 m, a patto di non saltare nessuna delle soste di salita).",
+              "link": [
+                "https://www.gulliver.it/itinerari/rossa-gola-della-paretone-oggioni-opec-80/"
+              ]
             }
           ]
         },
@@ -472,12 +526,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": 3,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vento-spallone-del-via-sabatini/"
+              "discesa": "in doppia sulla via oppure proseguire sullo spigolo fino ad un un intaglio evidente (50/60 metri). Poi discesa comoda a piedi sulla sinistra",
+              "link": [
+                "https://www.gulliver.it/itinerari/vento-spallone-del-via-sabatini/"
+              ]
             }
           ]
         }
@@ -502,12 +558,46 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 215,
+              "sviluppo": 215.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "risalendo la cresta verso sinistra per poi seguire le tracce di sentiero ed ometti di pietra che ricongiungono ad un sentiero CAI segnato con bolli rossi. A causa della folta vegetazione, consiglio di usare GPS o una App su smartphone per trovare il sentiero di discesa rapidamente.",
+              "link": [
+                "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-via-castellani-vampa/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Monte Igno",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 43.092966,
+          "longitudine": 12.989212,
+          "itinerari": [
+            {
+              "nome": "Fessura dei Vesuviani",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-via-castellani-vampa/"
+              "link": [
+                "https://www.camptocamp.org/routes/890741"
+              ]
             }
           ]
         }

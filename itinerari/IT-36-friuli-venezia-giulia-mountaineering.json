@@ -1,8 +1,88 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
+    {
+      "nome": "Chiusaforte",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Canin (Monte) Cresta Carnizza – Ferrata Julia",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.4088366,
+          "longitudine": 13.3083787,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2587.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/canin-monte-cresta-carnizza-ferrata-julia/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Jof di Montasio Canale Findenegg – Scala Pipan",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.4088366,
+          "longitudine": 13.3083787,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2753.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/montasio-jof-di-canale-findenegg-scala-pipan/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Terrarossa (Cima di) da Montasio",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.40922665211771,
+          "longitudine": 13.437732131152362,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 975.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2420.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/terrarossa-cima-di-da-montasio/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "nome": "Cimolais",
       "paese": "IT",
@@ -22,12 +102,38 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1350,
+              "sviluppo": 1350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2548,
+              "quotaMassima": 2548.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/monfalcon-di-montanaia-via-normale-dal-rifugio-pordenone/"
+              "link": [
+                "https://www.gulliver.it/itinerari/monfalcon-di-montanaia-via-normale-dal-rifugio-pordenone/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pia (Punta) dal Rifugio Pordenone",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.37848120329985,
+          "longitudine": 12.489832626983643,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2347.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/pia-punta-dal-rifugio-pordenone/"
+              ]
             }
           ]
         }
@@ -52,12 +158,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1320,
+              "sviluppo": 1320.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2520,
+              "quotaMassima": 2520.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/forcella-montanaia-cima-di-via-normale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/forcella-montanaia-cima-di-via-normale/"
+              ]
             }
           ]
         }
@@ -82,12 +190,38 @@
               "gradoMassimo": "D+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1480,
+              "sviluppo": 1480.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2480,
+              "quotaMassima": 2480.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/jof-fuart-samhain/"
+              "link": [
+                "https://www.gulliver.it/itinerari/jof-fuart-samhain/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Jôf Fuart Gola Nord-Est",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.46772307,
+          "longitudine": 13.49217578,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2666.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/jof-fuart-gola-nord-est/"
+              ]
             }
           ]
         }
@@ -112,12 +246,342 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1285,
+              "sviluppo": 1285.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2586,
+              "quotaMassima": 2586.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/terza-grande-dalla-val-pesarina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/terza-grande-dalla-val-pesarina/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Sappada",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Peralba (Monte) o Hochweisstein Traversata dalla Val Sesis",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.62380015,
+          "longitudine": 12.71006583,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 860.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2694.0,
+              "discesa": "per la Via Normale Austriaca. Dalla cima si seguono le segnalazioni che percorrono con qualche salto roccioso la cresta N. Si raggiungono quindi le postazioni di guerra Austriache (lapidi) e poco oltre un camino attrezzato ci porta su una cengia che perde gradualmente quota. Alcuni passaggi di I conducono al passo Sesis. Da qui in breve si è al rifugio Calvi e poi per comoda strada si ritorna al parcheggio.",
+              "link": [
+                "https://www.gulliver.it/itinerari/peralba-monte-o-hochweisstein-traversata-dalla-val-sesis/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Monte Tiarfin",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.465957,
+          "longitudine": 12.591709,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2411,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1934282"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Montaž",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.439885,
+          "longitudine": 13.439267,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2753,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1699502"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sedelce (Remšendolska škrbina)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.443366,
+          "longitudine": 13.630958,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1177,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2031,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1671802"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Punta Pia",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.38137,
+          "longitudine": 12.4899,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2347,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1470415"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monfalcon di Forni",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.414382,
+          "longitudine": 12.498063,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2453,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1358461"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Mali Koritniški Mangart",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.443072,
+          "longitudine": 13.676356,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2370,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1264247"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Picco di Mezzodi / Poldnik (Kopa)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.456648,
+          "longitudine": 13.618514,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2063,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1021066"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campanile di Val Montanaia",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.388278,
+          "longitudine": 12.48518,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2173,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/919752"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Torre delle Madri dei Camosci / Gamsmutterturm",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.432483,
+          "longitudine": 13.499221,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1703,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2503,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/807931"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Jôf di Montasio",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.437352,
+          "longitudine": 13.420299,
+          "itinerari": [
+            {
+              "nome": "Via Dogna - sortie Findenegg",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1753,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2753,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/689722"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima del Vallone",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.429329,
+          "longitudine": 13.510344,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1540,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2368,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/689311"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monfalcon di Montanaia",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.388362,
+          "longitudine": 12.488328,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2548,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/463156"
+              ]
             }
           ]
         }

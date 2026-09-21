@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Amatrice",
@@ -22,12 +22,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 25,
+              "sviluppo": 25.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gorzano-monte-trecene-bassa/"
+              "link": [
+                "https://www.gulliver.it/itinerari/gorzano-monte-trecene-bassa/"
+              ]
             }
           ]
         }
@@ -52,12 +54,46 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
+              "discesa": "dalla vetta, ci si abbassa a sud-est per cresta fino alla sua fine per poi obbliquare a ds per bosco e puntare il pianoro delle caparnie. Da lì.. ripercorre la valle di Fua.",
+              "link": [
+                "https://www.gulliver.it/itinerari/murolungo-montagne-della-duchessa-crazy-love/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Monte Terminillo",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 42.47281,
+          "longitudine": 13.004265,
+          "itinerari": [
+            {
+              "nome": "Canale Chiaretti-Pietrostefani",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2216,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/murolungo-montagne-della-duchessa-crazy-love/"
+              "link": [
+                "https://www.camptocamp.org/routes/540110"
+              ]
             }
           ]
         }

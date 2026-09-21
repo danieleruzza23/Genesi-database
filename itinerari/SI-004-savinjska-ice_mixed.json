@@ -1,10 +1,10 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Savinjska",
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
       "paese": "SI",
       "latitudine": null,
       "longitudine": null,
@@ -12,7 +12,7 @@
         {
           "nome": "Lučka Baba",
           "disciplina": "ice_mixed",
-          "esposizione": "n",
+          "esposizione": "N",
           "latitudine": 46.362664,
           "longitudine": 14.620645,
           "itinerari": [
@@ -27,14 +27,16 @@
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1267272"
+              "link": [
+                "https://www.camptocamp.org/routes/1267272"
+              ]
             }
           ]
         },
         {
-          "nome": "Planjava",
+          "nome": "Planjava ",
           "disciplina": "ice_mixed",
-          "esposizione": "n",
+          "esposizione": "N",
           "latitudine": 46.363493,
           "longitudine": 14.608694,
           "itinerari": [
@@ -49,14 +51,16 @@
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1267267"
+              "link": [
+                "https://www.camptocamp.org/routes/1267267"
+              ]
             }
           ]
         },
         {
           "nome": "Štajerska Rinka",
           "disciplina": "ice_mixed",
-          "esposizione": "n",
+          "esposizione": "N",
           "latitudine": 46.369691,
           "longitudine": 14.57106,
           "itinerari": [
@@ -71,8 +75,19 @@
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1267185"
-            },
+              "link": [
+                "https://www.camptocamp.org/routes/1267185"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Štajerska Rinka",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.37034,
+          "longitudine": 14.570336,
+          "itinerari": [
             {
               "nome": "Ledenka",
               "gradoObbligatorio": "V",
@@ -84,7 +99,9 @@
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1267131"
+              "link": [
+                "https://www.camptocamp.org/routes/1267131"
+              ]
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Agordo",
@@ -22,12 +22,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1375,
+              "sviluppo": 1375.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2294,
+              "quotaMassima": 2294.0,
               "discesa": "Bosco fitto",
-              "link": "https://www.gulliver.it/itinerari/framont-lastia-di-da-fienili-durando/"
+              "link": [
+                "https://www.gulliver.it/itinerari/framont-lastia-di-da-fienili-durando/"
+              ]
             }
           ]
         }
@@ -52,12 +54,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2650,
+              "quotaMassima": 2650.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/angeli-forcella-degli-cadini-di-misurina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/angeli-forcella-degli-cadini-di-misurina/"
+              ]
             }
           ]
         },
@@ -74,12 +78,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 770,
+              "sviluppo": 770.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2430,
+              "quotaMassima": 2430.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/angolo-corno-ddal-ponte-val-popena-alta-cortina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/angolo-corno-ddal-ponte-val-popena-alta-cortina/"
+              ]
             }
           ]
         },
@@ -96,12 +102,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 479,
+              "sviluppo": 479.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2320,
+              "quotaMassima": 2320.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/auronzo-rifugio-dal-versante-di-misurina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/auronzo-rifugio-dal-versante-di-misurina/"
+              ]
             }
           ]
         },
@@ -118,12 +126,62 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1134,
+              "sviluppo": 1134.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2234,
+              "quotaMassima": 2234.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/baion-forcella-q-2234-dalla-val-da-rin/"
+              "link": [
+                "https://www.gulliver.it/itinerari/baion-forcella-q-2234-dalla-val-da-rin/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cadin del Nevaio e Cadin Rinbianco da Misurina, giro",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.57859965969972,
+          "longitudine": 12.251917879931623,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2650.0,
+              "discesa": "Varie",
+              "link": [
+                "https://www.gulliver.it/itinerari/cadin-del-nevaio-e-cadin-rinbianco-da-misurina-giro/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diavolo (Forcella del) dal Lago di Misurina",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.58917016429705,
+          "longitudine": 12.270565481873215,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 740.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2490.0,
+              "discesa": "Incassato in stretto fondovalle",
+              "link": [
+                "https://www.gulliver.it/itinerari/diavolo-forcella-del-dal-lago-di-misurina/"
+              ]
             }
           ]
         },
@@ -140,12 +198,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 720,
+              "sviluppo": 720.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2471,
+              "quotaMassima": 2471.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/neve-forcella-de-la-dal-lago-di-misurina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/neve-forcella-de-la-dal-lago-di-misurina/"
+              ]
             }
           ]
         },
@@ -162,12 +222,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2656,
+              "quotaMassima": 2656.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/pogoffa-forcella-da-cadini-di-misurina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pogoffa-forcella-da-cadini-di-misurina/"
+              ]
             }
           ]
         },
@@ -184,12 +246,29 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
+              "sviluppo": 1250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2580.0,
+              "discesa": "Attraversa pendii ripidi",
+              "link": [
+                "https://www.gulliver.it/itinerari/san-pietro-forcella-per-la-val-pomadona/"
+              ]
+            },
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
               "sviluppo": 1250,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2580,
-              "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/san-pietro-forcella-per-la-val-pomadona/"
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1304054"
+              ]
             }
           ]
         },
@@ -206,12 +285,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 605,
+              "sviluppo": 605.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2359,
+              "quotaMassima": 2359.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tocci-passo-dei-dal-lago-di-misurina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tocci-passo-dei-dal-lago-di-misurina/"
+              ]
             }
           ]
         }
@@ -236,12 +317,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1611,
+              "quotaMassima": 1611.0,
               "discesa": "Ski area",
-              "link": "https://www.gulliver.it/itinerari/faverghera-col-salita-vallavia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/faverghera-col-salita-vallavia/"
+              ]
             }
           ]
         },
@@ -258,12 +341,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1611,
+              "quotaMassima": 1611.0,
               "discesa": "Ski area",
-              "link": "https://www.gulliver.it/itinerari/faverghera-col-da-nevegal/"
+              "link": [
+                "https://www.gulliver.it/itinerari/faverghera-col-da-nevegal/"
+              ]
             }
           ]
         }
@@ -288,12 +373,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2335,
+              "quotaMassima": 2335.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/duro-col-dal-rif-citta-di-fiume/"
+              "link": [
+                "https://www.gulliver.it/itinerari/duro-col-dal-rif-citta-di-fiume/"
+              ]
             }
           ]
         },
@@ -310,12 +397,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 961,
+              "sviluppo": 961.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2621,
+              "quotaMassima": 2621.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/forca-rossa-del-pelmo-dalla-val-fiorentina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/forca-rossa-del-pelmo-dalla-val-fiorentina/"
+              ]
             }
           ]
         },
@@ -332,12 +421,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2496,
+              "quotaMassima": 2496.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/rocchetta-de-prendera-dalla-val-fiorentina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rocchetta-de-prendera-dalla-val-fiorentina/"
+              ]
             }
           ]
         },
@@ -354,12 +445,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2260,
+              "quotaMassima": 2260.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/puina-col-de-la-dal-rifugio-fiume/"
+              "link": [
+                "https://www.gulliver.it/itinerari/puina-col-de-la-dal-rifugio-fiume/"
+              ]
             }
           ]
         },
@@ -376,12 +469,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 870,
+              "sviluppo": 870.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2476,
+              "quotaMassima": 2476.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/valdarcia-forcella-al-pelmo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/valdarcia-forcella-al-pelmo/"
+              ]
             }
           ]
         }
@@ -406,12 +501,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1700,
+              "sviluppo": 1700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2207,
+              "quotaMassima": 2207.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/venal-monte-crep-nudo-traversata-per-capel-grande/"
+              "link": [
+                "https://www.gulliver.it/itinerari/venal-monte-crep-nudo-traversata-per-capel-grande/"
+              ]
             }
           ]
         }
@@ -436,12 +533,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 850,
+              "sviluppo": 850.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2014,
+              "quotaMassima": 2014.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/antander-forcella-da-pian-formosa/"
+              "link": [
+                "https://www.gulliver.it/itinerari/antander-forcella-da-pian-formosa/"
+              ]
             }
           ]
         },
@@ -458,12 +557,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 850,
+              "sviluppo": 850.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1900,
+              "quotaMassima": 1900.0,
               "discesa": "Incassato in stretto fondovalle",
-              "link": "https://www.gulliver.it/itinerari/venal-forcella-da-casera-crosetta/"
+              "link": [
+                "https://www.gulliver.it/itinerari/venal-forcella-da-casera-crosetta/"
+              ]
             }
           ]
         }
@@ -488,12 +589,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2150,
+              "quotaMassima": 2150.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/bella-forcella-a-forcella-ciavazole-dal-passo-cibiana-giro/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bella-forcella-a-forcella-ciavazole-dal-passo-cibiana-giro/"
+              ]
             }
           ]
         }
@@ -518,12 +621,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1400,
+              "sviluppo": 1400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2547,
+              "quotaMassima": 2547.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/longerin-crode-dei-cima-sud-o-cim-della-ferrera-per-canalone-no/"
+              "link": [
+                "https://www.gulliver.it/itinerari/longerin-crode-dei-cima-sud-o-cim-della-ferrera-per-canalone-no/"
+              ]
             }
           ]
         },
@@ -540,12 +645,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1204,
+              "sviluppo": 1204.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2504,
+              "quotaMassima": 2504.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/quaterna-col-da-comelico-superiore/"
+              "link": [
+                "https://www.gulliver.it/itinerari/quaterna-col-da-comelico-superiore/"
+              ]
             }
           ]
         },
@@ -562,12 +669,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1440,
+              "sviluppo": 1440.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2717,
+              "quotaMassima": 2717.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/sentinella-passo-della-da-bagni-di-valgrande/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sentinella-passo-della-da-bagni-di-valgrande/"
+              ]
             }
           ]
         }
@@ -592,12 +701,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2510,
+              "quotaMassima": 2510.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/negra-croda-forcella-averau-dal-passo-falzarego/"
+              "link": [
+                "https://www.gulliver.it/itinerari/negra-croda-forcella-averau-dal-passo-falzarego/"
+              ]
             }
           ]
         },
@@ -614,12 +725,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1050,
+              "sviluppo": 1050.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2580,
+              "quotaMassima": 2580.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/pin-forcella-del-da-passo-cime-bianche/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pin-forcella-del-da-passo-cime-bianche/"
+              ]
             }
           ]
         },
@@ -636,12 +749,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1400,
+              "sviluppo": 1400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2839,
+              "quotaMassima": 2839.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/vallandro-picco-da-carbonin/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vallandro-picco-da-carbonin/"
+              ]
             }
           ]
         }
@@ -666,12 +781,29 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1407,
+              "sviluppo": 1407.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2932,
+              "quotaMassima": 2932.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/bianca-cresta-da-passo-cime-bianche/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bianca-cresta-da-passo-cime-bianche/"
+              ]
+            },
+            {
+              "nome": "Traversée Toblach-Cortina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1530,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1355906"
+              ]
             }
           ]
         },
@@ -688,12 +820,86 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2780,
+              "quotaMassima": 2780.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/cadin-della-neve-forcella-e-cadin-del-nevaio-cadini-di-misurina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cadin-della-neve-forcella-e-cadin-del-nevaio-cadini-di-misurina/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Colfiedo (Forcella) da Podestagno",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.60224865,
+          "longitudine": 12.10689911,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2750.0,
+              "discesa": "Couloir",
+              "link": [
+                "https://www.gulliver.it/itinerari/colfiedo-forcella-da-podestagno/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Formin (Monte) dal Passo Giau",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.4883471,
+          "longitudine": 12.06427574,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2656.0,
+              "discesa": "Varie",
+              "link": [
+                "https://www.gulliver.it/itinerari/formin-monteda-passo-giau/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Grande, Forcella (Forcelle) dal Passo Tre Croci, traversata a Ospitale",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.55703908404405,
+          "longitudine": 12.201695998625407,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2800.0,
+              "discesa": "Altro",
+              "link": [
+                "https://www.gulliver.it/itinerari/cristallo-monte-dal-passo-tre-croci-traversata-a-ospitale-per-forcella-grande-e-forcella-verde/"
+              ]
             }
           ]
         },
@@ -710,12 +916,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1151,
+              "sviluppo": 1151.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2657,
+              "quotaMassima": 2657.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/lastoi-de-formin-da-pezie-de-paru-e-la-val-formin/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lastoi-de-formin-da-pezie-de-paru-e-la-val-formin/"
+              ]
             }
           ]
         },
@@ -732,12 +940,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 859,
+              "sviluppo": 859.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2574,
+              "quotaMassima": 2574.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/nuvolau-rifugio-da-son-dei-prade/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nuvolau-rifugio-da-son-dei-prade/"
+              ]
             }
           ]
         },
@@ -754,12 +964,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 680,
+              "sviluppo": 680.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2575,
+              "quotaMassima": 2575.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/nuvolau-da-bai-de-dones/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nuvolau-da-bai-de-dones/"
+              ]
             }
           ]
         },
@@ -776,12 +988,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2595,
+              "quotaMassima": 2595.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/ra-gusela-da-ru-curto/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ra-gusela-da-ru-curto/"
+              ]
             }
           ]
         },
@@ -798,12 +1012,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1142,
+              "sviluppo": 1142.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3225,
+              "quotaMassima": 3225.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/tofana-di-rozes-dal-rifugio-dibona/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tofana-di-rozes-dal-rifugio-dibona/"
+              ]
             }
           ]
         }
@@ -828,12 +1044,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1350,
+              "quotaMassima": 1350.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/montanaia-forcella-da-rifugio-padova/"
+              "link": [
+                "https://www.gulliver.it/itinerari/montanaia-forcella-da-rifugio-padova/"
+              ]
             }
           ]
         }
@@ -858,12 +1076,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1057,
+              "sviluppo": 1057.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2875,
+              "quotaMassima": 2875.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/banca-monte-la-traversata-da-san-pellegrino-a-malga-ciapela/"
+              "link": [
+                "https://www.gulliver.it/itinerari/banca-monte-la-traversata-da-san-pellegrino-a-malga-ciapela/"
+              ]
             }
           ]
         },
@@ -880,12 +1100,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 965,
+              "sviluppo": 965.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2745,
+              "quotaMassima": 2745.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/bocche-cima-da-passo-san-pellegrino/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bocche-cima-da-passo-san-pellegrino/"
+              ]
             }
           ]
         },
@@ -902,12 +1124,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 950,
+              "sviluppo": 950.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2765,
+              "quotaMassima": 2765.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/laghet-forcella-del-dalla-baita-flora-alpina-anello/"
+              "link": [
+                "https://www.gulliver.it/itinerari/laghet-forcella-del-dalla-baita-flora-alpina-anello/"
+              ]
             }
           ]
         },
@@ -924,12 +1148,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 580,
+              "sviluppo": 580.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2540,
+              "quotaMassima": 2540.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/laste-di-pradazzo-da-strada-per-passo-valles/"
+              "link": [
+                "https://www.gulliver.it/itinerari/laste-di-pradazzo-da-strada-per-passo-valles/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pradazzo (Monte) dal rifugio Dolomiti",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.34401918,
+          "longitudine": 11.83566453,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2250.0,
+              "discesa": "Bosco fitto",
+              "link": [
+                "https://www.gulliver.it/itinerari/pradazzo-monte-dal-rifugio-dolomiti/"
+              ]
             }
           ]
         },
@@ -946,12 +1196,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 670,
+              "sviluppo": 670.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2490,
+              "quotaMassima": 2490.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/rossa-forca-dal-rifugio-flora-alpina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rossa-forca-dal-rifugio-flora-alpina/"
+              ]
             }
           ]
         },
@@ -968,12 +1220,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2490,
+              "quotaMassima": 2490.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/rossa-forca-da-flora-alpina-traversata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rossa-forca-da-flora-alpina-traversata/"
+              ]
             }
           ]
         },
@@ -990,12 +1244,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 712,
+              "sviluppo": 712.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2490,
+              "quotaMassima": 2490.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/rossa-forca-quota-2490-m-da-fuchiade/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rossa-forca-quota-2490-m-da-fuchiade/"
+              ]
             }
           ]
         }
@@ -1020,12 +1276,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2105,
+              "quotaMassima": 2105.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/ortigara-monte-da-campomulo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ortigara-monte-da-campomulo/"
+              ]
             }
           ]
         }
@@ -1050,12 +1308,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1186,
+              "sviluppo": 1186.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2480,
+              "quotaMassima": 2480.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/vani-alti-forcella-dei-da-passo-cereda-pale-di-san-martino/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vani-alti-forcella-dei-da-passo-cereda-pale-di-san-martino/"
+              ]
             }
           ]
         }
@@ -1080,12 +1340,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1200,
+              "sviluppo": 1200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2000,
+              "quotaMassima": 2000.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/moschesin-forcella-da-la-valle-agordina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/moschesin-forcella-da-la-valle-agordina/"
+              ]
             }
           ]
         },
@@ -1102,12 +1364,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2488,
+              "quotaMassima": 2488.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/san-sebastiano-cima-nord-da-ponte-caleda/"
+              "link": [
+                "https://www.gulliver.it/itinerari/san-sebastiano-cima-nord-da-ponte-caleda/"
+              ]
             }
           ]
         },
@@ -1124,12 +1388,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1072,
+              "sviluppo": 1072.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1883,
+              "quotaMassima": 1883.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/valaraz-monte-da-cornaggia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/valaraz-monte-da-cornaggia/"
+              ]
             }
           ]
         }
@@ -1157,9 +1423,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3152,
+              "quotaMassima": 3152.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/boe-piz-direttissima-val-delle-fontane/"
+              "link": [
+                "https://www.gulliver.it/itinerari/boe-piz-direttissima-val-delle-fontane/"
+              ]
             }
           ]
         },
@@ -1179,9 +1447,35 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3152,
+              "quotaMassima": 3152.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/boe-piz-dal-passo-pordoi-per-il-canale-del-ghiacciaio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/boe-piz-dal-passo-pordoi-per-il-canale-del-ghiacciaio/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Boè (Piz) e Meisules dal Passo Pordoi, traversata a Pian Schiavaneis per la Val Largia",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.48744273555784,
+          "longitudine": 11.813563197148568,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3350.0,
+              "discesa": "Pendii ampi",
+              "link": [
+                "https://www.gulliver.it/itinerari/boe-piz-e-meisules-dal-passo-pordoi-traversata-a-pian-schiavaneis-per-la-val-largia/"
+              ]
             }
           ]
         },
@@ -1198,12 +1492,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 231,
+              "sviluppo": 231.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2106,
+              "quotaMassima": 2106.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/monte-cherz/"
+              "link": [
+                "https://www.gulliver.it/itinerari/monte-cherz/"
+              ]
             }
           ]
         },
@@ -1220,12 +1516,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 703,
+              "sviluppo": 703.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2429,
+              "quotaMassima": 2429.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/piccolo-settsass-q-2429-dal-castello-buchenstein/"
+              "link": [
+                "https://www.gulliver.it/itinerari/piccolo-settsass-q-2429-dal-castello-buchenstein/"
+              ]
             }
           ]
         },
@@ -1242,12 +1540,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2405,
+              "quotaMassima": 2405.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/pore-monte-da-cernadoi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pore-monte-da-cernadoi/"
+              ]
             }
           ]
         },
@@ -1264,12 +1564,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2424,
+              "quotaMassima": 2424.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/sief-monte-dal-castello-di-andraz/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sief-monte-dal-castello-di-andraz/"
+              ]
             }
           ]
         },
@@ -1286,12 +1588,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 724,
+              "sviluppo": 724.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2424,
+              "quotaMassima": 2424.0,
               "discesa": "Su dorsale",
-              "link": "https://www.gulliver.it/itinerari/sief-dal-col-de-roda/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sief-dal-col-de-roda/"
+              ]
             }
           ]
         }
@@ -1319,9 +1623,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3152,
+              "quotaMassima": 3152.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/boe-piz-traversata-del-vallon/"
+              "link": [
+                "https://www.gulliver.it/itinerari/boe-piz-traversata-del-vallon/"
+              ]
             }
           ]
         }
@@ -1346,12 +1652,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1400,
+              "sviluppo": 1400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2290,
+              "quotaMassima": 2290.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/cridola-tacca-del-da-strada-passo-di-mauria/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cridola-tacca-del-da-strada-passo-di-mauria/"
+              ]
             }
           ]
         }
@@ -1376,12 +1684,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1300,
+              "sviluppo": 1300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2543,
+              "quotaMassima": 2543.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/alto-monte-per-la-forcella-dei-negher/"
+              "link": [
+                "https://www.gulliver.it/itinerari/alto-monte-per-la-forcella-dei-negher/"
+              ]
             }
           ]
         },
@@ -1398,12 +1708,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2444,
+              "quotaMassima": 2444.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/becher-col-per-val-franzedas/"
+              "link": [
+                "https://www.gulliver.it/itinerari/becher-col-per-val-franzedas/"
+              ]
             }
           ]
         },
@@ -1420,12 +1732,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1200,
+              "sviluppo": 1200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3265,
+              "quotaMassima": 3265.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/marmolada-punta-rocca-dal-passo-fedaia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/marmolada-punta-rocca-dal-passo-fedaia/"
+              ]
             }
           ]
         }
@@ -1450,12 +1764,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1684,
+              "sviluppo": 1684.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3264,
+              "quotaMassima": 3264.0,
               "discesa": "Su dorsale",
-              "link": "https://www.gulliver.it/itinerari/antelao-monte-da-san-vito-di-cadore-2/"
+              "link": [
+                "https://www.gulliver.it/itinerari/antelao-monte-da-san-vito-di-cadore-2/"
+              ]
             }
           ]
         },
@@ -1472,12 +1788,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 570,
+              "sviluppo": 570.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2455,
+              "quotaMassima": 2455.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/corvo-alto-da-strada-per-passo-giau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corvo-alto-da-strada-per-passo-giau/"
+              ]
             }
           ]
         },
@@ -1494,12 +1812,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2455,
+              "quotaMassima": 2455.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/mondeval-monte-dalla-strada-per-passo-giau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/mondeval-monte-dalla-strada-per-passo-giau/"
+              ]
             }
           ]
         },
@@ -1516,12 +1836,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 405,
+              "sviluppo": 405.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2405,
+              "quotaMassima": 2405.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/pore-monte-da-strada-per-passo-giau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pore-monte-da-strada-per-passo-giau/"
+              ]
             }
           ]
         },
@@ -1538,12 +1860,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 549,
+              "sviluppo": 549.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2485,
+              "quotaMassima": 2485.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/role-forcella-delle-da-malga-giau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/role-forcella-delle-da-malga-giau/"
+              ]
             }
           ]
         }
@@ -1568,12 +1892,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1050,
+              "sviluppo": 1050.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2053,
+              "quotaMassima": 2053.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/baldo-monte-cima-costabella-da-prada/"
+              "link": [
+                "https://www.gulliver.it/itinerari/baldo-monte-cima-costabella-da-prada/"
+              ]
             }
           ]
         },
@@ -1590,12 +1916,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2150,
+              "quotaMassima": 2150.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/costabella-da-prada/"
+              "link": [
+                "https://www.gulliver.it/itinerari/costabella-da-prada/"
+              ]
             }
           ]
         }
@@ -1620,12 +1948,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2455,
+              "quotaMassima": 2455.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/mondeval-o-corvo-alto-monte-da-pescul/"
+              "link": [
+                "https://www.gulliver.it/itinerari/mondeval-o-corvo-alto-monte-da-pescul/"
+              ]
             }
           ]
         },
@@ -1642,12 +1972,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1055,
+              "sviluppo": 1055.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2455,
+              "quotaMassima": 2455.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/mondeval-da-toffol/"
+              "link": [
+                "https://www.gulliver.it/itinerari/mondeval-da-toffol/"
+              ]
             }
           ]
         }
@@ -1672,12 +2004,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2259,
+              "quotaMassima": 2259.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/carega-cima-da-giazza/"
+              "link": [
+                "https://www.gulliver.it/itinerari/carega-cima-da-giazza/"
+              ]
             }
           ]
         },
@@ -1694,12 +2028,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1650,
+              "sviluppo": 1650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2259,
+              "quotaMassima": 2259.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/carega-cima-per-il-forcellino-plische/"
+              "link": [
+                "https://www.gulliver.it/itinerari/carega-cima-per-il-forcellino-plische/"
+              ]
             }
           ]
         }
@@ -1724,12 +2060,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1170,
+              "sviluppo": 1170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2170,
+              "quotaMassima": 2170.0,
               "discesa": "Incassato in stretto fondovalle",
-              "link": "https://www.gulliver.it/itinerari/cornor-monte-da-casera-pal-versante-nord/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cornor-monte-da-casera-pal-versante-nord/"
+              ]
             }
           ]
         },
@@ -1746,12 +2084,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 984,
+              "sviluppo": 984.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2195,
+              "quotaMassima": 2195.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/guslon-monte-da-malga-pian-grant/"
+              "link": [
+                "https://www.gulliver.it/itinerari/guslon-monte-da-malga-pian-grant/"
+              ]
             }
           ]
         },
@@ -1768,12 +2108,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1225,
+              "sviluppo": 1225.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2195,
+              "quotaMassima": 2195.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/guslon-monte-dalla-vallazza/"
+              "link": [
+                "https://www.gulliver.it/itinerari/guslon-monte-dalla-vallazza/"
+              ]
             }
           ]
         },
@@ -1790,12 +2132,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1047,
+              "sviluppo": 1047.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2247,
+              "quotaMassima": 2247.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/laste-monte-da-malga-pian-grande/"
+              "link": [
+                "https://www.gulliver.it/itinerari/laste-monte-da-malga-pian-grande/"
+              ]
             }
           ]
         },
@@ -1812,12 +2156,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2058,
+              "quotaMassima": 2058.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/vacche-cima-da-col-indes/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vacche-cima-da-col-indes/"
+              ]
             }
           ]
         },
@@ -1834,12 +2180,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 847,
+              "sviluppo": 847.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2058,
+              "quotaMassima": 2058.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/vacche-cima-da-malga-pian-grant/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vacche-cima-da-malga-pian-grant/"
+              ]
             }
           ]
         },
@@ -1856,12 +2204,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2007,
+              "quotaMassima": 2007.0,
               "discesa": "Bosco fitto",
-              "link": "https://www.gulliver.it/itinerari/valgrande-cima-di-da-malga-cate/"
+              "link": [
+                "https://www.gulliver.it/itinerari/valgrande-cima-di-da-malga-cate/"
+              ]
             }
           ]
         }
@@ -1886,12 +2236,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1400,
+              "sviluppo": 1400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2650,
+              "quotaMassima": 2650.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/moiazza-forcella-delle-masenade/"
+              "link": [
+                "https://www.gulliver.it/itinerari/moiazza-forcella-delle-masenade/"
+              ]
             }
           ]
         },
@@ -1908,12 +2260,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1850,
+              "quotaMassima": 1850.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/moschesin-forcella-da-forno-di-zoldo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/moschesin-forcella-da-forno-di-zoldo/"
+              ]
             }
           ]
         },
@@ -1930,12 +2284,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1096,
+              "sviluppo": 1096.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2476,
+              "quotaMassima": 2476.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/sasse-forcella-delle-da-pecol/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sasse-forcella-delle-da-pecol/"
+              ]
             }
           ]
         },
@@ -1952,12 +2308,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 530,
+              "sviluppo": 530.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1804,
+              "quotaMassima": 1804.0,
               "discesa": "Bosco fitto",
-              "link": "https://www.gulliver.it/itinerari/tolp-forcella/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tolp-forcella/"
+              ]
             }
           ]
         },
@@ -1974,12 +2332,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2050,
+              "quotaMassima": 2050.0,
               "discesa": "Bosco fitto",
-              "link": "https://www.gulliver.it/itinerari/zuel-pic-e-spiz-agnelessa-da-soramae/"
+              "link": [
+                "https://www.gulliver.it/itinerari/zuel-pic-e-spiz-agnelessa-da-soramae/"
+              ]
             }
           ]
         }
@@ -2004,12 +2364,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2462,
+              "quotaMassima": 2462.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/clapsavon-monte-da-casera-razzo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/clapsavon-monte-da-casera-razzo/"
+              ]
             }
           ]
         }
@@ -2034,12 +2396,1959 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1668,
+              "sviluppo": 1668.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3168.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/pelmo-monte-da-zoppe-di-cadore/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Pala dell'Asco",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.625697,
+          "longitudine": 12.123193,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2300,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1729501"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lastoni di Formin",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.478806,
+          "longitudine": 12.081561,
+          "itinerari": [
+            {
+              "nome": "Tour de la Croda del Lago",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2657,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1502399"
+              ]
+            },
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2657,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/164093"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella degli Angeli (Cadini di Misurina)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.57394,
+          "longitudine": 12.276521,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": "AD-",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2650,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1399399"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Bagni",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.615154,
+          "longitudine": 12.410003,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2983,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1312006"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella Grande",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.580511,
+          "longitudine": 12.189103,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2870,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1291719"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Baldo - Punta Pettorina",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 45.709282,
+          "longitudine": 10.857521,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 820,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2192,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1267186"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lagazuoi Piccolo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.548709,
+          "longitudine": 12.025176,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2658,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1267028"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Sief",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.505322,
+          "longitudine": 11.989678,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2424,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1171492"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Passo del Cristallo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.57515,
+          "longitudine": 12.20512,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2808,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1166693",
+                "https://www.camptocamp.org/routes/166003"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima de Gasperi",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.376533,
+          "longitudine": 12.043382,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1860,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2994,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1105594"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Serva",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.200638,
+          "longitudine": 12.232357,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2133,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/985745"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Zevola",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 45.688824,
+          "longitudine": 11.14254,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 960,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1976,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/860997"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella La Porta (Mezzodi)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.332355,
+          "longitudine": 12.1812,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1327,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2178,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/733598"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima di Forca Rossa",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.406357,
+          "longitudine": 12.158313,
+          "itinerari": [
+            {
+              "nome": "Traversata Est-Ovest",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1224,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2784,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/732694"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Baldo - Cima Costabella",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 45.689118,
+          "longitudine": 10.818961,
+          "itinerari": [
+            {
+              "nome": "da Prada / Punta Veleno",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2062,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/730466"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Col Visentin",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.056276,
+          "longitudine": 12.281942,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 763,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1763,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/728152"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella delle Bance",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.593815,
+          "longitudine": 12.232755,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": "AD",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 991,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2650,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/618966"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella degli Angeli",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.57752,
+          "longitudine": 12.271522,
+          "itinerari": [
+            {
+              "nome": "da NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 804,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2561,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/518131"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella dei Fulmini di Popera",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.622638,
+          "longitudine": 12.399677,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1440,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2730,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/510489"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Boè",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.499003,
+          "longitudine": 11.815578,
+          "itinerari": [
+            {
+              "nome": "Couloir Holzer, Col Alton, couloir Joel et le versant NW de Boè",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3152,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/509628"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Corvo Alto",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.463611,
+          "longitudine": 12.0825,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 995,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2455,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/497245"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella Popera",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.64282,
+          "longitudine": 12.402687,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2291,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/493957"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Forada",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.434353,
+          "longitudine": 12.120851,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2455,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/485690"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella Cristallino",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.589895,
+          "longitudine": 12.217834,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2666,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/410456"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sestier",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.153158,
+          "longitudine": 12.49558,
+          "itinerari": [
+            {
+              "nome": "da SW per la Val Salatis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1030,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2084,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/408047"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella del Diavolo (Cadini di Misurina)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.584555,
+          "longitudine": 12.270452,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2380,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/390857"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Haute Route des Dolomites",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.44781,
+          "longitudine": 12.038551,
+          "itinerari": [
+            {
+              "nome": "De Belluno à Villabassa (Alta Via 1)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 10000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2810,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/295200"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forca Rossa al Pelmo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.422247,
+          "longitudine": 12.124081,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 970,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2621,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/266918"
+              ]
+            },
+            {
+              "nome": "Dalla Val Fiorentina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 963,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2626,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/51553"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Cornor",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.134616,
+          "longitudine": 12.486469,
+          "itinerari": [
+            {
+              "nome": " dalla Val de Piera",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2170,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/265533"
+              ]
+            },
+            {
+              "nome": "dalla Val Salatis per lo spallone",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1170,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2170,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/203197"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Haute Route des Dolomites",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.497621,
+          "longitudine": 12.0032,
+          "itinerari": [
+            {
+              "nome": "Passo Rolle → Innichen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3200,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/260970"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sasso di Sesto / Sextenstein",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.616946,
+          "longitudine": 12.286263,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2539,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/260947"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella del Lago",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.519068,
+          "longitudine": 12.030254,
+          "itinerari": [
+            {
+              "nome": "Traversée S >N - Du Passo Giau au refuge Fanes - Alta Via nº1",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2750,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/259096"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forca Rossa al Pelmo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.453083,
+          "longitudine": 12.098763,
+          "itinerari": [
+            {
+              "nome": "Traversée S-N, de Pecol di Zoldo au Passo Giau, Alta Via nº1",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2621,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/259067"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella delle Sasse",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.38539,
+          "longitudine": 12.082676,
+          "itinerari": [
+            {
+              "nome": "En traversée, du refuge Carestiato à Pecol di Zoldo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2476,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/258919"
+              ]
+            },
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1094,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2476,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/200509"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima de le Balanzole",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.285336,
+          "longitudine": 12.147177,
+          "itinerari": [
+            {
+              "nome": "En traversée, du bivouac Dal Mas au refuge Carestiato, Alta Via n.1",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2395,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/258842"
+              ]
+            },
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 870,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2080,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/51691"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella del Marmol",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.207814,
+          "longitudine": 12.192913,
+          "itinerari": [
+            {
+              "nome": "Traversée S > N - Bivouac Lussato > Bivouac Dal Mas - Alta Via nº1",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2262,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/258827"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda da Campo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.588955,
+          "longitudine": 12.434305,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2712,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/257522"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Ombretta",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.422915,
+          "longitudine": 11.868879,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2983,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/256872"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Boè",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.498261,
+          "longitudine": 11.81964,
+          "itinerari": [
+            {
+              "nome": "Canale Col Alton e val Lasties",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2873,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/255904"
+              ]
+            },
+            {
+              "nome": "per la Forcella Pordoi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3152,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/49004"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella della Neve (Cadini di Misurina)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.584501,
+          "longitudine": 12.273505,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/255571"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella del Nevaio (Cadini di Misurina)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.580774,
+          "longitudine": 12.269498,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 860,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2620,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/249555"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella della Neve (Cadini di Misurina)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.579624,
+          "longitudine": 12.268448,
+          "itinerari": [
+            {
+              "nome": "da NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 710,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2471,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/249543"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Taè",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.600791,
+          "longitudine": 12.088687,
+          "itinerari": [
+            {
+              "nome": "da Bodestagno per il Cadin di Taè",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1070,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2511,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/248298"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lagazuoi Piccolo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.524421,
+          "longitudine": 12.00661,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2752,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/244739"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Guslon",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.130795,
+          "longitudine": 12.454361,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2195,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/208173",
+                "https://www.camptocamp.org/routes/47094"
+              ]
+            },
+            {
+              "nome": "Da SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2195,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47093"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forca Rossa",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.392176,
+          "longitudine": 11.841031,
+          "itinerari": [
+            {
+              "nome": "Passo Forca Rossa depuis Malga Boer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2486,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/205212"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella la Porta (del Tàmer)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.329614,
+          "longitudine": 12.149824,
+          "itinerari": [
+            {
+              "nome": "da Pralongo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2326,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/202088"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella Colfiedo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.63,
+          "longitudine": 12.142778,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2721,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/201829"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forca Rossa",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.412243,
+          "longitudine": 11.874977,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2490,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/196062"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tofana di Rozes",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.532167,
+          "longitudine": 12.047088,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3225,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/164172"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Nord di San Sebastiano",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.319766,
+          "longitudine": 12.113137,
+          "itinerari": [
+            {
+              "nome": "Da Van de Caleda",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 988,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2488,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/53403"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Colròsolo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.475258,
+          "longitudine": 12.559548,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 580,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2139,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/53276"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Passo Mimoias",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.514568,
+          "longitudine": 12.627182,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 690,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1976,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/52975"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Tanzon",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.222057,
+          "longitudine": 12.208328,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 860,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1924,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/52607"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Baldo - Vetta delle Buse",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 45.685663,
+          "longitudine": 10.805346,
+          "itinerari": [
+            {
+              "nome": "Vetta della Buse da Prada Alta per la Costabella",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1471,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2152,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/52266"
+              ]
+            },
+            {
+              "nome": "Punta di Naole >> Piz Costabella >> vetta delle Buse >> versante W del Piz Costabella - da Senaga",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2152,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/51509"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Portule",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 45.979167,
+          "longitudine": 11.446944,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2308,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/52028"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cimon di Palantina",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.123751,
+          "longitudine": 12.465047,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2190,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/51273"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Pelf",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.231111,
+          "longitudine": 12.197778,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2502,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/51272"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Busazza",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.365355,
+          "longitudine": 12.043856,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2894,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/51271"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schiara",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.243427,
+          "longitudine": 12.161393,
+          "itinerari": [
+            {
+              "nome": "Sci, Bicicletta E Ramponi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2565,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/50985"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Punta della Puina",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.443621,
+          "longitudine": 12.130263,
+          "itinerari": [
+            {
+              "nome": "Discesa versante NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 591,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2254,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/50241"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Delle Vacche",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.127356,
+          "longitudine": 12.458953,
+          "itinerari": [
+            {
+              "nome": "Per il versante SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 847,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/50197"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Antelao",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.458694,
+          "longitudine": 12.242772,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3264,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/49559"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Civetta",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.391218,
+          "longitudine": 12.077136,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1820,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3220,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/49196"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Pelmo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.403937,
+          "longitudine": 12.153241,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2050,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3168,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pelmo-monte-da-zoppe-di-cadore/"
+              "link": [
+                "https://www.camptocamp.org/routes/49039"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tofana di Rozes",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.534827,
+          "longitudine": 12.060689,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1142,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3225,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47322"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tacca del Cridola",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.435998,
+          "longitudine": 12.483706,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1405,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2290,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47319"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Peralba / Hochweißstein",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.629444,
+          "longitudine": 12.719444,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1574,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2694,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47223"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Passo della Sentinella",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.641311,
+          "longitudine": 12.378849,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2717,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47218"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Guslon",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.140358,
+          "longitudine": 12.470369,
+          "itinerari": [
+            {
+              "nome": "Da WNW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2195,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47095"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella del Frate",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.365286,
+          "longitudine": 12.419718,
+          "itinerari": [
+            {
+              "nome": "Da S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1289,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2209,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47064"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda dei Longerin Sud",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.6266,
+          "longitudine": 12.5618,
+          "itinerari": [
+            {
+              "nome": "Per il Canalone W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1333,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2547,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47030"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Crep Nudo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.207772,
+          "longitudine": 12.446386,
+          "itinerari": [
+            {
+              "nome": "Da SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1051,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2207,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47025"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Corvo Alto",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.473002,
+          "longitudine": 12.067954,
+          "itinerari": [
+            {
+              "nome": "Da NE",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2456,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47024"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Palombino",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.65,
+          "longitudine": 12.57,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47009"
+              ]
+            },
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1386,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47008"
+              ]
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Norcia",
@@ -22,12 +22,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2200,
+              "quotaMassima": 2200.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/argentella-monte-da-castelluccio-per-il-versante-sud-ovest/"
+              "link": [
+                "https://www.gulliver.it/itinerari/argentella-monte-da-castelluccio-per-il-versante-sud-ovest/"
+              ]
             }
           ]
         },
@@ -44,12 +46,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1050,
+              "sviluppo": 1050.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2450,
+              "quotaMassima": 2450.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/redentore-cima-del-canale-ovest/"
+              "link": [
+                "https://www.gulliver.it/itinerari/redentore-cima-del-canale-ovest/"
+              ]
             }
           ]
         },
@@ -66,12 +70,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 940,
+              "sviluppo": 940.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2476,
+              "quotaMassima": 2476.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/vettore-monte-canale-dei-mezzi-litri/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vettore-monte-canale-dei-mezzi-litri/"
+              ]
             }
           ]
         },
@@ -88,12 +94,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1076,
+              "sviluppo": 1076.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2476,
+              "quotaMassima": 2476.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/vettore-monte-per-la-valle-santa/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vettore-monte-per-la-valle-santa/"
+              ]
             }
           ]
         }

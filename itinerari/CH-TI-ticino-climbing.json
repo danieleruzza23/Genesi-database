@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Avegno",
@@ -22,51 +22,62 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scaladri-arcobaleno/"
-            },
+              "discesa": "dall'ultima sosta attraversare verso destra su cengia e seguire un sentiero segnato con bolli ed ometti. E' possibile anche la discesa in doppia dalla via",
+              "link": [
+                "https://www.gulliver.it/itinerari/scaladri-arcobaleno/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Avegno, Scaladri",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.21081385,
+          "longitudine": 8.748679161,
+          "itinerari": [
             {
               "nome": "Taroc + Stadera",
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 380,
+              "sviluppo": 380.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scaladri-taroc-stadera/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/scaladri-taroc-stadera/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Avegno, Scaladri",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.2021338,
+          "longitudine": 8.7439305,
+          "itinerari": [
             {
               "nome": "Stadera",
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 330,
+              "sviluppo": 330.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scaladri-stadera/"
-            },
-            {
-              "nome": "Fantasia",
-              "gradoObbligatorio": "6a",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scaladri-fantasia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/scaladri-stadera/"
+              ]
             },
             {
               "nome": "Rosy e Jacqueline",
@@ -74,12 +85,38 @@
               "gradoMassimo": "7b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "in doppia fino alla cengia, poi meglio a piedi seguendo la traccia con ometti.",
+              "link": [
+                "https://www.gulliver.it/itinerari/scaladri-rosy-e-jacqueline/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Avegno, Scaladri",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.2114653,
+          "longitudine": 8.7515788,
+          "itinerari": [
+            {
+              "nome": "Fantasia",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scaladri-rosy-e-jacqueline/"
+              "link": [
+                "https://www.gulliver.it/itinerari/scaladri-fantasia/"
+              ]
             }
           ]
         },
@@ -91,17 +128,19 @@
           "longitudine": 8.749065399,
           "itinerari": [
             {
-              "nome": "Scaladri Tasso + Pesanteur a la tete + Acquaplaning + Micio Spillo",
+              "nome": null,
               "gradoObbligatorio": "6b",
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 420,
+              "sviluppo": 420.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scaladri-tasso-pesanteur-a-la-tete-acquaplaning-micio-spillo/"
+              "discesa": "a dx seguendo ometti e segni rossi sino alla comoda scalinata (40 min) oppure in doppia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/scaladri-tasso-pesanteur-a-la-tete-acquaplaning-micio-spillo/"
+              ]
             }
           ]
         }
@@ -126,12 +165,14 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/forcella-pizzo-sabbia-nel-vento/"
+              "link": [
+                "https://www.gulliver.it/itinerari/forcella-pizzo-sabbia-nel-vento/"
+              ]
             }
           ]
         },
@@ -148,38 +189,62 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-via-tanti-auguri/"
-            },
+              "discesa": "In doppia dalla via. Attenzione, soprattutto nella parte alta, a non incastrare le corde nelle numerose fessure. Per una discesa più lineare conviene raggiungere, dalla 2° corda doppia, la sosta di Piccadilly di Bedretto e continuare sulle calate di questa via.",
+              "link": [
+                "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-via-tanti-auguri/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Cassina Baggio",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 46.517532,
+          "longitudine": 8.504791259,
+          "itinerari": [
             {
               "nome": "Herbstwind",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-herbstwind/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-herbstwind/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Cassina Baggio",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 46.49424139,
+          "longitudine": 8.454200592,
+          "itinerari": [
             {
               "nome": "A Paris J’ai Connu Mieux Bertrand",
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 560,
+              "sviluppo": 560.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cassina-di-baggio-punte-di-a-paris-jai-connu-mieux-bertrand/"
+              "discesa": "lungo il versante nord-ovest fino al passo di Maniò, poi discesa nel canale fino al lago delle Pigne. Via attrezzata con fix e chiodi normali, talora distanti. Utile qualche friend medio.",
+              "link": [
+                "https://www.gulliver.it/itinerari/cassina-di-baggio-punte-di-a-paris-jai-connu-mieux-bertrand/"
+              ]
             }
           ]
         },
@@ -191,17 +256,19 @@
           "longitudine": 8.47492218,
           "itinerari": [
             {
-              "nome": "Poncione di Cassina Baggio Dr. Gruen Nils",
+              "nome": null,
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 420,
+              "sviluppo": 420.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-dr-gruen-nils/"
+              "link": [
+                "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-dr-gruen-nils/"
+              ]
             }
           ]
         },
@@ -218,12 +285,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/torre-2-regina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/torre-2-regina/"
+              ]
             }
           ]
         },
@@ -240,25 +309,53 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-2a-torre-francesca/"
+              "link": [
+                "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-2a-torre-francesca/"
+              ]
             },
+            {
+              "nome": "Piansecco - Poncione di ruino: Danielli-Pohl",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2669,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1575842"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Cassina Baggio, 2a torre",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 46.51002262,
+          "longitudine": 8.450500498,
+          "itinerari": [
             {
               "nome": "Inrika",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cassina-baggio-seconda-torre-inrika/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cassina-baggio-seconda-torre-inrika/"
+              ]
             }
           ]
         },
@@ -275,12 +372,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 9,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-torre-centrale-la-strada-dei-curbatt/"
+              "discesa": "con 8 doppie, non saltate nessuna sosta! In conserva la crestina a ritroso.",
+              "link": [
+                "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-torre-centrale-la-strada-dei-curbatt/"
+              ]
             }
           ]
         },
@@ -297,25 +396,38 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/poncione-di-manio-panini/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/poncione-di-manio-panini/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Maniò",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 46.49228959,
+          "longitudine": 8.444965746,
+          "itinerari": [
             {
               "nome": "I Regalatori",
               "gradoObbligatorio": "6b+",
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/manioponcione-di-i-regalatori/"
+              "discesa": "in doppia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/manioponcione-di-i-regalatori/"
+              ]
             }
           ]
         },
@@ -332,12 +444,14 @@
               "gradoMassimo": "7a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/poncione-di-ruino-ficus-tremens/"
+              "link": [
+                "https://www.gulliver.it/itinerari/poncione-di-ruino-ficus-tremens/"
+              ]
             }
           ]
         }
@@ -362,12 +476,14 @@
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 165,
+              "sviluppo": 165.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/luzzone-diga-del-via-lunga/"
+              "link": [
+                "https://www.gulliver.it/itinerari/luzzone-diga-del-via-lunga/"
+              ]
             }
           ]
         }
@@ -392,12 +508,14 @@
               "gradoMassimo": "7a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/moloch/"
+              "discesa": "con 4 calate da 40/50m.",
+              "link": [
+                "https://www.gulliver.it/itinerari/moloch/"
+              ]
             }
           ]
         }
@@ -422,25 +540,38 @@
               "gradoMassimo": "6c+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 190,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/heij-barg-liberty/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/heij-barg-liberty/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Heij Barg",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.3298615,
+          "longitudine": 8.490886688,
+          "itinerari": [
             {
               "nome": "Sereno Variabile",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/heij-barg-sereno-variabile/"
+              "link": [
+                "https://www.gulliver.it/itinerari/heij-barg-sereno-variabile/"
+              ]
             }
           ]
         }
@@ -465,12 +596,14 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 570,
+              "sviluppo": 570.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/placche-di-gramused-il-volo-della-martora/"
+              "discesa": "in doppia sulla via, le ultime tre doppie sulla via accanto",
+              "link": [
+                "https://www.gulliver.it/itinerari/placche-di-gramused-il-volo-della-martora/"
+              ]
             }
           ]
         }
@@ -495,12 +628,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-piccadilly-di-bedretto/"
+              "link": [
+                "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-piccadilly-di-bedretto/"
+              ]
             }
           ]
         },
@@ -517,12 +652,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 210,
+              "sviluppo": 210.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ponte-brolla-speroni-di-zombi-vai-dove-vuoi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ponte-brolla-speroni-di-zombi-vai-dove-vuoi/"
+              ]
             },
             {
               "nome": "Quarzader",
@@ -530,12 +667,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 380,
+              "sviluppo": 380.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ponte-brolla-speroni-di-quarzader/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ponte-brolla-speroni-di-quarzader/"
+              ]
             }
           ]
         }
@@ -547,28 +686,6 @@
       "latitudine": null,
       "longitudine": null,
       "pareti": [
-        {
-          "nome": "Cevio (Parete di)",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "latitudine": 46.32342510077379,
-          "longitudine": 8.602141082094805,
-          "itinerari": [
-            {
-              "nome": "Barcollo ma non Mollo",
-              "gradoObbligatorio": "6c+",
-              "gradoMassimo": "7b+",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 140,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cevio-parete-di-barcollo-ma-non-mollo/"
-            }
-          ]
-        },
         {
           "nome": "Calnegia (Parete di)",
           "disciplina": "climbing",
@@ -582,38 +699,62 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 260,
+              "sviluppo": 260.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/calnegia-valle-passi-di-spasso/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/calnegia-valle-passi-di-spasso/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Calnegia (Parete di)",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 46.35693961,
+          "longitudine": 8.504190444,
+          "itinerari": [
             {
               "nome": "Il Fondo del Sacco",
               "gradoObbligatorio": "5b",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/calnegia-il-fondo-del-sacco/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/calnegia-il-fondo-del-sacco/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Calnegia (Parete di)",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 46.3569235,
+          "longitudine": 8.512290699,
+          "itinerari": [
             {
               "nome": "Sergeant Pepper’s",
               "gradoObbligatorio": "6c",
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/calnegia-sergeant-peppers/"
+              "link": [
+                "https://www.gulliver.it/itinerari/calnegia-sergeant-peppers/"
+              ]
             }
           ]
         },
@@ -625,17 +766,43 @@
           "longitudine": 8.510713577,
           "itinerari": [
             {
-              "nome": "Calnegia (Parete di) Tis-Sa-Ack",
+              "nome": null,
               "gradoObbligatorio": "6b",
               "gradoMassimo": "6c+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 320,
+              "sviluppo": 320.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/calnegia-parete-di-tis-sa-ack/"
+              "link": [
+                "https://www.gulliver.it/itinerari/calnegia-parete-di-tis-sa-ack/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cevio (Parete di)",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 46.32342510077379,
+          "longitudine": 8.602141082094805,
+          "itinerari": [
+            {
+              "nome": "Barcollo ma non Mollo",
+              "gradoObbligatorio": "6c+",
+              "gradoMassimo": "7b+",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "Da S5 a S4, moschettonando alcuni rinvii. Da S4 fino a S1 con doppia da 60m (servono corde da 60!) nel vuoto. Da S1 a terra lungo lo zoccolo basale.",
+              "link": [
+                "https://www.gulliver.it/itinerari/cevio-parete-di-barcollo-ma-non-mollo/"
+              ]
             }
           ]
         },
@@ -652,12 +819,14 @@
               "gradoMassimo": "7b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/foioi-canyon-di-filo-a-piombo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/foioi-canyon-di-filo-a-piombo/"
+              ]
             }
           ]
         },
@@ -674,12 +843,14 @@
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 230,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/poncino-di-ritorto-la-gita-di-tristan/"
+              "discesa": "in doppia , con corde da 60 m. si possono unire L3 e L2, L5 e L4 ma al pelo.",
+              "link": [
+                "https://www.gulliver.it/itinerari/poncino-di-ritorto-la-gita-di-tristan/"
+              ]
             }
           ]
         },
@@ -696,12 +867,14 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 260,
+              "sviluppo": 260.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/soloist-parete-di-puntid/"
+              "discesa": "con 6 doppie. Allo stato attuale, la via presenta erba abbastanza fastidiosa a partire da L5, e nell’ultima lunghezza la roccia é muschiosa L1 6b L2 6b+ L3 5c L4 6b L5 6c L6 6a+",
+              "link": [
+                "https://www.gulliver.it/itinerari/soloist-parete-di-puntid/"
+              ]
             }
           ]
         },
@@ -718,12 +891,14 @@
               "gradoMassimo": "6c+",
               "spittatura": null,
               "tiri": 12,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/san-carlo-parete-di-las-empanadas/"
+              "link": [
+                "https://www.gulliver.it/itinerari/san-carlo-parete-di-las-empanadas/"
+              ]
             }
           ]
         },
@@ -740,12 +915,14 @@
               "gradoMassimo": "7b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 310,
+              "sviluppo": 310.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/puntid-help/"
+              "link": [
+                "https://www.gulliver.it/itinerari/puntid-help/"
+              ]
             }
           ]
         },
@@ -762,12 +939,14 @@
               "gradoMassimo": "7a+",
               "spittatura": null,
               "tiri": 13,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/terasc-alice/"
+              "link": [
+                "https://www.gulliver.it/itinerari/terasc-alice/"
+              ]
             }
           ]
         }
@@ -792,12 +971,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/prevat-pizzo-del-parete-est/"
+              "link": [
+                "https://www.gulliver.it/itinerari/prevat-pizzo-del-parete-est/"
+              ]
             }
           ]
         }
@@ -822,12 +1003,14 @@
               "gradoMassimo": "7a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/crois-valle-verzasca-alice/"
+              "discesa": "In doppia lungo la via, tutte le soste attrezzate con due moschettoni per la doppia. il sole arriva alla base della parete, nel mese di novembre alle ore 10. Periodo ideale: Primavera, autunno, e l’inverno nelle giornate soleggiate.",
+              "link": [
+                "https://www.gulliver.it/itinerari/crois-valle-verzasca-alice/"
+              ]
             }
           ]
         },
@@ -844,12 +1027,14 @@
               "gradoMassimo": "7c+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 280,
+              "sviluppo": 280.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/eus-monte-vai-co-il-blues/"
+              "link": [
+                "https://www.gulliver.it/itinerari/eus-monte-vai-co-il-blues/"
+              ]
             }
           ]
         }
@@ -869,17 +1054,19 @@
           "longitudine": 8.741218,
           "itinerari": [
             {
-              "nome": "Prevat (Pizzo del) Spigolo NE e Cresta NE",
+              "nome": null,
               "gradoObbligatorio": "4",
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/prevat-pizzo-del-spigolo-ne-e-cresta-ne/"
+              "link": [
+                "https://www.gulliver.it/itinerari/prevat-pizzo-del-spigolo-ne-e-cresta-ne/"
+              ]
             }
           ]
         }
@@ -904,38 +1091,62 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/garzo-monte-alhambra/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/garzo-monte-alhambra/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Garzo (Monte)",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.1853,
+          "longitudine": 8.752780000000001,
+          "itinerari": [
             {
               "nome": "Harlem",
               "gradoObbligatorio": "5a",
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/garzo-monte-harlem/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/garzo-monte-harlem/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Garzo (Monte)",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 46.185963,
+          "longitudine": 8.753256,
+          "itinerari": [
             {
               "nome": "Brunone",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/garzo-monte-brunone/"
+              "discesa": "in doppia sulla via",
+              "link": [
+                "https://www.gulliver.it/itinerari/garzo-monte-brunone/"
+              ]
             },
             {
               "nome": "Serenissima",
@@ -943,25 +1154,14 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/garzo-monte-via-serenissima/"
-            },
-            {
-              "nome": "Havanna",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "5b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/garzo-monte-havanna/"
+              "link": [
+                "https://www.gulliver.it/itinerari/garzo-monte-via-serenissima/"
+              ]
             },
             {
               "nome": "Lucertola",
@@ -969,25 +1169,77 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/garzo-monte-lucertola/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/garzo-monte-lucertola/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Garzo (Monte)",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.19379442878596,
+          "longitudine": 8.759236335557631,
+          "itinerari": [
+            {
+              "nome": "Havanna",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "consigliabile a piedi, verso sx viso a monte",
+              "link": [
+                "https://www.gulliver.it/itinerari/garzo-monte-havanna/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Garzo (Monte)",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.19349736,
+          "longitudine": 8.761167526,
+          "itinerari": [
             {
               "nome": "Via Schmittchen-Schleicher",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 190,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/garzo-monte-schmittchen-schleicher/"
+              "link": [
+                "https://www.gulliver.it/itinerari/garzo-monte-schmittchen-schleicher/"
+              ]
+            },
+            {
+              "nome": "Harlem",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/941050"
+              ]
             }
           ]
         }
@@ -1012,12 +1264,14 @@
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 127,
+              "sviluppo": 127.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vecchia-dente-della-pilastro-dei-sogni-aspettando-gughi/"
+              "discesa": "a piedi dalla normale o disarrampicando dal camino di nord-est (2°).",
+              "link": [
+                "https://www.gulliver.it/itinerari/vecchia-dente-della-pilastro-dei-sogni-aspettando-gughi/"
+              ]
             }
           ]
         },
@@ -1034,38 +1288,62 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vecchia-denti-dellavia-comici/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/vecchia-denti-dellavia-comici/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vecchia (Denti della)",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "latitudine": 46.054805888972446,
+          "longitudine": 9.031593255926275,
+          "itinerari": [
             {
               "nome": "Cresta del Vajolet",
               "gradoObbligatorio": "4",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vecchia-denti-della-cresta-del-vajolet/"
-            },
+              "discesa": "si scende a destra con un’unica spettacolare ed esposta doppia da cinquanta metri. Dalle guide dovrebbe essere possibile scendere anche a sinistra per tracce di sentiero (soluzione non verificata).",
+              "link": [
+                "https://www.gulliver.it/itinerari/vecchia-denti-della-cresta-del-vajolet/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vecchia (Denti della)",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 46.05642167,
+          "longitudine": 9.019138183,
+          "itinerari": [
             {
               "nome": "Spigolo dello Sparviero",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vecchia-denti-della-spigolo-dello-sparviero/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vecchia-denti-della-spigolo-dello-sparviero/"
+              ]
             }
           ]
         }
@@ -1090,12 +1368,14 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": 6,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ponte-brolla-speroni-di-nika/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ponte-brolla-speroni-di-nika/"
+              ]
             }
           ]
         },
@@ -1112,25 +1392,38 @@
               "gradoMassimo": "7b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/trolcia-sasso-il-nodo-infinito/"
-            },
+              "discesa": "in doppia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/trolcia-sasso-il-nodo-infinito/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Trolcia (Sasso)",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 46.2970666,
+          "longitudine": 8.628435599,
+          "itinerari": [
             {
               "nome": "Via Casarotto",
               "gradoObbligatorio": "6b",
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/trolcia-sasso-casarotto/"
+              "link": [
+                "https://www.gulliver.it/itinerari/trolcia-sasso-casarotto/"
+              ]
             }
           ]
         }
@@ -1150,17 +1443,19 @@
           "longitudine": 8.662075996,
           "itinerari": [
             {
-              "nome": "Monti (Parete ai) Dimitri",
+              "nome": null,
               "gradoObbligatorio": "6c",
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 360,
+              "sviluppo": 360.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/monti-parete-ai-dimitri/"
+              "discesa": "Possibile in doppia o a piedi dalla cima. Le soste sono state da poco richiodate.",
+              "link": [
+                "https://www.gulliver.it/itinerari/monti-parete-ai-dimitri/"
+              ]
             }
           ]
         },
@@ -1177,51 +1472,117 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 220,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/paleria-placche-di-ad-un-angelo-caduto-dal-cielo/"
+              "discesa": "in doppia",
+              "link": [
+                "https://www.gulliver.it/itinerari/paleria-placche-di-ad-un-angelo-caduto-dal-cielo/",
+                "https://www.camptocamp.org/routes/55824"
+              ]
             },
+            {
+              "nome": "Max Frisch",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1180,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/717321"
+              ]
+            },
+            {
+              "nome": "Ove tornar desio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1030,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/532566"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Paleria (Placche di)",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 46.204691,
+          "longitudine": 8.662487,
+          "itinerari": [
             {
               "nome": "Nalan",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/paleria-placche-di-nalan/"
-            },
+              "discesa": "con 3 doppie sulla via",
+              "link": [
+                "https://www.gulliver.it/itinerari/paleria-placche-di-nalan/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Paleria (Placche di)",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 46.20468,
+          "longitudine": 8.662410000000001,
+          "itinerari": [
             {
               "nome": "Cose Preziose",
               "gradoObbligatorio": "6b",
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/paleria-placche-di-cose-preziose/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/paleria-placche-di-cose-preziose/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Paleria (Placche di)",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 46.205171,
+          "longitudine": 8.661604,
+          "itinerari": [
             {
               "nome": "Ove Tornar Desio + Figlio del Vento",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 130,
+              "sviluppo": 130.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/paleria-placche-di-ove-tornar-desio-figlio-del-vento/"
+              "link": [
+                "https://www.gulliver.it/itinerari/paleria-placche-di-ove-tornar-desio-figlio-del-vento/"
+              ]
             }
           ]
         }
@@ -1246,12 +1607,14 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ali-baba/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ali-baba/"
+              ]
             }
           ]
         }
@@ -1276,12 +1639,1511 @@
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/parete-val-diragna-my-darling/"
+              "link": [
+                "https://www.gulliver.it/itinerari/parete-val-diragna-my-darling/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Piansecco",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.4791,
+          "longitudine": 8.3908,
+          "itinerari": [
+            {
+              "nome": "I regalatori",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1932490"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Parete di Cevio",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.325882,
+          "longitudine": 8.601028,
+          "itinerari": [
+            {
+              "nome": "Barcollo ma non mollo...",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1706464"
+              ]
+            },
+            {
+              "nome": "Vamos a la playa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1515613"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ove tornar desio",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.203063,
+          "longitudine": 8.652905,
+          "itinerari": [
+            {
+              "nome": "Troppe parole",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 990,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1336978"
+              ]
+            },
+            {
+              "nome": "via Max Frisch",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1109161"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "San Carlo (Val Bavona)",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.413529,
+          "longitudine": 8.528912,
+          "itinerari": [
+            {
+              "nome": "Las Empanadas",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1300965"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bellinzona",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.328177,
+          "longitudine": 8.948741,
+          "itinerari": [
+            {
+              "nome": "Parete Val D'Iragna - My Darling",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 960,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1290119"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sasso Tròlcia",
+          "disciplina": "climbing",
+          "esposizione": "NE",
+          "latitudine": 46.287716,
+          "longitudine": 8.63702,
+          "itinerari": [
+            {
+              "nome": "Il nodo infinito",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 870,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1290086"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placche di Tegna",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.187783,
+          "longitudine": 8.748555,
+          "itinerari": [
+            {
+              "nome": "Centrale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1250993"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Fusio (Valle Maggia)",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.455896,
+          "longitudine": 8.65984,
+          "itinerari": [
+            {
+              "nome": "Balestrucci - Barrage de Sambuco ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1220554"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ponte Brolla",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.18845,
+          "longitudine": 8.75151,
+          "itinerari": [
+            {
+              "nome": "Placche rosse - Pinocchio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 686,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1142902"
+              ]
+            },
+            {
+              "nome": "Wim",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 340,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/573513"
+              ]
+            },
+            {
+              "nome": "Framezzo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 340,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/356792"
+              ]
+            },
+            {
+              "nome": "Le-Le",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 340,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/356790"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sasso Grande",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.060117,
+          "longitudine": 9.023277,
+          "itinerari": [
+            {
+              "nome": "Via del Tolo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1491,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1093101"
+              ]
+            },
+            {
+              "nome": "Directissime",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1360,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/681217"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rovine del Castelliere",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.19019,
+          "longitudine": 8.74952,
+          "itinerari": [
+            {
+              "nome": "Klick",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946971"
+              ]
+            },
+            {
+              "nome": "Primavera",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946745"
+              ]
+            },
+            {
+              "nome": "Vespa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946542"
+              ]
+            },
+            {
+              "nome": "Züchitt go home",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946519"
+              ]
+            },
+            {
+              "nome": "Sonnenblume",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946486"
+              ]
+            },
+            {
+              "nome": "Nogelli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/941062"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valle di Gorduno - Gargamella",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.2213,
+          "longitudine": 9.0116,
+          "itinerari": [
+            {
+              "nome": "Orchidea Selvaggia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946308"
+              ]
+            },
+            {
+              "nome": "Legeresse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946061"
+              ]
+            },
+            {
+              "nome": "Via Col Lissio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946052"
+              ]
+            },
+            {
+              "nome": "Titanic",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946004"
+              ]
+            },
+            {
+              "nome": "Calimero",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/945952"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Balladrum (Losone)",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.155867,
+          "longitudine": 8.750031,
+          "itinerari": [
+            {
+              "nome": "Du Pont",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/945773"
+              ]
+            },
+            {
+              "nome": "Aurora",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/945772"
+              ]
+            },
+            {
+              "nome": "Sloops & briggs",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/945771"
+              ]
+            },
+            {
+              "nome": "Da chi da la...",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/945770"
+              ]
+            },
+            {
+              "nome": "Davis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/945769"
+              ]
+            },
+            {
+              "nome": "Fury",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/945768"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placche di Valletta",
+          "disciplina": "climbing",
+          "esposizione": "NE",
+          "latitudine": 46.56031,
+          "longitudine": 8.552088,
+          "itinerari": [
+            {
+              "nome": "Mätteli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/924656"
+              ]
+            },
+            {
+              "nome": "Centrale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/924655"
+              ]
+            },
+            {
+              "nome": "Gloggentürmli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/924654"
+              ]
+            },
+            {
+              "nome": "Via delle marmotte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/924653"
+              ]
+            },
+            {
+              "nome": "Giübin",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/924652"
+              ]
+            },
+            {
+              "nome": "Munggenweg",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/924650"
+              ]
+            },
+            {
+              "nome": "Prosa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/924649"
+              ]
+            },
+            {
+              "nome": "Canariscio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/924648"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga del Luzzone",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.56522,
+          "longitudine": 8.96218,
+          "itinerari": [
+            {
+              "nome": "Voie du barrage",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/905117"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Corona della Bolla",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "latitudine": 46.47217,
+          "longitudine": 8.597061,
+          "itinerari": [
+            {
+              "nome": "Via \"L'incantesimo del Lago\"",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2532,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/902548"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Cassina Baggio - Cime S",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "latitudine": 46.49731,
+          "longitudine": 8.455919,
+          "itinerari": [
+            {
+              "nome": "Francesca",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2580,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/809582"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gridone / Monte Limidario",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "latitudine": 46.123433,
+          "longitudine": 8.648209,
+          "itinerari": [
+            {
+              "nome": "Via Amici per Sempre (Rocce del Gridone)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2136,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/768802"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Parete Ai Monti",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.206279,
+          "longitudine": 8.65809,
+          "itinerari": [
+            {
+              "nome": "Dimitri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1333,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/758119"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Speroni di Ponte Brolla",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.19001,
+          "longitudine": 8.759259,
+          "itinerari": [
+            {
+              "nome": "Nika",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/738993"
+              ]
+            },
+            {
+              "nome": "Oméga",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 550,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/544180"
+              ]
+            },
+            {
+              "nome": "Alpha",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 550,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/544161"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Cassina Baggio - Cime S",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.492783,
+          "longitudine": 8.467773,
+          "itinerari": [
+            {
+              "nome": "Inrika",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2645,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/677934"
+              ]
+            },
+            {
+              "nome": "Tage der Kalte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2620,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/229078"
+              ]
+            },
+            {
+              "nome": "Regina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2580,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/225479"
+              ]
+            },
+            {
+              "nome": "Tanti auguri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2850,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/187459"
+              ]
+            },
+            {
+              "nome": "Piccadilly (di Bedretto)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2850,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/187223"
+              ]
+            },
+            {
+              "nome": "Dr Gruën Nils",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/131242"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vaiolet",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.065372,
+          "longitudine": 9.040309,
+          "itinerari": [
+            {
+              "nome": "Cresta del Vaiolet",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/542567"
+              ]
+            },
+            {
+              "nome": "Scalinatella",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/540819"
+              ]
+            },
+            {
+              "nome": "Via dello Spigolone",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1360,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/285608"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Scalinatella",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "latitudine": 46.067029,
+          "longitudine": 9.040247,
+          "itinerari": [
+            {
+              "nome": "Peduncoli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/540851"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placche di Lavorgo",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.460408,
+          "longitudine": 8.826548,
+          "itinerari": [
+            {
+              "nome": "Via dello Spigolo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 900,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/464025"
+              ]
+            },
+            {
+              "nome": "via Hammerbruch",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 900,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/463988"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cröis",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.24677,
+          "longitudine": 8.869634,
+          "itinerari": [
+            {
+              "nome": "Alice",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/385623"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placche di Freggio",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.500522,
+          "longitudine": 8.767393,
+          "itinerari": [
+            {
+              "nome": "Via del Pivello",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1630,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/359863",
+                "https://www.camptocamp.org/routes/56248"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Scaladri",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.206381,
+          "longitudine": 8.747283,
+          "itinerari": [
+            {
+              "nome": "Taroc",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/288974"
+              ]
+            },
+            {
+              "nome": "Fantasia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/288970"
+              ]
+            },
+            {
+              "nome": "Arcobaleno",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/288966"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Capanna Albagno",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.216163,
+          "longitudine": 8.966847,
+          "itinerari": [
+            {
+              "nome": "Via La strada del lupo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/288962"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Ruino",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.498012,
+          "longitudine": 8.471797,
+          "itinerari": [
+            {
+              "nome": "Spigolo W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2669,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/288957"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placconata di Val Calnegia",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.367613,
+          "longitudine": 8.533878,
+          "itinerari": [
+            {
+              "nome": "Sergeant's pepper",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/288953"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Cassina Baggio ",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.493863,
+          "longitudine": 8.4664,
+          "itinerari": [
+            {
+              "nome": "Floranna",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2494,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/229074"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Cassina Baggio - Cime S",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.488131,
+          "longitudine": 8.443386,
+          "itinerari": [
+            {
+              "nome": "Herbstwind",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/227103"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione Rosso",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.285109,
+          "longitudine": 8.883572,
+          "itinerari": [
+            {
+              "nome": "per la Val Pincascia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1800,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/141531"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placche di Gramüsed",
+          "disciplina": "climbing",
+          "esposizione": "NE",
+          "latitudine": 46.344773,
+          "longitudine": 8.600074,
+          "itinerari": [
+            {
+              "nome": "Cunnilingus cengis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 750,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/57654"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sasso Guidà",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.183347,
+          "longitudine": 9.085854,
+          "itinerari": [
+            {
+              "nome": "da Carena e traversata al Motto d'Arbino (1694)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1713,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/57130"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Garzo",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.189697,
+          "longitudine": 8.757172,
+          "itinerari": [
+            {
+              "nome": "Alhambra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1100,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55977"
+              ]
+            },
+            {
+              "nome": "Quarzader",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 790,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55695"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sassariente",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "latitudine": 46.204042,
+          "longitudine": 8.895965,
+          "itinerari": [
+            {
+              "nome": "Per la cresta N",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1768,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55409"
+              ]
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Gadmen",
@@ -22,12 +22,14 @@
               "gradoMassimo": "F",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2994,
+              "quotaMassima": 2994.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/funffingerstock-via-normale-dal-passo-del-susten/"
+              "link": [
+                "https://www.gulliver.it/itinerari/funffingerstock-via-normale-dal-passo-del-susten/"
+              ]
             }
           ]
         }
@@ -52,12 +54,14 @@
               "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 810,
+              "sviluppo": 810.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3970,
+              "quotaMassima": 3970.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/eiger-cresta-mittellegi-alta-traversata-creste-est-sud/"
+              "link": [
+                "https://www.gulliver.it/itinerari/eiger-cresta-mittellegi-alta-traversata-creste-est-sud/"
+              ]
             }
           ]
         },
@@ -77,9 +81,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3970,
+              "quotaMassima": 3970.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/eiger-cresta-mittellegi-traversata-degli-eigerjoch/"
+              "link": [
+                "https://www.gulliver.it/itinerari/eiger-cresta-mittellegi-traversata-degli-eigerjoch/"
+              ]
             }
           ]
         },
@@ -96,12 +102,38 @@
               "gradoMassimo": "ED+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1800,
+              "sviluppo": 1800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3970,
+              "quotaMassima": 3970.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/eiger-nordwand-via-heckmair/"
+              "link": [
+                "https://www.gulliver.it/itinerari/eiger-nordwand-via-heckmair/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Jungfrau Via Normale dallo Jungfraujoch",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.54812139,
+          "longitudine": 7.982802586,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4158.0,
+              "discesa": "per la stessa via.",
+              "link": [
+                "https://www.gulliver.it/itinerari/jungfrau-via-normale-dallo-jungfraujoch/"
+              ]
             }
           ]
         },
@@ -118,12 +150,38 @@
               "gradoMassimo": "D-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1300,
+              "sviluppo": 1300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 4107,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/monch-nollen/"
+              "quotaMassima": 4107.0,
+              "discesa": "lungo la via normale del Monch,quasi sempre ben tracciata visto l'alta frequentazione fino allo Jungfraujoch dove con il trenino riporta a Grindelwald",
+              "link": [
+                "https://www.gulliver.it/itinerari/monch-nollen/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Mònch Traversata Cresta sud-ovest/cresta sud-est",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.624452,
+          "longitudine": 8.034301,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 607.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4107.0,
+              "discesa": "si segue la normale (molto frequentata) molto affilata ed esposta la cresta all'inizio (magnifica) poi più facile con alcuni tratti da disarrampicare 2-3 ore",
+              "link": [
+                "https://www.gulliver.it/itinerari/monch-traversata-cresta-sud-ovest-cresta-sud-est/"
+              ]
             }
           ]
         },
@@ -140,12 +198,14 @@
               "gradoMassimo": "AD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1600,
+              "sviluppo": 1600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 4078,
+              "quotaMassima": 4078.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/schreckhorn-cresta-so/"
+              "link": [
+                "https://www.gulliver.it/itinerari/schreckhorn-cresta-so/"
+              ]
             }
           ]
         },
@@ -165,9 +225,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 4078,
+              "quotaMassima": 4078.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/schreckhorn-lauteraarhorn-traversata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/schreckhorn-lauteraarhorn-traversata/"
+              ]
             }
           ]
         },
@@ -184,12 +246,102 @@
               "gradoMassimo": "TD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1550,
+              "sviluppo": 1550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 4078,
+              "quotaMassima": 4078.0,
+              "discesa": "lungo la cresta SO (normale) con numerose doppie in loco (corde da 30m).",
+              "link": [
+                "https://www.gulliver.it/itinerari/schreckhorn-pillier-sud/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Guttannen",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Finsteraarhorn dall’Oberaarsee",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.548331945339115,
+          "longitudine": 8.276234864194473,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4273.0,
+              "discesa": "ritornati alla Fruhstuckplatz (3616 mt) si può tagliare per il ghiacciaio superiore alla base della cresta Sud-Est sino alla base del Gemschlicke. Att.ne: informarsi dello stato del ghiacciaio superiore dato che è molto crepacciato con fenditure in senso di marcia ! Dalla Frustuckplatz si scende sino al ghiacciaio dove giunge la traccia proveniente dalla F.hutte. Qui il percorso è evidente dato che si percorre il ghiacciaio in leggera ascesa verso la cresta SE (tenendosi a debita distanza (caduta pietre!) quindi con percorso logico ed intuitivo si divalla sino alle pietraie e nevai alla base del canale che porta al Gemschlicke. Nota: verso la parte inferiore si trovano ometti sulle pietraie che portano sino a un saltino di circa 30 metri (2 spit con cordone per doppia), da qui in breve al cono di deiezione del canale del Gemschlicke. Per il percorso precedente si ritorna alla diga e quindi all'auto.",
+              "link": [
+                "https://www.gulliver.it/itinerari/finsteraarhorn-dalloberaarsee/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oberaarhorn Via Normale dall’Oberaarsee",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.548394588143864,
+          "longitudine": 8.276148852000546,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1331.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3631.0,
+              "discesa": "a ritroso sul percorso di salita.",
+              "link": [
+                "https://www.gulliver.it/itinerari/oberaarhorn-via-normale/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Kandersteg",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Wildi Frau dalla Bluemlisalphutte",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.49481940830091,
+          "longitudine": 7.670106099923455,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3220.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/schreckhorn-pillier-sud/"
+              "link": [
+                "https://www.gulliver.it/itinerari/wildi-frau-dalla-bluemlisalphutte/"
+              ]
             }
           ]
         }
@@ -217,9 +369,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3661,
+              "quotaMassima": 3661.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bluemlisalphorn-parete-nord-in-traversata-verso-wyssi-frau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bluemlisalphorn-parete-nord-in-traversata-verso-wyssi-frau/"
+              ]
             }
           ]
         }
@@ -244,12 +398,14 @@
               "gradoMassimo": "F",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1410,
+              "sviluppo": 1410.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3503,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sustenhorn-dalla-tierbergli-hutte/"
+              "quotaMassima": 3503.0,
+              "discesa": "seguendo l’itinerario di salita",
+              "link": [
+                "https://www.gulliver.it/itinerari/sustenhorn-dalla-tierbergli-hutte/"
+              ]
             }
           ]
         }

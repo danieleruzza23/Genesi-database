@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Ferriere",
@@ -22,12 +22,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/amanti-cascata-degli/"
+              "link": [
+                "https://www.gulliver.it/itinerari/amanti-cascata-degli/"
+              ]
             },
             {
               "nome": "Demolition Man (Cascata)",
@@ -35,12 +37,14 @@
               "gradoMassimo": "2",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/demolition-man-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/demolition-man-cascata/"
+              ]
             },
             {
               "nome": "L’Insostenibile Pesantezza dell’Essere (Cascata)",
@@ -48,12 +52,14 @@
               "gradoMassimo": "1",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/linsostenibile-pesantezza-dellessere-cascata/"
+              "discesa": "come la precedente direttamente per bosco fino alla strada).",
+              "link": [
+                "https://www.gulliver.it/itinerari/linsostenibile-pesantezza-dellessere-cascata/"
+              ]
             },
             {
               "nome": "Mal d’Africa (Cascata)",
@@ -61,12 +67,14 @@
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/mal-dafrica-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/mal-dafrica-cascata/"
+              ]
             },
             {
               "nome": "Cavolini di Bruxelles (Cascata)",
@@ -74,12 +82,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cavolini-di-bruxelles-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cavolini-di-bruxelles-cascata/"
+              ]
             }
           ]
         },
@@ -96,25 +106,38 @@
               "gradoMassimo": "2",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/fantaghiro-rocca-dei-borri/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/fantaghiro-rocca-dei-borri/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cattaragna, Rocca dei Borri",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 44.61011513,
+          "longitudine": 9.442877769,
+          "itinerari": [
             {
               "nome": "Fantasia (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/fantasia-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/fantasia-cascata/"
+              ]
             }
           ]
         },
@@ -126,17 +149,19 @@
           "longitudine": 9.410409,
           "itinerari": [
             {
-              "nome": "Il Maestro è nell’Anima (Cascata)",
+              "nome": null,
               "gradoObbligatorio": "I",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/il-maestro-e-nellanima-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/il-maestro-e-nellanima-cascata/"
+              ]
             }
           ]
         },
@@ -153,12 +178,14 @@
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/le-groppe-cima-ci-vorrebbe-un-amico-primi-passi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/le-groppe-cima-ci-vorrebbe-un-amico-primi-passi/"
+              ]
             }
           ]
         }
@@ -183,25 +210,38 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 45,
+              "sviluppo": 45.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/faggeta-cascate-della/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/faggeta-cascate-della/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lago Santo",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 44.13491344,
+          "longitudine": 10.5868721,
+          "itinerari": [
             {
               "nome": "Petit Couloir",
               "gradoObbligatorio": "II",
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 20,
+              "sviluppo": 20.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lago-santo-petit-couloir/"
+              "discesa": "A piedi o con una doppia da 25m su uno degli alberi sommitali.",
+              "link": [
+                "https://www.gulliver.it/itinerari/lago-santo-petit-couloir/"
+              ]
             },
             {
               "nome": "Miraggio Invernale (Cascata)",
@@ -209,12 +249,14 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 45,
+              "sviluppo": 45.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lago-santo-miraggio-invernale/"
+              "discesa": "con una comoda doppia da 50m da uno degli alberi sommitali sommatale.tenersi sulla destra per evitare di incastrare le corde.",
+              "link": [
+                "https://www.gulliver.it/itinerari/lago-santo-miraggio-invernale/"
+              ]
             },
             {
               "nome": "La Terra è di Ghiaccio (Cascata)",
@@ -222,12 +264,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 55,
+              "sviluppo": 55.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lago-santo-la-terra-e-di-ghiaccio/"
+              "discesa": "con una comoda doppia da 60m dall’albero sommatale.",
+              "link": [
+                "https://www.gulliver.it/itinerari/lago-santo-la-terra-e-di-ghiaccio/"
+              ]
             },
             {
               "nome": "Celti (Cascata dei)",
@@ -235,12 +279,14 @@
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 18,
+              "sviluppo": 18.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lago-santo-cascata-dei-celti/"
+              "discesa": "Con una doppia dall’alberello posto subito sopra.",
+              "link": [
+                "https://www.gulliver.it/itinerari/lago-santo-cascata-dei-celti/"
+              ]
             },
             {
               "nome": "Tra una Speranza e un Desiderio",
@@ -248,12 +294,14 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 45,
+              "sviluppo": 45.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lago-santo-tra-una-speranza-e-un-desiderio/"
+              "discesa": "con una doppia da 25m.",
+              "link": [
+                "https://www.gulliver.it/itinerari/lago-santo-tra-una-speranza-e-un-desiderio/"
+              ]
             }
           ]
         }
@@ -278,25 +326,70 @@
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 25,
+              "sviluppo": 25.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cusna-monte-le-lacrime-del-gigante/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/cusna-monte-le-lacrime-del-gigante/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cusna (Monte)",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 44.29102832894013,
+          "longitudine": 10.366103702106066,
+          "itinerari": [
             {
               "nome": "Iceman’s Drive",
               "gradoObbligatorio": "III",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
+              "discesa": "dal crinalino della S2, scendere verso ovest (sx orografica) il canale innevato che porta alle colate delle Lacrime, una volta arrivati appena sopra l’uscita del fronte ghiacciato, traversare a sinistra (sx orografica) per circa 20 mt fino a trovare il masso con cordone di calata.",
+              "link": [
+                "https://www.gulliver.it/itinerari/cusna-monte-icemans-drive/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Monte Giovo",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "latitudine": 44.1328,
+          "longitudine": 10.5769,
+          "itinerari": [
+            {
+              "nome": "Canale Centrale",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "AD+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1991,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cusna-monte-icemans-drive/"
+              "link": [
+                "https://www.camptocamp.org/routes/270870"
+              ]
             }
           ]
         }

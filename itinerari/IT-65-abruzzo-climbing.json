@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Calascio",
@@ -22,12 +22,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 190,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bolza-monte-bolzisti-ma-pacifisti/"
+              "discesa": "si prosegue facilmente fino alla base dello sperone che costituisce la vetta ma che si aggira a sx (45 m). Ci si dirige ad E, si cala su roccette verso dx (S) per poi deviare decisamente a N passando sopra un ginepro (freccia rossa sbiadita); ora ancora a N ma in discesa. Di fronte appare l'anticha E del Bolza (q. 1872 m), raggiunta la selletta (qualche passo I°), si scende per la valletta che separa le due cime (tracce) fino a tornare in 20' al pianoro erboso fatto all'andata quindi alla macchina (lh dalla vetta).",
+              "link": [
+                "https://www.gulliver.it/itinerari/bolza-monte-bolzisti-ma-pacifisti/"
+              ]
             }
           ]
         }
@@ -52,12 +54,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": 6,
-              "sviluppo": 260,
+              "sviluppo": 260.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/stretta-cima-della-1-sperone-via-dei-gasteropodi/"
+              "discesa": "dalla Vetta dello spigolo (catena di calata) prima Doppia di 60m , inizialmente quasi a piombo, poi progressivamente verso il filo dello spigolo a sx (faccia a monte); Sosta con catena di calata esattamente a 60m. Con la seconda Doppia (35m) si raggiunge quasi il bordo della placca che precipita sulla parete gialla a dx del “toboga”. Sosta (catena di calata) a circa 10 m dal bordo. Terza Doppia: si scende fino al bordo per placca, poi saltino di 5-6 m su rocce verticali fino ad un ripiano; recuperate le corde, si ributtano giù oltre il bordo del secondo salto nel vuoto per 10m. Si giunge così ad un ulteriore ripiano con alberelli; si scende alla loro sx (faccia a valle) fino al ghiaione sottostante alla cui dx sono placche grigiastre. Quarta Doppia all’inizio di queste lisce placche grigiastre, ma si può scendere anche a piedi per terreno facile sul ghiaione di sx (faccia avalle) fino alla base dello sperone.",
+              "link": [
+                "https://www.gulliver.it/itinerari/stretta-cima-della-1-sperone-via-dei-gasteropodi/"
+              ]
             }
           ]
         }
@@ -82,12 +86,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-grandeil-paretone-secondo-pilastro/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-grandeil-paretone-secondo-pilastro/"
+              ]
             }
           ]
         },
@@ -104,64 +110,110 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": 8,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-grande-vetta-occidentale-sperone-centrale-via-bafile-antonelli/"
-            },
+              "discesa": "per la Direttissima (S), o per la Cresta Ovest, o per la via Normale (NO)",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-grande-vetta-occidentale-sperone-centrale-via-bafile-antonelli/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Grande, Vetta Occidentale",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "latitudine": 42.47216714,
+          "longitudine": 13.574938,
+          "itinerari": [
             {
               "nome": "Spigolo S/SE",
               "gradoObbligatorio": "4",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-grande-vetta-occidentale-spigolo-sse/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-grande-vetta-occidentale-spigolo-sse/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Grande, Vetta Occidentale",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 42.47307082125432,
+          "longitudine": 13.57072206872758,
+          "itinerari": [
             {
               "nome": "Demetrio Stratos",
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": 7,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-grande-vetta-occidentale-demetrio-stratos/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-grande-vetta-occidentale-demetrio-stratos/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Grande, Vetta Occidentale",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 42.47298101147609,
+          "longitudine": 13.570762178261715,
+          "itinerari": [
             {
               "nome": "Controcorrente",
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 240,
+              "sviluppo": 240.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-grande-vetta-occidentale-controcorrente/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-grande-vetta-occidentale-controcorrente/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Grande, Vetta Occidentale",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 42.473012039965404,
+          "longitudine": 13.57072848283119,
+          "itinerari": [
             {
               "nome": "Via Sucai",
               "gradoObbligatorio": "3",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-grande-vetta-occidentale-via-sucai/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-grande-vetta-occidentale-via-sucai/"
+              ]
             }
           ]
         }
@@ -186,12 +238,14 @@
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-grande-parete-est-eppure-siamo-andati/"
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-grande-parete-est-eppure-siamo-andati/"
+              ]
             }
           ]
         },
@@ -208,12 +262,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-chiaraviglio-berthelet/"
+              "discesa": "Per la via Normale da Sud o per la stessa ferrata Danesi.",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-chiaraviglio-berthelet/"
+              ]
             }
           ]
         },
@@ -230,12 +286,14 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-il-ballo-della-tarantola/"
+              "discesa": "Con un altro tiro su facile terreno si arriverebbe in cima alla “Prima Spalla” dove le relazioni indicano una serie di quattro calate, però si può anche scendere a ritroso in doppia l’itinerario e, dopo aver risalito in direzione della “Seconda Spalla”, prendere il canale Bonacossa in discesa fino al sentiero che conduce alla stazionde della funivia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-il-ballo-della-tarantola/"
+              ]
             }
           ]
         },
@@ -252,90 +310,86 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 1,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-1spalla-federici-antonelli/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-1spalla-federici-antonelli/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48185522693241,
+          "longitudine": 13.554930827033397,
+          "itinerari": [
             {
               "nome": "Meridionalizziamoci",
               "gradoObbligatorio": "5a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-meridionalizziamoci/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-meridionalizziamoci/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48220045734298,
+          "longitudine": 13.557393345260609,
+          "itinerari": [
             {
               "nome": "Concetto di Bistecca",
               "gradoObbligatorio": "5b",
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 220,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-concetto-di-bistecca/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-concetto-di-bistecca/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "latitudine": 42.482,
+          "longitudine": 13.5577,
+          "itinerari": [
             {
               "nome": "Attenti alle Clessidre",
               "gradoObbligatorio": "4",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-attenti-alle-clessidre/"
-            },
-            {
-              "nome": "Via Stefano Tribioli",
-              "gradoObbligatorio": "6a+",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 215,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-i-spalla-stefano-tribioli/"
-            },
-            {
-              "nome": "Via Consiglio-Alletto",
-              "gradoObbligatorio": "4",
-              "gradoMassimo": "4",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 300,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-prima-spalla-via-consiglio-alletto/"
-            },
-            {
-              "nome": "Spigolo delle Guide",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-i-spalla-spigolo-delle-guide/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-attenti-alle-clessidre/"
+              ]
             },
             {
               "nome": "Placche di Odino",
@@ -343,64 +397,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-placche-di-odino/"
-            },
-            {
-              "nome": "Icosaedro",
-              "gradoObbligatorio": "6a+",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-i-spalla-icosaedro/"
-            },
-            {
-              "nome": "Fallo per Scelta",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "5a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 270,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-1a-spalla-parete-ne/"
-            },
-            {
-              "nome": "Placche Bianche + Camino Jannetta-Bonacossa",
-              "gradoObbligatorio": "4",
-              "gradoMassimo": "4",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 450,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-i-spalla-placche-bianche-camino-jannetta-bonacossa/"
-            },
-            {
-              "nome": "Via Fantoni-Modena+Virgola",
-              "gradoObbligatorio": "4",
-              "gradoMassimo": "4",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 300,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-prima-spalla-parete-n-via-fantoni-modenavirgola/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-1-spalla-placche-di-odino/"
+              ]
             },
             {
               "nome": "Via Cotichelli-Piangatelli",
@@ -408,12 +412,212 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-1spalla-cotichelli-piangatelli/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-1spalla-cotichelli-piangatelli/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "latitudine": 42.480090134626316,
+          "longitudine": 13.555967164435971,
+          "itinerari": [
+            {
+              "nome": "Via Stefano Tribioli",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 215.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-i-spalla-stefano-tribioli/"
+              ]
+            },
+            {
+              "nome": "II Spalla - via Splendido Splendente ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1242630"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "latitudine": 42.48148544385467,
+          "longitudine": 13.55493819789312,
+          "itinerari": [
+            {
+              "nome": "Via Consiglio-Alletto",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "ci si sposta sul versante NE della vetta lungo una placconata parallela ad una crestina rocciosa, in direzione del colletto della 1° Spalla; poi lungo le doppie della Via Attenti alle Clessidre",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-prima-spalla-via-consiglio-alletto/"
+              ]
+            },
+            {
+              "nome": "II spalla. Via Sua Mollosa Grossezza",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2450,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1243357"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "latitudine": 42.48177480292968,
+          "longitudine": 13.554926945184315,
+          "itinerari": [
+            {
+              "nome": "Spigolo delle Guide",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "tante possibilità, o in doppia dalla via delle clessidre (prima sosta attrezzata subito alla fine della via), o lungo la via del canalone, o, consigliato, lungo la via normale che si incontra a destra proseguendo facilmente lungo la cresta (bolli rosso-gialli)",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-i-spalla-spigolo-delle-guide/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48183621216942,
+          "longitudine": 13.55572985435962,
+          "itinerari": [
+            {
+              "nome": "Icosaedro",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-i-spalla-icosaedro/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "latitudine": 42.48203468881724,
+          "longitudine": 13.55720419820527,
+          "itinerari": [
+            {
+              "nome": "Fallo per Scelta",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "5a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 270.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "con una serie di Doppie attrezzate , al centro della placconata.",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-1a-spalla-parete-ne/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 42.48174244632217,
+          "longitudine": 13.554562817183884,
+          "itinerari": [
+            {
+              "nome": "Placche Bianche + Camino Jannetta-Bonacossa",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "in doppia per la Via Attenti alle Clessidre",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-i-spalla-placche-bianche-camino-jannetta-bonacossa/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 1a spalla",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48186587913839,
+          "longitudine": 13.555390655371683,
+          "itinerari": [
+            {
+              "nome": "Via Fantoni-Modena+Virgola",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "con le Doppie della Via Attenti alle Clessidre",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-prima-spalla-parete-n-via-fantoni-modenavirgola/"
+              ]
             }
           ]
         },
@@ -430,12 +634,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 235,
+              "sviluppo": 235.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-via-delle-due-generazioni/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-via-delle-due-generazioni/"
+              ]
             }
           ]
         },
@@ -452,25 +658,38 @@
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-spetacchio-cosmico-sorseggiando-una-china/"
-            },
+              "discesa": "in doppia con tre calate su catene con corde da 60 metri, comunque ci sono soste di varia qualità, alcune improvvisate, ovunque.",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-spetacchio-cosmico-sorseggiando-una-china/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 2a spalla",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 42.48055,
+          "longitudine": 13.55349,
+          "itinerari": [
             {
               "nome": "Amore-Gambini",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 260,
+              "sviluppo": 260.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-2a-spalla-parete-ovest-via-amore-gambini/"
+              "discesa": ". Giusto un paio di metri a sinistra della sosta di arrivo si trova un’altra sosta predisposta per la calata; partendo da essa si scende direttamente verso il canale Bonacossa con 3 doppie attrezzate (40 m, 55 m, 55 m). Si supera un ultimo passaggino di II in disarrampicata sulla sinistra (faccia a valle), quindi si esce dal canale Bonacossa e verso destra per tracce si ritorna al sentiero Ventricini.",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-2a-spalla-parete-ovest-via-amore-gambini/"
+              ]
             },
             {
               "nome": "Aquilotti 72",
@@ -478,25 +697,14 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 235,
+              "sviluppo": 235.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-aquilotti-72/"
-            },
-            {
-              "nome": "Aquilotti 74",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "5b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 230,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-aquilotti-74/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-aquilotti-72/"
+              ]
             },
             {
               "nome": "Aquilotti 75",
@@ -504,25 +712,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 230,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-aquilotti-75/"
-            },
-            {
-              "nome": "Sua Mollosa Grossezza",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-sua-mollosa-grossezza/"
+              "discesa": "Ci dovrebbe essere un sistema di doppie, oppure, con attenzione si scende il canale Bonacossa",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-aquilotti-75/"
+              ]
             },
             {
               "nome": "Vecchiaccio",
@@ -530,12 +727,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 210,
+              "sviluppo": 210.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-vecchiaccio/"
+              "discesa": "A piedi dal Bonacossa In doppia verso il Bonacossa oppure in doppia su Sua Mollosa Grossezza",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-vecchiaccio/"
+              ]
             },
             {
               "nome": "Splendido Splendente",
@@ -543,12 +742,14 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-seconda-spalla-splendido-splendente/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-seconda-spalla-splendido-splendente/"
+              ]
             },
             {
               "nome": "Antonio Benedetti",
@@ -556,12 +757,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": 9,
-              "sviluppo": 320,
+              "sviluppo": 320.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-ii-spalla-antonio-benedetti/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-ii-spalla-antonio-benedetti/"
+              ]
             },
             {
               "nome": "La Notte delle streghe",
@@ -569,12 +772,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 7,
-              "sviluppo": 245,
+              "sviluppo": 245.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-seconda-spalla-la-notte-delle-streghe/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-seconda-spalla-la-notte-delle-streghe/"
+              ]
             },
             {
               "nome": "Marsilii-Sivitilli",
@@ -582,25 +787,86 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 220,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-via-marsilii-sivitilli/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-via-marsilii-sivitilli/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 2a spalla",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48172956220556,
+          "longitudine": 13.55394906745912,
+          "itinerari": [
+            {
+              "nome": "Aquilotti 74",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 230.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "In doppia sulla via oppure a piedi nel canale Bonacossa",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-aquilotti-74/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 2a spalla",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48173747464367,
+          "longitudine": 13.55393833862306,
+          "itinerari": [
+            {
+              "nome": "Sua Mollosa Grossezza",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "In doppia (corde da 60 m): Calate attrezzate partendo da S7, passando per S4 e infine per S2. A piedi: Dalla cima, scendere lungo il canale Bonacossa.",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-sua-mollosa-grossezza/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, 2a spalla",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 42.481761211951984,
+          "longitudine": 13.554099271163954,
+          "itinerari": [
             {
               "nome": "Morandi-Consiglio-De Ritis",
               "gradoObbligatorio": "4",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 230,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-morandi-consiglio-de-ritis/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-2-spalla-morandi-consiglio-de-ritis/"
+              ]
             }
           ]
         },
@@ -617,12 +883,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-campanile-livia-via-valeria-e-via-dei-triestini/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-campanile-livia-via-valeria-e-via-dei-triestini/"
+              ]
             }
           ]
         },
@@ -639,64 +907,125 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ura-mawashi-tobi-geri-jordan/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/ura-mawashi-tobi-geri-jordan/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Monolito",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 42.47930147742982,
+          "longitudine": 13.560715031738283,
+          "itinerari": [
             {
               "nome": "Via del Monolito",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-monolito-via-del-monolito/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-monolito-via-del-monolito/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Monolito",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 42.476983,
+          "longitudine": 13.561745,
+          "itinerari": [
             {
               "nome": "Di Federico-De Luca",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-monolito-di-federico-de-luca/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-monolito-di-federico-de-luca/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Monolito",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 42.478987051132044,
+          "longitudine": 13.561339756205761,
+          "itinerari": [
             {
               "nome": "Mirka",
               "gradoObbligatorio": "4",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-mirka/"
-            },
+              "discesa": "una volta guadagnata la grande cengia, attraversarla verso sx fino alla fine e da qui scendere per un poco evidente sentiero seguendo alcuni ometti fino alla pietraia (tratti di 3); in alternativa nel canale a dx scendendo (all'altezza di una grande cengia erbosa) si trovano degli ancoraggi e con due doppie si guadagna il fondo.",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-mirka/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Monolito",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.47923544846402,
+          "longitudine": 13.560610447362084,
+          "itinerari": [
             {
               "nome": "Manuela",
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-est-monolito-via-manuela/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-est-monolito-via-manuela/"
+              ]
+            },
+            {
+              "nome": "Monolito. Via Emanuela",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2655,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1242990"
+              ]
             }
           ]
         },
@@ -713,25 +1042,38 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-est-spigolo-a-destra-della-crepa/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-est-spigolo-a-destra-della-crepa/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Est",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "latitudine": 42.47945220404487,
+          "longitudine": 13.561629647517996,
+          "itinerari": [
             {
               "nome": "Voci di Terra Lontana",
               "gradoObbligatorio": "4",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 325,
+              "sviluppo": 325.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-est-voci-di-terra-lontana/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-est-voci-di-terra-lontana/"
+              ]
             }
           ]
         },
@@ -748,168 +1090,302 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-iskra/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-iskra/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48275025781888,
+          "longitudine": 13.562160063600572,
+          "itinerari": [
             {
               "nome": "Kontiki",
               "gradoObbligatorio": "5a",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 260,
+              "sviluppo": 260.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-kontiki/"
-            },
+              "discesa": "dalla cresta si procede verso sinistra in leggera discesa verso il secondo salto della cresta NE. Arrivati in corrispondenza di uno spallone lo si aggira a sinistra sul filo di una cengia che taglia circolarmente la spalla fino a trovare la catena su fix con l’anello di calata. Ci si cala in doppia fino ad un terrazzo erboso. Da lì a sinistra ci si dirige verso un canale erboso incassato in una spaccatura. Lo si guadagna scendendo dentro con un passaggio di II. Lo si percorre tutto seguendo la curva che piega verso destra fino ad arrivare in corrispondenza di un forcellino sulla destra che si risale arrampicando facilmente. Lo si scavalca e si continua a scendere per via intuitiva sul lato opposto. Dopo poco si incrociano tracce di sentiero che portano poi a quello che conduce al Franchetti. Si prosegue fino alla Madonnina.",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-kontiki/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48332577600554,
+          "longitudine": 13.564786223371618,
+          "itinerari": [
             {
               "nome": "Sotto I grandi tetti",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-sotto-i-grandi-tetti/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-sotto-i-grandi-tetti/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48134630273543,
+          "longitudine": 13.55948847688476,
+          "itinerari": [
             {
               "nome": "La Compagnia Bella",
               "gradoObbligatorio": "5a",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 1,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-la-compagnia-bella/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-la-compagnia-bella/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48252358660711,
+          "longitudine": 13.5626464069309,
+          "itinerari": [
             {
               "nome": "Bachetti-Calibani",
               "gradoObbligatorio": "4",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 190,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-via-bachetti-calibani/"
-            },
+              "discesa": "traversando a dx la comba ghiaiosa, si raggiunge il Camino di mezzo per il quale si scende.",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-via-bachetti-calibani/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.483778678026916,
+          "longitudine": 13.564740095699216,
+          "itinerari": [
             {
               "nome": "Marco Florio",
               "gradoObbligatorio": "4",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": 9,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-via-marco-florio/"
-            },
+              "discesa": "Dalla cresta si procede in leggera discesa verso il secondo salto della cresta NE. Si arriva ad uno spallone e lo si aggira a sinistra su una cengetta fino a trovare la catena su fix con l’anello di calata. Si cala in doppia fino ad un terrazzo erboso. Da lì a sx (faccia a valle) ci si dirige verso un canalino erboso in una spaccatura. Si scende dentro con un passaggio di II e lo si percorre tutto piegando verso dx fino ad arrivare ad un forcellino. Lo si scavalca e si continua a scendere per via intuitiva sul lato opposto. Dopo poco si incrociano tracce di sentiero che portano al sentiero per il Rif. Franchetti. Si gira a sx e si raggiunge la Madonnina.",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-via-marco-florio/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.480573507777464,
+          "longitudine": 13.559603051766302,
+          "itinerari": [
             {
               "nome": "Via Saladini-Alesi",
               "gradoObbligatorio": "4",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": 6,
-              "sviluppo": 170,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-via-saladini-alesi/"
-            },
+              "discesa": ". in disarrampicata ed in doppia lungo la cresta NE",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-via-saladini-alesi/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 42.48283208038407,
+          "longitudine": 13.559691381932364,
+          "itinerari": [
             {
               "nome": "Via Gigino Barbizzi",
               "gradoObbligatorio": "4",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 170,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-via-gigino-barbizzi/"
-            },
+              "discesa": "Dalla cresta si procede verso la sinistra in leggera discesa verso il Secondo Salto della cresta NE. Arrivati in corrispondenza di uno spallone lo si aggira a sinistra sul filo di una cengia che taglia circolarmente la spalla fino a trovare la catena su fix con l'anello di calata. Ci si cala in doppia fino ad un terrazzo erboso. Da lì a sx (faccia a valle) ci si dirige verso un canale erboso in una spaccatura. Si scende dentro il canaletto con un passaggio di II. Lo si percorre tutto seguendo la curva che piega verso destra fino ad arrivare in corrispondenza di un forcellino sulla destra. Lo si scavalca e si continua a scendere per via intuitiva sul lato opposto, tenendo la sinistra. Dopo poco si incrociano tracce di sentiero che portano poi a quello che conduce al Franchetti. Si prosegue a sx fino alla Madonnina.",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-via-gigino-barbizzi/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.481835117300065,
+          "longitudine": 13.558639955998526,
+          "itinerari": [
             {
               "nome": "Cip e Ciop Agenti Speciali",
               "gradoObbligatorio": "4",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-cip-e-ciop-agenti-speciali/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-cip-e-ciop-agenti-speciali/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.48185699924615,
+          "longitudine": 13.561477002741418,
+          "itinerari": [
             {
               "nome": "Che Guevara",
               "gradoObbligatorio": "4",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": 3,
-              "sviluppo": 260,
+              "sviluppo": 260.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-via-che-guevara/"
-            },
+              "discesa": "lungo la cresta NE",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-parete-nord-via-che-guevara/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.482454042361184,
+          "longitudine": 13.558737455606673,
+          "itinerari": [
             {
               "nome": "X",
               "gradoObbligatorio": "4",
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-nordvia-x/"
-            },
+              "discesa": "per il Camino di Mezzo",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-nordvia-x/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 42.48219909324338,
+          "longitudine": 13.559627011738268,
+          "itinerari": [
             {
               "nome": "Via Bachetti-Fanesi",
               "gradoObbligatorio": "4",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-via-bachetti-fanesi-e-variante-carmela/"
-            },
+              "discesa": "Dalla cresta nord-est si scende per un breve tratto (esposto) fino a raggiungere l'ancoraggio per la doppia che permette di giungere alla base della parete. Da qui prima per un canalino quindi per tracce di sentiero si torna facilmente all'attacco della via.",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-via-bachetti-fanesi-e-variante-carmela/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso, Corno Piccolo, Parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 42.482151612472634,
+          "longitudine": 13.559863042000723,
+          "itinerari": [
             {
               "nome": "Via Saladini-Florio",
               "gradoObbligatorio": "4",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 210,
+              "sviluppo": 210.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-via-saladini-florio/"
+              "discesa": "per il Camino di Mezzo.",
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-parete-nord-via-saladini-florio/"
+              ]
             }
           ]
         },
@@ -926,12 +1402,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-piccolo-punta-dei-due-via-gervasutti-allo-sperone-sud/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-piccolo-punta-dei-due-via-gervasutti-allo-sperone-sud/"
+              ]
             }
           ]
         },
@@ -948,12 +1426,14 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-torre-cichetti-parete-est-via-trentanni/"
+              "discesa": "conviene percorrere la Chiaraviglio a ritroso fino a trovare la prima di due doppie che depositano ai piedi della parete sotto la Punta dei Due sul versante vallone dei Ginepri. Risalire alla Sella Due Corni e scendere nel Vallone delle Cornacchie per il sentiero che passa dal Rif. Franchetti",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-sasso-corno-piccolo-torre-cichetti-parete-est-via-trentanni/"
+              ]
             }
           ]
         },
@@ -970,12 +1450,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 125,
+              "sviluppo": 125.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/intermesoli-pizzo-di-secondo-pilastro-abracadabra/"
+              "link": [
+                "https://www.gulliver.it/itinerari/intermesoli-pizzo-di-secondo-pilastro-abracadabra/"
+              ]
             },
             {
               "nome": "Via Marsilii-Gizzoni",
@@ -983,12 +1465,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/intermesolipizzo-di-2-pilastro-via-marsilii-gizzoni/"
+              "discesa": "in leggera discesa obliqua a sx (faccia a valle) si oltrepassano due crinali erbosi,si scende un ghiaione e dove ha termine ci si sposta a sx(N) su uno sperone erboso con caratteristico arbusto.Scendere qualche metro lungo lo sperone fino ad una cengetta erbosa che porta a sx dentro un canale.Lo si percorre in discesa per 15m ,poi alcune tracce poco evidenti portano su un altro sperone di sx da scendere per 100m di dislivello ricercando la via più facile (a dx vi è un canale parallelo,ghiaioso,che è possibile seguire finchè non si interrompe su salti). Dal canale o dallo sperone si traversa a sx prendendo un altro crinale di roccette e poi ancora a sx si scende a vista sulle ghiaie che portano in Val Maone (circa 660 m di dislivello).",
+              "link": [
+                "https://www.gulliver.it/itinerari/intermesolipizzo-di-2-pilastro-via-marsilii-gizzoni/"
+              ]
             },
             {
               "nome": "Maddecheaò!",
@@ -996,12 +1480,14 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/intermesoli-pizzo-ii-pilastro-maddecheao/"
+              "discesa": "per la via normale, una volta usciti sui pratoni sommitali ci si trova di fronte una barra rocciosa che si supera verso sinistra, per una rampa facile ma esposta. Una volta superata la rampa, si superano due crinali erbosi e ci si dirige verso delle pareti di roccia gialla e stratificata, inconfondibili verso la parte sinistra (faccia a valle) e bassa del vallone. Una volta arrivati alle pareti di roccia stratificata si continua a scendere spostandosi verso sinistra (faccia a valle). La valle si restringe e forma due canali, prendere quello di sinistra (faccia a valle) esili tracce di sentiero e continuare a scendere verso il fondo valle, superando qualche saltino di roccia fino a raggiungere i ghiaioni della Val Maone da cui si raggiunnge il sentiero percorso durante l'accesso. Nella prima parte della discesa non sono presenti tracce, si scende per prati e ghiaioni.",
+              "link": [
+                "https://www.gulliver.it/itinerari/intermesoli-pizzo-ii-pilastro-maddecheao/"
+              ]
             }
           ]
         },
@@ -1018,12 +1504,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 210,
+              "sviluppo": 210.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/intermesoli-pizzo-di-secondo-pilastro-worms-wall/"
+              "discesa": "a fine via salire per prati ripidi fino alla base di una paretina successiva. Salirla nel punto più debole, circa al centro, su buona roccia con placchetta a rigole (10 m, max III), fino a sbucare sui pendii erbosi superiori. Qui iniziare a scendere sempre verso sx (faccia a valle), su erba ripida senza tracce né ometti, costeggiando a lungo una serie di pareti giallastre friabili, puntando a un canalone in fondo a sx abbastanza evidente. Infilarsi in detto canalone (il passaggio più agevole è sulla sx faccia a valle) e scenderlo tutto per prati roccette e ghiaie, fino al fondo del val Maone dove si riprende il sentiero che riporta a Prati di Tivo. Questa discesa è lunga e delicata e richiede concentrazione costante fino al fondovalle. Contare ca. 2h30 da fine via all’auto.",
+              "link": [
+                "https://www.gulliver.it/itinerari/intermesoli-pizzo-di-secondo-pilastro-worms-wall/"
+              ]
             }
           ]
         },
@@ -1040,12 +1528,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/intermesoli-pizzo-di-3-pilastro-sindarin/"
+              "link": [
+                "https://www.gulliver.it/itinerari/intermesoli-pizzo-di-3-pilastro-sindarin/"
+              ]
             }
           ]
         }
@@ -1065,17 +1555,19 @@
           "longitudine": 13.64459037,
           "itinerari": [
             {
-              "nome": "Altare della Neviera Via Cumbre",
+              "nome": null,
               "gradoObbligatorio": "5a",
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 115,
+              "sviluppo": 115.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/altare-della-neviera-via-cumbre/"
+              "link": [
+                "https://www.gulliver.it/itinerari/altare-della-neviera-via-cumbre/"
+              ]
             }
           ]
         },
@@ -1092,12 +1584,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/costone-occidentale-monte-via-savini-bertuccioli/"
+              "link": [
+                "https://www.gulliver.it/itinerari/costone-occidentale-monte-via-savini-bertuccioli/"
+              ]
             }
           ]
         }
@@ -1122,12 +1616,46 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/placca-dello-iaccetto-di-capo-pezza/"
+              "link": [
+                "https://www.gulliver.it/itinerari/placca-dello-iaccetto-di-capo-pezza/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Gran Sasso d'Italia - Corno Grande",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "latitudine": 42.457979,
+          "longitudine": 13.56043,
+          "itinerari": [
+            {
+              "nome": "via Sucai",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/359258"
+              ]
             }
           ]
         }

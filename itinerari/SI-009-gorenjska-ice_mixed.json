@@ -1,10 +1,10 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Gorenjska",
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
       "paese": "SI",
       "latitudine": null,
       "longitudine": null,
@@ -12,23 +12,10 @@
         {
           "nome": "Begunjščica",
           "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "latitudine": 46.425287,
-          "longitudine": 14.232829,
+          "esposizione": "W",
+          "latitudine": 46.424225,
+          "longitudine": 14.221666,
           "itinerari": [
-            {
-              "nome": "Osrednja grapa",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2060,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1395642"
-            },
             {
               "nome": "Smokuški plaz",
               "gradoObbligatorio": "III",
@@ -40,194 +27,16 @@
               "pendioMassimo": null,
               "quotaMassima": 2060,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1698299"
-            },
-            {
-              "nome": "Y",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2060,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1395644"
-            },
-            {
-              "nome": "Šentanski plaz",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2060,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1395668"
-            }
-          ]
-        },
-        {
-          "nome": "Bovški Gamsovec",
-          "disciplina": "ice_mixed",
-          "esposizione": "se",
-          "latitudine": 46.395233,
-          "longitudine": 13.821032,
-          "itinerari": [
-            {
-              "nome": "Velika grapa",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2392,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1690153"
-            }
-          ]
-        },
-        {
-          "nome": "Debela peč",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "latitudine": 46.384651,
-          "longitudine": 13.930109,
-          "itinerari": [
-            {
-              "nome": "by the SW edge",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2016,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/51000"
-            }
-          ]
-        },
-        {
-          "nome": "Dolgi hrbet",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "latitudine": 46.368448,
-          "longitudine": 14.546087,
-          "itinerari": [
-            {
-              "nome": "Teranova smer",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1393108"
-            }
-          ]
-        },
-        {
-          "nome": "Dovški križ",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "latitudine": 46.441011,
-          "longitudine": 13.839975,
-          "itinerari": [
-            {
-              "nome": "Jugova grapa",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2542,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/822882"
-            }
-          ]
-        },
-        {
-          "nome": "Jalovec",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "latitudine": 46.425801,
-          "longitudine": 13.690944,
-          "itinerari": [
-            {
-              "nome": "Ozebnik",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2645,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/53312"
-            }
-          ]
-        },
-        {
-          "nome": "Macesnovec",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "latitudine": 46.407116,
-          "longitudine": 13.898746,
-          "itinerari": [
-            {
-              "nome": "Zakleta grapa",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1926,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/692666"
-            }
-          ]
-        },
-        {
-          "nome": "Požgana Mlinarica",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "latitudine": 46.407208,
-          "longitudine": 13.887352,
-          "itinerari": [
-            {
-              "nome": "Divja mesečina",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1873,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1690143"
+              "link": [
+                "https://www.camptocamp.org/routes/1698299"
+              ]
             }
           ]
         },
         {
           "nome": "Prisojnik",
           "disciplina": "ice_mixed",
-          "esposizione": null,
+          "esposizione": "NW",
           "latitudine": 46.431006,
           "longitudine": 13.767456,
           "itinerari": [
@@ -242,14 +51,64 @@
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1697847"
+              "link": [
+                "https://www.camptocamp.org/routes/1697847"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vrtača",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "latitudine": 46.437189,
+          "longitudine": 14.210001,
+          "itinerari": [
+            {
+              "nome": "Južna grapa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2181,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1697578"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vrtača",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "latitudine": 46.440454,
+          "longitudine": 14.214041,
+          "itinerari": [
+            {
+              "nome": " Y ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2181,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1697577"
+              ]
             }
           ]
         },
         {
           "nome": "Stenar",
           "disciplina": "ice_mixed",
-          "esposizione": "e",
+          "esposizione": "E",
           "latitudine": 46.407619,
           "longitudine": 13.829332,
           "itinerari": [
@@ -264,30 +123,67 @@
               "pendioMassimo": null,
               "quotaMassima": 2501,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1690177"
+              "link": [
+                "https://www.camptocamp.org/routes/1690177"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bovški Gamsovec",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.395233,
+          "longitudine": 13.821032,
+          "itinerari": [
+            {
+              "nome": "Velika grapa",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2392,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1690153"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Požgana Mlinarica",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "latitudine": 46.407208,
+          "longitudine": 13.887352,
+          "itinerari": [
+            {
+              "nome": "Divja mesečina",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1873,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1690143"
+              ]
             }
           ]
         },
         {
           "nome": "Storžič",
           "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "latitudine": 46.354423,
-          "longitudine": 14.400068,
+          "esposizione": "N",
+          "latitudine": 46.354947,
+          "longitudine": 14.401824,
           "itinerari": [
-            {
-              "nome": "Kramarjeva smer",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1266856"
-            },
             {
               "nome": "Peto žrelo",
               "gradoObbligatorio": "III",
@@ -299,106 +195,16 @@
               "pendioMassimo": null,
               "quotaMassima": 2132,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1687061"
-            },
-            {
-              "nome": "from Bašeljski preval (E)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2132,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/830077"
-            }
-          ]
-        },
-        {
-          "nome": "Travnik",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "latitudine": 46.428467,
-          "longitudine": 13.704092,
-          "itinerari": [
-            {
-              "nome": "Gully between Travnik and Šite",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1292440"
-            }
-          ]
-        },
-        {
-          "nome": "Triglav",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "latitudine": 46.387218,
-          "longitudine": 13.834939,
-          "itinerari": [
-            {
-              "nome": "Sanjski ozebnik",
-              "gradoObbligatorio": "V",
-              "gradoMassimo": "ED",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1266974"
-            },
-            {
-              "nome": "Winter standard ascent (E ridge)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2864,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/800203"
-            }
-          ]
-        },
-        {
-          "nome": "Triglavski dom (Kredarica)",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "latitudine": 46.365855,
-          "longitudine": 13.876179,
-          "itinerari": [
-            {
-              "nome": "Winter standard ascent (Krma valley)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2515,
-              "discesa": null,
-              "link": "https://www.camptocamp.org/routes/679331"
+              "link": [
+                "https://www.camptocamp.org/routes/1687061"
+              ]
             }
           ]
         },
         {
           "nome": "Viševnik",
           "disciplina": "ice_mixed",
-          "esposizione": "se",
+          "esposizione": "SE",
           "latitudine": 46.359267,
           "longitudine": 13.90456,
           "itinerari": [
@@ -413,8 +219,115 @@
               "pendioMassimo": null,
               "quotaMassima": 2050,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1631135"
-            },
+              "link": [
+                "https://www.camptocamp.org/routes/1631135"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Begunjščica",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.426363,
+          "longitudine": 14.23916,
+          "itinerari": [
+            {
+              "nome": "Šentanski plaz",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2060,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1395668"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Begunjščica",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.424096,
+          "longitudine": 14.233389,
+          "itinerari": [
+            {
+              "nome": "Y  ",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2060,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1395644"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Begunjščica",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.425287,
+          "longitudine": 14.232829,
+          "itinerari": [
+            {
+              "nome": "Osrednja grapa",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2060,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1395642"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dolgi hrbet",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.368448,
+          "longitudine": 14.546087,
+          "itinerari": [
+            {
+              "nome": "Teranova smer",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1393108"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Viševnik",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.354805,
+          "longitudine": 13.903575,
+          "itinerari": [
             {
               "nome": "from Rudno polje (standard ascent)",
               "gradoObbligatorio": null,
@@ -426,32 +339,93 @@
               "pendioMassimo": null,
               "quotaMassima": 2050,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1383341"
+              "link": [
+                "https://www.camptocamp.org/routes/1383341"
+              ]
             }
           ]
         },
         {
-          "nome": "Vrtača",
+          "nome": "Travnik",
           "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "latitudine": 46.440454,
-          "longitudine": 14.214041,
+          "esposizione": "N",
+          "latitudine": 46.428467,
+          "longitudine": 13.704092,
           "itinerari": [
             {
-              "nome": "Y",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
+              "nome": "Gully between Travnik and Šite",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2181,
+              "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1697577"
-            },
+              "link": [
+                "https://www.camptocamp.org/routes/1292440"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Triglav",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.387218,
+          "longitudine": 13.834939,
+          "itinerari": [
             {
-              "nome": "Južna grapa",
+              "nome": "Sanjski ozebnik",
+              "gradoObbligatorio": "V",
+              "gradoMassimo": "ED",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1266974"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Storžič",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.354423,
+          "longitudine": 14.400068,
+          "itinerari": [
+            {
+              "nome": "Kramarjeva smer",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "AD",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1266856"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Storžič",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.346566,
+          "longitudine": 14.413833,
+          "itinerari": [
+            {
+              "nome": "from Bašeljski preval (E)",
               "gradoObbligatorio": null,
               "gradoMassimo": "F",
               "spittatura": null,
@@ -459,9 +433,155 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2181,
+              "quotaMassima": 2132,
               "discesa": null,
-              "link": "https://www.camptocamp.org/routes/1697578"
+              "link": [
+                "https://www.camptocamp.org/routes/830077"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dovški križ",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.441011,
+          "longitudine": 13.839975,
+          "itinerari": [
+            {
+              "nome": "Jugova grapa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2542,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/822882"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Triglav",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "latitudine": 46.37693,
+          "longitudine": 13.84483,
+          "itinerari": [
+            {
+              "nome": "Winter standard ascent (E ridge)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2864,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/800203"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Macesnovec",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.407116,
+          "longitudine": 13.898746,
+          "itinerari": [
+            {
+              "nome": "Zakleta grapa",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1926,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/692666"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Triglavski dom (Kredarica)",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "latitudine": 46.365855,
+          "longitudine": 13.876179,
+          "itinerari": [
+            {
+              "nome": "Winter standard ascent (Krma valley)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2515,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/679331"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Jalovec",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.425801,
+          "longitudine": 13.690944,
+          "itinerari": [
+            {
+              "nome": "Ozebnik",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2645,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/53312"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Debela peč",
+          "disciplina": "ice_mixed",
+          "esposizione": "SW",
+          "latitudine": 46.384651,
+          "longitudine": 13.930109,
+          "itinerari": [
+            {
+              "nome": "by the SW edge",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2016,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/51000"
+              ]
             }
           ]
         }

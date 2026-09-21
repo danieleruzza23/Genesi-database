@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Brand bei Bludenz",
@@ -22,25 +22,38 @@
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/blaue-valentine/"
-            },
+              "discesa": "su Abalakov, nessun equipaggiamento in posto.",
+              "link": [
+                "https://www.gulliver.it/itinerari/blaue-valentine/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Brandnertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 47.08789047,
+          "longitudine": 9.732745256,
+          "itinerari": [
             {
               "nome": "Marilyn Manson (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 220,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/brandnertal-marilyn-manson-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/brandnertal-marilyn-manson-cascata/"
+              ]
             }
           ]
         }
@@ -65,12 +78,70 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 750,
+              "sviluppo": 750.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/fallenbachwand-gran-cascata-di-dalaas/"
+              "link": [
+                "https://www.gulliver.it/itinerari/fallenbachwand-gran-cascata-di-dalaas/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "AT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Raid en Silvretta",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "latitudine": 46.871947,
+          "longitudine": 10.123622,
+          "itinerari": [
+            {
+              "nome": "traversée E>>W, de Samnaun à Klosters Platz",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3310,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/638353"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Buin",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.872203,
+          "longitudine": 10.111223,
+          "itinerari": [
+            {
+              "nome": "Voie normale (été)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "F+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3312,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/54670"
+              ]
             }
           ]
         }

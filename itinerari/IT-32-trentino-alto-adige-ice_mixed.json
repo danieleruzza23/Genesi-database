@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Aldino",
@@ -22,51 +22,86 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 30,
+              "sviluppo": 30.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bletterbach-canyon/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/bletterbach-canyon/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Aldino",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.35845496144184,
+          "longitudine": 11.43083813931697,
+          "itinerari": [
             {
               "nome": "Tranen aus Eis (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tranen-aus-eis-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/tranen-aus-eis-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Aldino",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.35911467700384,
+          "longitudine": 11.428950584647403,
+          "itinerari": [
             {
               "nome": "Eisgeist (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/eisgeist-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/eisgeist-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Aldino",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.35758046964461,
+          "longitudine": 11.435571924283305,
+          "itinerari": [
             {
               "nome": "Bletterbach, La Zozza (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 60,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bletterbach-la-zozza/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bletterbach-la-zozza/"
+              ]
             }
           ]
         },
@@ -83,12 +118,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": 2,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bletterbach-settore-gorz-la-zozza/"
+              "discesa": "su abalokov e diffidate di ogni sosta a spit che vedete per la scarsa sicurezza data dalla roccia: meglio usare il ghiaccio",
+              "link": [
+                "https://www.gulliver.it/itinerari/bletterbach-settore-gorz-la-zozza/"
+              ]
             }
           ]
         }
@@ -113,38 +150,62 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/fontanazzo-cascata-di-colata-dx/"
-            },
+              "discesa": "per bosco salire a sx orografica qualche decina di metri e poi traversare orizzontalmente stessa direzione per 50 mt fino ad incontrare facile sentiero CAI che in 10 minuti porta a valle.",
+              "link": [
+                "https://www.gulliver.it/itinerari/fontanazzo-cascata-di-colata-dx/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campitello di Fassa",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.46931950696812,
+          "longitudine": 11.743626932875605,
+          "itinerari": [
             {
               "nome": "Tupac Amaru (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/campitello-di-fassa-tupac-amaru-cascata/"
-            },
+              "discesa": "cobn due calate.",
+              "link": [
+                "https://www.gulliver.it/itinerari/campitello-di-fassa-tupac-amaru-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campitello di Fassa",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.47737,
+          "longitudine": 11.743148,
+          "itinerari": [
             {
               "nome": "Rio Pelous (Cascata del)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rio-pelous-cascata-del/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rio-pelous-cascata-del/"
+              ]
             },
             {
               "nome": "Fontanazzo (Cascata di) colata SX",
@@ -152,12 +213,14 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 210,
+              "sviluppo": 210.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/fontanazzo-cascata-di-colata-sx/"
+              "discesa": "molte doppie attrezzate ai lati del canale (almeno due su alberi ad ogni tiro, più spit e chiodi su roccia ai bordi del ghiaccio).",
+              "link": [
+                "https://www.gulliver.it/itinerari/fontanazzo-cascata-di-colata-sx/"
+              ]
             }
           ]
         }
@@ -177,17 +240,19 @@
           "longitudine": 11.951539428588873,
           "itinerari": [
             {
-              "nome": "Campo Tures (Goulotte di)",
+              "nome": null,
               "gradoObbligatorio": "III",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 190,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/goulotte/"
+              "link": [
+                "https://www.gulliver.it/itinerari/goulotte/"
+              ]
             }
           ]
         },
@@ -199,17 +264,19 @@
           "longitudine": 11.949222,
           "itinerari": [
             {
-              "nome": "Occhio di Bue (Cascata)",
+              "nome": null,
               "gradoObbligatorio": "I",
               "gradoMassimo": "2",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/occhio-di-bue-cascata/"
+              "discesa": "a piedi per il bosco sulla dx (faccia a monte) fino a riprendere la forestale. di qui con quest'ultima a Riva di Tures",
+              "link": [
+                "https://www.gulliver.it/itinerari/occhio-di-bue-cascata/"
+              ]
             }
           ]
         },
@@ -226,51 +293,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 50,
+              "sviluppo": 50.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/milchtrinker/"
-            },
-            {
-              "nome": "Angerer (palestra di ghiaccio)",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "5+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 25,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/angerer-palestra-di-ghiaccio/"
-            },
-            {
-              "nome": "Secondo Tornante (Cascata del) o Magersucht",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "4+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/valle-di-riva-di-tures-secondo-tornante-cascata-del/"
-            },
-            {
-              "nome": "Jahrzahlwand (Cascata)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "3+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/riva-di-tures-rein-in-taufers-jahrzahlwand/"
+              "link": [
+                "https://www.gulliver.it/itinerari/milchtrinker/"
+              ]
             },
             {
               "nome": "Gelltal (Cascata)",
@@ -278,64 +308,14 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gelltal/"
-            },
-            {
-              "nome": "San Francesco (Cascata) sinistra",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "4",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 130,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/valle-di-riva-di-tures-san-francesco-sinistra-cascata/"
-            },
-            {
-              "nome": "Tures (Gran Cascata di)",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "6",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 250,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/valle-di-riva-di-tures-tures-gran-cascata-di/"
-            },
-            {
-              "nome": "Crazy Diamond (Cascata)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "5+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rein-en-tures-crazy-diamond/"
-            },
-            {
-              "nome": "Ursprung (Cascata)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "4",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 130,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ursprung/"
+              "discesa": "20 mn. per pendii alla sinistra orografica della cascata)",
+              "link": [
+                "https://www.gulliver.it/itinerari/gelltal/"
+              ]
             },
             {
               "nome": "Tristenbach (Cascata)",
@@ -343,25 +323,206 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 130,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "doppie attrezzate",
+              "link": [
+                "https://www.gulliver.it/itinerari/tristenbach/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Riva di Tures",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.9540981,
+          "longitudine": 12.0661209,
+          "itinerari": [
+            {
+              "nome": "Angerer (palestra di ghiaccio)",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "5+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 25.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tristenbach/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/angerer-palestra-di-ghiaccio/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Riva di Tures",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.92522336,
+          "longitudine": 12.02595886,
+          "itinerari": [
+            {
+              "nome": "Secondo Tornante (Cascata del) o Magersucht",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "4+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/valle-di-riva-di-tures-secondo-tornante-cascata-del/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Riva di Tures",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.92526549,
+          "longitudine": 12.02539407,
+          "itinerari": [
+            {
+              "nome": "Jahrzahlwand (Cascata)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "3+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "comodamente a piedi dalla sommità, sulla destra orografica, fino a ripassare sotto l'attacco. Oppure in doppia dalle soste attrezzate e poi su abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/riva-di-tures-rein-in-taufers-jahrzahlwand/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Riva di Tures",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.91314664,
+          "longitudine": 11.99463066,
+          "itinerari": [
+            {
+              "nome": "San Francesco (Cascata) sinistra",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/valle-di-riva-di-tures-san-francesco-sinistra-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Riva di Tures",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.91229647,
+          "longitudine": 11.98950227,
+          "itinerari": [
+            {
+              "nome": "Tures (Gran Cascata di)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/valle-di-riva-di-tures-tures-gran-cascata-di/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Riva di Tures",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.93719488,
+          "longitudine": 12.04929828,
+          "itinerari": [
+            {
+              "nome": "Crazy Diamond (Cascata)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "5+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/rein-en-tures-crazy-diamond/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Riva di Tures",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.93455758,
+          "longitudine": 12.1114397,
+          "itinerari": [
+            {
+              "nome": "Ursprung (Cascata)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "si sale ancora un po' fra i mughi, si attraversa verso dx per poi scendere sempre obliquando a dx verso un canale fino ad un albero con cordini doppia 50 m fino alla base, costeggiando il lato dx orografico si ritorna brevemente all'attacco.",
+              "link": [
+                "https://www.gulliver.it/itinerari/ursprung/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Riva di Tures",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.93379567,
+          "longitudine": 12.10184812,
+          "itinerari": [
             {
               "nome": "Wagnis und Glück (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/wagnis-und-gluck-cascata-riva-di-tures/"
+              "discesa": "proseguire sul flusso ancora per ancora 20m, superando un breve risalto oltre il quale il ghiaccio finisce, uscendo poi verso sinistra. Da qui salire per percorso non obbligato in mezzo a un fitto bosco di arbusti, fino a incrociare un sentiero dopo poche centinaia di metri. Seguirlo verso destra faccia a monte, finchè non svanisce. Proseguire in direzione ovest e poi salire, fino a incrociare un altro sentiero, che salendo verso destra va a incrociarsi a un altro: questo incrocio è circa a 2100m, poco sotto i muretti a secco (se visibili). Scendere su questo nuovo sentiero che altro non è che la trattegiata nera sulla cartina della Tabacco, che quindi inizialmente scende ripida verso valle, poi traversa verso est, e infine scende di nuovo. Si arriva su una forestale che si prende verso sinistra, e poi di nuovo al ponte nei pressi del quale la cascata era visibile da basso.",
+              "link": [
+                "https://www.gulliver.it/itinerari/wagnis-und-gluck-cascata-riva-di-tures/"
+              ]
             }
           ]
         }
@@ -386,12 +547,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 55,
+              "sviluppo": 55.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cometa-di-bouz-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cometa-di-bouz-cascata/"
+              ]
             }
           ]
         },
@@ -403,17 +566,19 @@
           "longitudine": 11.78961753,
           "itinerari": [
             {
-              "nome": "Lasties (Piz, Cascata del)",
+              "nome": null,
               "gradoObbligatorio": "IV",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 130,
+              "sviluppo": 130.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/piz-lasties-lasties/"
+              "discesa": "su Abalakov. Salita di stampo alpinistico, visto che oltre alla cascata difficile si deve affrontare un couloir che non é proprio una passeggiata!",
+              "link": [
+                "https://www.gulliver.it/itinerari/piz-lasties-lasties/"
+              ]
             }
           ]
         },
@@ -430,12 +595,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 135,
+              "sviluppo": 135.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cassiopeo-cascata/"
+              "discesa": "con tre doppie attrezzate.",
+              "link": [
+                "https://www.gulliver.it/itinerari/cassiopeo-cascata/"
+              ]
             },
             {
               "nome": "O Sole Mio (Cascata) o Cascata del Pordoi",
@@ -443,12 +610,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/o-sole-mio-o-cascata-del-pordoi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/o-sole-mio-o-cascata-del-pordoi/"
+              ]
             }
           ]
         },
@@ -465,25 +634,38 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sass-pordoi-snowboard-goulotte/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/sass-pordoi-snowboard-goulotte/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sass Pordoi",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.48881280000001,
+          "longitudine": 11.8117568,
+          "itinerari": [
             {
               "nome": "Avatar (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/avatar-cascata/"
+              "discesa": "con 2 doppie la prima da fare su abalakov 60 fino ad arrivare alla sosta di L1. Da li altri 45 m fino alla base delle cascata .",
+              "link": [
+                "https://www.gulliver.it/itinerari/avatar-cascata/"
+              ]
             }
           ]
         },
@@ -495,17 +677,19 @@
           "longitudine": 11.7913637,
           "itinerari": [
             {
-              "nome": "Sass Pordoi (Goulottina del)",
+              "nome": null,
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pordoi-goulottina-del/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pordoi-goulottina-del/"
+              ]
             }
           ]
         }
@@ -530,12 +714,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 130,
+              "sviluppo": 130.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/nardis-cascate/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nardis-cascate/"
+              ]
             }
           ]
         }
@@ -560,12 +746,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-cadino-stue-alte-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/val-cadino-stue-alte-cascata/"
+              ]
             }
           ]
         }
@@ -590,12 +778,14 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": 2,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/michaeler-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/michaeler-cascata/"
+              ]
             }
           ]
         }
@@ -615,17 +805,19 @@
           "longitudine": 11.034074,
           "itinerari": [
             {
-              "nome": "Lago (Cascata del)",
+              "nome": null,
               "gradoObbligatorio": "II",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lago-cascata-del/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lago-cascata-del/"
+              ]
             }
           ]
         }
@@ -650,12 +842,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": 6,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cofolsco-hruschka/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cofolsco-hruschka/"
+              ]
             }
           ]
         },
@@ -677,72 +871,129 @@
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/brivido-sottile-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/brivido-sottile-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Colfosco",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.55372549,
+          "longitudine": 11.85141563,
+          "itinerari": [
             {
               "nome": "Onda su Onda (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/onda-su-onda-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/onda-su-onda-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Colfosco",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.55378452,
+          "longitudine": 11.85141563,
+          "itinerari": [
             {
               "nome": "Spada di Damocle (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spada-di-damocle-cascata-2/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/spada-di-damocle-cascata-2/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Colfosco",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.55343037,
+          "longitudine": 11.85047149,
+          "itinerari": [
             {
               "nome": "Solo per Pochi (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/solo-per-pochi-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/solo-per-pochi-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Colfosco",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.54026638,
+          "longitudine": 11.82616647,
+          "itinerari": [
             {
               "nome": "Exner (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/colfosco-exner-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/colfosco-exner-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Colfosco",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 46.53938088,
+          "longitudine": 11.82987213,
+          "itinerari": [
             {
               "nome": "Lujanta (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": 3,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lujanta-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lujanta-cascata/"
+              ]
             }
           ]
         }
@@ -762,17 +1013,19 @@
           "longitudine": 10.543630395373626,
           "itinerari": [
             {
-              "nome": "Resia (Cascata di)",
+              "nome": null,
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/resia-cascata-di/"
+              "discesa": "complicata sulla dx orografica: dall'ultima sosta (uscita) su ghiaccio si effettua la prima doppia su mugo in alto a dx (si torna all'altezza della penultima sosta), traversare su cengia per 50 metri a destra e poi scendere l'invaso per 50 metri. Da qui ogni 50 metri cercare i cordonisui mughi fino alla base. Meglio una corda da 60.",
+              "link": [
+                "https://www.gulliver.it/itinerari/resia-cascata-di/"
+              ]
             }
           ]
         }
@@ -792,17 +1045,19 @@
           "longitudine": 10.724991581079117,
           "itinerari": [
             {
-              "nome": "Val Martello (Cascata della) colata sx",
+              "nome": null,
               "gradoObbligatorio": "III",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 220,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/alta-val-martello-sx-cascata-dell/"
+              "link": [
+                "https://www.gulliver.it/itinerari/alta-val-martello-sx-cascata-dell/"
+              ]
             }
           ]
         }
@@ -827,12 +1082,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": 2,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/coronelle-cascatone-alle/"
+              "discesa": "con una doppia di 60m si torna alla base della cascata",
+              "link": [
+                "https://www.gulliver.it/itinerari/coronelle-cascatone-alle/"
+              ]
             }
           ]
         },
@@ -849,12 +1106,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/fronza-rifugio-pollici-cascata-dei/"
+              "link": [
+                "https://www.gulliver.it/itinerari/fronza-rifugio-pollici-cascata-dei/"
+              ]
             }
           ]
         }
@@ -879,12 +1138,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/san-biagio-gola-di-esile/"
+              "link": [
+                "https://www.gulliver.it/itinerari/san-biagio-gola-di-esile/"
+              ]
             }
           ]
         },
@@ -901,12 +1162,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-non-opera-prima/"
+              "discesa": "all'uscita della colata risalire il bosco e verso sinistra in 5 minuti alla strada.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-non-opera-prima/"
+              ]
             }
           ]
         }
@@ -931,38 +1194,62 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bullaccia-cascata/"
-            },
+              "discesa": "su Abalakov",
+              "link": [
+                "https://www.gulliver.it/itinerari/bullaccia-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ortisei",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.574584,
+          "longitudine": 11.668317,
+          "itinerari": [
             {
               "nome": "Pilat (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 60,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pilat-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/pilat-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ortisei",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.56286414560374,
+          "longitudine": 11.683530328400552,
+          "itinerari": [
             {
               "nome": "Il Figlio (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 40,
+              "sviluppo": 40.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ortisei-il-figlio-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ortisei-il-figlio-cascata/"
+              ]
             }
           ]
         }
@@ -987,12 +1274,14 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 240,
+              "sviluppo": 240.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/valsugana-nani-caboldi-cascata-dei/"
+              "link": [
+                "https://www.gulliver.it/itinerari/valsugana-nani-caboldi-cascata-dei/"
+              ]
             }
           ]
         }
@@ -1017,51 +1306,86 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ossana-cascata-piccola/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/ossana-cascata-piccola/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ossana",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.304786,
+          "longitudine": 10.73853492,
+          "itinerari": [
             {
               "nome": "Cascata Grande + Salto Alto (Cascate)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cascata-grande-salto-alto-cascate/"
-            },
+              "discesa": "dal salto alto conviene scende in corda doppia,prima dalla pianta e poi la seconda su Abalakov. Si ripercorre a piedi il canale fra le due cascate fino all'uscita della grande e da qui a piedi verso sinistra (senso di discesa) per bosco ripido fino alla base",
+              "link": [
+                "https://www.gulliver.it/itinerari/cascata-grande-salto-alto-cascate/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ossana",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.3333333,
+          "longitudine": 10.75,
+          "itinerari": [
             {
               "nome": "Cascata Grande",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ossana-cascata-grande/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/ossana-cascata-grande/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ossana",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.276851530000016,
+          "longitudine": 10.745658871376946,
+          "itinerari": [
             {
               "nome": "Palin Paletta (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/palin-paletta-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/palin-paletta-cascata/"
+              ]
             }
           ]
         }
@@ -1086,12 +1410,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 60,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lagorai-cima-dasta-grattarole/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lagorai-cima-dasta-grattarole/"
+              ]
             }
           ]
         },
@@ -1108,13 +1434,24 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sorgazza-di-destra-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/sorgazza-di-destra-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valsugana",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.110188,
+          "longitudine": 11.614685,
+          "itinerari": [
             {
               "nome": "Sorgazza di sinistra (Cascata)",
               "gradoObbligatorio": "I",
@@ -1126,7 +1463,9 @@
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sorgazza-di-sinistra-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sorgazza-di-sinistra-cascata/"
+              ]
             },
             {
               "nome": "Vertigo (Cascata)",
@@ -1134,25 +1473,38 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vertigo-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/vertigo-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valsugana",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "latitudine": 46.14927545,
+          "longitudine": 11.585083,
+          "itinerari": [
             {
               "nome": "Forcella Magna (Cascata)",
               "gradoObbligatorio": "I",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/forcella-magna-cascata/"
+              "discesa": ". Dalla sosta con una doppia",
+              "link": [
+                "https://www.gulliver.it/itinerari/forcella-magna-cascata/"
+              ]
             }
           ]
         }
@@ -1177,12 +1529,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/brenta-cima-cascata-del-seracco/"
+              "discesa": "attrezzata, ma su cordoni da verificare !",
+              "link": [
+                "https://www.gulliver.it/itinerari/brenta-cima-cascata-del-seracco/"
+              ]
             }
           ]
         },
@@ -1199,12 +1553,14 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 45,
+              "sviluppo": 45.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/el-faso-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/el-faso-cascata/"
+              ]
             },
             {
               "nome": "Child (Cascata)",
@@ -1212,12 +1568,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 25,
+              "sviluppo": 25.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/child-cascata/"
+              "discesa": ", in doppia dalla sosta.",
+              "link": [
+                "https://www.gulliver.it/itinerari/child-cascata/"
+              ]
             },
             {
               "nome": "Scala di Brenta (Cascata)",
@@ -1225,12 +1583,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 45,
+              "sviluppo": 45.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scala-di-brenta-cascata/"
+              "discesa": "all'uscita a sx in breve a piedi alla base della cascata.",
+              "link": [
+                "https://www.gulliver.it/itinerari/scala-di-brenta-cascata/"
+              ]
             }
           ]
         },
@@ -1247,12 +1607,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": 3,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-brenta-la-faccia-scura-della-luna-cascata/"
+              "discesa": "in due comode doppie da 30 e 50 metri.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-brenta-la-faccia-scura-della-luna-cascata/"
+              ]
             },
             {
               "nome": "Apollo 11, variante",
@@ -1260,12 +1622,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": 3,
-              "sviluppo": 60,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-brenta-apollo-11-cascata-variante/"
+              "discesa": "Discesa in due comode doppie da 30 e 50 metri.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-brenta-apollo-11-cascata-variante/"
+              ]
             },
             {
               "nome": "Houston: Abbiamo un Problema",
@@ -1273,25 +1637,38 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": 3,
-              "sviluppo": 105,
+              "sviluppo": 105.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-brenta-houston-abbiamo-un-problema/"
-            },
+              "discesa": "in due comode doppie da 35 e 50 metri.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-brenta-houston-abbiamo-un-problema/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val Brenta",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 46.192751,
+          "longitudine": 10.792817,
+          "itinerari": [
             {
               "nome": "Scalette di Brenta (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 45,
+              "sviluppo": 45.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scalette-di-brenta/"
+              "link": [
+                "https://www.gulliver.it/itinerari/scalette-di-brenta/"
+              ]
             }
           ]
         },
@@ -1303,7 +1680,7 @@
           "longitudine": 10.792817,
           "itinerari": [
             {
-              "nome": "Val Brenta (Cascate della)",
+              "nome": null,
               "gradoObbligatorio": "I",
               "gradoMassimo": "5",
               "spittatura": null,
@@ -1313,7 +1690,9 @@
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-brenta-varie/"
+              "link": [
+                "https://www.gulliver.it/itinerari/val-brenta-varie/"
+              ]
             }
           ]
         }
@@ -1338,12 +1717,14 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/trampolino-cascata-del/"
+              "discesa": "in doppia attrezzata.",
+              "link": [
+                "https://www.gulliver.it/itinerari/trampolino-cascata-del/"
+              ]
             }
           ]
         }
@@ -1368,90 +1749,158 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-rabbi-sentiero-cascata-del/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-rabbi-sentiero-cascata-del/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val di Rabbi",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.38889362,
+          "longitudine": 10.83212902,
+          "itinerari": [
             {
               "nome": "Grand Hotel (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-rabbi-grand-hotel-cascata/"
-            },
+              "discesa": "su doppie attrezzate sulla via oppure sulla sinistra orografica e poi sentiero 121 fino alla base",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-rabbi-grand-hotel-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val di Rabbi",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.38511963,
+          "longitudine": 10.82966321,
+          "itinerari": [
             {
               "nome": "Madre (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-rabbi-madre-cascata/"
-            },
+              "discesa": "traversare verso destra in leggera salita e poi in piano, fino a incrociare il sentiero CAI n. 121 che seguito in discesa riporta nella conca basale del Valorz (attenzione con molta neve o ghiaccio). Possibile anche in doppia; al di sotto del secondo salto potrebbero servire un paio di abalakov (dovrebbero esserci soste attrezzate, ma non sempre reperibili).",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-rabbi-madre-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val di Rabbi",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "latitudine": 46.4012089,
+          "longitudine": 10.8470758,
+          "itinerari": [
             {
               "nome": "Salto degli Angeli (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-rabbi-salto-degli-angeli-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-rabbi-salto-degli-angeli-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val di Rabbi",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.3856029,
+          "longitudine": 10.83101749,
+          "itinerari": [
             {
               "nome": "Baby (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-rabbi-baby-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-rabbi-baby-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val di Rabbi",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.399845,
+          "longitudine": 10.843802,
+          "itinerari": [
             {
               "nome": "Salto Mortale (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-rabbi-salto-mortale-cascata/"
-            },
+              "discesa": "nuscendo dal canale a dx si trovano tracce e poi il sentiero che riconduce all'attacco.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-rabbi-salto-mortale-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val di Rabbi",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.39276638,
+          "longitudine": 10.86084365,
+          "itinerari": [
             {
               "nome": "Pisoni di Tassè (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-rabbi-pisoni-di-tasse-cascata/"
+              "discesa": "attrezzate le doppie lungo la cascata, nel tiro centrale prendere l'albero in mezzo alla colata, indispensabili corde da 60 metri",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-rabbi-pisoni-di-tasse-cascata/"
+              ]
             }
           ]
         }
@@ -1476,12 +1925,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-de-le-moneghe-intaiada/"
+              "link": [
+                "https://www.gulliver.it/itinerari/val-de-le-moneghe-intaiada/"
+              ]
             }
           ]
         }
@@ -1506,12 +1957,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scultore/"
+              "discesa": "a apiedi nel bosco verso sinistra.",
+              "link": [
+                "https://www.gulliver.it/itinerari/scultore/"
+              ]
             }
           ]
         }
@@ -1536,12 +1989,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tre-salti-cascata-dei/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tre-salti-cascata-dei/"
+              ]
             }
           ]
         },
@@ -1558,12 +2013,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 20,
+              "sviluppo": 20.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-non-vertical-chips/"
+              "discesa": "attraversare a destra e con ampio giro in discesa si ritorna sulla strada di accesso.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-non-vertical-chips/"
+              ]
             },
             {
               "nome": "Sapore di Ghiaccio (Cascata)",
@@ -1571,12 +2028,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-non-sapore-di-ghiaccio-m6/"
+              "discesa": "seguire il bosco verso sinistra fino a raggiungere il sentiero visibile dal fondo valle. Percorrerlo e giunti ad una scalinata nei pressi di una falesia scendere fino alla strada. In pochi minuti alla macchina. ( tempo totale per il rientro 35 minuti circa ).",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-non-sapore-di-ghiaccio-m6/"
+              ]
             },
             {
               "nome": "San Romedio (Cascata di)",
@@ -1584,25 +2043,38 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/san-romedio-cascata/"
-            },
+              "discesa": "seguire il bosco verso sinistra fino a raggiungere il sentiero visibile dal fondo valle che taglia la cascata. Seguirlo passando sotto la stessa e giunti ad una scalinata nei pressi di una falesia scendere fino alla strada. In pochi minuti alla macchina. ( tempo totale per il rientro 20 minuti circa ).",
+              "link": [
+                "https://www.gulliver.it/itinerari/san-romedio-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valle di San Romedio",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.36940489952498,
+          "longitudine": 11.083018066557434,
+          "itinerari": [
             {
               "nome": "Frate Indovino (Cascata di)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 170,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/frate-indovino-cascata-di/"
+              "discesa": "salire nel bosco verso destra ed in breve si raggiunge una strada. La si percorre in discesa fino ad arrivare sotto dei cavi elettrici. Seguirli sempre in discesa arrivando a dei campi di mele e per mezzo di una stradina si scende verso destra giungendo sulla strada asfaltata. In breve si raggiunge l'auto. ( tempo totale per il rientro 30 minuti circa ).",
+              "link": [
+                "https://www.gulliver.it/itinerari/frate-indovino-cascata-di/"
+              ]
             }
           ]
         },
@@ -1619,12 +2091,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 130,
+              "sviluppo": 130.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/verdes-valle-di-san-romedio/"
+              "discesa": "tre corde doppie lungo le soste di salita Nota: esiste un'altra possibilità, dalla prima sosta traversare a sinistra per portarsi sotto a un muro di ghiaccio molto lungo. Discesa da attrezzare.",
+              "link": [
+                "https://www.gulliver.it/itinerari/verdes-valle-di-san-romedio/"
+              ]
             }
           ]
         }
@@ -1649,25 +2123,38 @@
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/excalibur-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/excalibur-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.00948172,
+          "longitudine": 10.5130577,
+          "itinerari": [
             {
               "nome": "Machu Picchu (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/machu-picchu-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/machu-picchu-cascata/"
+              ]
             }
           ]
         },
@@ -1684,12 +2171,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/remir-vallone-di-salmonata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/remir-vallone-di-salmonata/"
+              ]
             }
           ]
         }
@@ -1714,25 +2203,38 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-culea-cascata-della/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/val-culea-cascata-della/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gardena (Passo)",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.550013,
+          "longitudine": 11.806984,
+          "itinerari": [
             {
               "nome": "Mesules Dragon (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/mesules-dragon-cascata/"
+              "discesa": "6 doppie lungo la cascata, alcune su Abalakov NB. Alla base della candela, spostarsi a destra (faccia monte) trovando la sosta su roccia per la calata. Sei lunghezze di corda, impegnative la prima e la terza. Discesa in doppia (abalakov)",
+              "link": [
+                "https://www.gulliver.it/itinerari/mesules-dragon-cascata/"
+              ]
             },
             {
               "nome": "Mesules (Cascata)",
@@ -1740,12 +2242,44 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
+              "discesa": "a piedi verso sx o in doppia su abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/passo-gardena-mesules-cascata/"
+              ]
+            },
+            {
+              "nome": "Gola del Pettirosso (the Bird)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "ED",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/passo-gardena-mesules-cascata/"
+              "link": [
+                "https://www.camptocamp.org/routes/1496224"
+              ]
+            },
+            {
+              "nome": "Goulotte Senza Nome",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD-",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2624,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1495056"
+              ]
             }
           ]
         },
@@ -1762,12 +2296,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 130,
+              "sviluppo": 130.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gardena-passo-torre-murfreit-iron-man/"
+              "discesa": "1 calata: 30m. Obliquare a sinistra con attenzione, la sosta è proprio sul bordo del colatoio/goulotte 2 calata: 45m. Si va fino la seconda sosta della via, occhio: rinviare qualche spit del terzo tiro per poter arrivare comodamente alla sosta. 3 calata: 55m.",
+              "link": [
+                "https://www.gulliver.it/itinerari/gardena-passo-torre-murfreit-iron-man/"
+              ]
             }
           ]
         },
@@ -1784,12 +2320,14 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/innerkofler-torre-goulotte-mistica/"
+              "discesa": "in doppia sulla via circa 12. Sostenuta nei primi 5 tiri sino al termine della candela poi seguono 6 tiri in canale max 60, sino sulla cresta. Bellissima salita",
+              "link": [
+                "https://www.gulliver.it/itinerari/innerkofler-torre-goulotte-mistica/"
+              ]
             }
           ]
         },
@@ -1806,12 +2344,14 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sassolungo-sot-saslonch-goulotte/"
+              "discesa": "su chiodi e Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sassolungo-sot-saslonch-goulotte/"
+              ]
             }
           ]
         },
@@ -1828,12 +2368,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sassolungo-spallone-del-goulotte-holzknecht/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sassolungo-spallone-del-goulotte-holzknecht/"
+              ]
             }
           ]
         },
@@ -1850,12 +2392,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/selva-di-val-gardena-lciamin-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/selva-di-val-gardena-lciamin-cascata/"
+              ]
             }
           ]
         },
@@ -1872,12 +2416,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/jumbo-jet-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/jumbo-jet-cascata/"
+              ]
             }
           ]
         },
@@ -1894,25 +2440,62 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vallunga-tunnel-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/vallunga-tunnel-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.58055972999999,
+          "longitudine": 11.814987021376968,
+          "itinerari": [
             {
               "nome": "Perla Azurra (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/perla-azzurra-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/perla-azzurra-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.56469779999999,
+          "longitudine": 11.7775044,
+          "itinerari": [
+            {
+              "nome": "Teufelsegeige (Cascata)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "5+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 125.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/vallunga-teufelsegeige-cascata/"
+              ]
             },
             {
               "nome": "Birthday Crack (Cascata)",
@@ -1920,51 +2503,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vallunga-birthday-crack-cascata/"
-            },
-            {
-              "nome": "Zauber Flöte (Cascata)",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "6",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/zauber-flote-cascata/"
-            },
-            {
-              "nome": "Once in a Lifetime (Cascata)",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "5",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vallunga-once-in-a-lifetime-cascata/"
-            },
-            {
-              "nome": "Piovra di destra (Cascata)",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "6",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vallungapiovra-di-destra-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vallunga-birthday-crack-cascata/"
+              ]
             },
             {
               "nome": "La Piovra (Cascata)",
@@ -1972,90 +2518,206 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "doppia lungo la cascata",
+              "link": [
+                "https://www.gulliver.it/itinerari/la-piovra-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "latitudine": 46.58057456,
+          "longitudine": 11.79948806,
+          "itinerari": [
+            {
+              "nome": "Zauber Flöte (Cascata)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "su soste a chiodi e moschettoni con 2 calate da 60 metri.",
+              "link": [
+                "https://www.gulliver.it/itinerari/zauber-flote-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "latitudine": 46.57467472,
+          "longitudine": 11.81660708,
+          "itinerari": [
+            {
+              "nome": "Once in a Lifetime (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "5",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/la-piovra-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/vallunga-once-in-a-lifetime-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.57194587,
+          "longitudine": 11.80382904,
+          "itinerari": [
+            {
+              "nome": "Piovra di destra (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "su ABALAKOV.,",
+              "link": [
+                "https://www.gulliver.it/itinerari/vallungapiovra-di-destra-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "latitudine": 46.57348003,
+          "longitudine": 11.78764343,
+          "itinerari": [
             {
               "nome": "Missione Impossibile (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/missione-impossibile-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/missione-impossibile-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "sw",
+          "latitudine": 46.5875144,
+          "longitudine": 11.79590835,
+          "itinerari": [
             {
               "nome": "La Piera (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vallunga-la-piera-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/vallunga-la-piera-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "latitudine": 46.57042658,
+          "longitudine": 11.78318023,
+          "itinerari": [
             {
               "nome": "Droc (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/i-droc-cascata/"
-            },
+              "discesa": "su soste attrezzate.",
+              "link": [
+                "https://www.gulliver.it/itinerari/i-droc-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "latitudine": 46.57078062,
+          "longitudine": 11.77940368,
+          "itinerari": [
             {
               "nome": "Super Droc (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/super-droc-cascata/"
-            },
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/super-droc-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "s",
+          "latitudine": 46.57097951,
+          "longitudine": 11.78315328,
+          "itinerari": [
             {
               "nome": "Droc 2 (Cascata) ramo dx",
               "gradoObbligatorio": "III",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/droc-2-ramo-destro/"
-            },
-            {
-              "nome": "Teufelsegeige (Cascata)",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "5+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 125,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vallunga-teufelsegeige-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/droc-2-ramo-destro/"
+              ]
             }
           ]
         },
@@ -2072,12 +2734,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vallunga-gola-del-pettirosso-bird-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vallunga-gola-del-pettirosso-bird-cascata/"
+              ]
             }
           ]
         }
@@ -2102,25 +2766,38 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/i-misteri-dellacqua-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/i-misteri-dellacqua-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Storo",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 45.85116265,
+          "longitudine": 10.60077667,
+          "itinerari": [
             {
               "nome": "E’ Nata una Stella (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/e-nata-una-stella-cascata/"
+              "discesa": "in corda doppia!",
+              "link": [
+                "https://www.gulliver.it/itinerari/e-nata-una-stella-cascata/"
+              ]
             }
           ]
         }
@@ -2145,25 +2822,38 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/non-ho-tempo-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/non-ho-tempo-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campo (Lago di)",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.03586898,
+          "longitudine": 10.49334883,
+          "itinerari": [
             {
               "nome": "Campesina (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lago-di-campo-campesina-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lago-di-campo-campesina-cascata/"
+              ]
             }
           ]
         },
@@ -2180,181 +2870,326 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sogno-del-gran-scozzese-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/sogno-del-gran-scozzese-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 45.99219131,
+          "longitudine": 10.52352905,
+          "itinerari": [
             {
               "nome": "La Figlia Illegittima della Regina (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "2",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/la-figlia-illegittima-della-regina/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/la-figlia-illegittima-della-regina/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.00912404,
+          "longitudine": 10.51580429,
+          "itinerari": [
             {
               "nome": "Porta del Sole (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/porta-del-sole-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/porta-del-sole-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "latitudine": 46.00161227,
+          "longitudine": 10.51391601,
+          "itinerari": [
             {
               "nome": "Regina del Lago (Cascata) ramo sx",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/regina-del-lago-cascata-ramo-sx/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/regina-del-lago-cascata-ramo-sx/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 45.99922737,
+          "longitudine": 10.50086975,
+          "itinerari": [
             {
               "nome": "Proxima Centauri (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 170,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/proxima-centauri-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/proxima-centauri-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 46.00948172,
+          "longitudine": 10.51465988,
+          "itinerari": [
             {
               "nome": "Cammel Trohpy (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cammel-trohpy-cascata/"
-            },
+              "discesa": "salire ancora pochi metri poi traversare adestra entrando nel bosco e scendere per esso fino alla piana di nudole.cercare il percoso migliore evitando alcuni salti rocciosi!",
+              "link": [
+                "https://www.gulliver.it/itinerari/cammel-trohpy-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 45.99731937,
+          "longitudine": 10.52404403,
+          "itinerari": [
             {
               "nome": "Calypso (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 170,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/calypso-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/calypso-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.00840867,
+          "longitudine": 10.51597595,
+          "itinerari": [
             {
               "nome": "Super Paio (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/super-paio-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/super-paio-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.00268544,
+          "longitudine": 10.51872253,
+          "itinerari": [
             {
               "nome": "Nudole (Colatoio di)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/nudole-colatoio-di/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/nudole-colatoio-di/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "latitudine": 46.00927307,
+          "longitudine": 10.51481723,
+          "itinerari": [
             {
               "nome": "Giazzo Pazzo (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/giazzo-pazzo-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/giazzo-pazzo-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.01103163,
+          "longitudine": 10.51631927,
+          "itinerari": [
             {
               "nome": "Tarzan (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "2",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tarzan-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/tarzan-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.02795859,
+          "longitudine": 10.51580429,
+          "itinerari": [
             {
               "nome": "Re Azul (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/re-azul-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/re-azul-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 45.99481503,
+          "longitudine": 10.51992416,
+          "itinerari": [
             {
               "nome": "Placca Multistrato (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/placca-multistrato-cascata/"
-            },
+              "discesa": "da albero cordonato (55m), una vecchia sosta con uno spit e moschettone (60m), poi Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/placca-multistrato-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "latitudine": 46.0025662,
+          "longitudine": 10.51322937,
+          "itinerari": [
             {
               "nome": "Regina del Lago (Cascata) ramo dx",
               "gradoObbligatorio": "II",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 170,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/regina-del-lago-cascata-ramo-dx/"
+              "link": [
+                "https://www.gulliver.it/itinerari/regina-del-lago-cascata-ramo-dx/"
+              ]
             }
           ]
         },
@@ -2371,12 +3206,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/circolo-del-gelo-gall-cascata-di/"
+              "discesa": "su abalacov...uno spot singolo con anello se non sepolto dal ghiaccio a sx come sosta al primo tiro",
+              "link": [
+                "https://www.gulliver.it/itinerari/circolo-del-gelo-gall-cascata-di/"
+              ]
             }
           ]
         },
@@ -2393,25 +3230,38 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/walzer-della-candela-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/walzer-della-candela-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga di Malga Boazzo, Malga Leno",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 45.99588833,
+          "longitudine": 10.49451828,
+          "itinerari": [
             {
               "nome": "Valzer della Candela (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 170,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/malga-leno-cascate-di-valzer-della-candela/"
+              "link": [
+                "https://www.gulliver.it/itinerari/malga-leno-cascate-di-valzer-della-candela/"
+              ]
             }
           ]
         },
@@ -2428,25 +3278,38 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sendero-luminoso/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/sendero-luminoso/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Limes",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 45.977157,
+          "longitudine": 10.543661,
+          "itinerari": [
             {
               "nome": "Nova (Candele di)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 60,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/nova-candele-di/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nova-candele-di/"
+              ]
             }
           ]
         },
@@ -2463,25 +3326,38 @@
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 50,
+              "sviluppo": 50.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/remir-vallone-di-profumo-di-ghiaccio-cascata-attacco-diretto/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/remir-vallone-di-profumo-di-ghiaccio-cascata-attacco-diretto/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Limes, Vallone di Remir",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 45.97608848,
+          "longitudine": 10.55056571,
+          "itinerari": [
             {
               "nome": "Profumo di Ghiaccio (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/remir-vallone-di-profumo-di-ghiaccio-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/remir-vallone-di-profumo-di-ghiaccio-cascata/"
+              ]
             }
           ]
         },
@@ -2493,17 +3369,19 @@
           "longitudine": 10.57691574,
           "itinerari": [
             {
-              "nome": "Ribor (Cascata di)",
+              "nome": null,
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ribor-cascata-di/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ribor-cascata-di/"
+              ]
             }
           ]
         },
@@ -2515,17 +3393,19 @@
           "longitudine": 10.55794715,
           "itinerari": [
             {
-              "nome": "Ulrike (Cascata)",
+              "nome": null,
               "gradoObbligatorio": "II",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ulrike-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ulrike-cascata/"
+              ]
             }
           ]
         },
@@ -2542,90 +3422,158 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 280,
+              "sviluppo": 280.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/merizzi-miotti-cascata/"
-            },
+              "discesa": "adx nel nel bosco.",
+              "link": [
+                "https://www.gulliver.it/itinerari/merizzi-miotti-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valdaone",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 45.9664842,
+          "longitudine": 10.57622909,
+          "itinerari": [
             {
               "nome": "Cero di Placido (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cero-di-placido-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/cero-di-placido-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valdaone",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "latitudine": 45.95653120807335,
+          "longitudine": 10.577507163834756,
+          "itinerari": [
             {
               "nome": "Notre Dame de la Glace (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 45,
+              "sviluppo": 45.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/notre-dame-de-la-glace/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/notre-dame-de-la-glace/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valdaone",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 45.96946707,
+          "longitudine": 10.56867599,
+          "itinerari": [
             {
               "nome": "Ira di Beppe (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ira-di-beppe/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/ira-di-beppe/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valdaone",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.03683722,
+          "longitudine": 10.49674987,
+          "itinerari": [
             {
               "nome": "Aganella (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/aganella-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/aganella-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valdaone",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 45.9661859,
+          "longitudine": 10.57717323,
+          "itinerari": [
             {
               "nome": "Tita (Candela di)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tita-candela-di/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/tita-candela-di/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valdaone",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "latitudine": 45.98336515,
+          "longitudine": 10.56095123,
+          "itinerari": [
             {
               "nome": "Le Ali del Fantasma (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/le-ali-del-fantasma-cascata/"
+              "discesa": "in corda doppia",
+              "link": [
+                "https://www.gulliver.it/itinerari/le-ali-del-fantasma-cascata/"
+              ]
             }
           ]
         }
@@ -2645,17 +3593,19 @@
           "longitudine": 10.587057,
           "itinerari": [
             {
-              "nome": "Castellaccio (Punta, Cascata della)",
+              "nome": null,
               "gradoObbligatorio": "II",
               "gradoMassimo": "2",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/castellaccio-cascata-del/"
+              "link": [
+                "https://www.gulliver.it/itinerari/castellaccio-cascata-del/"
+              ]
             }
           ]
         },
@@ -2672,12 +3622,1306 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 530,
+              "sviluppo": 530.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/nero-di-presanella-monte-diretta-solitudine/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nero-di-presanella-monte-diretta-solitudine/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Cima Brenta",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.179758,
+          "longitudine": 10.900028,
+          "itinerari": [
+            {
+              "nome": "La via que non c'è",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "TD+",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3151,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1882127"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Torre Innerkofler / Innerkoflerturm",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.51074,
+          "longitudine": 11.73036,
+          "itinerari": [
+            {
+              "nome": "Mistica",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "TD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3081,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1866207"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Palla Bianca - Weißkugel",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "latitudine": 46.787221,
+          "longitudine": 10.746771,
+          "itinerari": [
+            {
+              "nome": " Arête E",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "AD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3739,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1829111"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cime Nere / Hintere Schwärze",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "latitudine": 46.772645,
+          "longitudine": 10.914309,
+          "itinerari": [
+            {
+              "nome": "Normal route",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3624,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1702401"
+              ]
+            },
+            {
+              "nome": "Face N",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1220568"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pederü",
+          "disciplina": "ice_mixed",
+          "esposizione": "SW",
+          "latitudine": 46.627974,
+          "longitudine": 12.01762,
+          "itinerari": [
+            {
+              "nome": "Col sans nom depuis Pederù",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1600814"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Carè Alto",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "latitudine": 46.108062,
+          "longitudine": 10.610731,
+          "itinerari": [
+            {
+              "nome": "Cresta Cerana",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3465,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1563266"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Grand Vernel",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "latitudine": 46.442425,
+          "longitudine": 11.832011,
+          "itinerari": [
+            {
+              "nome": "Face NE",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D+",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3210,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1516201"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "latitudine": 46.583786,
+          "longitudine": 11.795782,
+          "itinerari": [
+            {
+              "nome": "Zauberflöte / Flauto Magico",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "ED+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1503291"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Marmolada",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.443385,
+          "longitudine": 11.889073,
+          "itinerari": [
+            {
+              "nome": "Trèi Magi",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "ED",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1496226"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sassolungo / Langkofel",
+          "disciplina": "ice_mixed",
+          "esposizione": "SW",
+          "latitudine": 46.52504,
+          "longitudine": 11.735144,
+          "itinerari": [
+            {
+              "nome": "Goulotte Holzknecht",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "ED",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3181,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1494752"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Nero di Presanella",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.21605,
+          "longitudine": 10.672405,
+          "itinerari": [
+            {
+              "nome": "Illogika - monte nero di Presanella",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD-",
+              "spittatura": "P3+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3344,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1264120"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Presanella",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.224309,
+          "longitudine": 10.662197,
+          "itinerari": [
+            {
+              "nome": "Via Gulottina - a destra del seracco",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3478,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1218074"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Undici (Elferkofel)",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.636111,
+          "longitudine": 12.378056,
+          "itinerari": [
+            {
+              "nome": "Zsigmondycouloir",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2788,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1191860"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Pisciadù / Cima Pissadu",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.537219,
+          "longitudine": 11.833965,
+          "itinerari": [
+            {
+              "nome": "Val di Mezdi - Via Hruschka",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1178203"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Punta Bianca",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "latitudine": 46.954849,
+          "longitudine": 11.767199,
+          "itinerari": [
+            {
+              "nome": "Cresta SW dal Lago di Neves",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3370,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/813681"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Presanella",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.219867,
+          "longitudine": 10.663941,
+          "itinerari": [
+            {
+              "nome": "Parete Nord alla Muraccia (Via Granatina Gully)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "D+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3410,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/704294"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Presanella",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.215224,
+          "longitudine": 10.711561,
+          "itinerari": [
+            {
+              "nome": "Via normale dalla Val Nambrone",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3558,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/697097"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Tosa",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.15575,
+          "longitudine": 10.871333,
+          "itinerari": [
+            {
+              "nome": "Parete N per il Canalone Neri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3173,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/645392"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Cevedale",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "latitudine": 46.444783,
+          "longitudine": 10.636778,
+          "itinerari": [
+            {
+              "nome": "Cresta E, per il passo Forcola dal rifugio Cevedale-G. Larcher ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3757,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/581305"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rifugio \"Ai Caduti dell'Adamello\" alla Lobbia Alta",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "latitudine": 46.166861,
+          "longitudine": 10.602563,
+          "itinerari": [
+            {
+              "nome": "From Ponte Maria to Rifugio  alla Lobbia Alta via Passo delle Topette",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3040,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/568287"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Torre Innerkofler / Innerkoflerturm",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.50997,
+          "longitudine": 11.74383,
+          "itinerari": [
+            {
+              "nome": "Clean Gully",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/481490"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Vermiglio",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.221949,
+          "longitudine": 10.656738,
+          "itinerari": [
+            {
+              "nome": "via Anna e Mario",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3450,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/479085"
+              ]
+            },
+            {
+              "nome": "via Steinkotter",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3450,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/282336"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Presanella",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.231713,
+          "longitudine": 10.659703,
+          "itinerari": [
+            {
+              "nome": "Via Faustinelli alla parete NW con discesa dalla normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3556,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/436208"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cresta della Croce",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.183439,
+          "longitudine": 10.559653,
+          "itinerari": [
+            {
+              "nome": "Dal Passo Presena",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3294,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/422621"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Punta Tabaretta ",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "latitudine": 46.528333,
+          "longitudine": 10.530606,
+          "itinerari": [
+            {
+              "nome": "dal Rifugio Payer per il versante W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3128,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/375138"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Adamello",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "latitudine": 46.180091,
+          "longitudine": 10.556862,
+          "itinerari": [
+            {
+              "nome": "E ridge -  from Val Genova",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3539,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/290852"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Traversée des Dolomites de Brenta",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "latitudine": 46.19456,
+          "longitudine": 10.850509,
+          "itinerari": [
+            {
+              "nome": "[Via ferrata]",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3192,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/289475"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochfernerspitze",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.977786,
+          "longitudine": 11.718119,
+          "itinerari": [
+            {
+              "nome": "Parete NW, via dei seracchi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3471,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/281620"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bocca di Tuckett",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "latitudine": 46.199014,
+          "longitudine": 10.89078,
+          "itinerari": [
+            {
+              "nome": "Traversée E-W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2647,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/217765"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Presanella",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "latitudine": 46.213286,
+          "longitudine": 10.690256,
+          "itinerari": [
+            {
+              "nome": "Couloir dell'H al Monte Nero",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3344,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/193074"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Zebrù",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "latitudine": 46.493001,
+          "longitudine": 10.536042,
+          "itinerari": [
+            {
+              "nome": "Via normale dal Rif. V Alpini",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3684,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/185677"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bocca di Camosci",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "latitudine": 46.159264,
+          "longitudine": 10.862521,
+          "itinerari": [
+            {
+              "nome": "Traversée (sentiers dell'Ideale et Martinazzi)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2784,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/183654"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bocca degli Armi",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "latitudine": 46.166794,
+          "longitudine": 10.890687,
+          "itinerari": [
+            {
+              "nome": "Via Bocchette Centrali [Via ferrata]",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2749,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/183584"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ortles",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "latitudine": 46.522677,
+          "longitudine": 10.521367,
+          "itinerari": [
+            {
+              "nome": "Pleisshorngrat  - Via dei Meranesi / Meranerweg",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "PD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/179195"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Tosa",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.149773,
+          "longitudine": 10.878666,
+          "itinerari": [
+            {
+              "nome": "Versant SE (voie normale)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3173,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/177028"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ortles",
+          "disciplina": "ice_mixed",
+          "esposizione": "SW",
+          "latitudine": 46.532288,
+          "longitudine": 10.541491,
+          "itinerari": [
+            {
+              "nome": "Via Minnigerode  e uscita sulla Hintergrat",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "AD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/175215"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Presanella",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.246526,
+          "longitudine": 10.659745,
+          "itinerari": [
+            {
+              "nome": "Via di sinistra del seracco",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3558,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/174345"
+              ]
+            },
+            {
+              "nome": "Via Faustinelli alla parete NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3556,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/131929"
+              ]
+            },
+            {
+              "nome": "Parete N: Via Classica",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3556,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55947"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Marmolada - Punta Penia",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "latitudine": 46.443219,
+          "longitudine": 11.825556,
+          "itinerari": [
+            {
+              "nome": "W Ridge",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "PD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3343,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/142817"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Marmolada - Punta Penia",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.449358,
+          "longitudine": 11.859632,
+          "itinerari": [
+            {
+              "nome": "Versant N (Voie normale)",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3342,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/140790"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Libera -  Wilder Freiger",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "latitudine": 46.966826,
+          "longitudine": 11.183937,
+          "itinerari": [
+            {
+              "nome": "S-Side from Val Ridanna",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3418,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/119239"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ortles",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.522518,
+          "longitudine": 10.554861,
+          "itinerari": [
+            {
+              "nome": "Via normale, dal Rif. Payer",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/57916"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Vertana",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.536386,
+          "longitudine": 10.606023,
+          "itinerari": [
+            {
+              "nome": "Parete N",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3545,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/57624"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bocca d'Ambiez",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.142238,
+          "longitudine": 10.881516,
+          "itinerari": [
+            {
+              "nome": "Traversée Ambiez - Camosci",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2871,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/56168"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ortler / Ortles",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.515861,
+          "longitudine": 10.572429,
+          "itinerari": [
+            {
+              "nome": "Hintergrat (Cresta del Coston)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55287"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Punta degli Spiriti",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.514075,
+          "longitudine": 10.463531,
+          "itinerari": [
+            {
+              "nome": "Dal passo dello Stelvio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3467,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/54701"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Vioz",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "latitudine": 46.385695,
+          "longitudine": 10.64372,
+          "itinerari": [
+            {
+              "nome": "Da Pejo Fonti",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3645,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/53335"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Similaun",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "latitudine": 46.758007,
+          "longitudine": 10.861539,
+          "itinerari": [
+            {
+              "nome": "Da Vernago per il Rifugio Similaun",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3605,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47308"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Palla Bianca",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.778949,
+          "longitudine": 10.766792,
+          "itinerari": [
+            {
+              "nome": "Dal Rifugio Bellavista per il Teufelsegg",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3739,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47210"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Palla Bianca",
+          "disciplina": "ice_mixed",
+          "esposizione": "SW",
+          "latitudine": 46.762151,
+          "longitudine": 10.706059,
+          "itinerari": [
+            {
+              "nome": "Da SW per la val Mazia",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3739,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47209"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Nevoso",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "latitudine": 46.921215,
+          "longitudine": 12.093008,
+          "itinerari": [
+            {
+              "nome": "Da N",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3358,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47188"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Zebrù / Königspitze",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "latitudine": 46.477948,
+          "longitudine": 10.571426,
+          "itinerari": [
+            {
+              "nome": "Voie Normale : Couloir S et face SE",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3851,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47076"
+              ]
             }
           ]
         }

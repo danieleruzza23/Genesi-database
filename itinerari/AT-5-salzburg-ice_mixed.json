@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Bad Gastein",
@@ -22,38 +22,62 @@
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 270,
+              "sviluppo": 270.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/supervisor-cascata/"
-            },
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/supervisor-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bad Gastein",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 47.06718407,
+          "longitudine": 13.1302565,
+          "itinerari": [
             {
               "nome": "Eisarena Federweissfall (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bad-gastein-eisarena-federweissfall/"
-            },
+              "discesa": "in parte attrezzata a fix con catena.",
+              "link": [
+                "https://www.gulliver.it/itinerari/bad-gastein-eisarena-federweissfall/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bad Gastein",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 47.06741792,
+          "longitudine": 13.12871154,
+          "itinerari": [
             {
               "nome": "Höhkarfall (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/eisarena-badgastein-hohkarfall/"
+              "discesa": "da un'albero cordonato all' uscita, poi Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/eisarena-badgastein-hohkarfall/"
+              ]
             }
           ]
         }

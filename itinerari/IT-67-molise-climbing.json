@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Castropignano",
@@ -22,12 +22,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 30,
+              "sviluppo": 30.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/castropignano-cantone-della-fata-epitaph-e-stella-di-carta/"
+              "discesa": "Scendere a piedi seguendo i bolli rossi fino alla radura.",
+              "link": [
+                "https://www.gulliver.it/itinerari/castropignano-cantone-della-fata-epitaph-e-stella-di-carta/"
+              ]
             }
           ]
         }
@@ -52,38 +54,62 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/oratino-rocca-di-metallica/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/oratino-rocca-di-metallica/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oratino (Rocca di)",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 41.596878868075734,
+          "longitudine": 14.577076435089111,
+          "itinerari": [
             {
               "nome": "Moonchild",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/moonchild-rocca-di-oratino/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/moonchild-rocca-di-oratino/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oratino (Rocca di)",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 41.5968681,
+          "longitudine": 14.5770915,
+          "itinerari": [
             {
               "nome": "Hysteria",
               "gradoObbligatorio": "6b+",
               "gradoMassimo": "7a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 85,
+              "sviluppo": 85.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/oratino-rocca-hysteria/"
+              "discesa": "A piedi seguendo la cresta in direzione della torre medievale (passi di II) e da questa con breve sentiero al parcheggio.",
+              "link": [
+                "https://www.gulliver.it/itinerari/oratino-rocca-hysteria/"
+              ]
             }
           ]
         }

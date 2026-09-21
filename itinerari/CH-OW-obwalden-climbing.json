@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Engelberg",
@@ -17,17 +17,19 @@
           "longitudine": 8.437328336,
           "itinerari": [
             {
-              "nome": "Gross Sattelistock, 2637 m Zwischen die Dacher",
+              "nome": null,
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 360,
+              "sviluppo": 360.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gross-sattelistock-2637-m-zwischen-die-dacher/"
+              "discesa": "per la cresta ovest (roccette, 1 doppia da 25 metri) si raggiunge la forcella a occidente della vetta. Da qui con breve corda fissa ad una sosta con catena. Con 4 doppie molto lunghe (50-55 m, soste su catene o 2 fix con maillon)) si ritorna alle cenge sopra lo zoccolo. A questo punto è possibile scendere lo zoccolo a piedi (molto ripido), oppure tornare all'attacco, traversare ancora 20 metri a destra e reperire un anello di calata all'attacco del Sudpfeiler. Con altre 3 calate da 50-55 metri si scende lo zoccolo e si raggiungono le ghiaie basali più o meno nel punto di deposito degli zaini.",
+              "link": [
+                "https://www.gulliver.it/itinerari/gross-sattelistock-2637-m-zwischen-die-dacher/"
+              ]
             }
           ]
         }
@@ -52,12 +54,14 @@
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": 6,
-              "sviluppo": 130,
+              "sviluppo": 130.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/dr-blau-chafer/"
+              "discesa": "riscendere il primo tiro facendo attenzione a raggiungere di nuovo la sosta di L5. Da questa sosta è presente una corda fissa per calarsi 45m nel vuoto, mettere fettuccia e moschettone nella fissa altrimenti non c’è modo di raggiungere la sosta sotto. Dopo sono presenti altre due calate da 30m verticali con stesso stile (corda fissa per trovare la sosta).",
+              "link": [
+                "https://www.gulliver.it/itinerari/dr-blau-chafer/"
+              ]
             }
           ]
         },
@@ -69,17 +73,19 @@
           "longitudine": 8.316010974,
           "itinerari": [
             {
-              "nome": "Ofen Halma",
+              "nome": null,
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 280,
+              "sviluppo": 280.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ofen-halma/"
+              "discesa": "in corda doppia sulla via. Partenza della prima calata sul bordo della parete circa 15 metri a sinistra (faccia a monte) del punto di uscita. terz'ultimo ancoraggio di calata spostato circa 15 metri a destra (faccia a monte) della sosta di via. Necessarie 6 calate, non lunghissime (max. 45 metri)",
+              "link": [
+                "https://www.gulliver.it/itinerari/ofen-halma/"
+              ]
             }
           ]
         },
@@ -91,17 +97,19 @@
           "longitudine": 8.314789272,
           "itinerari": [
             {
-              "nome": "Ofen Leiterlispiel",
+              "nome": null,
               "gradoObbligatorio": "6b",
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 260,
+              "sviluppo": 260.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ofen-leiterlispiel/"
+              "discesa": "dall'uscita si risale poche decine di metri sulla destra. Appena oltre la vetta del pilastro su un masso c'è una sosta da calata. Con 20 metri lungo un canale erboso (attenzione alle pietre) si arriva all'ultima sosta della Indianer Pfeiler. Qui ci si può calare direttamente incontrando varie soste di calata, poco a destra (linea di Schwarz Peter) oppure a sinistra (Indianer). In funzione della lunghezza delle corde, con 5 o 6 doppie si raggiunge la base.",
+              "link": [
+                "https://www.gulliver.it/itinerari/ofen-leiterlispiel/"
+              ]
             }
           ]
         },
@@ -113,17 +121,620 @@
           "longitudine": 8.312616348,
           "itinerari": [
             {
-              "nome": "Ofen Schwarz Peter",
+              "nome": null,
               "gradoObbligatorio": "6a+",
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "con 5-6 corde doppie lungo la parete. All'uscita di Indianer Pfeiler ancoraggio su un grosso masso oltre il bordo. Calata breve 20 m in canale erboso con sassi smossi, per raggiungere una sosta sul bordo degli strapiombi. Da qui con 5 calate filanti 40 m, 30 m, 45 m, 45 m, 40 m, si raggiunge la base.",
+              "link": [
+                "https://www.gulliver.it/itinerari/ofen-schwarz-peter/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Titlis",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.772057,
+          "longitudine": 8.437782,
+          "itinerari": [
+            {
+              "nome": "Duracell",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2250,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1803983"
+              ]
+            },
+            {
+              "nome": "Süpervitamin",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2250,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1432427"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ofen",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.806651,
+          "longitudine": 8.311664,
+          "itinerari": [
+            {
+              "nome": "Secteur Nünplatten - Ofenkante",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ofen-schwarz-peter/"
+              "link": [
+                "https://www.camptocamp.org/routes/1572936"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ofen",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.8081,
+          "longitudine": 8.318,
+          "itinerari": [
+            {
+              "nome": "Schwarz Peter",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1554618"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Engelberg - Klettergarten Leitistein",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.794196,
+          "longitudine": 8.469396,
+          "itinerari": [
+            {
+              "nome": "Muggibude",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1326390"
+              ]
+            },
+            {
+              "nome": "der Kraxler",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1326382"
+              ]
+            },
+            {
+              "nome": "Z'Bärg mit Bini",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1326215"
+              ]
+            },
+            {
+              "nome": "Offalaff/Crystal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1326205"
+              ]
+            },
+            {
+              "nome": "Kneke di knek",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1326202"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Engelberg - Klettergarten Leitistein",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.820062,
+          "longitudine": 8.400914,
+          "itinerari": [
+            {
+              "nome": "Luke Skywalker",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1326200"
+              ]
+            },
+            {
+              "nome": "Stairway to heaven",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1326198"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Klettergarten Schneesturm",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.97952,
+          "longitudine": 8.26155,
+          "itinerari": [
+            {
+              "nome": "Secondo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1262250"
+              ]
+            },
+            {
+              "nome": "Primo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1262249"
+              ]
+            },
+            {
+              "nome": "Angela",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1262248",
+                "https://www.camptocamp.org/routes/1262246"
+              ]
+            },
+            {
+              "nome": "Nora",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1262247"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bettlerstock",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.847755,
+          "longitudine": 8.411204,
+          "itinerari": [
+            {
+              "nome": "Kletterlehrpfad - Mungg",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1125207"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cheselenflue",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.79796,
+          "longitudine": 8.270482,
+          "itinerari": [
+            {
+              "nome": "Viadukt",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/810884"
+              ]
+            },
+            {
+              "nome": "Die Männer von Memmental",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/810882"
+              ]
+            },
+            {
+              "nome": "Kontinuum",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/810878"
+              ]
+            },
+            {
+              "nome": "Roter Punkt",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/810875"
+              ]
+            },
+            {
+              "nome": "Technoparty",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/810873"
+              ]
+            },
+            {
+              "nome": "Meteorit-Kombination",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/57665"
+              ]
+            },
+            {
+              "nome": "Dr Blau Chäfer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/57664"
+              ]
+            },
+            {
+              "nome": "Stairway to Heaven",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/57002"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ofen",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.814147,
+          "longitudine": 8.303286,
+          "itinerari": [
+            {
+              "nome": "Indianerpfeiler",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2188,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/806329"
+              ]
+            },
+            {
+              "nome": "Halma",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2188,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/806316"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Titlis",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.796065,
+          "longitudine": 8.419348,
+          "itinerari": [
+            {
+              "nome": "Stubby & Charlie",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2320,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/797166"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Laub",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.9744,
+          "longitudine": 8.252405,
+          "itinerari": [
+            {
+              "nome": "Alti Spure",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/774559"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pilatus",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.964056,
+          "longitudine": 8.261777,
+          "itinerari": [
+            {
+              "nome": "Galtigentürme I-IV",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2129,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/696782"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Matthorn",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.973794,
+          "longitudine": 8.250206,
+          "itinerari": [
+            {
+              "nome": "Arête SW (Rüesslifluegrat)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2041,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/691416"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ofen",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.821122,
+          "longitudine": 8.303641,
+          "itinerari": [
+            {
+              "nome": "Lugispiel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2188,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/187673",
+                "https://www.camptocamp.org/routes/57997"
+              ]
             }
           ]
         }

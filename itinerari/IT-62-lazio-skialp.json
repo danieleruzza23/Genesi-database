@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Amatrice",
@@ -22,12 +22,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2458,
+              "quotaMassima": 2458.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/gorzano-monte-per-fosso-gorzano/"
+              "link": [
+                "https://www.gulliver.it/itinerari/gorzano-monte-per-fosso-gorzano/"
+              ]
             }
           ]
         },
@@ -44,12 +46,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1450,
+              "sviluppo": 1450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/sevo-pizzo-di-da-cossito/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sevo-pizzo-di-da-cossito/"
+              ]
             }
           ]
         },
@@ -66,12 +70,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 819,
+              "sviluppo": 819.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2419,
+              "quotaMassima": 2419.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/sevo-pizzo-di-da-macchie-piane/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sevo-pizzo-di-da-macchie-piane/"
+              ]
             }
           ]
         }
@@ -96,12 +102,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1881,
+              "quotaMassima": 1881.0,
               "discesa": "Su dorsale",
-              "link": "https://www.gulliver.it/itinerari/fungara-colle-della-da-rocca-di-fondi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/fungara-colle-della-da-rocca-di-fondi/"
+              ]
             }
           ]
         },
@@ -118,12 +126,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 860,
+              "sviluppo": 860.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1888,
+              "quotaMassima": 1888.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/nuria-monte-da-rocca-di-fondi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nuria-monte-da-rocca-di-fondi/"
+              ]
             }
           ]
         }
@@ -148,12 +158,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2000,
+              "quotaMassima": 2000.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/cava-monte-e-monte-rotondo-da-corvaro/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cava-monte-e-monte-rotondo-da-corvaro/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ginepro (Monte) della Duchessa dalla V.Amara",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.205191,
+          "longitudine": 13.276844,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 935.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1935.0,
+              "discesa": "Couloir",
+              "link": [
+                "https://www.gulliver.it/itinerari/ginepro-monte-della-duchessa-dalla-v-amara/"
+              ]
             }
           ]
         },
@@ -170,12 +206,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1141,
+              "sviluppo": 1141.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2141,
+              "quotaMassima": 2141.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/morrone-della-duchessa-monte-dalla-valle-amara-per-fosso-conca/"
+              "link": [
+                "https://www.gulliver.it/itinerari/morrone-della-duchessa-monte-dalla-valle-amara-per-fosso-conca/"
+              ]
             }
           ]
         },
@@ -192,12 +230,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1220,
+              "sviluppo": 1220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2184,
+              "quotaMassima": 2184.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/murolungo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/murolungo/"
+              ]
             }
           ]
         },
@@ -214,12 +254,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1006,
+              "sviluppo": 1006.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2006,
+              "quotaMassima": 2006.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/punta-delluccettu-per-valle-dellasino/"
+              "link": [
+                "https://www.gulliver.it/itinerari/punta-delluccettu-per-valle-dellasino/"
+              ]
             }
           ]
         }
@@ -244,12 +286,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 730,
+              "sviluppo": 730.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1903,
+              "quotaMassima": 1903.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/i-pozzoni-monte/"
+              "link": [
+                "https://www.gulliver.it/itinerari/i-pozzoni-monte/"
+              ]
             }
           ]
         }
@@ -274,12 +318,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2050,
+              "quotaMassima": 2050.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/i-cantari-q-2050-da-valico-serra-s-antonio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/i-cantari-q-2050-da-valico-serra-s-antonio/"
+              ]
             }
           ]
         }
@@ -304,12 +350,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 776,
+              "sviluppo": 776.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2216,
+              "quotaMassima": 2216.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/terminillo-monte-da-mose/"
+              "link": [
+                "https://www.gulliver.it/itinerari/terminillo-monte-da-mose/"
+              ]
             }
           ]
         }
@@ -334,12 +382,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2216,
+              "quotaMassima": 2216.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/terminillo-monte-canalone-nord/"
+              "link": [
+                "https://www.gulliver.it/itinerari/terminillo-monte-canalone-nord/"
+              ]
             }
           ]
         },
@@ -356,12 +406,46 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 396,
+              "sviluppo": 396.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2216,
+              "quotaMassima": 2216.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/terminillo-montecanalone-centrale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/terminillo-montecanalone-centrale/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Morro Reatino",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Tilia (Monte) da Passo del Fuscello",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.5266076,
+          "longitudine": 12.8326602,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1775.0,
+              "discesa": "Pendii ampi",
+              "link": [
+                "https://www.gulliver.it/itinerari/tilia-monte-da-passo-del-fuscello/"
+              ]
             }
           ]
         }
@@ -386,12 +470,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 620,
+              "sviluppo": 620.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2030,
+              "quotaMassima": 2030.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/forcellone-monte-o-frosilone-da-prati-di-mezzo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/forcellone-monte-o-frosilone-da-prati-di-mezzo/"
+              ]
             }
           ]
         },
@@ -408,12 +494,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 630,
+              "sviluppo": 630.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2030,
+              "quotaMassima": 2030.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/forcellone-monte-o-frosilone-per-la-parete-no/"
+              "link": [
+                "https://www.gulliver.it/itinerari/forcellone-monte-o-frosilone-per-la-parete-no/"
+              ]
             }
           ]
         },
@@ -430,12 +518,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 870,
+              "sviluppo": 870.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2242,
+              "quotaMassima": 2242.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/meta-monte-da-prati-di-mezzo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/meta-monte-da-prati-di-mezzo/"
+              ]
             }
           ]
         },
@@ -452,12 +542,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 842,
+              "sviluppo": 842.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2242,
+              "quotaMassima": 2242.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/meta-monte-da-prato-di-mezzo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/meta-monte-da-prato-di-mezzo/"
+              ]
             }
           ]
         },
@@ -474,12 +566,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 705,
+              "sviluppo": 705.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2105,
+              "quotaMassima": 2105.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/metuccia-monte-per-la-conca-glaciale-orientale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/metuccia-monte-per-la-conca-glaciale-orientale/"
+              ]
             }
           ]
         }
@@ -504,12 +598,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 920,
+              "sviluppo": 920.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2216,
+              "quotaMassima": 2216.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/terminillo-montetraversata-rif-sebastiani-fontenova-e-ritorno/"
+              "link": [
+                "https://www.gulliver.it/itinerari/terminillo-montetraversata-rif-sebastiani-fontenova-e-ritorno/"
+              ]
             }
           ]
         }
@@ -534,12 +630,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 713,
+              "sviluppo": 713.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2013,
+              "quotaMassima": 2013.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/cappello-del-prete-2013-per-la-valle-venafrana/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cappello-del-prete-2013-per-la-valle-venafrana/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Mare (Monte) dal Sacrario di Collelungo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 41.60061766,
+          "longitudine": 13.97186279,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 720.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2020.0,
+              "discesa": "Pendii ampi",
+              "link": [
+                "https://www.gulliver.it/itinerari/mare-monte-dal-sacrario-di-collelungo/"
+              ]
             }
           ]
         }
@@ -564,12 +686,163 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2007,
+              "quotaMassima": 2007.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/serra-matarazzo-q-2007-per-v-inguagnera-e-v-lattara/"
+              "link": [
+                "https://www.gulliver.it/itinerari/serra-matarazzo-q-2007-per-v-inguagnera-e-v-lattara/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Pizzo di Sevo Monti della Laga",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.669444,
+          "longitudine": 13.346667,
+          "itinerari": [
+            {
+              "nome": "Boucle Macchie Piane-Macchie Egidio depuis Cossito",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2419,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/161873"
+              ]
+            },
+            {
+              "nome": "Boucle Costa Lepri - Arête SW, depuis San Angelo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2419,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/111709"
+              ]
+            },
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1060,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2422,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/48407"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Terminillo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.474703,
+          "longitudine": 12.997542,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2216,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/161864"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Terminillo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.47281,
+          "longitudine": 13.004265,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2216,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/122350"
+              ]
+            },
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2216,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/122346"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte la Meta",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 41.6721,
+          "longitudine": 13.9674,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2242,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/50565"
+              ]
             }
           ]
         }

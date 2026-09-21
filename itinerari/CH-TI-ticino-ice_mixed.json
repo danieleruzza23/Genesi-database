@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Biasca",
@@ -22,12 +22,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/kim-o-koreano-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/kim-o-koreano-cascata/"
+              ]
             }
           ]
         }
@@ -52,25 +54,38 @@
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 35,
+              "sviluppo": 35.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/regina-dei-ghiacci/"
-            },
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/regina-dei-ghiacci/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ghirone",
+          "disciplina": "ice_mixed",
+          "esposizione": "s",
+          "latitudine": 46.57909968,
+          "longitudine": 8.93626213,
+          "itinerari": [
             {
               "nome": "Incentivi per la Rottamazione (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 50,
+              "sviluppo": 50.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/incentivi-per-la-rottamazione/"
+              "discesa": "dal medesimo.",
+              "link": [
+                "https://www.gulliver.it/itinerari/incentivi-per-la-rottamazione/"
+              ]
             }
           ]
         }
@@ -95,12 +110,14 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 230,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/grosshorn-costa-del-fatt-cane-sciolto-cascata-del/"
+              "link": [
+                "https://www.gulliver.it/itinerari/grosshorn-costa-del-fatt-cane-sciolto-cascata-del/"
+              ]
             }
           ]
         }
@@ -125,25 +142,38 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/alnasca-poncione-d-non-e-un-posto-per-donne/"
-            },
+              "discesa": "su Abalakov, sosta su chiodi(lasciati) in uscita dal chiave poi le successive calate su alberi cordonati e Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/alnasca-poncione-d-non-e-un-posto-per-donne/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione d’Alnasca",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.29606912,
+          "longitudine": 8.818759918,
+          "itinerari": [
             {
               "nome": "Primperan (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/alnasca-poncione-d-primperan/"
+              "link": [
+                "https://www.gulliver.it/itinerari/alnasca-poncione-d-primperan/"
+              ]
             }
           ]
         }
@@ -168,12 +198,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-capolo-gridone-cascata-centrale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-capolo-gridone-cascata-centrale/"
+              ]
             }
           ]
         }
@@ -198,25 +230,38 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sogno-o-sonlerto/"
-            },
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sogno-o-sonlerto/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valle Bavona",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.40294755,
+          "longitudine": 8.513545989,
+          "itinerari": [
             {
               "nome": "Il Nome della Rosa (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 230,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/il-nome-della-rosa-cascata/"
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/il-nome-della-rosa-cascata/"
+              ]
             }
           ]
         }
@@ -241,64 +286,110 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/verra-la-morte-e-avra-le-nomic-cascata/"
-            },
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/verra-la-morte-e-avra-le-nomic-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campo Tencia (Pizzo)",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 46.43798998,
+          "longitudine": 8.747477531,
+          "itinerari": [
             {
               "nome": "Giovanelli (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/giovanelli-cascata-campo-tencia/"
-            },
+              "discesa": "in doppia o a piedi (usciti dalla cascata traversando a destra e scendendo poi nel canale di accesso)",
+              "link": [
+                "https://www.gulliver.it/itinerari/giovanelli-cascata-campo-tencia/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campo Tencia (Pizzo)",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.43725052,
+          "longitudine": 8.747741546,
+          "itinerari": [
             {
               "nome": "Centrale (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/campo-tencia-pizzo-cascata-centrale/"
-            },
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/campo-tencia-pizzo-cascata-centrale/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campo Tencia (Pizzo)",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.43643728,
+          "longitudine": 8.749837875,
+          "itinerari": [
             {
               "nome": "Andrin (Candela)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 45,
+              "sviluppo": 45.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/campo-tencia-pizzo-candela-andrin/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/campo-tencia-pizzo-candela-andrin/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campo Tencia (Pizzo)",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.43625983,
+          "longitudine": 8.752841949,
+          "itinerari": [
             {
               "nome": "Sipario (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/campo-tencia-pizzo-sipario-del-campo-tencia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/campo-tencia-pizzo-sipario-del-campo-tencia/"
+              ]
             }
           ]
         }
@@ -323,25 +414,38 @@
               "gradoMassimo": "6",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/no-more-diesel-cascata/"
-            },
+              "discesa": "a lato della cascata con tre doppie. Nessun materiale lasciato. Difficoltà estesa: III+/6/M6+/S/X",
+              "link": [
+                "https://www.gulliver.it/itinerari/no-more-diesel-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Chiggiogna",
+          "disciplina": "ice_mixed",
+          "esposizione": "sw",
+          "latitudine": 46.46210276,
+          "longitudine": 8.828201293,
+          "itinerari": [
             {
               "nome": "Diomede + The King (Cascate)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/diomede-the-king/"
+              "link": [
+                "https://www.gulliver.it/itinerari/diomede-the-king/"
+              ]
             }
           ]
         }
@@ -366,25 +470,38 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scaiee-cima-di-occhi-di-lumaca-cascata/"
-            },
+              "discesa": "lungo la cascata su alberi cordonati, ultima doppia su chiodo con moschettone.",
+              "link": [
+                "https://www.gulliver.it/itinerari/scaiee-cima-di-occhi-di-lumaca-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Scaiee (Cima di)",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.33987663,
+          "longitudine": 8.802366256,
+          "itinerari": [
             {
               "nome": "Ellecinquesseuno (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scaiee-cima-di-ellecinquesseuno/"
+              "discesa": "su alberi, nessun equipaggiamento in posto.",
+              "link": [
+                "https://www.gulliver.it/itinerari/scaiee-cima-di-ellecinquesseuno/"
+              ]
             }
           ]
         },
@@ -401,25 +518,38 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sonogno-souvenir-cascata/"
-            },
+              "discesa": "prima su Abalakov e poi sulla sinistra orografica a piedi nel bosco.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sonogno-souvenir-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sonogno",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.36437338,
+          "longitudine": 8.800778388,
+          "itinerari": [
             {
               "nome": "3 Spit per San Valentino (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/3-spit-per-san-valentino-cascata/"
+              "discesa": "su alberi e poi 3 spit rock con cordone e maillon.",
+              "link": [
+                "https://www.gulliver.it/itinerari/3-spit-per-san-valentino-cascata/"
+              ]
             }
           ]
         }
@@ -439,17 +569,19 @@
           "longitudine": 8.865795135498047,
           "itinerari": [
             {
-              "nome": "Tamaro (Monte, Cascata del)",
+              "nome": null,
               "gradoObbligatorio": "III",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 60,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tamaro-monte-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tamaro-monte-cascata/"
+              ]
             }
           ]
         }
@@ -474,25 +606,38 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 280,
+              "sviluppo": 280.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/anche-per-oggi-non-si-lavora-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/anche-per-oggi-non-si-lavora-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Giornico",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "latitudine": 46.3978276,
+          "longitudine": 8.86270523,
+          "itinerari": [
             {
               "nome": "Wikisex (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/wikisex/"
+              "discesa": "Lasciare il riale 50 metri dopo l'ultimo muro sulla sinistra orografica e su pendio boschivo raggiungere il sentiero.",
+              "link": [
+                "https://www.gulliver.it/itinerari/wikisex/"
+              ]
             }
           ]
         }
@@ -517,12 +662,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rigore-alimentare/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rigore-alimentare/"
+              ]
             }
           ]
         }
@@ -542,17 +689,19 @@
           "longitudine": 8.681342695727592,
           "itinerari": [
             {
-              "nome": "La Foss (Cascata)",
+              "nome": null,
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": 1,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/la-foss/"
+              "discesa": "su alberi o Abalakov. Negli ultimi anni la cascata risulta di rarissima formazione.",
+              "link": [
+                "https://www.gulliver.it/itinerari/la-foss/"
+              ]
             }
           ]
         }
@@ -577,12 +726,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/monte-derbianco-per-aspera-ad-astra/"
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/monte-derbianco-per-aspera-ad-astra/"
+              ]
             }
           ]
         }
@@ -607,12 +758,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sprug-cascata-dello/"
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sprug-cascata-dello/"
+              ]
             }
           ]
         },
@@ -629,12 +782,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/furbeda-rii-della-piano-della-parete/"
+              "link": [
+                "https://www.gulliver.it/itinerari/furbeda-rii-della-piano-della-parete/"
+              ]
             }
           ]
         }
@@ -659,12 +814,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pilastrobeso-pilastrino-anoressico-cascata-cima-di-cardeed/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pilastrobeso-pilastrino-anoressico-cascata-cima-di-cardeed/"
+              ]
             }
           ]
         }
@@ -689,12 +846,310 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
+              "discesa": "da alberi cordonati e uno spit a sinistra all' uscita del tiro chiave.",
+              "link": [
+                "https://www.gulliver.it/itinerari/casanova-cascata/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Punta del Termine / Marchhorn",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.455739,
+          "longitudine": 8.456233,
+          "itinerari": [
+            {
+              "nome": "per il Canalone del Marchhorn",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2962,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/casanova-cascata/"
+              "link": [
+                "https://www.camptocamp.org/routes/1001544"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Adula / Rheinwaldhorn",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "latitudine": 46.491214,
+          "longitudine": 9.024358,
+          "itinerari": [
+            {
+              "nome": "Via Malvaglia & crete WSW",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3402,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/898730"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Medel",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "latitudine": 46.601469,
+          "longitudine": 8.930503,
+          "itinerari": [
+            {
+              "nome": "Par le Val Camadra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3210,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/709428"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Adula / Rheinwaldhorn",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "latitudine": 46.488693,
+          "longitudine": 9.003856,
+          "itinerari": [
+            {
+              "nome": "Arête W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3402,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/709409"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Basòdino",
+          "disciplina": "ice_mixed",
+          "esposizione": "SW",
+          "latitudine": 46.403947,
+          "longitudine": 8.493756,
+          "itinerari": [
+            {
+              "nome": "Arête SSW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3272,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/672982"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz da Termin",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "latitudine": 46.365658,
+          "longitudine": 9.071642,
+          "itinerari": [
+            {
+              "nome": "dalla Val Pontirone per l'Alpe Giumella / Giumëla e la conca di Vedrign.",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2902,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/621688"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione d'Alnasca",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "latitudine": 46.283223,
+          "longitudine": 8.821172,
+          "itinerari": [
+            {
+              "nome": " da Motta  in traversata alla Föpia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2300,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/462520"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzo Rotondo",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.499688,
+          "longitudine": 8.47091,
+          "itinerari": [
+            {
+              "nome": "Canalone principale S, da All'Acqua per la via diretta",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3192,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/332455"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Poncione di Cassina Baggio ",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "latitudine": 46.493863,
+          "longitudine": 8.4664,
+          "itinerari": [
+            {
+              "nome": "Canale della Fiamma",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2850,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/201155"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzo Gallina",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.486937,
+          "longitudine": 8.419349,
+          "itinerari": [
+            {
+              "nome": "Da All'Acqua",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3060,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/111247"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzo Lucendro",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "latitudine": 46.538851,
+          "longitudine": 8.519374,
+          "itinerari": [
+            {
+              "nome": "Versant E",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2963,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55332"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Adula",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "latitudine": 46.490418,
+          "longitudine": 8.991205,
+          "itinerari": [
+            {
+              "nome": "traversata Cap.Quarnei - Cap.Adula Utoe",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3402,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55304"
+              ]
             }
           ]
         }

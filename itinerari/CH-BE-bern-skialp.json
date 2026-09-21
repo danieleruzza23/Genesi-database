@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Fieschertal",
@@ -9,28 +9,6 @@
       "latitudine": null,
       "longitudine": null,
       "pareti": [
-        {
-          "nome": "Gross Grunhorn dallo Jungraujoch per il versante ovest",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "latitudine": 46.54871930109634,
-          "longitudine": 7.981743291839605,
-          "itinerari": [
-            {
-              "nome": "Ovest",
-              "gradoObbligatorio": "BSA",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4043,
-              "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/__trashed-22/"
-            }
-          ]
-        },
         {
           "nome": "Gross Grunhorn Parete Ovest da Fiesch e dalla Konkordiahutte",
           "disciplina": "skialp",
@@ -44,12 +22,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1300,
+              "sviluppo": 1300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 4044,
+              "quotaMassima": 4044.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/gross-grunhorn-parete-ovest/"
+              "link": [
+                "https://www.gulliver.it/itinerari/gross-grunhorn-parete-ovest/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gross Grunhorn dallo Jungraujoch per il versante ovest",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.54871930109634,
+          "longitudine": 7.981743291839605,
+          "itinerari": [
+            {
+              "nome": "Ovest",
+              "gradoObbligatorio": "BSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4043.0,
+              "discesa": "Ghiacciaio",
+              "link": [
+                "https://www.gulliver.it/itinerari/__trashed-22/"
+              ]
             }
           ]
         }
@@ -74,12 +78,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1087,
+              "sviluppo": 1087.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2994,
+              "quotaMassima": 2994.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/funffingerstock-per-il-chli-sustlifirn/"
+              "link": [
+                "https://www.gulliver.it/itinerari/funffingerstock-per-il-chli-sustlifirn/"
+              ]
             }
           ]
         },
@@ -96,12 +102,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 820,
+              "sviluppo": 820.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2900,
+              "quotaMassima": 2900.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/giglistock-da-steingletscher-via-normale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giglistock-da-steingletscher-via-normale/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sustenhorn da Sustennpass",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.72962481,
+          "longitudine": 8.447799682,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1650.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3503.0,
+              "discesa": "Attraversa pendii ripidi",
+              "link": [
+                "https://www.gulliver.it/itinerari/sustenhorn-da-sustennpass/"
+              ]
             }
           ]
         }
@@ -126,12 +158,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1660,
+              "sviluppo": 1660.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2839,
+              "quotaMassima": 2839.0,
               "discesa": "Ski area",
-              "link": "https://www.gulliver.it/itinerari/altstafelhornda-unterbach/"
+              "link": [
+                "https://www.gulliver.it/itinerari/altstafelhornda-unterbach/"
+              ]
             }
           ]
         },
@@ -148,12 +182,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1225,
+              "sviluppo": 1225.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 4273,
+              "quotaMassima": 4273.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/finsteraarhorn-cresta-no/"
+              "link": [
+                "https://www.gulliver.it/itinerari/finsteraarhorn-cresta-no/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kranzberg Versante sud dallo Jungfraujoch",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.624452,
+          "longitudine": 8.034301,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3742.0,
+              "discesa": "Ghiacciaio",
+              "link": [
+                "https://www.gulliver.it/itinerari/kranzberg-versante-sud-dallo-jungfraujoch/"
+              ]
             }
           ]
         },
@@ -170,12 +230,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 966,
+              "sviluppo": 966.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3666,
+              "quotaMassima": 3666.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/kranzberg-versante-sud-est/"
+              "link": [
+                "https://www.gulliver.it/itinerari/kranzberg-versante-sud-est/"
+              ]
             }
           ]
         }
@@ -200,12 +262,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 727,
+              "sviluppo": 727.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3962,
+              "quotaMassima": 3962.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/abeni-flue-o-ebnefluhda-interlaken-ost-per-la-dalla-capanna-hollandia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/abeni-flue-o-ebnefluhda-interlaken-ost-per-la-dalla-capanna-hollandia/"
+              ]
             }
           ]
         },
@@ -222,12 +286,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 4099,
+              "quotaMassima": 4099.0,
               "discesa": "Su dorsale",
-              "link": "https://www.gulliver.it/itinerari/monch-cresta-se/"
+              "link": [
+                "https://www.gulliver.it/itinerari/monch-cresta-se/"
+              ]
             }
           ]
         }
@@ -252,12 +318,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1723,
+              "sviluppo": 1723.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3638,
+              "quotaMassima": 3638.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/doldenhorn-dalla-doldenhornhutte/"
+              "link": [
+                "https://www.gulliver.it/itinerari/doldenhorn-dalla-doldenhornhutte/"
+              ]
             }
           ]
         },
@@ -274,12 +342,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1390,
+              "sviluppo": 1390.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3448,
+              "quotaMassima": 3448.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/rinderhorn-da-schwarenbach/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rinderhorn-da-schwarenbach/"
+              ]
             }
           ]
         },
@@ -296,12 +366,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1063,
+              "sviluppo": 1063.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2962,
+              "quotaMassima": 2962.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/tatelishore-obers-da-schwarenbach/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tatelishore-obers-da-schwarenbach/"
+              ]
             }
           ]
         }
@@ -326,12 +398,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1663,
+              "sviluppo": 1663.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3247,
+              "quotaMassima": 3247.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/wildhorn-da-iffigenalp/"
+              "link": [
+                "https://www.gulliver.it/itinerari/wildhorn-da-iffigenalp/"
+              ]
             }
           ]
         }
@@ -356,12 +430,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1450,
+              "sviluppo": 1450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3008,
+              "quotaMassima": 3008.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/chli-spannort-colle-ovest-a-farnigen-anello-juxfad-barenxhan/"
+              "link": [
+                "https://www.gulliver.it/itinerari/chli-spannort-colle-ovest-a-farnigen-anello-juxfad-barenxhan/"
+              ]
             }
           ]
         },
@@ -378,12 +454,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1400,
+              "sviluppo": 1400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3420,
+              "quotaMassima": 3420.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/gwachtenhorn-via-normale-per-lo-steingletcher/"
+              "link": [
+                "https://www.gulliver.it/itinerari/gwachtenhorn-via-normale-per-lo-steingletcher/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Zwachten dalla strada per il Sustenpass",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.72969,
+          "longitudine": 8.447844,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3078.0,
+              "discesa": "Varie",
+              "link": [
+                "https://www.gulliver.it/itinerari/zwachten-da-strada-per-sustenpass/"
+              ]
             }
           ]
         }

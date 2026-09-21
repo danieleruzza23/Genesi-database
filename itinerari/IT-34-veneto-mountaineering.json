@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Alleghe",
@@ -22,12 +22,14 @@
               "gradoMassimo": "ED-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3220,
+              "quotaMassima": 3220.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/civetta-punta-solleder-lettembauer/"
+              "link": [
+                "https://www.gulliver.it/itinerari/civetta-punta-solleder-lettembauer/"
+              ]
             }
           ]
         },
@@ -44,12 +46,14 @@
               "gradoMassimo": "ED-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 770,
+              "sviluppo": 770.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2920,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/civetta-punta-diedro-aste-susatti/"
+              "quotaMassima": 2920.0,
+              "discesa": "per la ferrata alleghesi che si trova 15 m sotto il colletto d'uscita.",
+              "link": [
+                "https://www.gulliver.it/itinerari/civetta-punta-diedro-aste-susatti/"
+              ]
             }
           ]
         }
@@ -74,12 +78,38 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1050,
+              "sviluppo": 1050.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2456,
+              "quotaMassima": 2456.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/aiarnola-monte-dal-passo-di-santantonio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/aiarnola-monte-dal-passo-di-santantonio/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ambàta (Cima d’) Via Normale da Auronzo di Cadore",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.55789781,
+          "longitudine": 12.42665943,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2872.0,
+              "discesa": "per la stessa via. Non difficile ma attenzione alla roccia friabilissima. Impossibilità di assicurazione con corda.",
+              "link": [
+                "https://www.gulliver.it/itinerari/ambata-cima-d-via-normale-da-auronzo-di-cadore/"
+              ]
             }
           ]
         },
@@ -96,12 +126,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2839,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cadin-di-san-lucano-cima-via-normale-da-pian-degli-spiriti/"
+              "quotaMassima": 2839.0,
+              "discesa": "per lo stesso itinerario",
+              "link": [
+                "https://www.gulliver.it/itinerari/cadin-di-san-lucano-cima-via-normale-da-pian-degli-spiriti/"
+              ]
             }
           ]
         },
@@ -118,12 +150,38 @@
               "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2504,
+              "quotaMassima": 2504.0,
+              "discesa": "Dalla vetta individuare il punto di calata (catena) dal lato opposto e leggermente a sinistra rispetto alla cresta di arrivo. Calarsi per circa 5 metri fino ad una forcella, poi ancora per altrettanti metri a sinistra (faccia a monte) superando un piccolo risalto. Proseguire quindi a piedi per sentiero segnalato da ometti in diagonale fino a raggiungere un evidente ghiaione dal quale si scende in verticale.",
+              "link": [
+                "https://www.gulliver.it/itinerari/cadini-di-misurina-punta-col-de-varda-via-comici-del-torso/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda de Marchi, cima nord (Marmarole)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.530738841896074,
+          "longitudine": 12.282658581462371,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2769.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cadini-di-misurina-punta-col-de-varda-via-comici-del-torso/"
+              "link": [
+                "https://www.gulliver.it/itinerari/croda-de-marchi-cima-nord-marmarole/"
+              ]
             }
           ]
         },
@@ -140,12 +198,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2580,
+              "quotaMassima": 2580.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/il-gobbo-parete-est-via-fanton-vecellio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/il-gobbo-parete-est-via-fanton-vecellio/"
+              ]
             }
           ]
         },
@@ -162,12 +222,14 @@
               "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2998,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lavaredo-cima-grande-di-spigolo-dibona/"
+              "quotaMassima": 2998.0,
+              "discesa": "abbastanza lunga dalla via normale, sul versante S, ben tracciata con ometti e segni rossi. Possibili corde doppie con i numerosi ancoraggi in posto (difficoltà max in arrampicata III+).",
+              "link": [
+                "https://www.gulliver.it/itinerari/lavaredo-cima-grande-di-spigolo-dibona/"
+              ]
             }
           ]
         },
@@ -184,12 +246,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2999,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lavaredo-cima-grande-di-via-normale-dal-rifugio-auronzo/"
+              "quotaMassima": 2999.0,
+              "discesa": "Discesa a ritroso per la via di salita. Le doppie variano da 4 a 8 a seconda di quanto si vuole disarrampicare. Una corda da 60 metri è più che sufficiente. Nelle calate principali sono presenti dei moderni chiodi da calata. Evitare i vari anelli di cordino posti qua e la. La via ha il problema di essere scarsamente segnalata, se non da ometti di pietra non sempre visibili in discesa. Portarsi una descrizione cartacea per evitare di incrodarsi. Via molto frequentata e di conseguenza con rischi di caduta sassi e di discesa interminabile.",
+              "link": [
+                "https://www.gulliver.it/itinerari/lavaredo-cima-grande-di-via-normale-dal-rifugio-auronzo/"
+              ]
             }
           ]
         },
@@ -206,12 +270,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2973,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lavaredo-cima-ovest-di-via-normale-dal-rifugio-auronzo/"
+              "quotaMassima": 2973.0,
+              "discesa": "Discesa a ritroso per la via di salita. Una corda da 60 metri è più che sufficiente. Calcolare da 5 a 7 doppie a seconda di quanto si vuole disarrampicare.",
+              "link": [
+                "https://www.gulliver.it/itinerari/lavaredo-cima-ovest-di-via-normale-dal-rifugio-auronzo/"
+              ]
             }
           ]
         },
@@ -228,12 +294,14 @@
               "gradoMassimo": "AD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 537,
+              "sviluppo": 537.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2857,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lavaredo-cima-piccola-di-via-normale-dal-rifugio-auronzo/"
+              "quotaMassima": 2857.0,
+              "discesa": "con una corda da 60 metri si devono fare almeno 11 doppie, tutte su grossi anelli cementati. Le prime due portano dagli ancoraggi sotto la cima alla sosta del pilastrino. Le successive sei, sempre sulla linea di massima pendenza in direzione della forcella Grande-Piccola, portano su una terrazza ghiaioso-detritica. Percorrere su terreno infido, prima verso sinistra e poi verso destra la traccia che la solca. Al termine della traccia scendere verticalmente per alcuni metri, su terreno ancora più infido, in direzione di un ben visibile anello cementato (uno spit su una placca pochi metri sopra questo). Da questo anello ancora tre doppie, tendendo leggermente verso destra (faccia a monte), portano direttamente all’attacco della via.",
+              "link": [
+                "https://www.gulliver.it/itinerari/lavaredo-cima-piccola-di-via-normale-dal-rifugio-auronzo/"
+              ]
             }
           ]
         },
@@ -250,12 +318,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1650,
+              "sviluppo": 1650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3152,
+              "quotaMassima": 3152.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/popena-piz-via-whitwell-siorpaes/"
+              "link": [
+                "https://www.gulliver.it/itinerari/popena-piz-via-whitwell-siorpaes/"
+              ]
             }
           ]
         }
@@ -280,12 +350,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1200,
+              "sviluppo": 1200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2928,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/froppa-cimon-del-via-normale/"
+              "quotaMassima": 2928.0,
+              "discesa": "Come per la salita: dalla cima si cala con attenzione alla sosta su chiodo con cordone da cui in doppia fino alla sosta sui 3 chiodi con fettuccia da cui con un'altra doppia di circa 25 m direttamente a Forcella Kugy [ore 0.40]. Dalla forcella tramite il percorso conosciuto all'andata si cala a Forcella Marmarole, poi nel Vallon del Froppa e al sentiero che verso sinistra ci riporta al Rifugio Baion [ore 2.20].",
+              "link": [
+                "https://www.gulliver.it/itinerari/froppa-cimon-del-via-normale/"
+              ]
             }
           ]
         }
@@ -310,12 +382,14 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1620,
+              "sviluppo": 1620.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3001,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/campidocima-di-via-normale-da-gares/"
+              "quotaMassima": 3001.0,
+              "discesa": "la la stessa via di salita. Non ci sono ancoraggi per eventuali doppie, ma vista l’esposizione a nord est, si può trovare ghiaccio o neve che rendono la discesa da prendere con precauzione.",
+              "link": [
+                "https://www.gulliver.it/itinerari/campidocima-di-via-normale-da-gares/"
+              ]
             }
           ]
         }
@@ -340,12 +414,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 2000,
+              "sviluppo": 2000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2522,
+              "quotaMassima": 2522.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sass-de-mura-cima-ovest-via-normale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sass-de-mura-cima-ovest-via-normale/"
+              ]
             }
           ]
         }
@@ -357,6 +433,45 @@
       "latitudine": null,
       "longitudine": null,
       "pareti": [
+        {
+          "nome": "Sassolungo di Cibiana Via Normale",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.37412998840084,
+          "longitudine": 12.259328882278426,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2413.0,
+              "discesa": "come per la salita, scendere direttamente per il buco senza farsi tentare dalla rampa.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sassolungo-di-cibiana/"
+              ]
+            },
+            {
+              "nome": "Sassolungo di Cibiana ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2413,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1947366"
+              ]
+            }
+          ]
+        },
         {
           "nome": "Sfornioi nord (Cima) dal Passo di Cibiana",
           "disciplina": "mountaineering",
@@ -370,12 +485,14 @@
               "gradoMassimo": "PD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 880,
+              "sviluppo": 880.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2410,
+              "quotaMassima": 2410.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sfornioi-cima-nord-dal-passo-di-cibiana/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sfornioi-cima-nord-dal-passo-di-cibiana/"
+              ]
             }
           ]
         }
@@ -399,13 +516,15 @@
               "gradoObbligatorio": null,
               "gradoMassimo": "D",
               "spittatura": null,
-              "tiri": null,
-              "sviluppo": 410,
+              "tiri": 9,
+              "sviluppo": 410.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2647,
+              "quotaMassima": 2647.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/averau-parete-sud-ovest-via-alvera/"
+              "link": [
+                "https://www.gulliver.it/itinerari/averau-parete-sud-ovest-via-alvera/"
+              ]
             }
           ]
         }
@@ -430,12 +549,14 @@
               "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2368,
+              "quotaMassima": 2368.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/castello-monte-second-life/"
+              "link": [
+                "https://www.gulliver.it/itinerari/castello-monte-second-life/"
+              ]
             }
           ]
         },
@@ -452,12 +573,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2361,
+              "quotaMassima": 2361.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cinque-torri-torre-grande-via-nuvolau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cinque-torri-torre-grande-via-nuvolau/"
+              ]
             }
           ]
         },
@@ -474,12 +597,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 75,
+              "sviluppo": 75.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2350,
+              "quotaMassima": 2350.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cinque-torri-torre-quarta-bassavia-normale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cinque-torri-torre-quarta-bassavia-normale/"
+              ]
             }
           ]
         },
@@ -496,12 +621,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 50,
+              "sviluppo": 50.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2300,
+              "quotaMassima": 2300.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cinque-torri-torre-di-mezzo-via-normale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cinque-torri-torre-di-mezzo-via-normale/"
+              ]
             }
           ]
         },
@@ -518,12 +645,38 @@
               "gradoMassimo": "D-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1550,
+              "sviluppo": 1550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3008,
+              "quotaMassima": 3008.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cristallo-monte-canale-vallencant/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cristallo-monte-canale-vallencant/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cristallo (Monte) Via Normale dal Passo Tre Croci",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.55704743330198,
+          "longitudine": 12.201551163476573,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3221.0,
+              "discesa": "Si segue la via di salita. E´ possibile effettuare delle calate nei passaggi più impegnativi (tutte attrezzate con cordini su clessidre o spuntoni)",
+              "link": [
+                "https://www.gulliver.it/itinerari/cristallo-monte-via-normale-dal-passo-tre-croci/"
+              ]
             }
           ]
         },
@@ -540,12 +693,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2400,
+              "quotaMassima": 2400.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/torre-piccola-di-falzarego-via-delle-guide/"
+              "link": [
+                "https://www.gulliver.it/itinerari/torre-piccola-di-falzarego-via-delle-guide/"
+              ]
             }
           ]
         },
@@ -562,12 +717,14 @@
               "gradoMassimo": "D+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2240,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/fiames-punta-spigolo-jori/"
+              "quotaMassima": 2240.0,
+              "discesa": "ferrata Strobel o canale dalla forcella Pomagagnon (sentiero n°202) - ore 2.00",
+              "link": [
+                "https://www.gulliver.it/itinerari/fiames-punta-spigolo-jori/"
+              ]
             }
           ]
         },
@@ -584,12 +741,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 750,
+              "sviluppo": 750.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2750,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lagazuoi-di-mezzo-da-passo-falzarego/"
+              "quotaMassima": 2750.0,
+              "discesa": "avviene per lo stesso itinerario di salita. Consigliata una corda per procedere in conserva nel canalone. Possibilità di fare una doppia per scendere il passaggio chiave – sconsigliato – (presenza di un chiodo nella roccia e di un anello di corda // affidabilità assai dubbia)",
+              "link": [
+                "https://www.gulliver.it/itinerari/lagazuoi-di-mezzo-da-passo-falzarego/"
+              ]
             }
           ]
         },
@@ -606,12 +765,38 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2600,
+              "quotaMassima": 2600.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/mesdi-bec-di-via-normale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/mesdi-bec-di-via-normale/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piccola Croda Rossa o Kleine Gais dal Rifugio Biella",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.6143155673885,
+          "longitudine": 12.164058786840828,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2859.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/kleine-gaisl-piccola-croda-rossa-dal-rifugio-biella/"
+              ]
             }
           ]
         },
@@ -628,12 +813,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 160,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2477,
+              "quotaMassima": 2477.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sass-da-stria-formiche-feroci/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sass-da-stria-formiche-feroci/"
+              ]
             }
           ]
         },
@@ -650,12 +837,38 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 2100,
+              "sviluppo": 2100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3205,
+              "quotaMassima": 3205.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sorapiss-via-normale-da-san-vito-di-cadore/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sorapiss-via-normale-da-san-vito-di-cadore/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tofana di Dentro e Tofana di Mezzo – Via Normale e traversata da Baita Pietofana",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.544943146592665,
+          "longitudine": 12.131577059293885,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1569.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3244.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/tofana-di-dentro-tofana-di-mezzo-via-normale-e-traversata-da-baita-pietofana/"
+              ]
             }
           ]
         },
@@ -672,12 +885,14 @@
               "gradoMassimo": "D+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1200,
+              "sviluppo": 1200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3225,
+              "quotaMassima": 3225.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tofana-di-rozes-via-dimai/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tofana-di-rozes-via-dimai/"
+              ]
             }
           ]
         },
@@ -694,12 +909,14 @@
               "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2650,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tofana-di-rozes-castelletto-via-gugu/"
+              "quotaMassima": 2650.0,
+              "discesa": "seguire per circa 15m il canalone detritico, sulla sinistra. Quindi con una doppia di 45m sul versante nord, raggiungere il sentiero sottostante. Scendere lungo il vallone ghiaioso, oppure lungo la storica galleria del Castelletto. (portare torcia elettrica).",
+              "link": [
+                "https://www.gulliver.it/itinerari/tofana-di-rozes-castelletto-via-gugu/"
+              ]
             }
           ]
         }
@@ -724,12 +941,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1300,
+              "sviluppo": 1300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2580,
+              "quotaMassima": 2580.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cridola-via-normale-dal-rifugio-padova/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cridola-via-normale-dal-rifugio-padova/"
+              ]
             }
           ]
         },
@@ -746,12 +965,14 @@
               "gradoMassimo": "PD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1200,
+              "sviluppo": 1200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2453,
+              "quotaMassima": 2453.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/monfalcon-di-forni-normale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/monfalcon-di-forni-normale/"
+              ]
             }
           ]
         },
@@ -768,12 +989,14 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1350,
+              "sviluppo": 1350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2389,
+              "quotaMassima": 2389.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scodavacca-crodon-di-dal-rifugio-cercena/"
+              "link": [
+                "https://www.gulliver.it/itinerari/scodavacca-crodon-di-dal-rifugio-cercena/"
+              ]
             }
           ]
         },
@@ -790,12 +1013,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2345,
+              "quotaMassima": 2345.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/toro-campanile-via-berger/"
+              "link": [
+                "https://www.gulliver.it/itinerari/toro-campanile-via-berger/"
+              ]
             }
           ]
         }
@@ -819,13 +1044,39 @@
               "gradoObbligatorio": null,
               "gradoMassimo": "ED",
               "spittatura": null,
-              "tiri": null,
-              "sviluppo": 230,
+              "tiri": 7,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2156,
+              "quotaMassima": 2156.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/buse-vetta-delle-la-donna-di-picche/"
+              "link": [
+                "https://www.gulliver.it/itinerari/buse-vetta-delle-la-donna-di-picche/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Telegrafo (Cima) per il Canalone Osanna e traversata Cima Pettorina da Novezzina",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 45.69780818768893,
+          "longitudine": 10.854922753262603,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2200.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/telegrafo-cima-per-il-canalone-osanna-e-traversata-cima-pettorina-da-novezzina/"
+              ]
             }
           ]
         }
@@ -850,12 +1101,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 550,
+              "sviluppo": 550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1620,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/viaz-de-loliana-da-pian-de-la-fopa/"
+              "quotaMassima": 1620.0,
+              "discesa": "Dal rifugio lungo il percorso di accesso appena percorso in falsopiano seguendo il 534 a sud sin sopra il salto dove lungo la facile – seppur un po’ esposta – breve ferratina in discesa sin quasi alla base del canalone nord. Quindi tra le roccette ed il bianco pendio al ponte che anticipa il parcheggio in Pian de la Fopa (1200m – 0.45h).",
+              "link": [
+                "https://www.gulliver.it/itinerari/viaz-de-loliana-da-pian-de-la-fopa/"
+              ]
             }
           ]
         }
@@ -880,12 +1133,14 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1700,
+              "sviluppo": 1700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2849,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/croda-granda-da-faustin/"
+              "quotaMassima": 2849.0,
+              "discesa": "come da via di salita.",
+              "link": [
+                "https://www.gulliver.it/itinerari/croda-granda-da-faustin/"
+              ]
             }
           ]
         },
@@ -902,12 +1157,14 @@
               "gradoMassimo": "PD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1300,
+              "sviluppo": 1300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2649,
+              "quotaMassima": 2649.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sass-dortiga-via-normale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sass-dortiga-via-normale/"
+              ]
             }
           ]
         }
@@ -932,12 +1189,14 @@
               "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2488,
+              "quotaMassima": 2488.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/san-sebastiano-cima-nord-di-canale-nascosto/"
+              "link": [
+                "https://www.gulliver.it/itinerari/san-sebastiano-cima-nord-di-canale-nascosto/"
+              ]
             }
           ]
         },
@@ -954,12 +1213,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2496,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tamer-davanti-via-normale/"
+              "quotaMassima": 2496.0,
+              "discesa": "tornare per cresta fino alla sosta di calata su chiodi, da cui con 2 calate si torna alla base del canale sul terreno ghiaioso più appoggiato. Da qui fino alla forcella disarrampicare per la via di salita, qualche ometto ma non sempre evidente, difficile attrezzare una terza sosta di calata (fettuccia logora su uno spuntone poco evidente, eventualmente). Giunti alla forcella percorrere a ritroso il percorso d’avvicinamento.",
+              "link": [
+                "https://www.gulliver.it/itinerari/tamer-davanti-via-normale/"
+              ]
             }
           ]
         }
@@ -983,13 +1244,15 @@
               "gradoObbligatorio": null,
               "gradoMassimo": "D",
               "spittatura": null,
-              "tiri": null,
-              "sviluppo": 710,
+              "tiri": 6,
+              "sviluppo": 710.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2950,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cima-larsei-via-sardo-marchigiana/"
+              "quotaMassima": 2950.0,
+              "discesa": "dirigersi a sx lungo il comodo altopiano raggiungendo il Canale Pordoi dove scendere per raggiungere il parcheggio in circa un'ora",
+              "link": [
+                "https://www.gulliver.it/itinerari/cima-larsei-via-sardo-marchigiana/"
+              ]
             }
           ]
         },
@@ -1006,12 +1269,14 @@
               "gradoMassimo": "D+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2950,
+              "quotaMassima": 2950.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pordoi-sass-parete-ovest-via-fedele/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pordoi-sass-parete-ovest-via-fedele/"
+              ]
             }
           ]
         },
@@ -1028,12 +1293,14 @@
               "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2950,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sass-pordoi-via-gross-momoli/"
+              "quotaMassima": 2950.0,
+              "discesa": "in alternativa a scendere con la funivia è possibile raggiungere la forcella Pordoi e scendere a piedi oppure, con un pò di tempo a disposizione, prima di scendere raggiungere la capanna Fassa a 3150 m con splendida vista. (ca. 1 ora di passeggiata e 300m di dislivello).",
+              "link": [
+                "https://www.gulliver.it/itinerari/sass-pordoi-via-gross-momoli/"
+              ]
             }
           ]
         }
@@ -1045,6 +1312,30 @@
       "latitudine": null,
       "longitudine": null,
       "pareti": [
+        {
+          "nome": "Crìdola (Ciastiel dal) Via Normale",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.46381731,
+          "longitudine": 12.48364448,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2378.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/ciastiel-dal-cridola/"
+              ]
+            }
+          ]
+        },
         {
           "nome": "Miaron (Monte) dal Passo della Mauria",
           "disciplina": "mountaineering",
@@ -1058,12 +1349,15 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 975,
+              "sviluppo": 975.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2155,
+              "quotaMassima": 2155.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/miaron-monte-dal-passo-della-mauria/"
+              "link": [
+                "https://www.gulliver.it/itinerari/miaron-monte-dal-passo-della-mauria/",
+                "https://www.camptocamp.org/routes/1939962"
+              ]
             }
           ]
         }
@@ -1088,12 +1382,14 @@
               "gradoMassimo": "AD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2841,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bianca-croda-spigolo-fanton/"
+              "quotaMassima": 2841.0,
+              "discesa": "In discesa può essere percorso l'itinerario di salita o più brevemente: Dalla cima ritornare sull'anticima. Da qui è visibile sulla destra (ovest) una cengia franosa segnalata con grossi ometti che permette di raggiungere la \"cresta degli invalidi\" che unisce la Croda Bianca con la \"forcella Marmarole\". Lungo la discesa tenere la traccia alta degli ometti ed evitare la cengia più bassa che porta ad una strozzatura nella cresta molto esposta. Suddetta traccia alta porta ad un intaglio nella cresta, da cui si può scendere sul lato opposto (nord) con una corda fissa. Da questo punto seguire sempre la serie di ometti che in discesa e poi con un traverso su un ampio pendio porta alla forcella Marmarole. Da qui scendere con funi metalliche fino all'imbocco del lungo canalone ghiaioso che va percorso fino alla sua base e a raggiungere il sentiero per il rif. Chiggiato precedentemente abbandonato lungo la salita. Da qui in un ora al rifugio Baion.",
+              "link": [
+                "https://www.gulliver.it/itinerari/bianca-croda-spigolo-fanton/"
+              ]
             }
           ]
         }
@@ -1118,12 +1414,14 @@
               "gradoMassimo": "AD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1150,
+              "quotaMassima": 1150.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/piombi-col-dei-spigolo-bianco/"
+              "link": [
+                "https://www.gulliver.it/itinerari/piombi-col-dei-spigolo-bianco/"
+              ]
             }
           ]
         }
@@ -1148,12 +1446,14 @@
               "gradoMassimo": "PD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2259,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/carega-cima-vajo-bianco/"
+              "quotaMassima": 2259.0,
+              "discesa": "Qui si ripassa sul versante settentrionale e si scende tutto l’ampio e facile Boale dei Fondi (max 40°) fino a ritrovare il percorso di avvicinamento.",
+              "link": [
+                "https://www.gulliver.it/itinerari/carega-cima-vajo-bianco/"
+              ]
             }
           ]
         },
@@ -1170,12 +1470,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2259,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/carega-cima-vajo-nascosto/"
+              "quotaMassima": 2259.0,
+              "discesa": "Qui si ripassa sul versante settentrionale e si scende tutto l'ampio e facile Boale dei Fondi (max 40°) fino a ritrovare il percorso di avvicinamento.",
+              "link": [
+                "https://www.gulliver.it/itinerari/carega-cima-vajo-nascosto/"
+              ]
             }
           ]
         },
@@ -1192,12 +1494,14 @@
               "gradoMassimo": "D-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2140,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/mosca-cima-vajo-intramosca/"
+              "quotaMassima": 2140.0,
+              "discesa": "scendere in diagonale i pendii in direzione sud, sudest (45°) aggirando una dorsale e raggiungere la Bocchetta dei Fondi (indicazioni) lungo una breve cengetta esposta e attrezzata con fittoni (55°). Dalla bocchetta scendere tutto l'ampio Boale dei Fondi (400 m a 35-40°) fino a ritrovare la traccia dell'avvicinamento (contare 1h30 - 2h fino a Campogrosso).",
+              "link": [
+                "https://www.gulliver.it/itinerari/mosca-cima-vajo-intramosca/"
+              ]
             }
           ]
         },
@@ -1214,12 +1518,14 @@
               "gradoMassimo": "AD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2141,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/mosca-cima-vajo-mosca/"
+              "quotaMassima": 2141.0,
+              "discesa": "abbassarsi sul versante opposto (direzione Sud, Sudest) su pendii non sempre facili, fino a raggiungere il sent. 157 che proviene dal rif. Fraccaroli. Seguirlo verso sinistra (direzione Sudest; difficile orientamento in caso di nebbia; non banale con neve dura, passi a 50° anche esposti) fino a raggiungere la Bocchetta dei Fondi (cartelli segnavia). Valicarla tornando sul versante settentrionale e scendere abbastanza facilmente lungo tutto il Boale dei Fondi (40° poi 35°) fino a intercettare il percorso dell'avvicinamento, o volendo anche più in basso fino all'evidente Strada delle Siebe, che si raggiunge in corrispondenza del ponte quotato 1378 m e riporta a Campogrosso in 15-20 minuti.",
+              "link": [
+                "https://www.gulliver.it/itinerari/mosca-cima-vajo-mosca/"
+              ]
             }
           ]
         },
@@ -1236,12 +1542,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2072,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/obante-monte-vajo-delle-caure/"
+              "quotaMassima": 2072.0,
+              "discesa": "passare sull’altro versante e facilmente verso destra raggiungere la Bocchetta dei Fondi. Qui ritornare sul versante Nord e scendere tutto il lungo Boale dei Fondi (40° all’inizio poi meno) fino a incrociare il sentiero dell’avvicinamento, poco oltre il punto dove lo si era lasciato.",
+              "link": [
+                "https://www.gulliver.it/itinerari/obante-monte-vajo-delle-caure/"
+              ]
             }
           ]
         },
@@ -1258,12 +1566,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 450,
+              "sviluppo": 450.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1700,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/san-paolo-sasso-vajo-stretto-di-san-paolo/"
+              "quotaMassima": 1700.0,
+              "discesa": "rapida verso sinistra per il sentiero che riscende dal Passo Ristele, o verso destra, aggirando per sentieri il M. Zevola e poi dal Passo della Lora (solitamente ben tracciato), ritornando così al rif. Battisti.",
+              "link": [
+                "https://www.gulliver.it/itinerari/san-paolo-sasso-vajo-stretto-di-san-paolo/"
+              ]
             }
           ]
         },
@@ -1280,12 +1590,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1900,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tre-croci-cima-vajo-battisti/"
+              "quotaMassima": 1900.0,
+              "discesa": "Dalla forcella abbassarsi dritti lungo il pendio (cartello giallo se non coperto dalla neve), fino ad intercettare il sentiero che conduce verso nord a passo tre croci, da qui per sentiero scendere al rif battisti e poi di nuovo al parcheggio.",
+              "link": [
+                "https://www.gulliver.it/itinerari/tre-croci-cima-vajo-battisti/"
+              ]
             }
           ]
         },
@@ -1302,12 +1614,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1961,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vajo-ruga-del-zalica/"
+              "quotaMassima": 1961.0,
+              "discesa": "Dalla sella scendere per percorso non obbligato e ravanoso in mezzo ai mughi, da qui salire fino in cima della Zevola bassa, seguire la cresta prestando attenzione alle cornici, tenerla fino alla sella che precede cima tre croci; da qui scendere a sx fino ad incontrare il sentiero che porta a passo tre croci. Infine scendere al rif battisti e poi al parcheggio.",
+              "link": [
+                "https://www.gulliver.it/itinerari/vajo-ruga-del-zalica/"
+              ]
             }
           ]
         },
@@ -1324,12 +1638,14 @@
               "gradoMassimo": "AD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1976,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/zevola-monte-da-recoaro-per-vajodella-fratta-piccola/"
+              "quotaMassima": 1976.0,
+              "discesa": "Dalla cima, si può scendere abbastanza agevolmente per il sottostante Vajo dell'Acqua (ampio e poco ripido tranne che presso la cresta sommitale, specie con molta neve) che riporta nei pressi del rifugio. Oppure dall'uscita della Fratta Piccola si può traversare dalla parte opposta (Est) fino al Passo Ristele, da qui si scende facilmente per pendii fino a ritornare al sentiero dell'avvicinamento.",
+              "link": [
+                "https://www.gulliver.it/itinerari/zevola-monte-da-recoaro-per-vajodella-fratta-piccola/"
+              ]
             }
           ]
         },
@@ -1346,12 +1662,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1965,
+              "quotaMassima": 1965.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/zevola-monte-canale-vajo-dellacqua/"
+              "link": [
+                "https://www.gulliver.it/itinerari/zevola-monte-canale-vajo-dellacqua/"
+              ]
             }
           ]
         }
@@ -1379,9 +1697,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1000,
+              "quotaMassima": 1000.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/marmolada-punta-penia-via-dei-sudtirolesi-diretta-messner/"
+              "link": [
+                "https://www.gulliver.it/itinerari/marmolada-punta-penia-via-dei-sudtirolesi-diretta-messner/"
+              ]
             }
           ]
         },
@@ -1398,12 +1718,14 @@
               "gradoMassimo": "ED-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3247,
+              "quotaMassima": 3247.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/marmolada-punta-dombretta-via-dellideale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/marmolada-punta-dombretta-via-dellideale/"
+              ]
             }
           ]
         }
@@ -1415,6 +1737,54 @@
       "latitudine": null,
       "longitudine": null,
       "pareti": [
+        {
+          "nome": "Antelao (Monte) da San Vito di Cadore",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.461277,
+          "longitudine": 12.208296,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1445.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3260.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/antelao-monte-da-san-vito-di-cadore/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bel Pra (Cima di) Via Normale",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.462955627393406,
+          "longitudine": 12.214402947082501,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1580.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2917.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/bel-pra-cima-di-via-normale/"
+              ]
+            }
+          ]
+        },
         {
           "nome": "Marcora (Cima) da San Vito di Cadore",
           "disciplina": "mountaineering",
@@ -1428,12 +1798,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 2200,
+              "sviluppo": 2200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3154,
+              "quotaMassima": 3154.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/marcora-cima-da-san-vito-di-cadore/"
+              "link": [
+                "https://www.gulliver.it/itinerari/marcora-cima-da-san-vito-di-cadore/"
+              ]
             }
           ]
         },
@@ -1450,12 +1822,14 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1400,
+              "sviluppo": 1400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3005,
+              "quotaMassima": 3005.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tre-sorelle-da-san-vito-di-cadore/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tre-sorelle-da-san-vito-di-cadore/"
+              ]
             }
           ]
         }
@@ -1480,12 +1854,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1600,
+              "sviluppo": 1600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1995,
+              "quotaMassima": 1995.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pinei-pale-deidalla-stanga-per-forcella-oderz-ed-il-viaz-dei-camorz/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pinei-pale-deidalla-stanga-per-forcella-oderz-ed-il-viaz-dei-camorz/"
+              ]
             }
           ]
         }
@@ -1510,12 +1886,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1750,
+              "sviluppo": 1750.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2134,
+              "quotaMassima": 2134.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/feruch-cima-est-dei-via-normale-dal-lago-del-mis/"
+              "link": [
+                "https://www.gulliver.it/itinerari/feruch-cima-est-dei-via-normale-dal-lago-del-mis/"
+              ]
             }
           ]
         }
@@ -1540,12 +1918,14 @@
               "gradoMassimo": "TD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 2050,
+              "sviluppo": 2050.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2870,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/agner-spigolo-nord/"
+              "quotaMassima": 2870.0,
+              "discesa": "Nei pressi del bivacco Biasin s'incontrano delle scritte rosse \"Col di Prà\". Questo è un sentiero percorso da qualche cacciatore e si presenta insidioso, scomodo, incerto e molto pericoloso. E' molto meglio scendere verso il rifugio Scarpa utilizzando la ferrata che corre lungo il canalone che divide l'Agner dal Lastei d'Agner oppure seguire la via Normale. Questi due itinerari hanno la prima parte della discesa in comune. Raggiunto il rifugio si segue il sentiero n. 771 che costeggia la seggiovia e che conduce alla frazione di Fressanè. Da qui camminando lungo strade comunali si scende sino ad Agordo e Taibon, dopodiché si risale la Valle di San Lucano. L'autostop potrebbe esservi notevolmente d'aiuto, ma noi sfortunatamente non siamo riusciti a godere a lungo di tale privilegio e ci siamo percorsi a piedi una quindicina di km. circa 20 totali.",
+              "link": [
+                "https://www.gulliver.it/itinerari/agner-spigolo-nord/"
+              ]
             }
           ]
         },
@@ -1562,12 +1942,14 @@
               "gradoMassimo": "TD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 390,
+              "sviluppo": 390.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2290,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/agordo-punta-40-cai-boffalora-ticino/"
+              "quotaMassima": 2290.0,
+              "discesa": "dal terrazzo detritico della vetta (ometto) ci si dirige verso nord ad un mugo con ancoraggio per corda doppia, ci si cala nel sottostante canale (corda doppia di 20m) risalendo subito per portarsi sempre verso nord ad un bellissimo arco di roccia che porta al di là ad un ampio pendio detritico. Si scende ora verso sud-est per facili gradoni raggiungendo in basso un salto verticale (corda doppia di 25m) e un pendio di rocce erbose. Seguendo tracce di sentiero verso destra si raggiunge facilmente la base della parete settentrionale della Torre Venezia e ci si collega alla via normale di quest’ultima. Seguendo il sentierino segnato qua e là da bolli rossi ormai sbiaditi si raggiunge il sottostante canalone e lo si percorre interamente (due brevi corde doppie) fino a poter uscire sulla destra su una cengia erbosa e portarsi alla base delle rocce. Si segue infine il disagevole e ripido sentiero fra i mughi che porta in prossimità al Rif. Vazzolèr. La discesa non è difficile ma può essere di difficile individuazione in presenza di nebbia. Ore 1,30. (Relazione di Stefano Santomaso)",
+              "link": [
+                "https://www.gulliver.it/itinerari/agordo-punta-40-cai-boffalora-ticino/"
+              ]
             }
           ]
         },
@@ -1584,12 +1966,14 @@
               "gradoMassimo": "TD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1800,
+              "sviluppo": 1800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2545,
+              "quotaMassima": 2545.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spiz-dagner-nord-via-susatti-aste-ajazzi-solina/"
+              "link": [
+                "https://www.gulliver.it/itinerari/spiz-dagner-nord-via-susatti-aste-ajazzi-solina/"
+              ]
             }
           ]
         },
@@ -1606,12 +1990,14 @@
               "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2337,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/venezia-torre-via-livanos/"
+              "quotaMassima": 2337.0,
+              "discesa": "ritornati alla cengia sotto la vetta, seguire il sentierino e i segni rossi che portano alle calate.(possibili calate anche da 25m.) Con 2 calate da 50 e 55 m. si è alla base del canale dove seguendo ometti e segni rossi, disarrampicando in alcuni tratti e incontrando altre 2 brevi calate (circa 15m.) si ritorna al Rifugio Vazzoler.",
+              "link": [
+                "https://www.gulliver.it/itinerari/venezia-torre-via-livanos/"
+              ]
             }
           ]
         }
@@ -1636,12 +2022,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 2000,
+              "sviluppo": 2000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3240,
+              "quotaMassima": 3240.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/civetta-monte-via-normale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/civetta-monte-via-normale/"
+              ]
             }
           ]
         },
@@ -1658,12 +2046,38 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1300,
+              "sviluppo": 1300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2303,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/mezzodi-spiz-nord-di-via-normale/"
+              "quotaMassima": 2303.0,
+              "discesa": "A ritroso per la via di salita. In tutto tre calate con corda da 30 metri.",
+              "link": [
+                "https://www.gulliver.it/itinerari/mezzodi-spiz-nord-di-via-normale/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pelmo (Monte) Traversata Cengia Grohmann-Ball",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.420636220626434,
+          "longitudine": 12.104273710836795,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3168.0,
+              "discesa": "sulla via di salita fino al Valon e poi oltre su ripido ghiaione ma buona traccia fino alla cengia di Ball. La si percorre con cautela a causa di alcuni tratti esposti e magari con un casco sulla testa. Al suo termine in breve si scende a rif. Venezia e prendendo il sentiero 472 si ritorna a Le Mandre e da qui allo Staulanza.",
+              "link": [
+                "https://www.gulliver.it/itinerari/pelmo-monte-traversata-cengia-grohmann-ball/"
+              ]
             }
           ]
         }
@@ -1688,12 +2102,14 @@
               "gradoMassimo": "PD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2548,
+              "quotaMassima": 2548.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/brentoni-traversata-da-ovest-a-sud-per-le-vie-normali/"
+              "link": [
+                "https://www.gulliver.it/itinerari/brentoni-traversata-da-ovest-a-sud-per-le-vie-normali/"
+              ]
             }
           ]
         },
@@ -1710,12 +2126,14 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2400,
+              "quotaMassima": 2400.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tiarfin-crodon-di-cime-ovest-ed-est-da-casera-razzo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tiarfin-crodon-di-cime-ovest-ed-est-da-casera-razzo/"
+              ]
             }
           ]
         }
@@ -1740,12 +2158,1842 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1670,
+              "sviluppo": 1670.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3168.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/pelmo-monte-via-normale-da-zoppe/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Piramide del Col dei Bòs",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.5191,
+          "longitudine": 12.0102,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1947994"
+              ]
+            },
+            {
+              "nome": "Lagazuoi Piccolo - Via Ardizzon",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1499463"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda della Pala",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.279399,
+          "longitudine": 11.834759,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2775,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1939267"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Terza Grande",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.526723,
+          "longitudine": 12.621581,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1285,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2586,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1934272"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Brentoni",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.512417,
+          "longitudine": 12.56574,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2548,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1706154"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Auronzo di Cadore",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.552213,
+          "longitudine": 12.436955,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2456,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1705826"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Bel Pra",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.484557,
+          "longitudine": 12.240418,
+          "itinerari": [
+            {
+              "nome": "Versante NW, via normale ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2917,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1683248"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella Scodovacca",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.422701,
+          "longitudine": 12.493234,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2389,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1676313"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella del Diavolo (Cadini di Misurina)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.584861,
+          "longitudine": 12.287008,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2580,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1583235"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda Granda",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.235317,
+          "longitudine": 11.92004,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2849,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1578780"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Marmolada - Punta Rocca",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.432119,
+          "longitudine": 11.855579,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3309,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1577419"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda de Marchi",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.493963,
+          "longitudine": 12.263967,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2354,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2800,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1570420"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella Vanedel",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.498734,
+          "longitudine": 12.26932,
+          "itinerari": [
+            {
+              "nome": "Croda de Marchi da Palus San Marco",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2769,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1569825"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tofana di Mezzo",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.558219,
+          "longitudine": 12.065842,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3244,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1563903"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Becco di Mezzodi",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.468617,
+          "longitudine": 12.107926,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2609,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1563688"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Velika Cina",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.618004,
+          "longitudine": 12.30135,
+          "itinerari": [
+            {
+              "nome": "Mazzorana - Milani (JZ raz)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1542291"
+              ]
+            },
+            {
+              "nome": "Dülferjeva smer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1540504"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Velika Cina",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.618361,
+          "longitudine": 12.303737,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1541941"
+              ]
+            },
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2999,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/917432"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Najmanjša Cina",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.621297,
+          "longitudine": 12.309847,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2857,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1541863",
+                "https://www.camptocamp.org/routes/235351"
+              ]
+            },
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2792,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1141823",
+                "https://www.camptocamp.org/routes/54683"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Punta di Frida",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.619967,
+          "longitudine": 12.307779,
+          "itinerari": [
+            {
+              "nome": "Običajni pristop",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1541389"
+              ]
+            },
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1458383"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lago di Misurina",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.582584,
+          "longitudine": 12.253896,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2504,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1498881"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rifugio Biella",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.66553,
+          "longitudine": 12.08476,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2859,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1475680"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda del Becco",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.667409,
+          "longitudine": 12.082802,
+          "itinerari": [
+            {
+              "nome": "da Pederu",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2810,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1475641"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima di Campido",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.307345,
+          "longitudine": 11.847649,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1620,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3001,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1472872"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Piccola di Lavaredo",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.618293,
+          "longitudine": 12.307575,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1458339",
+                "https://www.camptocamp.org/routes/54558"
+              ]
+            },
+            {
+              "nome": "Voie normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 550,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2857,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/451022"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lagazuoi Piccolo",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.529742,
+          "longitudine": 12.003019,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2450,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1457171"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Col dei Bos",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.532798,
+          "longitudine": 12.036306,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2450,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1447194"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Torre Venezia",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.360719,
+          "longitudine": 12.023722,
+          "itinerari": [
+            {
+              "nome": "Stile Libero",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1404907"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Mulaz",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.3164,
+          "longitudine": 11.8321,
+          "itinerari": [
+            {
+              "nome": " Gigi La Trottola",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1404905"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Paterno / Paternkofel",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.630022,
+          "longitudine": 12.316692,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "2",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1352555"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Cadin di San Lucano",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.5773,
+          "longitudine": 12.2851,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2839,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1123657"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sasso di Bosconero",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.338119,
+          "longitudine": 12.267372,
+          "itinerari": [
+            {
+              "nome": "Antispigolo arête NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2436,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1075897"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campanile Toro",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.402712,
+          "longitudine": 12.464269,
+          "itinerari": [
+            {
+              "nome": "Via Berger",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2345,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1042207"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Popèna",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.576109,
+          "longitudine": 12.207514,
+          "itinerari": [
+            {
+              "nome": "Via normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3152,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1023061"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Punta Fanes N",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.549205,
+          "longitudine": 12.014422,
+          "itinerari": [
+            {
+              "nome": "Dalla Capanna Alpina per la Cengia Veronesi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2969,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1020182"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima d'Ambata",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.605944,
+          "longitudine": 12.418836,
+          "itinerari": [
+            {
+              "nome": "via normale da Auronzo di Cadore",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2872,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1017912"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Campanile Innerkofler",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.482782,
+          "longitudine": 12.099669,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2695,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1007544"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda Bianca (Marmarole)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.482599,
+          "longitudine": 12.383788,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2841,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/940939"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pale dei Pinèi",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.216208,
+          "longitudine": 12.17721,
+          "itinerari": [
+            {
+              "nome": "Traversata per cresta da Forcella Odèrz",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1995,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/939942"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Torre Jolanda",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.331571,
+          "longitudine": 12.076996,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/932108"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cimon del Froppa",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.460067,
+          "longitudine": 12.416035,
+          "itinerari": [
+            {
+              "nome": "Via normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2928,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/923945"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Civetta - Punta Tissi",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.389665,
+          "longitudine": 12.059879,
+          "itinerari": [
+            {
+              "nome": "Colonne d'Ercole",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED5",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/916445"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rifugio Flora Alpina",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.40802,
+          "longitudine": 11.856347,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/847602"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Torre Coldai",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.401996,
+          "longitudine": 12.068487,
+          "itinerari": [
+            {
+              "nome": "via normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/808059"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Marmolada - Punta Rocca",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.433432,
+          "longitudine": 11.853594,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3309,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/799641"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Marmolada d'Ombretta",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.426739,
+          "longitudine": 11.874058,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3230,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/786739"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Moiazza",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.328195,
+          "longitudine": 12.074794,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2295,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/688135"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima est dei Ferùch - Monti del Sole",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.204467,
+          "longitudine": 12.061329,
+          "itinerari": [
+            {
+              "nome": "Via normale dal Lago del Mis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2134,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/687791"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sass de Mura",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.156771,
+          "longitudine": 11.928847,
+          "itinerari": [
+            {
+              "nome": "Giro delle Banche",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1950,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/682052"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tofana di Rozes",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.534827,
+          "longitudine": 12.060689,
+          "itinerari": [
+            {
+              "nome": "Compagni di Merenda",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/668138"
+              ]
+            },
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/668137",
+                "https://www.camptocamp.org/routes/186688",
+                "https://www.camptocamp.org/routes/55948"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Torre Trieste",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.351986,
+          "longitudine": 12.035273,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2458,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/666836"
+              ]
+            },
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2458,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/138397"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Marmolada - Punta Rocca",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.431627,
+          "longitudine": 11.853701,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3309,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/651609"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lagazuoi Piccolo",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.52742,
+          "longitudine": 12.002306,
+          "itinerari": [
+            {
+              "nome": "Voie del Buco",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2778,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/642976"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Grande Tour de Falzarego",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.522328,
+          "longitudine": 12.016732,
+          "itinerari": [
+            {
+              "nome": "Spigolo SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2500,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/642975"
+              ]
+            },
+            {
+              "nome": "Spigolo W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2416,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/642974"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Tàmer",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.317194,
+          "longitudine": 12.108693,
+          "itinerari": [
+            {
+              "nome": "Grande, via normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2547,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/567280"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Pelmo",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.406356,
+          "longitudine": 12.135004,
+          "itinerari": [
+            {
+              "nome": "Vire Grohmann",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3168,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pelmo-monte-via-normale-da-zoppe/"
+              "link": [
+                "https://www.camptocamp.org/routes/566007"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Antelao",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.457918,
+          "longitudine": 12.258927,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1990,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3264,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/555781"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sorapiss",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.484512,
+          "longitudine": 12.220955,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3205,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/464682"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sfòrnioi N",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.362856,
+          "longitudine": 12.261915,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 880,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2410,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/463974"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Torre dei Sabbioni",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.475794,
+          "longitudine": 12.230791,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2531,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/463317"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Crìdola",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.420218,
+          "longitudine": 12.472952,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2581,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/462389"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Pelmo",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.407787,
+          "longitudine": 12.154346,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1710,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3168,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/455586"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sas Becé",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.485351,
+          "longitudine": 11.811107,
+          "itinerari": [
+            {
+              "nome": "Arête W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2534,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/360800"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda Negra",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.501421,
+          "longitudine": 12.029813,
+          "itinerari": [
+            {
+              "nome": "Voie Gianleo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2518,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/360674"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Punta Dallago",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.50099,
+          "longitudine": 12.032247,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2470,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/359578"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Cristallo (Dolomites)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.575766,
+          "longitudine": 12.204537,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3221,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/237056"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schiara",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.206499,
+          "longitudine": 12.188807,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1070,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2565,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/138193"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Cason di Formin",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.499463,
+          "longitudine": 12.08853,
+          "itinerari": [
+            {
+              "nome": "Dièdre Dallago",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2533,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55422"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Civetta",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.396251,
+          "longitudine": 12.037288,
+          "itinerari": [
+            {
+              "nome": "Voie Solleder - Lettenbauer, dite \"Solleder\"",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2241,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3220,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55296"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Cason di Formin",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.493282,
+          "longitudine": 12.098293,
+          "itinerari": [
+            {
+              "nome": "Dei Diedri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2533,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/54685"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tofana di Rozes",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.544346,
+          "longitudine": 12.060632,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2820,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3225,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/54664"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tofana di Rozes",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.535741,
+          "longitudine": 12.0585,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3225,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/54538"
+              ]
             }
           ]
         }

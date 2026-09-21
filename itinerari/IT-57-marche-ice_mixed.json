@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Ussita",
@@ -22,12 +22,14 @@
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bove-sud-monte-canale-y/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bove-sud-monte-canale-y/"
+              ]
             }
           ]
         }

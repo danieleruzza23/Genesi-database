@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Bex",
@@ -22,25 +22,38 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": 3,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/argentine-miroir-d-papageno/"
-            },
+              "discesa": "si traversa in piano sul versante sud fino al colle de la Poreyrette, dove un’evidente traccia punta verso il basso. Il sentiero è molto esposto e viscido e lo sconsiglierei in caso di pioggia (1,5 ore al parcheggio), si può anche allungare il giro passando dal rifugio di Anzeindaz (più lungo ma più tranquillo). Soste non attrezzate per le doppie.",
+              "link": [
+                "https://www.gulliver.it/itinerari/argentine-miroir-d-papageno/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Argentine (Miroir d’)",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "latitudine": 46.28681705,
+          "longitudine": 7.149524688,
+          "itinerari": [
             {
               "nome": "Remix",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/argentine-miroir-d-remix/"
+              "link": [
+                "https://www.gulliver.it/itinerari/argentine-miroir-d-remix/"
+              ]
             }
           ]
         }
@@ -65,12 +78,14 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": 12,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/morcles-petit-dent-de-la-forteresse-du-vide/"
+              "discesa": "si segue la traccia bollata di rosso che conduce verso destra alla sella tra Petite e Grande Dent de Morcles. Senza lasciarsi attrarre dal Couloir du Nant Vert che scende a destra verso Rionda, si risale una placca (terzo grado, bolli rossi) e si raggiunge un sistema di cengie che tagliano il versante ovest della Grande Dent (seguire sempre i bolli rossi) fino a incrociare il sentiero ex-militare, a tratti tagliato nella roccia, che sale da Rionda alla vetta della Grande Dent. Si scende allora questo sentiero (non più bollato), attraversando canali franosi e suggestivi, fino a tornare nei pressi della baracca in legno a 200 metri dall'attacco della via. Necessaria circa 1 ora e mezza, più il tempo per rientrare a Rionda e Les Martinaux.",
+              "link": [
+                "https://www.gulliver.it/itinerari/morcles-petit-dent-de-la-forteresse-du-vide/"
+              ]
             }
           ]
         },
@@ -87,25 +102,53 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": 8,
-              "sviluppo": 270,
+              "sviluppo": 270.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pissechevre-pilier-de-la-via-farinet/"
-            },
+              "discesa": "Dalla cima traversare a destra e seguire il sentiero fino ad arrivare ad un tratto esposto di rocce equipaggiato con delle vecchie corde. Dopo questo tratto il sentiero sparisce e bisogna puntare dritto per raggiungere il parcheggio.(1h 15')",
+              "link": [
+                "https://www.gulliver.it/itinerari/pissechevre-pilier-de-la-via-farinet/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pissechèvre (Pilier de la)",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "latitudine": 46.20389345910088,
+          "longitudine": 7.027799715139902,
+          "itinerari": [
             {
-              "nome": "Pissechèvre (Pilier de la)",
+              "nome": null,
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": 8,
-              "sviluppo": 210,
+              "sviluppo": 210.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pissechevre-pilastro-della/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pissechevre-pilastro-della/"
+              ]
+            },
+            {
+              "nome": "Farinet",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 750,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/139960"
+              ]
             }
           ]
         }
@@ -130,12 +173,29 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tour-dai-sphinx-harlin-v-robbins/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tour-dai-sphinx-harlin-v-robbins/"
+              ]
+            },
+            {
+              "nome": "Je ne fais que passer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2000,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1940693"
+              ]
             }
           ]
         }
@@ -160,12 +220,4862 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pilon-col-du-festival/"
+              "link": [
+                "https://www.gulliver.it/itinerari/pilon-col-du-festival/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Dent de Savigny",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "latitudine": 46.54968,
+          "longitudine": 7.226637,
+          "itinerari": [
+            {
+              "nome": "Great Memories",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1953118"
+              ]
+            },
+            {
+              "nome": "Vas-y Eric",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1160331"
+              ]
+            },
+            {
+              "nome": "Le Grand écran",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1151656"
+              ]
+            },
+            {
+              "nome": "Savidix",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2252,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/925727"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cabane de Plan Névé",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.256148,
+          "longitudine": 7.146637,
+          "itinerari": [
+            {
+              "nome": "Plaie sûre",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1949340"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sex de la Sarse",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.36353,
+          "longitudine": 6.957058,
+          "itinerari": [
+            {
+              "nome": "Clog and tongs ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1620,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1947006"
+              ]
+            },
+            {
+              "nome": "Vagabond heureux",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1620,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1833946"
+              ]
+            },
+            {
+              "nome": "Aigle mort ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1620,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1833615"
+              ]
+            },
+            {
+              "nome": "Dindons de la Sarse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1825670"
+              ]
+            },
+            {
+              "nome": "Sortie de secours",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1809292"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Yvorne",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.336924,
+          "longitudine": 6.952322,
+          "itinerari": [
+            {
+              "nome": "Hivernale Viticole",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 680,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1946462"
+              ]
+            },
+            {
+              "nome": "Moulinettes",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/901516"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "L'Écuelle",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.269168,
+          "longitudine": 7.16822,
+          "itinerari": [
+            {
+              "nome": "Xénon",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1932564"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rochers de la Marchande",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.338829,
+          "longitudine": 7.186642,
+          "itinerari": [
+            {
+              "nome": "Face W - Le Marchand de Tapis Volants",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1924523"
+              ]
+            },
+            {
+              "nome": "Face W - NCIS",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1808375"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Falaise du Dar",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.340033,
+          "longitudine": 7.207547,
+          "itinerari": [
+            {
+              "nome": "Grang Zig",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2064,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1922865"
+              ]
+            },
+            {
+              "nome": "31 février",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2064,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1677812"
+              ]
+            },
+            {
+              "nome": "Mon abri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1677811"
+              ]
+            },
+            {
+              "nome": "Planète brutale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1446050"
+              ]
+            },
+            {
+              "nome": "Mérite alpin",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/912737"
+              ]
+            },
+            {
+              "nome": "Rubina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/912717"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dent de Combette",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.527802,
+          "longitudine": 7.203771,
+          "itinerari": [
+            {
+              "nome": "Invitation à la danse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1890,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1921108"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "La Vaux",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "latitudine": 46.877333,
+          "longitudine": 6.617019,
+          "itinerari": [
+            {
+              "nome": "Bouboule",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1320,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1911840"
+              ]
+            },
+            {
+              "nome": "R.I.P",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1911839"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Verchiez",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.308254,
+          "longitudine": 6.980127,
+          "itinerari": [
+            {
+              "nome": "Dalle à Besson - Diane Kruger",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 612,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1855327",
+                "https://www.camptocamp.org/routes/1855319",
+                "https://www.camptocamp.org/routes/1855316",
+                "https://www.camptocamp.org/routes/1285358",
+                "https://www.camptocamp.org/routes/1153301",
+                "https://www.camptocamp.org/routes/1153300",
+                "https://www.camptocamp.org/routes/995274",
+                "https://www.camptocamp.org/routes/995267",
+                "https://www.camptocamp.org/routes/995261",
+                "https://www.camptocamp.org/routes/995257",
+                "https://www.camptocamp.org/routes/995252",
+                "https://www.camptocamp.org/routes/995248"
+              ]
+            },
+            {
+              "nome": "Les Noches - Dancing roc",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1836033",
+                "https://www.camptocamp.org/routes/1836031",
+                "https://www.camptocamp.org/routes/1836019",
+                "https://www.camptocamp.org/routes/1836018"
+              ]
+            },
+            {
+              "nome": "Dalle à Besson - La mémoire de Tom Bombadil",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 600,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/995284"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Verchiez",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.306575,
+          "longitudine": 6.981289,
+          "itinerari": [
+            {
+              "nome": "Dalle à Besson - Mystère ô Net",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 612,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1855318"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Saint-Loup - Falaise Principale",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.669141,
+          "longitudine": 6.502096,
+          "itinerari": [
+            {
+              "nome": "Pol Pot Two",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 555,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1828904"
+              ]
+            },
+            {
+              "nome": "Saint loup : Van Gogh 7b+ 1L",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1768360",
+                "https://www.camptocamp.org/routes/1768359",
+                "https://www.camptocamp.org/routes/1768349"
+              ]
+            },
+            {
+              "nome": "Maternel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 530,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1037090"
+              ]
+            },
+            {
+              "nome": "L'écaille de Chamonix",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 530,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1037089"
+              ]
+            },
+            {
+              "nome": "Le dièdre",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 530,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1037083",
+                "https://www.camptocamp.org/routes/893107"
+              ]
+            },
+            {
+              "nome": "Bimba Luna",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "9a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/944519"
+              ]
+            },
+            {
+              "nome": "Bain de sang",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "9a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/944518"
+              ]
+            },
+            {
+              "nome": "Ultime souffrance",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "9a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/944516"
+              ]
+            },
+            {
+              "nome": "Couloir du fou",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/893114"
+              ]
+            },
+            {
+              "nome": "Sagesse infernale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/893109"
+              ]
+            },
+            {
+              "nome": "Liliane",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/893105"
+              ]
+            },
+            {
+              "nome": "L'ère éthique",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/893104"
+              ]
+            },
+            {
+              "nome": "Histoire d'eau",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/893101"
+              ]
+            },
+            {
+              "nome": "Hypodermique",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/867926"
+              ]
+            },
+            {
+              "nome": "Les fourmis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/867915"
+              ]
+            },
+            {
+              "nome": "Voyage de noces",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/867520"
+              ]
+            },
+            {
+              "nome": "CQrizT",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/867518"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Saint-Loup - Falaise Principale",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.665973,
+          "longitudine": 6.505552,
+          "itinerari": [
+            {
+              "nome": "TNT",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 570,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1828902"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Miroir d'Argentine",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.276843,
+          "longitudine": 7.143805,
+          "itinerari": [
+            {
+              "nome": "A Toi la Gloire",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1805239"
+              ]
+            },
+            {
+              "nome": "Le Gardien ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1432937"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rochers de la Marchande",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.343275,
+          "longitudine": 7.191192,
+          "itinerari": [
+            {
+              "nome": "Face W - Miss cow drague",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1791024"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rochers de la Marchande",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.33637,
+          "longitudine": 7.184844,
+          "itinerari": [
+            {
+              "nome": "Life",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1789661"
+              ]
+            },
+            {
+              "nome": "Rochers de la Marchande nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1209028"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Saint-Triphon",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "latitudine": 46.294823,
+          "longitudine": 6.977384,
+          "itinerari": [
+            {
+              "nome": "Tremblez Bourgeois (droite)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1774674"
+              ]
+            },
+            {
+              "nome": "Dix femmes à Sion",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1774673"
+              ]
+            },
+            {
+              "nome": "l'Oreille",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1774671"
+              ]
+            },
+            {
+              "nome": "Amazonie",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "9a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/947652"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pierre du Moëllé - Chouette",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.391433,
+          "longitudine": 7.029666,
+          "itinerari": [
+            {
+              "nome": "Oeil",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1771272"
+              ]
+            },
+            {
+              "nome": "Oubli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1771271"
+              ]
+            },
+            {
+              "nome": "Grand corbeau",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1771270"
+              ]
+            },
+            {
+              "nome": "Dur",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1771269"
+              ]
+            },
+            {
+              "nome": "Tic",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1771262"
+              ]
+            },
+            {
+              "nome": "Bloc",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1771261"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pierre du Moëllé - Grande évasion",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.388695,
+          "longitudine": 7.034833,
+          "itinerari": [
+            {
+              "nome": "Max",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1771259"
+              ]
+            },
+            {
+              "nome": "La bande à Bonnot",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1771251"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tour d'Aï",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.368273,
+          "longitudine": 7.003776,
+          "itinerari": [
+            {
+              "nome": "Fifi Brindacier",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1766122"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Aigle",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.308292,
+          "longitudine": 6.972523,
+          "itinerari": [
+            {
+              "nome": "Falaise du haut ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "8b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1661416"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tour de Mayen",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.374787,
+          "longitudine": 7.008231,
+          "itinerari": [
+            {
+              "nome": "Diamant - Voie du S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1655098",
+                "https://www.camptocamp.org/routes/1335070"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Villeneuve - Scex du Châtelard",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "latitudine": 46.397139,
+          "longitudine": 6.935342,
+          "itinerari": [
+            {
+              "nome": "Le chinois",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1652264"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sex du Parc aux Feyes",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "latitudine": 46.374375,
+          "longitudine": 6.976636,
+          "itinerari": [
+            {
+              "nome": "Ultimate ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1800,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1547242"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sex des Nombrieux",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.364898,
+          "longitudine": 6.965029,
+          "itinerari": [
+            {
+              "nome": "Nid d'oiseau",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1785,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1477189"
+              ]
+            },
+            {
+              "nome": "Les filles sûres en liberté",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1805,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/56251"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Falaises de la Tour d'Aï",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.366109,
+          "longitudine": 7.004915,
+          "itinerari": [
+            {
+              "nome": "voie de droite du couloir du Sphinx",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2075,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1464090"
+              ]
+            },
+            {
+              "nome": "Gonzo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2250,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1437747"
+              ]
+            },
+            {
+              "nome": "Zilisse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2080,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1258510"
+              ]
+            },
+            {
+              "nome": "Les Lausannois, sortie Zilisse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2080,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1183755"
+              ]
+            },
+            {
+              "nome": "Les Océans du Vide",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2250,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/693627"
+              ]
+            },
+            {
+              "nome": "Voie Harlin - Robbins",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/373389"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pointes de Sur Combe",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "latitudine": 46.441202,
+          "longitudine": 7.201116,
+          "itinerari": [
+            {
+              "nome": "En famille ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2391,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1443063"
+              ]
+            },
+            {
+              "nome": "Bonheur sous la motte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2391,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1130086"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pilier de la Pissechèvre",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.199019,
+          "longitudine": 7.028074,
+          "itinerari": [
+            {
+              "nome": "Gambit",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 730,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1434419"
+              ]
+            },
+            {
+              "nome": "Le Pilier",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 750,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55659"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Le Chaney",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.672288,
+          "longitudine": 6.491877,
+          "itinerari": [
+            {
+              "nome": "Les nouveaux muscles du bel athlète",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1410463",
+                "https://www.camptocamp.org/routes/1007611"
+              ]
+            },
+            {
+              "nome": "Extra mou",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1410456"
+              ]
+            },
+            {
+              "nome": "Cadeau de guide",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 593,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1320828",
+                "https://www.camptocamp.org/routes/1287714"
+              ]
+            },
+            {
+              "nome": "Soloïstes",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1289326",
+                "https://www.camptocamp.org/routes/1007614"
+              ]
+            },
+            {
+              "nome": "Voie à gauche de C'est beau la vie ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1288555",
+                "https://www.camptocamp.org/routes/1288285",
+                "https://www.camptocamp.org/routes/1037477",
+                "https://www.camptocamp.org/routes/1037473",
+                "https://www.camptocamp.org/routes/1007644"
+              ]
+            },
+            {
+              "nome": "Un pas dans les nuages",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1288554",
+                "https://www.camptocamp.org/routes/1157127",
+                "https://www.camptocamp.org/routes/1037476"
+              ]
+            },
+            {
+              "nome": "Primevères en janvier ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1288298"
+              ]
+            },
+            {
+              "nome": "Fleurs bleues en mars",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1288291"
+              ]
+            },
+            {
+              "nome": "Il n'est jamais trop tard pour être nul",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1287754"
+              ]
+            },
+            {
+              "nome": "Tout pas bon",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1287715"
+              ]
+            },
+            {
+              "nome": "Initiation",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1262660",
+                "https://www.camptocamp.org/routes/1261381"
+              ]
+            },
+            {
+              "nome": "Dièdre Jane-Marie",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1262488"
+              ]
+            },
+            {
+              "nome": "J'aurais pas venu",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1262485"
+              ]
+            },
+            {
+              "nome": "Mes anciens ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1261383",
+                "https://www.camptocamp.org/routes/1261380"
+              ]
+            },
+            {
+              "nome": "Fais nous rire, essaye celle-là ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1261382"
+              ]
+            },
+            {
+              "nome": "Le vol du papillon",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1261379"
+              ]
+            },
+            {
+              "nome": "Plaisir",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1261378"
+              ]
+            },
+            {
+              "nome": "L'écureuil ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1255932",
+                "https://www.camptocamp.org/routes/1255908"
+              ]
+            },
+            {
+              "nome": "Guides- ascensionnistes",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1255911"
+              ]
+            },
+            {
+              "nome": "Gardiens de hauts refuges",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1157160"
+              ]
+            },
+            {
+              "nome": "Un goût de paradis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1157159"
+              ]
+            },
+            {
+              "nome": "Hivernalistes",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1157128"
+              ]
+            },
+            {
+              "nome": "Voie à droite de Grand aigle",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 593,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1007654",
+                "https://www.camptocamp.org/routes/1007628",
+                "https://www.camptocamp.org/routes/1007615"
+              ]
+            },
+            {
+              "nome": "Chamoison",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 593,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1007618"
+              ]
+            },
+            {
+              "nome": "Des petits pois pour biceps",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 593,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1007609"
+              ]
+            },
+            {
+              "nome": "Épaules de moineau",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 593,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1007606"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dent de Savigny",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.548408,
+          "longitudine": 7.225946,
+          "itinerari": [
+            {
+              "nome": "Chamois blanc",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2252,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1354721"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tête aux Chamois (Cabane des Diablerets)",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.340286,
+          "longitudine": 7.214659,
+          "itinerari": [
+            {
+              "nome": "Le jardin suspendu, 5c>5b",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1344046"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dalle des Guides",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.759751,
+          "longitudine": 6.476167,
+          "itinerari": [
+            {
+              "nome": "Où finit la falaise",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1299798"
+              ]
+            },
+            {
+              "nome": "Un petit rien",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1012088"
+              ]
+            },
+            {
+              "nome": "4ème génération",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1012086"
+              ]
+            },
+            {
+              "nome": "...commence le ciel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1012079"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sous la Croix (Face S)",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.79165,
+          "longitudine": 6.47422,
+          "itinerari": [
+            {
+              "nome": "Les éperons",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1263348"
+              ]
+            },
+            {
+              "nome": "Confort-Line",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1263347"
+              ]
+            },
+            {
+              "nome": "Merci J.L.P.",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1263346"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Saint-Loup - Falaise Principale",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.668222,
+          "longitudine": 6.504465,
+          "itinerari": [
+            {
+              "nome": "Cryptography",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "9b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1205856"
+              ]
+            },
+            {
+              "nome": "La chimère des hauteurs",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "9a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/947649"
+              ]
+            },
+            {
+              "nome": "La dalle",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/885964"
+              ]
+            },
+            {
+              "nome": "Les Pouces du diable",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/885957"
+              ]
+            },
+            {
+              "nome": "Accident diplomatique",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/885949"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vaulion",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.69207,
+          "longitudine": 6.39562,
+          "itinerari": [
+            {
+              "nome": "Niels",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197074"
+              ]
+            },
+            {
+              "nome": "Eliot",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197073"
+              ]
+            },
+            {
+              "nome": "Cloe",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197072"
+              ]
+            },
+            {
+              "nome": "Tout là haut",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197071"
+              ]
+            },
+            {
+              "nome": "Grands pas",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197066",
+                "https://www.camptocamp.org/routes/1197055"
+              ]
+            },
+            {
+              "nome": "Petits pas",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197065",
+                "https://www.camptocamp.org/routes/1197059"
+              ]
+            },
+            {
+              "nome": "Vas-y mémère",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197063"
+              ]
+            },
+            {
+              "nome": "Trou de serrure",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197054"
+              ]
+            },
+            {
+              "nome": "Diagonale du flou",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197053"
+              ]
+            },
+            {
+              "nome": "Mouillon",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197052"
+              ]
+            },
+            {
+              "nome": "Murmuroa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197048"
+              ]
+            },
+            {
+              "nome": "Voie 5",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1197044",
+                "https://www.camptocamp.org/routes/1197043",
+                "https://www.camptocamp.org/routes/1197042",
+                "https://www.camptocamp.org/routes/1196185",
+                "https://www.camptocamp.org/routes/1196176"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Le Pont (Vallée de Joux)",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.665384,
+          "longitudine": 6.332568,
+          "itinerari": [
+            {
+              "nome": "Réglisse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1135957",
+                "https://www.camptocamp.org/routes/1009548"
+              ]
+            },
+            {
+              "nome": "Petit Surplomb",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1135950"
+              ]
+            },
+            {
+              "nome": "Mission Impossible",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1057503"
+              ]
+            },
+            {
+              "nome": "La Carrière",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1057502",
+                "https://www.camptocamp.org/routes/1009564"
+              ]
+            },
+            {
+              "nome": "Péteux",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009579"
+              ]
+            },
+            {
+              "nome": "Voie entre le Dièdre et les Ailes du Désir",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009578"
+              ]
+            },
+            {
+              "nome": "Ecoutevoir",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009571"
+              ]
+            },
+            {
+              "nome": "Poule mouillée",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009551"
+              ]
+            },
+            {
+              "nome": "Le Trou",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009547"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Eclépens",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "latitudine": 46.66155,
+          "longitudine": 6.548581,
+          "itinerari": [
+            {
+              "nome": "Les moul d'Eclépens...",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1112044"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Falaises de la Tour d'Aï",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.35677,
+          "longitudine": 7.011258,
+          "itinerari": [
+            {
+              "nome": "La Goutte au Nez",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2080,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1044945"
+              ]
+            },
+            {
+              "nome": "Voie de gauche",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2090,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/178194"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Roche au piton",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.789632,
+          "longitudine": 6.467246,
+          "itinerari": [
+            {
+              "nome": "Damoclès",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1360,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1032960",
+                "https://www.camptocamp.org/routes/997176",
+                "https://www.camptocamp.org/routes/901576"
+              ]
+            },
+            {
+              "nome": "Huitzilpochtli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1025645"
+              ]
+            },
+            {
+              "nome": "Guide",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1024806"
+              ]
+            },
+            {
+              "nome": "La Rampe",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1415,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1000125",
+                "https://www.camptocamp.org/routes/997184"
+              ]
+            },
+            {
+              "nome": "Dièdre",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1360,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/997180",
+                "https://www.camptocamp.org/routes/658105"
+              ]
+            },
+            {
+              "nome": "Du bruit dans les tuyaux",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1360,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/997178"
+              ]
+            },
+            {
+              "nome": "Namaskar",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1366,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/908935"
+              ]
+            },
+            {
+              "nome": "Grand'Mont",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/901583",
+                "https://www.camptocamp.org/routes/658106"
+              ]
+            },
+            {
+              "nome": "Yanick",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/901582"
+              ]
+            },
+            {
+              "nome": "Iki",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/901580"
+              ]
+            },
+            {
+              "nome": "Souvenir MV",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/901578"
+              ]
+            },
+            {
+              "nome": "Les Schtroumpfs",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1375,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/658108"
+              ]
+            },
+            {
+              "nome": "Honte aux cons…casseurs de voies",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1375,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/658107"
+              ]
+            },
+            {
+              "nome": "Normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1375,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/658103"
+              ]
+            },
+            {
+              "nome": "Kathmandu - Iha Khang",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/657266"
+              ]
+            },
+            {
+              "nome": "Namche quand vient la neige",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/657234"
+              ]
+            },
+            {
+              "nome": "Grande arête par le couloir",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1559,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/657218"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Le Suchet",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.767811,
+          "longitudine": 6.459352,
+          "itinerari": [
+            {
+              "nome": "Aiuto",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1480,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1021709"
+              ]
+            },
+            {
+              "nome": "Burro",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1480,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1021708"
+              ]
+            },
+            {
+              "nome": "Hèle le loup",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1480,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1021706"
+              ]
+            },
+            {
+              "nome": "Proue de navire",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/899684"
+              ]
+            },
+            {
+              "nome": "Gaie Pierre",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/899672"
+              ]
+            },
+            {
+              "nome": "Berk-Plage",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/899671"
+              ]
+            },
+            {
+              "nome": "Why Zoolt",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/899668"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vers-Cort",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.341017,
+          "longitudine": 6.954786,
+          "itinerari": [
+            {
+              "nome": "N°7 - Daphné",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 783,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009740"
+              ]
+            },
+            {
+              "nome": "N°4 - Altitudes",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 783,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009738"
+              ]
+            },
+            {
+              "nome": "N°3 - Petit futur",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 783,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009737"
+              ]
+            },
+            {
+              "nome": "N°2 - Sous le devers",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 783,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009728"
+              ]
+            },
+            {
+              "nome": "N°1 -  Gros bras",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 783,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1009724"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Roc à Mataf",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.798803,
+          "longitudine": 6.524638,
+          "itinerari": [
+            {
+              "nome": "Vole un peu",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1056,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/998555"
+              ]
+            },
+            {
+              "nome": "Grossebaf",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1056,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/998554"
+              ]
+            },
+            {
+              "nome": "Le calva",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1056,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/998544"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pierre Pouilleuse",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.65686,
+          "longitudine": 6.43465,
+          "itinerari": [
+            {
+              "nome": "Mmh, my ding ding dong !",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/940474"
+              ]
+            },
+            {
+              "nome": "Oh you touch my tra la la...",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/940470"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Saint-Cergue",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.44576,
+          "longitudine": 6.171522,
+          "itinerari": [
+            {
+              "nome": "J+S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/935568"
+              ]
+            },
+            {
+              "nome": "Youpala",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/935567"
+              ]
+            },
+            {
+              "nome": "Dix",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/935566"
+              ]
+            },
+            {
+              "nome": "Chenapan",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/935494"
+              ]
+            },
+            {
+              "nome": "L'élégance du hérisson",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/935479"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Saint-Loup - Secteur C",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.671406,
+          "longitudine": 6.494751,
+          "itinerari": [
+            {
+              "nome": "Couenne de l'art",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/930212"
+              ]
+            },
+            {
+              "nome": "La frite",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/930207"
+              ]
+            },
+            {
+              "nome": "Fiston",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/930198"
+              ]
+            },
+            {
+              "nome": "Distribution de topinambours",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/930197"
+              ]
+            },
+            {
+              "nome": "Flohstef",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/930196"
+              ]
+            },
+            {
+              "nome": "La tronçonneuse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/928874"
+              ]
+            },
+            {
+              "nome": "La Salamandre",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/928872"
+              ]
+            },
+            {
+              "nome": "Voie Levy",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/928870",
+                "https://www.camptocamp.org/routes/928866"
+              ]
+            },
+            {
+              "nome": "Topio.ch",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/928869"
+              ]
+            },
+            {
+              "nome": "Gargantua",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/928867"
+              ]
+            },
+            {
+              "nome": "Free Pot",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/928865"
+              ]
+            },
+            {
+              "nome": "Psycho Killer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/882072"
+              ]
+            },
+            {
+              "nome": "Vipère lubrique",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/882069"
+              ]
+            },
+            {
+              "nome": "Les vacances de Mr Tac Tac",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/882068"
+              ]
+            },
+            {
+              "nome": "La truie est en moi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/882063"
+              ]
+            },
+            {
+              "nome": "Tamagochi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/882044"
+              ]
+            },
+            {
+              "nome": "Gamelle de morilles",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/876694"
+              ]
+            },
+            {
+              "nome": "Nichée de pinsons",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/876684"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Le Coin",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.295172,
+          "longitudine": 7.134699,
+          "itinerari": [
+            {
+              "nome": "Le Modzet de la patronne",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1940,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/929666"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Falaise du Dar",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.346925,
+          "longitudine": 7.206506,
+          "itinerari": [
+            {
+              "nome": "Holiday Sport",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/902319"
+              ]
+            },
+            {
+              "nome": "Cridounette",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2040,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/902139"
+              ]
+            },
+            {
+              "nome": "Festival",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/653373"
+              ]
+            },
+            {
+              "nome": "Les Dents de la Mère",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/471678"
+              ]
+            },
+            {
+              "nome": "Kinley",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/367794"
+              ]
+            },
+            {
+              "nome": "Tantule",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1900,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/227291"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Aigle",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.316594,
+          "longitudine": 6.963884,
+          "itinerari": [
+            {
+              "nome": "Falaise du bas",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/898427"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "L'Abbaye",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.651125,
+          "longitudine": 6.324317,
+          "itinerari": [
+            {
+              "nome": "La Fille Sûre du Lac",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/883231"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tête aux Chamois (Cabane des Diablerets)",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.34624,
+          "longitudine": 7.210483,
+          "itinerari": [
+            {
+              "nome": "L'écho du diable",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2525,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/788187"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pointe de Poêle Chaud",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.431673,
+          "longitudine": 6.109344,
+          "itinerari": [
+            {
+              "nome": "Via corda",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1629,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/768496"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tour de Mayen",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.36111,
+          "longitudine": 7.012916,
+          "itinerari": [
+            {
+              "nome": "Diamant - De Ard à Z",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2060,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/690800",
+                "https://www.camptocamp.org/routes/682147"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Aiguilles de Baulmes",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.78972,
+          "longitudine": 6.469359,
+          "itinerari": [
+            {
+              "nome": "Les 2 ânes",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1550,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/658963"
+              ]
+            },
+            {
+              "nome": "Un pas dans les nuages",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1550,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/658962"
+              ]
+            },
+            {
+              "nome": "Dalle Forestier",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1550,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/658961"
+              ]
+            },
+            {
+              "nome": "Tichodromes",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1550,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/658959"
+              ]
+            },
+            {
+              "nome": "Les éperons du Demont",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1550,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/658957",
+                "https://www.camptocamp.org/routes/658945"
+              ]
+            },
+            {
+              "nome": "Le petit tortillard",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1550,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/658946"
+              ]
+            },
+            {
+              "nome": "Grande Arête et Petite Arête",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1300,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/138123",
+                "https://www.camptocamp.org/routes/57224"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tête aux Chamois (Cabane des Diablerets)",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.34373,
+          "longitudine": 7.212148,
+          "itinerari": [
+            {
+              "nome": "Minicim",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2450,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/655174"
+              ]
+            },
+            {
+              "nome": "Marie-Rose",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2450,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/655173"
+              ]
+            },
+            {
+              "nome": "La diagonale du fou",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2525,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/142297"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rocher Plat",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.472938,
+          "longitudine": 7.202916,
+          "itinerari": [
+            {
+              "nome": "Les pieds dans le Plat",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2257,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/576099"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "L'Écuelle",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.281759,
+          "longitudine": 7.155826,
+          "itinerari": [
+            {
+              "nome": "La matu d'Adeline",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562802"
+              ]
+            },
+            {
+              "nome": "Je te dis vous...",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562799"
+              ]
+            },
+            {
+              "nome": "Triviale poursuite",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562796"
+              ]
+            },
+            {
+              "nome": "Le grand nuage de Magellan",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562648"
+              ]
+            },
+            {
+              "nome": "Ange ou démon",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562647"
+              ]
+            },
+            {
+              "nome": "Sans soucis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562646"
+              ]
+            },
+            {
+              "nome": "L'atelier du sculpteur",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562617"
+              ]
+            },
+            {
+              "nome": "Mickeylange",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562610"
+              ]
+            },
+            {
+              "nome": "Le pouvoir des innocents",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562129"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "La Jumelle (3ème Pucelle)",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.542229,
+          "longitudine": 7.221087,
+          "itinerari": [
+            {
+              "nome": "Voie Henchoz",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2088,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562757"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "L'Écuelle",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.278752,
+          "longitudine": 7.15277,
+          "itinerari": [
+            {
+              "nome": "Clair de terre",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/562608"
+              ]
+            },
+            {
+              "nome": "Voie Originale de l'Y",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/53904"
+              ]
+            },
+            {
+              "nome": "Papageno",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/53903"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rochers de la Latte",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.389551,
+          "longitudine": 7.038491,
+          "itinerari": [
+            {
+              "nome": "Symphonie de rêve",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/542020"
+              ]
+            },
+            {
+              "nome": "Zéphir",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/542017"
+              ]
+            },
+            {
+              "nome": "Zim.",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/287571"
+              ]
+            },
+            {
+              "nome": "Dragon's Club",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/287570"
+              ]
+            },
+            {
+              "nome": "GSD.",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/287568"
+              ]
+            },
+            {
+              "nome": "Kalymnos",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/287552"
+              ]
+            },
+            {
+              "nome": "Salut Léo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/287551",
+                "https://www.camptocamp.org/routes/287550"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tour de Famelon",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.382027,
+          "longitudine": 7.023569,
+          "itinerari": [
+            {
+              "nome": "Dis-moi Céline",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2137,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/439340"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Miroir d'Argentine",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.282589,
+          "longitudine": 7.140563,
+          "itinerari": [
+            {
+              "nome": "Les Tchôtrons - voie du Tunnel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2323,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/368524",
+                "https://www.camptocamp.org/routes/140198"
+              ]
+            },
+            {
+              "nome": "Inferno",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2323,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/293925"
+              ]
+            },
+            {
+              "nome": "Le Bal des mutants",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2323,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/181899"
+              ]
+            },
+            {
+              "nome": "Lyre",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2323,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/179594"
+              ]
+            },
+            {
+              "nome": "Succès Flou",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/173929"
+              ]
+            },
+            {
+              "nome": "Divine Martine",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/173174"
+              ]
+            },
+            {
+              "nome": "Mamba",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2323,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/132960"
+              ]
+            },
+            {
+              "nome": "Bel Hasard",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/57886"
+              ]
+            },
+            {
+              "nome": "Remix",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55347"
+              ]
+            },
+            {
+              "nome": "Zygofolis (départ \"Directe\")",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/54143"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tour de Famelon",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.379434,
+          "longitudine": 7.023725,
+          "itinerari": [
+            {
+              "nome": "Top priority",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2137,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/363788"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rocher à Pointes",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.46939,
+          "longitudine": 7.205891,
+          "itinerari": [
+            {
+              "nome": "Arête W du sommet S (arête du Pointu)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2239,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/357381"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dent de Jaman",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.446238,
+          "longitudine": 6.976252,
+          "itinerari": [
+            {
+              "nome": "I wanna rock",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1820,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/351710"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tour de Mayen",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.370465,
+          "longitudine": 7.012836,
+          "itinerari": [
+            {
+              "nome": "Diamant - Diagonale Haston (sortie par les jeunes poussent)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/296639"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Aiguilles de Baulmes - Grande Arête",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "latitudine": 46.785867,
+          "longitudine": 6.467564,
+          "itinerari": [
+            {
+              "nome": "Le Pilier",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/293282"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vanil de la Gobette (1ère Pucelle)",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.543332,
+          "longitudine": 7.239528,
+          "itinerari": [
+            {
+              "nome": "Le Trio Infernal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2109,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/276192"
+              ]
+            },
+            {
+              "nome": "La fête des pères",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2109,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/57950"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "La Jumelle (3ème Pucelle)",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "latitudine": 46.536482,
+          "longitudine": 7.2266,
+          "itinerari": [
+            {
+              "nome": "Madagascar",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2080,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/189066"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Nägelihorn",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.345517,
+          "longitudine": 7.218061,
+          "itinerari": [
+            {
+              "nome": "Le Baron",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2587,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/178587"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Haute Corde",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.284116,
+          "longitudine": 7.149858,
+          "itinerari": [
+            {
+              "nome": "La Balade",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/174251"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dent de Jaman",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.442676,
+          "longitudine": 6.975385,
+          "itinerari": [
+            {
+              "nome": "Ace of Spades",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1820,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/137812"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "La Jumelle (3ème Pucelle)",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.536589,
+          "longitudine": 7.217121,
+          "itinerari": [
+            {
+              "nome": "Aisha",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2088,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/131917"
+              ]
+            },
+            {
+              "nome": "Arête SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2088,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/131914"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gros Van",
+          "disciplina": "climbing",
+          "esposizione": "NE",
+          "latitudine": 46.389526,
+          "longitudine": 7.080095,
+          "itinerari": [
+            {
+              "nome": "Par la dalle de Sonna - Petit Van - Gros Van",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2175,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/58079"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Arête de l'Argentine",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 46.279313,
+          "longitudine": 7.115118,
+          "itinerari": [
+            {
+              "nome": "Traversée E > W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2421,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/55475",
+                "https://www.camptocamp.org/routes/54614"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gastlosen - Les Pucelles",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "latitudine": 46.544983,
+          "longitudine": 7.223408,
+          "itinerari": [
+            {
+              "nome": "Traversée SW → NE",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/54724"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Motteux Péteux",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "latitudine": 46.553755,
+          "longitudine": 7.236984,
+          "itinerari": [
+            {
+              "nome": "L'avenue des chamois",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2232,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/54116"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Miroir d'Argentine",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "latitudine": 46.28153,
+          "longitudine": 7.159176,
+          "itinerari": [
+            {
+              "nome": "Voie Directe",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2325,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/53893"
+              ]
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Au",
@@ -22,12 +22,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 962,
+              "sviluppo": 962.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1762,
+              "quotaMassima": 1762.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/lug-hohe-brendler-lug-da-argenau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lug-hohe-brendler-lug-da-argenau/"
+              ]
             }
           ]
         }
@@ -39,6 +41,30 @@
       "latitudine": null,
       "longitudine": null,
       "pareti": [
+        {
+          "nome": "Damüls Portlahorn da Wallisgaden",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.2828764,
+          "longitudine": 9.8916014,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2010.0,
+              "discesa": "Pendii ampi",
+              "link": [
+                "https://www.gulliver.it/itinerari/damuls-portlahorn-da-wallisgaden/"
+              ]
+            }
+          ]
+        },
         {
           "nome": "Portlahorn da Damùls",
           "disciplina": "skialp",
@@ -52,12 +78,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 610,
+              "sviluppo": 610.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2010,
+              "quotaMassima": 2010.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/portlahorn-da-damuls/"
+              "link": [
+                "https://www.gulliver.it/itinerari/portlahorn-da-damuls/"
+              ]
             }
           ]
         },
@@ -74,12 +102,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 651,
+              "sviluppo": 651.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2051,
+              "quotaMassima": 2051.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/ragazer-blanken-da-impianti-di-damuls/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ragazer-blanken-da-impianti-di-damuls/"
+              ]
             }
           ]
         }
@@ -107,9 +137,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3032,
+              "quotaMassima": 3032.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/chlein-seehorn-dal-rif-saarbrucken/"
+              "link": [
+                "https://www.gulliver.it/itinerari/chlein-seehorn-dal-rif-saarbrucken/"
+              ]
             }
           ]
         }
@@ -134,12 +166,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1200,
+              "sviluppo": 1200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2060,
+              "quotaMassima": 2060.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/matona-da-laterns/"
+              "link": [
+                "https://www.gulliver.it/itinerari/matona-da-laterns/"
+              ]
             }
           ]
         }
@@ -164,12 +198,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 831,
+              "sviluppo": 831.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2435,
+              "quotaMassima": 2435.0,
               "discesa": "Ski area",
-              "link": "https://www.gulliver.it/itinerari/madlochjoch-da-zurs-per-il-lago-zurser/"
+              "link": [
+                "https://www.gulliver.it/itinerari/madlochjoch-da-zurs-per-il-lago-zurser/"
+              ]
             }
           ]
         }
@@ -194,12 +230,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1968,
+              "quotaMassima": 1968.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/falzer-kopf-da-schoppernau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/falzer-kopf-da-schoppernau/"
+              ]
             }
           ]
         }
@@ -224,12 +262,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3042,
+              "quotaMassima": 3042.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/cunfin-fuorcla-dal-traversata-dalla-wiesbadenerhutte-a-guarda/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cunfin-fuorcla-dal-traversata-dalla-wiesbadenerhutte-a-guarda/"
+              ]
             }
           ]
         },
@@ -246,12 +286,76 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 754,
+              "sviluppo": 754.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3197,
+              "quotaMassima": 3197.0,
               "discesa": "Ghiacciaio",
-              "link": "https://www.gulliver.it/itinerari/dreilanderspitze-dalla-wiesbadenerhutte/"
+              "link": [
+                "https://www.gulliver.it/itinerari/dreilanderspitze-dalla-wiesbadenerhutte/"
+              ]
+            },
+            {
+              "nome": "Wiesbadner Hütte - Wirl par le Ochsental",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1529965"
+              ]
+            },
+            {
+              "nome": "Bieltajoch traversée W-E",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 330,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2770,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/870339"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Riezlern",
+      "paese": "AT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Güntlespitze da Baad, anello",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.35911808,
+          "longitudine": 10.18484115,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2092.0,
+              "discesa": "Attraversa pendii ripidi",
+              "link": [
+                "https://www.gulliver.it/itinerari/guntlespitze-ad-anello/"
+              ]
             }
           ]
         }
@@ -276,12 +380,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1400,
+              "sviluppo": 1400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2852,
+              "quotaMassima": 2852.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/rotbuelspitze-dal-val-winter/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rotbuelspitze-dal-val-winter/"
+              ]
             }
           ]
         }
@@ -306,12 +412,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 2150,
+              "sviluppo": 2150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2896,
+              "quotaMassima": 2896.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/kaltenberg-krachel/"
+              "link": [
+                "https://www.gulliver.it/itinerari/kaltenberg-krachel/"
+              ]
             }
           ]
         }
@@ -336,12 +444,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1830,
+              "sviluppo": 1830.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2830,
+              "quotaMassima": 2830.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/drei-turme-da-latschau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/drei-turme-da-latschau/"
+              ]
             }
           ]
         },
@@ -358,12 +468,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1124,
+              "sviluppo": 1124.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2124,
+              "quotaMassima": 2124.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/golmer-joch-versante-e/"
+              "link": [
+                "https://www.gulliver.it/itinerari/golmer-joch-versante-e/"
+              ]
             }
           ]
         },
@@ -380,12 +492,1273 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2817.0,
+              "discesa": "Pendii ampi",
+              "link": [
+                "https://www.gulliver.it/itinerari/sulzfluh-versante-n/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "AT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Valschavieler Maderer",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.025005,
+          "longitudine": 10.069775,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1749,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2769,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1883258"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Frastafaller Spitz",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.012537,
+          "longitudine": 10.074537,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1548,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2568,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1877287"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Derrenjoch",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.303348,
+          "longitudine": 10.103069,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1875,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1871975"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Silvrettahorn",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.858039,
+          "longitudine": 10.092702,
+          "itinerari": [
+            {
+              "nome": "Traversata silvrettahutte-Guarda passando per la Fuorcla Buin m 3052",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3243,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1759739"
+              ]
+            },
+            {
+              "nome": "Depuis la Silvrettahütte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3243,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1641767"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Röbispitzen",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.99271,
+          "longitudine": 9.890437,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 920,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2410,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1745295"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ragazer Blanken",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.30462,
+          "longitudine": 9.852638,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 620,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2050,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1729161"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Madrisa Joch",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.936846,
+          "longitudine": 9.877191,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2612,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1606430"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Quota 2448",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.10058,
+          "longitudine": 10.137716,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1230,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2448,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1190043"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rauher Kopf Scharte",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.868448,
+          "longitudine": 10.138782,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3101,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1183038"
+              ]
+            },
+            {
+              "nome": "Versant NW (voie normale)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/714836"
+              ]
+            },
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/635928"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schneeberg",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.930974,
+          "longitudine": 9.939813,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1180,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2588,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1176602"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schneeglocke",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.864379,
+          "longitudine": 10.085477,
+          "itinerari": [
+            {
+              "nome": "Depuis la Silvrettahütte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3202,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1103318"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rauher Kopf Scharte",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.870706,
+          "longitudine": 10.138529,
+          "itinerari": [
+            {
+              "nome": "Versant W depuis la Wiesbadenerhütte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1102924"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dri Turm",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.0237,
+          "longitudine": 9.81155,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2830,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1101524"
+              ]
+            },
+            {
+              "nome": "dalla Lindauer per lo Sporaturm con discesa per lo Sporentbel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1086,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2830,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1101521"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Drusenfluh",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.02893,
+          "longitudine": 9.801584,
+          "itinerari": [
+            {
+              "nome": "Da Latschau per la Gauertal e la Blodigrinne.",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1830,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2827,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/983259"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Öfapass",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.036771,
+          "longitudine": 9.815423,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 547,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2291,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/958142"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schwarzer Turm",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.151452,
+          "longitudine": 10.154964,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 524,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2297,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/946641"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Elferkopf Wintergipfel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.312971,
+          "longitudine": 10.187386,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
               "sviluppo": 1200,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2817,
-              "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/sulzfluh-versante-n/"
+              "quotaMassima": 2350,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/847363"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hoferspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.290732,
+          "longitudine": 10.11116,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2131,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/847126"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Klippern",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.303342,
+          "longitudine": 9.918754,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2066,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/846730"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Brendler Lug",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.301463,
+          "longitudine": 9.96846,
+          "itinerari": [
+            {
+              "nome": "Anello con salita da N e discesa per il versante W Argenvorsass.",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 960,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1767,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/845012"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sulzfluh",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.040298,
+          "longitudine": 9.850827,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1820,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2818,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/735317"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochkünzelspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.265261,
+          "longitudine": 10.041827,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1230,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2397,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/726140"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rotbüelspitz",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.941443,
+          "longitudine": 9.938265,
+          "itinerari": [
+            {
+              "nome": "Von Gargellen durch das Valzifental",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2853,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/710998"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Raid en Silvretta",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.871947,
+          "longitudine": 10.123622,
+          "itinerari": [
+            {
+              "nome": "traversée E>>W, de Samnaun à Klosters Platz",
+              "gradoObbligatorio": "PD-",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 5540,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3310,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/638353"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Grünhorn",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.3234,
+          "longitudine": 10.07942,
+          "itinerari": [
+            {
+              "nome": "par le Schwarzwassertal depuis  Auenhütte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 839,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2039,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/617171"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Westliche Eisentalerspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.07984,
+          "longitudine": 10.07899,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2710,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/613383"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Östliche Eisentalerspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.079314,
+          "longitudine": 10.100234,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1536,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2753,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/613381"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Portlahorn",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.291121,
+          "longitudine": 9.864135,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 260,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2010,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/608613"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Garmil",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.221849,
+          "longitudine": 9.928701,
+          "itinerari": [
+            {
+              "nome": "Von der Bergstation der Seilbahn Sonntag-Stein über Partnum",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 590,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1880,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/498251"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gerenspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.257359,
+          "longitudine": 9.799504,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 754,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1871,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/496062"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Löffelspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.258641,
+          "longitudine": 9.809697,
+          "itinerari": [
+            {
+              "nome": "Von Bad Laterns über die Nordseite",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 815,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1962,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/496051"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Toblermannskopf",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.285717,
+          "longitudine": 10.007354,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2015,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/422984"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Drusenfluh - Dri Türm",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.043761,
+          "longitudine": 9.84087,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1086,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2830,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/336658"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Raid en Silvretta",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.865189,
+          "longitudine": 10.105975,
+          "itinerari": [
+            {
+              "nome": "Boucle depuis Partenen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 7475,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3312,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/333698"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Warther Horn",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.251504,
+          "longitudine": 10.156896,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 756,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2256,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/263195"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kreuzjoch",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.06,
+          "longitudine": 9.83,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1260,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2261,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/198702"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tschaggunser Mittagspitz  ",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.03948,
+          "longitudine": 9.87456,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2168,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/198576"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Madrisella",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.959468,
+          "longitudine": 9.986301,
+          "itinerari": [
+            {
+              "nome": "Da Gaschurn per il Guntalatscherberg ed il versante NW del Burg, lungo la cresta che scavalca il Versettlaspitze m 2372 e la cresta S. ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1530,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2466,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/198414"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schneeberg",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.929103,
+          "longitudine": 9.943092,
+          "itinerari": [
+            {
+              "nome": "Da Gargellen per la Vergaldner Tal ed il versante N(Rossberg).",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1080,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2588,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/198406"
+              ]
+            },
+            {
+              "nome": "Traversée Valzifertal - Vergaldnertal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2588,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/164083"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Muttjöchle",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.1,
+          "longitudine": 10.028,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 649,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2074,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/118327"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Buin",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.91089,
+          "longitudine": 10.091833,
+          "itinerari": [
+            {
+              "nome": "Depuis la Bielerhöhe par le Klostertal (N)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3312,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/53619"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Untschenspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.303985,
+          "longitudine": 10.060491,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2135,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/52179"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oberzalimkopf",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.078875,
+          "longitudine": 9.677981,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2340,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/52174"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Mondspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.153003,
+          "longitudine": 9.726528,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1967,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/52171"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schlappiner Spitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.944915,
+          "longitudine": 9.916998,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 950,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2429,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/48458"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Dreiländerspitz",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.853563,
+          "longitudine": 10.139244,
+          "itinerari": [
+            {
+              "nome": "Traversée Chamanna Tuoi>> Wiesbadenerhütte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 950,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3197,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/48044"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vordere Jamspitz",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.850393,
+          "longitudine": 10.13422,
+          "itinerari": [
+            {
+              "nome": "Traversée Wiesbadener Hütte - Chamanna Tuoi par la Tirolerscharte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3176,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/48027"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gehrenfalben",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.280833,
+          "longitudine": 9.810283,
+          "itinerari": [
+            {
+              "nome": "Über Alpe Gäfis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1960,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47874"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Piz Buin",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.844888,
+          "longitudine": 10.110087,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 870,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3312,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/45258"
+              ]
             }
           ]
         }

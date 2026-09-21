@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:48Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Apriach",
@@ -22,12 +22,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1530,
+              "sviluppo": 1530.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3090,
+              "quotaMassima": 3090.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/sandokpf-da-ober-schachnern/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sandokpf-da-ober-schachnern/"
+              ]
             }
           ]
         }
@@ -52,12 +54,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 840,
+              "sviluppo": 840.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2715,
+              "quotaMassima": 2715.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rotwandeck-da-sadnighaus/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rotwandeck-da-sadnighaus/"
+              ]
             }
           ]
         },
@@ -74,12 +78,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 975,
+              "sviluppo": 975.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2851,
+              "quotaMassima": 2851.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/stellkopf-da-sadnighaus/"
+              "link": [
+                "https://www.gulliver.it/itinerari/stellkopf-da-sadnighaus/"
+              ]
             }
           ]
         }
@@ -104,12 +110,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1400,
+              "sviluppo": 1400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2696,
+              "quotaMassima": 2696.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/romatenspitze-dalla-stockehutte/"
+              "link": [
+                "https://www.gulliver.it/itinerari/romatenspitze-dalla-stockehutte/"
+              ]
             }
           ]
         }
@@ -134,12 +142,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1350,
+              "sviluppo": 1350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2424,
+              "quotaMassima": 2424.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/schwalbenkofel-e-schulterhohe-da-maria-luggau/"
+              "link": [
+                "https://www.gulliver.it/itinerari/schwalbenkofel-e-schulterhohe-da-maria-luggau/"
+              ]
             }
           ]
         }
@@ -164,12 +174,2125 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1500,
+              "sviluppo": 1500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2709.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/hochkreuz-da-stall/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "AT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Dobrač",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.596191,
+          "longitudine": 13.703706,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2166,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1688164"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bistriška špica (Peca)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.503194,
+          "longitudine": 14.715631,
+          "itinerari": [
+            {
+              "nome": "iz Podpece",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2113,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1688155"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Stubeck",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.974055,
+          "longitudine": 13.537554,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 720,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2370,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1688124"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Brennkogel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.068642,
+          "longitudine": 12.819445,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1090,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3018,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1688066"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Straßkopf",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.87866,
+          "longitudine": 12.844326,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2401,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1687947"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kozjak",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.442539,
+          "longitudine": 14.17037,
+          "itinerari": [
+            {
+              "nome": "JZ greben",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1060,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2024,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1687468"
+              ]
+            },
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1114,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2104,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/48685"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Stol",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.445172,
+          "longitudine": 14.198717,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2236,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1687372"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kosmatica",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.449088,
+          "longitudine": 14.203907,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 610,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1659,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1687327"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ledinski vrh",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.388766,
+          "longitudine": 14.573298,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1140,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2108,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1687015"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Runsek",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.664263,
+          "longitudine": 12.857125,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2144,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1377749"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": null,
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.074264,
+          "longitudine": 12.69448,
+          "itinerari": [
+            {
+              "nome": "Traversée du Haut Tirol",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 7600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3798,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1102190"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Grossglockner",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.077164,
+          "longitudine": 12.698933,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3798,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/919318"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bärentaler Kotschna",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.476227,
+          "longitudine": 14.132496,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1944,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/717672"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochstuhl / Stol",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.438964,
+          "longitudine": 14.173388,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": "PD",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1280,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2237,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/717449"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hagener Hütte",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.020133,
+          "longitudine": 13.096474,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2450,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/518205"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Stol",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.440076,
+          "longitudine": 14.168621,
+          "itinerari": [
+            {
+              "nome": "Grüne Ries",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2237,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/518198"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Nassfeld Riegel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.783934,
+          "longitudine": 13.148792,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 451,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2221,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/224762"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Latschur",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.738667,
+          "longitudine": 13.396444,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2236,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/208451"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Staff",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.736278,
+          "longitudine": 13.438556,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2217,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/208428"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochstuhl",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.437277,
+          "longitudine": 14.173065,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": "PD",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1280,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2237,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/161376"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Murnovec",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.521722,
+          "longitudine": 13.887799,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 947,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1867,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/154799"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schwarzkogel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.521862,
+          "longitudine": 13.890873,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 920,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1842,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/153519"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ferlacher Spitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.521633,
+          "longitudine": 13.95547,
+          "itinerari": [
+            {
+              "nome": "über Bertahütte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 962,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1742,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/152322"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schroneck",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.851529,
+          "longitudine": 13.198889,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1370,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2549,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/151484"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rindernock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.750447,
+          "longitudine": 13.724353,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 782,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2024,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/150637"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hocharn",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.05996,
+          "longitudine": 12.932056,
+          "itinerari": [
+            {
+              "nome": "Da SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1550,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3250,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/49417"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochstuhl / Stol",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.443675,
+          "longitudine": 14.18144,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1276,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2236,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47923"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Wodnertörl",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.622015,
+          "longitudine": 12.921172,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 813,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2063,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47342"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Wintertalernock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.942222,
+          "longitudine": 13.951944,
+          "itinerari": [
+            {
+              "nome": "Da SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1004,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2404,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47341"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Waschgang",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.065759,
+          "longitudine": 13.470719,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1359,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2709,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/hochkreuz-da-stall/"
+              "link": [
+                "https://www.camptocamp.org/routes/47336"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Stubeck",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.999761,
+          "longitudine": 13.528785,
+          "itinerari": [
+            {
+              "nome": "Da SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 776,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2380,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47317"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Stoder",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.895663,
+          "longitudine": 13.46341,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1333,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2433,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47316"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sternspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.009508,
+          "longitudine": 13.551354,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1297,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2497,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47315"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Stellkopf",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.973772,
+          "longitudine": 12.980567,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1010,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2860,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47312"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Seemannwand",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.03024,
+          "longitudine": 13.524865,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1515,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2814,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47307"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schulterhöhe",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.672222,
+          "longitudine": 12.694722,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2190,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47297"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Schareck",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.004768,
+          "longitudine": 13.027682,
+          "itinerari": [
+            {
+              "nome": "Da SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 322,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3122,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47286"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sandkopf",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.028691,
+          "longitudine": 12.905336,
+          "itinerari": [
+            {
+              "nome": "Da SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1530,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3090,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47279"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Säuleck",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.988144,
+          "longitudine": 13.246964,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1666,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3086,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47277"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rosennock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.867993,
+          "longitudine": 13.737608,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1040,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2440,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47272"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rameter Spitz / Romatenspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.015105,
+          "longitudine": 13.11053,
+          "itinerari": [
+            {
+              "nome": "Da S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1045,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2695,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47271"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Romariswandkopf",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.103477,
+          "longitudine": 12.683501,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3550,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47269"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rödresnock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.850671,
+          "longitudine": 13.810778,
+          "itinerari": [
+            {
+              "nome": "aus SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1010,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2310,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47268"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rauchkofel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.621323,
+          "longitudine": 12.902628,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1360,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2410,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47259"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rauchkofel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.619444,
+          "longitudine": 12.883333,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1060,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2410,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47258"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Polinik (Gailtal)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.614192,
+          "longitudine": 12.963716,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1181,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2331,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47242"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pernaunock / Bärenaunock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.940556,
+          "longitudine": 13.704722,
+          "itinerari": [
+            {
+              "nome": "Da E",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 840,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2290,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47225"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Peitlernock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.953422,
+          "longitudine": 13.72822,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2250,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47222"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Passo dei Cacciatori",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.608065,
+          "longitudine": 12.892361,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2524,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47213"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Osternig",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.566667,
+          "longitudine": 13.5,
+          "itinerari": [
+            {
+              "nome": "Da E",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1482,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2052,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47207"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oblitzen",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.06817,
+          "longitudine": 13.452976,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1307,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2657,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47200"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oberlercherspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.045229,
+          "longitudine": 13.350033,
+          "itinerari": [
+            {
+              "nome": "Da ENE",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1541,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3106,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47199"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Oberlercherspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.059854,
+          "longitudine": 13.331587,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1186,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3106,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47198"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Obergailjoch",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.691389,
+          "longitudine": 12.801944,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1122,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2216,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47197"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Mohar",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.96279,
+          "longitudine": 12.954057,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 755,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2605,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47172"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Mittlerer Bärenkopf",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.11148,
+          "longitudine": 12.710023,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1207,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3357,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47168"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Mirnock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.75,
+          "longitudine": 13.733333,
+          "itinerari": [
+            {
+              "nome": "Da W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 904,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2104,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47167"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Mallnock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.87867,
+          "longitudine": 13.78964,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 926,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2226,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47161"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Kölnbreinspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.088986,
+          "longitudine": 13.37182,
+          "itinerari": [
+            {
+              "nome": "SW Face",
+              "gradoObbligatorio": "F",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1014,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2934,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47133"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Klomnock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.88671,
+          "longitudine": 13.79196,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1031,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2331,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47132"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Johannisberg",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.109436,
+          "longitudine": 12.685061,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": "F",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1083,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3453,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47125"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hoher Sonnblick",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.049332,
+          "longitudine": 12.931165,
+          "itinerari": [
+            {
+              "nome": "Da W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1555,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3105,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47118"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochwipfel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.6,
+          "longitudine": 13.183333,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1585,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2185,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47112"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochalmspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.006114,
+          "longitudine": 13.327961,
+          "itinerari": [
+            {
+              "nome": "Da S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1145,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47104"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochalmspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.049463,
+          "longitudine": 13.327307,
+          "itinerari": [
+            {
+              "nome": "Da NE",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1440,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47103"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochalmspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.015112,
+          "longitudine": 13.34856,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": "F+",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2174,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47102"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochalmspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.027961,
+          "longitudine": 13.329898,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": "PD-",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1440,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47101"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hilmersberg",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.970244,
+          "longitudine": 12.958487,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2670,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47097"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gurglitzen",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.88034,
+          "longitudine": 13.399909,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1053,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2351,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47092"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Erzherzog-Johann-Hütte",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.070589,
+          "longitudine": 12.715606,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1648,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3798,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47086"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Großer Speikkogel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.783333,
+          "longitudine": 14.966667,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2200,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47085"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gmeineck",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.876686,
+          "longitudine": 13.434448,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1580,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2580,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47073"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Giogo Veranis",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.648968,
+          "longitudine": 12.73771,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 910,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2010,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47072"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gartnerkofel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.571389,
+          "longitudine": 13.303611,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 665,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2195,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47067"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Raudenspitze",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.6483,
+          "longitudine": 12.7618,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1407,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2507,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47049"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Faschaunereck",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.997026,
+          "longitudine": 13.512972,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1008,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2612,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47047"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Falkert",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.86,
+          "longitudine": 13.816111,
+          "itinerari": [
+            {
+              "nome": "aus SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1008,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2308,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47046"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Falkert",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.865938,
+          "longitudine": 13.806616,
+          "itinerari": [
+            {
+              "nome": "aus NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1008,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2308,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47045"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Eisigspitz / Moar Eissig",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.052552,
+          "longitudine": 13.48546,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1397,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2747,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47041"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Edigon",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.650283,
+          "longitudine": 12.772872,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1417,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2511,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47039"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Eckkopf",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.010372,
+          "longitudine": 12.966399,
+          "itinerari": [
+            {
+              "nome": "aus SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1175,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2868,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47038"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Coglians",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.60824,
+          "longitudine": 12.882803,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1420,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2780,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47019"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Böse Nase",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.87091,
+          "longitudine": 13.394106,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 929,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2227,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/46985"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bartelmann",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.920535,
+          "longitudine": 13.476078,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1408,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2428,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/46979"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bärennock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 46.962726,
+          "longitudine": 13.462887,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1747,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2587,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/46978"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ankogel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.04473,
+          "longitudine": 13.236122,
+          "itinerari": [
+            {
+              "nome": "Par l'W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 528,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3252,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/46974"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ankogel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 47.056484,
+          "longitudine": 13.273973,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1330,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3250,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/46973"
+              ]
             }
           ]
         }

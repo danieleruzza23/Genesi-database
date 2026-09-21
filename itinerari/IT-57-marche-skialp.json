@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Acquasanta Terme",
@@ -22,12 +22,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2445,
+              "quotaMassima": 2445.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/lepri-cima-da-piana-cavalieri-per-la-valle-del-rio-castellano/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lepri-cima-da-piana-cavalieri-per-la-valle-del-rio-castellano/"
+              ]
             }
           ]
         }
@@ -52,12 +54,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1814,
+              "quotaMassima": 1814.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/girella-monte-da-san-giacomo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/girella-monte-da-san-giacomo/"
+              ]
             }
           ]
         }
@@ -82,12 +86,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 760,
+              "sviluppo": 760.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2092,
+              "quotaMassima": 2092.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/tre-vescovi-pizzo-da-pintura-di-bolognola/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tre-vescovi-pizzo-da-pintura-di-bolognola/"
+              ]
             }
           ]
         }
@@ -112,12 +118,62 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2200,
+              "quotaMassima": 2200.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/argentella-monte-canale-san-lorenzo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/argentella-monte-canale-san-lorenzo/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Argentella (Monte) anello del Laghetto",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.84670905,
+          "longitudine": 13.1949234,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "OS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 855.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1250.0,
+              "discesa": "Attraversa pendii ripidi",
+              "link": [
+                "https://www.gulliver.it/itinerari/argentella-monte-anello-del-laghetto/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lieto (Monte) da Forca di Gualdo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.85847565,
+          "longitudine": 13.19088935,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 880.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1944.0,
+              "discesa": "Su dorsale",
+              "link": [
+                "https://www.gulliver.it/itinerari/lieto-monte-da-forca-di-gualdo/"
+              ]
             }
           ]
         },
@@ -134,12 +190,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2145,
+              "quotaMassima": 2145.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/palazzo-borghese-monte-dal-fontanile-di-pian-perduto/"
+              "link": [
+                "https://www.gulliver.it/itinerari/palazzo-borghese-monte-dal-fontanile-di-pian-perduto/"
+              ]
             }
           ]
         },
@@ -156,12 +214,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 830,
+              "sviluppo": 830.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2233,
+              "quotaMassima": 2233.0,
               "discesa": "Su dorsale",
-              "link": "https://www.gulliver.it/itinerari/porche-monte-dagli-impianti-di-monte-prata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/porche-monte-dagli-impianti-di-monte-prata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Porche (Monte) e Laghetto di Palazzo Borghese da parcheggio Monte Prata",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.867818122784634,
+          "longitudine": 13.196682929992676,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2233.0,
+              "discesa": "Attraversa pendii ripidi",
+              "link": [
+                "https://www.gulliver.it/itinerari/porche-monte-e-laghetto-di-palazzo-borghese-da-parcheggio-monte-prata/"
+              ]
             }
           ]
         }
@@ -186,12 +270,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 215,
+              "sviluppo": 215.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1415,
+              "quotaMassima": 1415.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/carpegna-monte-dalla-strada-eremo-per-il-rif-fontanelle/"
+              "link": [
+                "https://www.gulliver.it/itinerari/carpegna-monte-dalla-strada-eremo-per-il-rif-fontanelle/"
+              ]
             }
           ]
         }
@@ -216,12 +302,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1521,
+              "sviluppo": 1521.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2476,
+              "quotaMassima": 2476.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/vettore-monte-da-foce-per-la-valle-del-lago-di-pilato/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vettore-monte-da-foce-per-la-valle-del-lago-di-pilato/"
+              ]
             }
           ]
         }
@@ -246,12 +334,142 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 190,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2020,
+              "quotaMassima": 2020.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/bicco-monte-canale-n/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bicco-monte-canale-n/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Monte Sibilla",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.901076,
+          "longitudine": 13.266388,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2173,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/864968"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima delle Prata",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.873923,
+          "longitudine": 13.292816,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/864939"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Palazzo Borghese",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.867953,
+          "longitudine": 13.232729,
+          "itinerari": [
+            {
+              "nome": "Versant SW depuis Castellucio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2311,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/120448"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Vettore",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.824587,
+          "longitudine": 13.275254,
+          "itinerari": [
+            {
+              "nome": "Traversée Valle Santa - Couloir SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2476,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/120444"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Punta di Prato Polito",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 42.817841,
+          "longitudine": 13.266449,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2373,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/48058"
+              ]
             }
           ]
         }

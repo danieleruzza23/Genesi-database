@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Alleghe",
@@ -22,12 +22,14 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 170,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/paperoga-cascata-monte-coldai-civetta/"
+              "link": [
+                "https://www.gulliver.it/itinerari/paperoga-cascata-monte-coldai-civetta/"
+              ]
             }
           ]
         }
@@ -52,25 +54,38 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/canale-dagordo-val-de-la-pissa-cascata/"
-            },
+              "discesa": "a destra con corda fissa si raggiunge un comodo sentiero oppure in corda doppia (meglio prevedere due doppie, la seconda su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/canale-dagordo-val-de-la-pissa-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Canale d’Agordo",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.313058,
+          "longitudine": 11.881349,
+          "itinerari": [
             {
               "nome": "Mostro Sacro (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/mostro-sacro-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/mostro-sacro-cascata/"
+              ]
             },
             {
               "nome": "The End (Cascata)",
@@ -78,12 +93,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/the-end-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/the-end-cascata/"
+              ]
             },
             {
               "nome": "Tre per Tre (Cascata)",
@@ -91,25 +108,38 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tre-per-tre-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/tre-per-tre-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Canale d’Agordo",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.31148578,
+          "longitudine": 11.88823699,
+          "itinerari": [
             {
               "nome": "Tris (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 60,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/tris-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tris-cascata/"
+              ]
             }
           ]
         }
@@ -134,12 +164,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/navahos-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/navahos-cascata/"
+              ]
             }
           ]
         }
@@ -164,25 +196,38 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-sorapiss-superbowl-cascata/"
-            },
+              "discesa": "con 3 doppie su abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-sorapiss-superbowl-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cortina d’Ampezzo, Val Sorapiss",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.52876747,
+          "longitudine": 12.23330434,
+          "itinerari": [
             {
               "nome": "Trastulliollà (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-sorapiss-trastulliolla-cascata/"
+              "discesa": "con 2 doppie dalle soste su roccia. Altra opzione: è possibile anche salire poco più a sinistra (L1 60 m a 70-75°, sosta su spit e fittone su roccia affiorante) per poi andare a prendere una simpatica goulotte verso sinistra, se formata.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-sorapiss-trastulliolla-cascata/"
+              ]
             }
           ]
         },
@@ -199,90 +244,158 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/candela-sospesa-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/candela-sospesa-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cortina d’Ampezzo, Val Travenanzes",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.56946766,
+          "longitudine": 12.05084976,
+          "itinerari": [
             {
               "nome": "Hotel California (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/hotel-california-cascata/"
-            },
+              "discesa": "in doppia su abalacov",
+              "link": [
+                "https://www.gulliver.it/itinerari/hotel-california-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cortina d’Ampezzo, Val Travenanzes",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.5719283,
+          "longitudine": 12.1179696,
+          "itinerari": [
             {
               "nome": "Attraverso Travenanzes (Cascata)",
               "gradoObbligatorio": "IV",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 155,
+              "sviluppo": 155.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/attraverso-travenanzes-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/attraverso-travenanzes-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cortina d’Ampezzo, Val Travenanzes",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.5801026,
+          "longitudine": 12.07157135,
+          "itinerari": [
             {
               "nome": "Belvedere (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/belvedere-cascata/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/belvedere-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cortina d’Ampezzo, Val Travenanzes",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.5647347,
+          "longitudine": 12.045387,
+          "itinerari": [
             {
               "nome": "Sogno Canadese (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 180,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-travenanzes-sogno-canadese/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/val-travenanzes-sogno-canadese/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cortina d’Ampezzo, Val Travenanzes",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.58095843,
+          "longitudine": 12.06904863,
+          "itinerari": [
             {
               "nome": "Topazio (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 190,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-travenanzes-topazio-cascata/"
-            },
+              "discesa": "in doppia parzialmente da attrezzare.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-travenanzes-topazio-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cortina d’Ampezzo, Val Travenanzes",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.57727078,
+          "longitudine": 12.06951141,
+          "itinerari": [
             {
               "nome": "Supermario (Candela di)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 50,
+              "sviluppo": 50.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/supermario-candela-di/"
+              "link": [
+                "https://www.gulliver.it/itinerari/supermario-candela-di/"
+              ]
             }
           ]
         },
@@ -299,25 +412,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-travenanzes-pilone-centrale/"
-            },
-            {
-              "nome": "Primavera (Cascata)",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "4+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 130,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-travenanzes-primavera-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/val-travenanzes-pilone-centrale/"
+              ]
             },
             {
               "nome": "Principe Stravogin (Cascata)",
@@ -325,12 +427,38 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/principe-stravogin/"
+              "discesa": "in doppia su abalakov e chiodi",
+              "link": [
+                "https://www.gulliver.it/itinerari/principe-stravogin/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val Travenanzes",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.57713690623639,
+          "longitudine": 12.066454864626834,
+          "itinerari": [
+            {
+              "nome": "Primavera (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "4+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "su Abalakov.",
+              "link": [
+                "https://www.gulliver.it/itinerari/val-travenanzes-primavera-cascata/"
+              ]
             }
           ]
         }
@@ -355,12 +483,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 30,
+              "sviluppo": 30.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ferrara-di-monte-baldo-val-dei-coali-total-dry-tooling/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ferrara-di-monte-baldo-val-dei-coali-total-dry-tooling/"
+              ]
             }
           ]
         }
@@ -385,12 +515,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/col-toront-adrenalina-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/col-toront-adrenalina-cascata/"
+              ]
             }
           ]
         }
@@ -415,12 +547,14 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 60,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/digonera-cascata-di/"
+              "link": [
+                "https://www.gulliver.it/itinerari/digonera-cascata-di/"
+              ]
             }
           ]
         },
@@ -432,17 +566,19 @@
           "longitudine": 11.93718,
           "itinerari": [
             {
-              "nome": "Luna (Cascata della)",
+              "nome": null,
               "gradoObbligatorio": "II",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 70,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/luna-cascata-della/"
+              "link": [
+                "https://www.gulliver.it/itinerari/luna-cascata-della/"
+              ]
             }
           ]
         },
@@ -454,17 +590,19 @@
           "longitudine": 11.86510562,
           "itinerari": [
             {
-              "nome": "Marmolada (Cascata della)",
+              "nome": null,
               "gradoObbligatorio": "III",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ombretta-valle-marmolada-cascata-della/"
+              "discesa": "con 2 corde doppie attrezzate su massi.",
+              "link": [
+                "https://www.gulliver.it/itinerari/ombretta-valle-marmolada-cascata-della/"
+              ]
             }
           ]
         },
@@ -481,77 +619,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gola-di-sottoguda-cattedrale-cascata/"
-            },
-            {
-              "nome": "La Spada nella Roccia (Cascata)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "5",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 45,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/la-spada-nella-roccia-cascata/"
-            },
-            {
-              "nome": "Trasparenze (Cascata)",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "4+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 50,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sottoguda-delle-trasparenze-cascata/"
-            },
-            {
-              "nome": "Moulinette (Cascata)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "4+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 40,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pietore-rocca-moulinette/"
-            },
-            {
-              "nome": "Attraversate (Cascata delle)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "4",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/attraversate-cascata/"
-            },
-            {
-              "nome": "Excalibur (Cascata)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "4+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 120,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/excalibur-cascata-2/"
+              "link": [
+                "https://www.gulliver.it/itinerari/gola-di-sottoguda-cattedrale-cascata/"
+              ]
             },
             {
               "nome": "Sole (Cascata del)",
@@ -559,25 +634,158 @@
               "gradoMassimo": "3+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sole-cascata-del/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/sole-cascata-del/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Serrai di Sottoguda",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.424918,
+          "longitudine": 11.93718,
+          "itinerari": [
+            {
+              "nome": "La Spada nella Roccia (Cascata)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "5",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 45.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/la-spada-nella-roccia-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Serrai di Sottoguda",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.42491641,
+          "longitudine": 11.93016529,
+          "itinerari": [
+            {
+              "nome": "Trasparenze (Cascata)",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "4+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 50.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "in doppia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sottoguda-delle-trasparenze-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Serrai di Sottoguda",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.4246058,
+          "longitudine": 11.93338394,
+          "itinerari": [
+            {
+              "nome": "Moulinette (Cascata)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "4+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 40.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/pietore-rocca-moulinette/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Serrai di Sottoguda",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.424736,
+          "longitudine": 11.9339465,
+          "itinerari": [
+            {
+              "nome": "Attraversate (Cascata delle)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/attraversate-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Serrai di Sottoguda",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 46.42469455,
+          "longitudine": 11.93138837,
+          "itinerari": [
+            {
+              "nome": "Excalibur (Cascata)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "4+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "con due doppie da 60 giusti",
+              "link": [
+                "https://www.gulliver.it/itinerari/excalibur-cascata-2/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Serrai di Sottoguda",
+          "disciplina": "ice_mixed",
+          "esposizione": "s",
+          "latitudine": 46.42507911,
+          "longitudine": 11.92325592,
+          "itinerari": [
             {
               "nome": "La Spirale della Contingenza",
               "gradoObbligatorio": "II",
               "gradoMassimo": "4+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/la-spirale-della-contingenza/"
+              "link": [
+                "https://www.gulliver.it/itinerari/la-spirale-della-contingenza/"
+              ]
             }
           ]
         }
@@ -602,12 +810,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lacrime-ibernate/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lacrime-ibernate/"
+              ]
             }
           ]
         },
@@ -624,12 +834,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/carpe-diem/"
+              "link": [
+                "https://www.gulliver.it/itinerari/carpe-diem/"
+              ]
             }
           ]
         }
@@ -654,12 +866,14 @@
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/monte-col-cannarella-rosada/"
+              "discesa": "3 doppie la seconda di rinforzare con abalakov (corde da 60m)",
+              "link": [
+                "https://www.gulliver.it/itinerari/monte-col-cannarella-rosada/"
+              ]
             }
           ]
         },
@@ -671,7 +885,7 @@
           "longitudine": 12.54962369,
           "itinerari": [
             {
-              "nome": "Futura (Cascata)",
+              "nome": null,
               "gradoObbligatorio": "II",
               "gradoMassimo": "4+",
               "spittatura": null,
@@ -680,8 +894,10 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/futura-cascata/"
+              "discesa": "la discesa si compie con una doppia corta ed una sucessiva che porta alla base della grande candela, da qui per ripido sentierino posto alla destra della cascata si arriva alla base della stessa.",
+              "link": [
+                "https://www.gulliver.it/itinerari/futura-cascata/"
+              ]
             }
           ]
         }
@@ -706,12 +922,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/castello-delle-nevere/"
+              "link": [
+                "https://www.gulliver.it/itinerari/castello-delle-nevere/"
+              ]
             }
           ]
         },
@@ -728,12 +946,14 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/val-di-gares-ringo-cascata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/val-di-gares-ringo-cascata/"
+              ]
             }
           ]
         }
@@ -758,13 +978,24 @@
               "gradoMassimo": "5+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 100,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gran-dama-cascata/"
-            },
+              "discesa": "da cordone attorno ad un masso fino ad una sosta a chiodi e maglia rapida su cengia, a sinistra scendendo. Da lì 25 metri fino ad una nicchia dove si attrezza un'Abalakov, e con 50 m. si tocca terra.",
+              "link": [
+                "https://www.gulliver.it/itinerari/gran-dama-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val di Zoldo, Muro del Pianto",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "latitudine": 46.34303,
+          "longitudine": 12.159541,
+          "itinerari": [
             {
               "nome": "Choux Fleurs Gratinés (Cascata)",
               "gradoObbligatorio": "II",
@@ -776,20 +1007,185 @@
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/choux-fleurs-gratines-muro-del-pianto/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/choux-fleurs-gratines-muro-del-pianto/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val di Zoldo, Muro del Pianto",
+          "disciplina": "ice_mixed",
+          "esposizione": "sw",
+          "latitudine": 46.31661382,
+          "longitudine": 12.16740131,
+          "itinerari": [
             {
               "nome": "Pinocchio (Cascata)",
               "gradoObbligatorio": "III",
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/muro-del-pianto-pinocchio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/muro-del-pianto-pinocchio/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Civetta",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "latitudine": 46.380148,
+          "longitudine": 12.053309,
+          "itinerari": [
+            {
+              "nome": "Zuita Patavina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1404906"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella degli Angeli (Cadini di Misurina)",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.57394,
+          "longitudine": 12.276521,
+          "itinerari": [
+            {
+              "nome": "Da NW",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2650,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1399399"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella Grande",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "latitudine": 46.580511,
+          "longitudine": 12.189103,
+          "itinerari": [
+            {
+              "nome": "Traversata dal Passo 3 Croci all'albergo Ospitale, per Forcella Grande e Forcella Verde",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2870,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1291719"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cima Cadin di San Lucano",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "latitudine": 46.5773,
+          "longitudine": 12.2851,
+          "itinerari": [
+            {
+              "nome": "Via normale per la Forcella Alta",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2839,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1123657"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Croda dei Toni",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "latitudine": 46.618702,
+          "longitudine": 12.360838,
+          "itinerari": [
+            {
+              "nome": "Parete W, Via delle Rocce (via normale)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3094,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/663060"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella delle Bance",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "latitudine": 46.593815,
+          "longitudine": 12.232755,
+          "itinerari": [
+            {
+              "nome": "Traversata Sud - Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2650,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/618966"
+              ]
             }
           ]
         }

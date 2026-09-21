@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Borgorose",
@@ -17,17 +17,19 @@
           "longitudine": 13.31052469,
           "itinerari": [
             {
-              "nome": "Murolungo Viali di solitudine",
+              "nome": null,
               "gradoObbligatorio": "6a",
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 780,
+              "sviluppo": 780.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/murolungo-viali-di-solitudine/"
+              "link": [
+                "https://www.gulliver.it/itinerari/murolungo-viali-di-solitudine/"
+              ]
             }
           ]
         }
@@ -52,12 +54,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 230,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/caprini-monti-cresta-est-primo-sperone-il-signore-dei-lecci/"
+              "link": [
+                "https://www.gulliver.it/itinerari/caprini-monti-cresta-est-primo-sperone-il-signore-dei-lecci/"
+              ]
             }
           ]
         },
@@ -74,12 +78,14 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 230,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/caprini-monti-iv-sperone-cresta-sud-uomini-dei-boschi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/caprini-monti-iv-sperone-cresta-sud-uomini-dei-boschi/"
+              ]
             }
           ]
         },
@@ -96,12 +102,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 190,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/caprini-monti-v-sperone-sperone-ne-verso-nuove-stagioni/"
+              "link": [
+                "https://www.gulliver.it/itinerari/caprini-monti-v-sperone-sperone-ne-verso-nuove-stagioni/"
+              ]
             }
           ]
         }
@@ -126,38 +134,77 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/montagna-spaccata-croce-del-sud/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/montagna-spaccata-croce-del-sud/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Montagna Spaccata",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 41.20438447,
+          "longitudine": 13.57207417,
+          "itinerari": [
             {
               "nome": "Via dello Spigolo",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": 5,
-              "sviluppo": 125,
+              "sviluppo": 125.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/montagna-spaccata-via-dello-spigolo/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/montagna-spaccata-via-dello-spigolo/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Montagna Spaccata",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 41.2043764,
+          "longitudine": 13.57195615,
+          "itinerari": [
             {
               "nome": "Beatrice",
               "gradoObbligatorio": "5b",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 155,
+              "sviluppo": 155.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/montagna-spaccata-via-beatrice/"
+              "link": [
+                "https://www.gulliver.it/itinerari/montagna-spaccata-via-beatrice/"
+              ]
+            },
+            {
+              "nome": "La Croce del Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 130,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/54777"
+              ]
             }
           ]
         }
@@ -182,12 +229,14 @@
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 155,
+              "sviluppo": 155.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sperlonga-grande-muraglia-utopia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sperlonga-grande-muraglia-utopia/"
+              ]
             }
           ]
         }
@@ -212,12 +261,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/terminillo-monte-sperone-centrale-via-dello-spigolo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/terminillo-monte-sperone-centrale-via-dello-spigolo/"
+              ]
             }
           ]
         }
@@ -242,12 +293,14 @@
               "gradoMassimo": "6c+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/morro-reatino-scoglio-di-santangelo-la-prua/"
+              "link": [
+                "https://www.gulliver.it/itinerari/morro-reatino-scoglio-di-santangelo-la-prua/"
+              ]
             }
           ]
         }
@@ -272,12 +325,14 @@
               "gradoMassimo": "5a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 150,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pizzone-monte-via-funaro-luffarelli/"
+              "discesa": "Sentiero della via normale n° 9. E comunque da ogni trasferimento si può abbandonare la via.",
+              "link": [
+                "https://www.gulliver.it/itinerari/pizzone-monte-via-funaro-luffarelli/"
+              ]
             }
           ]
         }
@@ -297,17 +352,19 @@
           "longitudine": 13.06888275,
           "itinerari": [
             {
-              "nome": "Circeo (Precipizio del) Pilastro zoppo",
+              "nome": null,
               "gradoObbligatorio": "5c",
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": 6,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/precipizio-del-circeo-pilastro-zoppo/"
+              "discesa": "Si prosegue sulla cresta (o nel canale terroso alla sua sinistra) fino a raggiungere un piccolo gendarme, aggirarlo sul lato sinistro e per roccette verso destra reperire, in breve, gli ometti della traccia di discesa lungo la cresta sud. Seguendoli, raggiungere il colletto dove si sono lasciati gli zaini e da qui riprendere il sentiero seguito in salita.",
+              "link": [
+                "https://www.gulliver.it/itinerari/precipizio-del-circeo-pilastro-zoppo/"
+              ]
             }
           ]
         }
@@ -332,25 +389,38 @@
               "gradoMassimo": "5b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sperlonga-la-grande-muraglia-uomini-inutili/"
-            },
+              "discesa": "dal ciglio sommitale traversare per macchia mediterranea e facili gradoni rocciosi verso NE, sino all’imbocco superiore della cengia della “Fascia Superiore”, lungo la quale, per sentiero, si ridiscende, attraverso la sella del Settore “Vermi”, al settore classico (Chiromante), e quindi alla strada. (Attenzione alle tracce che si perdono un po' e ricordarsi che ad un certo punto occorre piegare nettamente a destra e tornare in direzine della parete del Chiromante).",
+              "link": [
+                "https://www.gulliver.it/itinerari/sperlonga-la-grande-muraglia-uomini-inutili/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sperlonga, La Grande Muraglia",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 41.238843,
+          "longitudine": 13.479197,
+          "itinerari": [
             {
               "nome": "Morte a Venezia",
               "gradoObbligatorio": "5c",
               "gradoMassimo": "6a+",
               "spittatura": null,
               "tiri": 4,
-              "sviluppo": 110,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sperlonga-la-grande-muraglia-morte-a-venezia/"
+              "discesa": "In doppia lungo la via con 3 calate (da S2 si arriva a terra) oppure dal pendio sommitale scendere verso la “Fascia superiore” seguendo gli omini e poi seguire il sentiero per ritornare al ristoro.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sperlonga-la-grande-muraglia-morte-a-venezia/"
+              ]
             }
           ]
         },
@@ -367,12 +437,14 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": 3,
-              "sviluppo": 75,
+              "sviluppo": 75.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sperlonga-parete-del-chiromante-spigolo-ferrante/"
+              "discesa": "Una doppia da 60.",
+              "link": [
+                "https://www.gulliver.it/itinerari/sperlonga-parete-del-chiromante-spigolo-ferrante/"
+              ]
             }
           ]
         }
@@ -397,12 +469,46 @@
               "gradoMassimo": "6a",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/leano-monte-diedro-giallo-diedro-grigio-povero-elia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/leano-monte-diedro-giallo-diedro-grigio-povero-elia/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Grotte dell' Arenauta",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "latitudine": 41.221154,
+          "longitudine": 13.529062,
+          "itinerari": [
+            {
+              "nome": "L'Arenauta",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "9b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1407809"
+              ]
             }
           ]
         }

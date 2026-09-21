@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Borzonasca",
@@ -22,25 +22,38 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 30,
+              "sviluppo": 30.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/aiona-monte-scacco-al-re/"
-            },
+              "link": [
+                "https://www.gulliver.it/itinerari/aiona-monte-scacco-al-re/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Aiona (Monte)",
+          "disciplina": "ice_mixed",
+          "esposizione": "sw",
+          "latitudine": 44.450925299999994,
+          "longitudine": 9.425495622753912,
+          "itinerari": [
             {
               "nome": "La Phantome Ha Visto il Mare dai Sette Faggi (Cascata)",
               "gradoObbligatorio": "II",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 35,
+              "sviluppo": 35.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/aiona-monte-la-phantome-ha-visto-il-mare-dai-sette-faggi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/aiona-monte-la-phantome-ha-visto-il-mare-dai-sette-faggi/"
+              ]
             }
           ]
         }
@@ -65,25 +78,38 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 280,
+              "sviluppo": 280.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rio-del-collo-cascata/"
-            },
+              "discesa": "Si può scendere in corda doppia sfruttando gli alberi e le soste lasciate dai torrentisti oppure continuare per una cinquantina di metri nel torrente fino ad un muretto a secco e poi salire decisamente verso sinistra raggiungendo un gruppo di case già visibili dal basso. Dalla frazione di Collo sarà sufficiente seguire la sterrata per tornare alla macchina. (30 minuti dalle case) Note: il Rio del Collo è stato sceso per la prima volta dai torrentisti genovesi nel 2010. Durante questa discesa sono state piazzate alcune soste. Commento: Un bellissima giornata su una cascata a due passi dal mare. Resta da scoprire se questa è stata la prima salita ... lo spero :)",
+              "link": [
+                "https://www.gulliver.it/itinerari/rio-del-collo-cascata/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Favale di Malvaro",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "latitudine": 44.45050914,
+          "longitudine": 9.27031517,
+          "itinerari": [
             {
               "nome": "Rio Collo (Cascata del), colata centrale e dx",
               "gradoObbligatorio": "I",
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 140,
+              "sviluppo": 140.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/collo-rio-cascata-centrale-e-di-destra/"
+              "discesa": "a doppie su alberi o nei boschi a destra (faccia a monte)con cautela Note: cascate divertenti, molto ghiaccio sicuro e ben chiodabile, bello anche il muro della sinistra (raggiungibile con traverso e discesa, dopo il secondo tiro della centrale) fatto al sole! (dopo le 13.30) Con Pietro, il Doc. Da notare i due spettacolari salti paralleli a monte di un ponticello sul sentiero di accesso dopo 10 minuti dal parcheggio",
+              "link": [
+                "https://www.gulliver.it/itinerari/collo-rio-cascata-centrale-e-di-destra/"
+              ]
             }
           ]
         }
@@ -108,12 +134,14 @@
               "gradoMassimo": "3",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/arroscia-cascata-dell/"
+              "link": [
+                "https://www.gulliver.it/itinerari/arroscia-cascata-dell/"
+              ]
             }
           ]
         }
@@ -138,12 +166,14 @@
               "gradoMassimo": "1",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 60,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/penna-monte-antro-di-merlino/"
+              "link": [
+                "https://www.gulliver.it/itinerari/penna-monte-antro-di-merlino/"
+              ]
             }
           ]
         },
@@ -160,12 +190,14 @@
               "gradoMassimo": "5",
               "spittatura": null,
               "tiri": 2,
-              "sviluppo": 55,
+              "sviluppo": 55.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/prete-rocca-del-acquapendente/"
+              "discesa": "in doppia da attrezzare o più comodamente, proseguendo lungo il canale fino a reperire il sentiero di cresta (bolli gialli). Lo si segue per poco verso destra, fino a reperire il facile canale che conduce direttamente all'attacco.",
+              "link": [
+                "https://www.gulliver.it/itinerari/prete-rocca-del-acquapendente/"
+              ]
             }
           ]
         },
@@ -182,12 +214,14 @@
               "gradoMassimo": "2+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 80,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/donne-cascata-delle/"
+              "discesa": "nel bosco (sinistra orografica) fino alla base",
+              "link": [
+                "https://www.gulliver.it/itinerari/donne-cascata-delle/"
+              ]
             }
           ]
         }
@@ -212,12 +246,14 @@
               "gradoMassimo": "1",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 120,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/ice-boulder-proposto/"
+              "discesa": "per bosco sulla sinistra orografica della colata sino alla base",
+              "link": [
+                "https://www.gulliver.it/itinerari/ice-boulder-proposto/"
+              ]
             }
           ]
         },
@@ -229,17 +265,19 @@
           "longitudine": 9.095735549,
           "itinerari": [
             {
-              "nome": "Chioso (Candela di)",
+              "nome": null,
               "gradoObbligatorio": "I",
               "gradoMassimo": "4",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 50,
+              "sviluppo": 50.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/chioso-candela-di/"
+              "discesa": "L2 in doppia,lasciato cordino e maillon. L1 a piedi sulla destra",
+              "link": [
+                "https://www.gulliver.it/itinerari/chioso-candela-di/"
+              ]
             }
           ]
         }

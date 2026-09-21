@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Castelnovo ne' Monti",
@@ -22,12 +22,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1050,
+              "sviluppo": 1050.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2054,
+              "quotaMassima": 2054.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/prado-monte-da-metello/"
+              "link": [
+                "https://www.gulliver.it/itinerari/prado-monte-da-metello/"
+              ]
             }
           ]
         }
@@ -52,12 +54,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 969,
+              "sviluppo": 969.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1979,
+              "quotaMassima": 1979.0,
               "discesa": "Su dorsale",
-              "link": "https://www.gulliver.it/itinerari/casarola-monte-da-pratizzano-per-lo-scalucchia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/casarola-monte-da-pratizzano-per-lo-scalucchia/"
+              ]
             }
           ]
         }
@@ -69,6 +73,30 @@
       "latitudine": null,
       "longitudine": null,
       "pareti": [
+        {
+          "nome": "Braiola (Monte) da Lagdei",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.411588,
+          "longitudine": 10.009676,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/braiola-monte-da-lagdei/"
+              ]
+            }
+          ]
+        },
         {
           "nome": "Brusà (Monte) dal Cancelli di Lagdei",
           "disciplina": "skialp",
@@ -82,12 +110,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1760,
+              "quotaMassima": 1760.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/brusa-monte-dal-lago-del-pradaccio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/brusa-monte-dal-lago-del-pradaccio/"
+              ]
             }
           ]
         },
@@ -104,12 +134,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1850,
+              "quotaMassima": 1850.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/marmagna-monte-da-lagdei/"
+              "link": [
+                "https://www.gulliver.it/itinerari/marmagna-monte-da-lagdei/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Matto (Monte) da Cancelli di Lagdei per la Badignana",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.4151369,
+          "longitudine": 10.019286500000012,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1838.0,
+              "discesa": "Attraversa pendii ripidi",
+              "link": [
+                "https://www.gulliver.it/itinerari/matto-monte-per-la-badignana/"
+              ]
             }
           ]
         },
@@ -126,12 +182,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1838,
+              "quotaMassima": 1838.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/matto-monte-dai-lagoni-via-badignana/"
+              "link": [
+                "https://www.gulliver.it/itinerari/matto-monte-dai-lagoni-via-badignana/"
+              ]
             }
           ]
         },
@@ -148,12 +206,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 577,
+              "sviluppo": 577.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1830,
+              "quotaMassima": 1830.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/orsaro-monte-da-lagdei/"
+              "link": [
+                "https://www.gulliver.it/itinerari/orsaro-monte-da-lagdei/"
+              ]
             }
           ]
         },
@@ -170,12 +230,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1050,
+              "sviluppo": 1050.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1700,
+              "quotaMassima": 1700.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/roccabiasca-traversata-da-corniglio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/roccabiasca-traversata-da-corniglio/"
+              ]
             }
           ]
         }
@@ -200,12 +262,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1827,
+              "quotaMassima": 1827.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/spigolino-monte-per-la-valle-della-scaffa/"
+              "link": [
+                "https://www.gulliver.it/itinerari/spigolino-monte-per-la-valle-della-scaffa/"
+              ]
             }
           ]
         },
@@ -225,9 +289,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1798,
+              "quotaMassima": 1798.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/tauffi-cima-da-fellicarolo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/tauffi-cima-da-fellicarolo/"
+              ]
             }
           ]
         }
@@ -252,12 +318,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 283,
+              "sviluppo": 283.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1777,
+              "quotaMassima": 1777.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/bue-monte-dapasso-zovallo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bue-monte-dapasso-zovallo/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Maggiorasca, Bue, Nero (Monti) da Selva, anello",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.644852,
+          "longitudine": 9.497667,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1804.0,
+              "discesa": "Bosco fitto",
+              "link": [
+                "https://www.gulliver.it/itinerari/bue-monte-maggiorasca-monte-nero-monte-da-selva/"
+              ]
             }
           ]
         },
@@ -274,12 +366,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 760,
+              "sviluppo": 760.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1775,
+              "quotaMassima": 1775.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/ragola-monte-da-pertuso/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ragola-monte-da-pertuso/"
+              ]
             }
           ]
         }
@@ -304,12 +398,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 718,
+              "sviluppo": 718.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2118,
+              "quotaMassima": 2118.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/cimoncino-per-la-piazza-delle-stelle/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cimoncino-per-la-piazza-delle-stelle/"
+              ]
             }
           ]
         },
@@ -326,12 +422,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2165,
+              "quotaMassima": 2165.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cimone-monte-da-doccia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cimone-monte-da-doccia/"
+              ]
             }
           ]
         },
@@ -348,12 +446,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1962,
+              "quotaMassima": 1962.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/lagoni-monte-da-doccia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lagoni-monte-da-doccia/"
+              ]
             }
           ]
         },
@@ -370,12 +470,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1937,
+              "quotaMassima": 1937.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/libro-aperto-per-il-rio-borgognoni/"
+              "link": [
+                "https://www.gulliver.it/itinerari/libro-aperto-per-il-rio-borgognoni/"
+              ]
             }
           ]
         }
@@ -400,12 +502,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 530,
+              "sviluppo": 530.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1945,
+              "quotaMassima": 1945.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-alle-scale-dalla-baita-del-sole-giro-ad-anello-passando-sul-crinale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-alle-scale-dalla-baita-del-sole-giro-ad-anello-passando-sul-crinale/"
+              ]
             }
           ]
         }
@@ -430,12 +534,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 580,
+              "sviluppo": 580.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1580,
+              "quotaMassima": 1580.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/crociglia-monte-da-torrio-casetta/"
+              "link": [
+                "https://www.gulliver.it/itinerari/crociglia-monte-da-torrio-casetta/"
+              ]
             }
           ]
         }
@@ -460,12 +566,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1719,
+              "quotaMassima": 1719.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/bocco-monte-da-prato-spilla/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bocco-monte-da-prato-spilla/"
+              ]
             }
           ]
         },
@@ -482,12 +590,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1813,
+              "quotaMassima": 1813.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/bragalata-monte-dalla-diga-lago-ballano/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bragalata-monte-dalla-diga-lago-ballano/"
+              ]
             }
           ]
         },
@@ -504,12 +614,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 850,
+              "sviluppo": 850.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1800,
+              "quotaMassima": 1800.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/losanna-monte-da-prato-spilla/"
+              "link": [
+                "https://www.gulliver.it/itinerari/losanna-monte-da-prato-spilla/"
+              ]
             }
           ]
         },
@@ -526,12 +638,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 750,
+              "sviluppo": 750.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1800,
+              "quotaMassima": 1800.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/roccapianaccia-da-valditacca/"
+              "link": [
+                "https://www.gulliver.it/itinerari/roccapianaccia-da-valditacca/"
+              ]
             }
           ]
         },
@@ -548,12 +662,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1861,
+              "quotaMassima": 1861.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/sillara-monte-da-valditacca-per-il-versante-n/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sillara-monte-da-valditacca-per-il-versante-n/"
+              ]
             }
           ]
         },
@@ -570,12 +686,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1861,
+              "quotaMassima": 1861.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/sillara-monte-dal-lago-ballano/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sillara-monte-dal-lago-ballano/"
+              ]
             }
           ]
         },
@@ -592,12 +710,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1861,
+              "quotaMassima": 1861.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/sillara-monte-per-il-versante-ne/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sillara-monte-per-il-versante-ne/"
+              ]
             }
           ]
         }
@@ -622,12 +742,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 643,
+              "sviluppo": 643.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1651,
+              "quotaMassima": 1651.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/alfeo-monte-da-bertone-per-pendio-so/"
+              "link": [
+                "https://www.gulliver.it/itinerari/alfeo-monte-da-bertone-per-pendio-so/"
+              ]
             }
           ]
         }
@@ -652,12 +774,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 850,
+              "sviluppo": 850.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
+              "quotaMassima": 1991.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-da-tagliole-per-la-valle-degli-aseri/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-da-tagliole-per-la-valle-degli-aseri/"
+              ]
             }
           ]
         },
@@ -674,12 +798,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 531,
+              "sviluppo": 531.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
+              "quotaMassima": 1991.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-dal-lago-santo-modenese-per-il-passo-boccaia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-dal-lago-santo-modenese-per-il-passo-boccaia/"
+              ]
             }
           ]
         },
@@ -696,12 +822,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 531,
+              "sviluppo": 531.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
+              "quotaMassima": 1991.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-per-la-borra-dal-lago-santo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-per-la-borra-dal-lago-santo/"
+              ]
             }
           ]
         },
@@ -718,12 +846,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
+              "quotaMassima": 1991.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-e-monte-rondinaio-canali-del-triangolo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-e-monte-rondinaio-canali-del-triangolo/"
+              ]
             }
           ]
         },
@@ -743,9 +873,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
+              "quotaMassima": 1991.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-e-monte-rondinaio-dal-lago-santo-modenese/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-e-monte-rondinaio-dal-lago-santo-modenese/"
+              ]
             }
           ]
         },
@@ -762,12 +894,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 675,
+              "sviluppo": 675.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1775,
+              "quotaMassima": 1775.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/nuda-monte-la-da-vacchereccie/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nuda-monte-la-da-vacchereccie/"
+              ]
             }
           ]
         },
@@ -784,12 +918,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 504,
+              "sviluppo": 504.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1964,
+              "quotaMassima": 1964.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rondinaio-monte-dal-lago-baccio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rondinaio-monte-dal-lago-baccio/"
+              ]
             }
           ]
         },
@@ -806,12 +942,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 850,
+              "sviluppo": 850.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1964,
+              "quotaMassima": 1964.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/rondinaio-lombardo-monte-e-monte-rondinaio-dal-lago-santo-modenese-per-il-lago-baccio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rondinaio-lombardo-monte-e-monte-rondinaio-dal-lago-santo-modenese-per-il-lago-baccio/"
+              ]
             }
           ]
         }
@@ -836,12 +974,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1313,
+              "quotaMassima": 1313.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/montagnana-da-ravarano/"
+              "link": [
+                "https://www.gulliver.it/itinerari/montagnana-da-ravarano/"
+              ]
             }
           ]
         }
@@ -866,12 +1006,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1657,
+              "quotaMassima": 1657.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/falco-monte-da-campigna/"
+              "link": [
+                "https://www.gulliver.it/itinerari/falco-monte-da-campigna/"
+              ]
             }
           ]
         }
@@ -896,12 +1038,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2165,
+              "quotaMassima": 2165.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cimone-monte-dal-passo-del-lupo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cimone-monte-dal-passo-del-lupo/"
+              ]
             }
           ]
         }
@@ -926,12 +1070,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 761,
+              "sviluppo": 761.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1761,
+              "quotaMassima": 1761.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/battisti-rifugio-da-diga-presa-alta-valle-ozola/"
+              "link": [
+                "https://www.gulliver.it/itinerari/battisti-rifugio-da-diga-presa-alta-valle-ozola/"
+              ]
             }
           ]
         },
@@ -948,12 +1094,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 980,
+              "sviluppo": 980.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1978,
+              "quotaMassima": 1978.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/casarola-monte-da-pratizzano/"
+              "link": [
+                "https://www.gulliver.it/itinerari/casarola-monte-da-pratizzano/"
+              ]
             }
           ]
         },
@@ -970,12 +1118,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1979,
+              "quotaMassima": 1979.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/casarola-monte-da-succiso-nuovo-per-la-cresta-nord/"
+              "link": [
+                "https://www.gulliver.it/itinerari/casarola-monte-da-succiso-nuovo-per-la-cresta-nord/"
+              ]
             }
           ]
         },
@@ -992,12 +1142,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 998,
+              "sviluppo": 998.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1978,
+              "quotaMassima": 1978.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/casarola-monte-da-succiso-nuovo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/casarola-monte-da-succiso-nuovo/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Castellino (Monte) da Ligonchio, valle dell’ozola",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.3160267,
+          "longitudine": 10.3428256,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 715.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1945.0,
+              "discesa": "Bosco rado",
+              "link": [
+                "https://www.gulliver.it/itinerari/castellino-monte-da-ligonchio-valle-dellozola/"
+              ]
             }
           ]
         },
@@ -1014,12 +1190,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 515,
+              "sviluppo": 515.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1855,
+              "quotaMassima": 1855.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/cavalbianco-monte-dallanfiteatro-n/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cavalbianco-monte-dallanfiteatro-n/"
+              ]
             }
           ]
         },
@@ -1036,12 +1214,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 950,
+              "sviluppo": 950.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2121,
+              "quotaMassima": 2121.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/cusna-monte-versante-so/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cusna-monte-versante-so/"
+              ]
             }
           ]
         },
@@ -1058,12 +1238,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1200,
+              "sviluppo": 1200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2121,
+              "quotaMassima": 2121.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/cusna-monte-da-casalino-per-i-prati-di-sara/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cusna-monte-da-casalino-per-i-prati-di-sara/"
+              ]
             }
           ]
         },
@@ -1080,12 +1262,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 920,
+              "sviluppo": 920.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2120,
+              "quotaMassima": 2120.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/cusna-monte-da-ligonchio-per-il-versante-sud/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cusna-monte-da-ligonchio-per-il-versante-sud/"
+              ]
             }
           ]
         },
@@ -1102,12 +1286,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2121,
+              "quotaMassima": 2121.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/cusna-monte-dal-versante-sud/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cusna-monte-dal-versante-sud/"
+              ]
             }
           ]
         },
@@ -1124,12 +1310,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 550,
+              "sviluppo": 550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1850,
+              "quotaMassima": 1850.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/nuda-monte-la-da-cerreto-laghi-per-gli-ex-impianti/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nuda-monte-la-da-cerreto-laghi-per-gli-ex-impianti/"
+              ]
             }
           ]
         },
@@ -1146,12 +1334,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1895,
+              "quotaMassima": 1895.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/nuda-monte-la-da-cerreto-laghi-per-il-vallone-dellinferno/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nuda-monte-la-da-cerreto-laghi-per-il-vallone-dellinferno/"
+              ]
             }
           ]
         },
@@ -1168,12 +1358,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1874,
+              "quotaMassima": 1874.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/sillano-monte-dalla-valle-di-rio-re/"
+              "link": [
+                "https://www.gulliver.it/itinerari/sillano-monte-dalla-valle-di-rio-re/"
+              ]
             }
           ]
         },
@@ -1190,12 +1382,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1037,
+              "sviluppo": 1037.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2017,
+              "quotaMassima": 2017.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/succiso-alpe-di-da-succiso-nuovo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/succiso-alpe-di-da-succiso-nuovo/"
+              ]
             }
           ]
         },
@@ -1212,12 +1406,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 406,
+              "sviluppo": 406.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1726,
+              "quotaMassima": 1726.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/ventasso-monte-da-ventasso-laghi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/ventasso-monte-da-ventasso-laghi/"
+              ]
             }
           ]
         }
@@ -1242,12 +1438,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1750,
+              "quotaMassima": 1750.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/bagioletto-da-febbio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/bagioletto-da-febbio/"
+              ]
             }
           ]
         },
@@ -1264,12 +1462,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 690,
+              "sviluppo": 690.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1890,
+              "quotaMassima": 1890.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/lama-literifugio-battisti-per-il-passone/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lama-literifugio-battisti-per-il-passone/"
+              ]
             }
           ]
         },
@@ -1286,12 +1486,30 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 968,
+              "sviluppo": 968.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2120,
+              "quotaMassima": 2120.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/cusna-monte-da-febbio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cusna-monte-da-febbio/",
+                "https://www.camptocamp.org/routes/159440"
+              ]
+            },
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 925,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2077,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/406054"
+              ]
             }
           ]
         },
@@ -1308,12 +1526,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 976,
+              "sviluppo": 976.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2121,
+              "quotaMassima": 2121.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cusna-monte-da-monteorsaro/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cusna-monte-da-monteorsaro/"
+              ]
             }
           ]
         },
@@ -1330,12 +1550,38 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2120,
+              "quotaMassima": 2120.0,
               "discesa": "Attraversa pendii ripidi",
-              "link": "https://www.gulliver.it/itinerari/piella-la-e-cusna-traversata-dafebbio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/piella-la-e-cusna-traversata-dafebbio/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Fosso secco da Febbio",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.3648702,
+          "longitudine": 10.4666809,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2050.0,
+              "discesa": "Pendii ampi",
+              "link": [
+                "https://www.gulliver.it/itinerari/fosso-secco-da-febbio/"
+              ]
             }
           ]
         },
@@ -1352,12 +1598,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 970,
+              "sviluppo": 970.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2070,
+              "quotaMassima": 2070.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/morto-sasso-del-da-febbio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/morto-sasso-del-da-febbio/"
+              ]
             }
           ]
         },
@@ -1374,12 +1622,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 925,
+              "sviluppo": 925.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2070,
+              "quotaMassima": 2070.0,
               "discesa": "Altro",
-              "link": "https://www.gulliver.it/itinerari/piella-monteda-impianti-febbio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/piella-monteda-impianti-febbio/"
+              ]
             }
           ]
         },
@@ -1396,12 +1646,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 785,
+              "sviluppo": 785.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2071,
+              "quotaMassima": 2071.0,
               "discesa": "Incassato in stretto fondovalle",
-              "link": "https://www.gulliver.it/itinerari/piella-monte-la-da-pian-vallese-per-i-canali-dellangelo-o-del-ghiacciaio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/piella-monte-la-da-pian-vallese-per-i-canali-dellangelo-o-del-ghiacciaio/"
+              ]
             }
           ]
         },
@@ -1418,12 +1670,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 774,
+              "sviluppo": 774.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2054,
+              "quotaMassima": 2054.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/prado-monte-da-febbio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/prado-monte-da-febbio/"
+              ]
             }
           ]
         },
@@ -1443,9 +1697,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2050,
+              "quotaMassima": 2050.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/prado-monte-e-piellamonte-traversata-da-febbio/"
+              "link": [
+                "https://www.gulliver.it/itinerari/prado-monte-e-piellamonte-traversata-da-febbio/"
+              ]
             }
           ]
         },
@@ -1462,12 +1718,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 952,
+              "sviluppo": 952.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1982,
+              "quotaMassima": 1982.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vecchio-monte-da-civago/"
+              "link": [
+                "https://www.gulliver.it/itinerari/vecchio-monte-da-civago/"
+              ]
             }
           ]
         }
@@ -1492,12 +1750,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 951,
+              "sviluppo": 951.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1724,
+              "quotaMassima": 1724.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/monte-lesima/"
+              "link": [
+                "https://www.gulliver.it/itinerari/monte-lesima/"
+              ]
             }
           ]
         },
@@ -1514,12 +1774,595 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1724,
+              "quotaMassima": 1724.0,
               "discesa": "Su dorsale",
-              "link": "https://www.gulliver.it/itinerari/lesima-monte-dal-passo-del-giova/"
+              "link": [
+                "https://www.gulliver.it/itinerari/lesima-monte-dal-passo-del-giova/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Monte Cimone",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.193889,
+          "longitudine": 10.701389,
+          "itinerari": [
+            {
+              "nome": "Anello da Doccia di Fiumalbo con salita al Monte Lagoni",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1270,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2165,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1508525"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Libro Aperto",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.158132,
+          "longitudine": 10.711448,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 865,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1937,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1504058"
+              ]
+            },
+            {
+              "nome": "Traversata Doganaccia - Libro Aperto - Abetone",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1937,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/269311"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lago Santo parmese",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.402666,
+          "longitudine": 10.007,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1780,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1499156"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valditacca",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.387728,
+          "longitudine": 10.099633,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1800,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1497576"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Montaganana",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.565777,
+          "longitudine": 10.082964,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1313,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1278762"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Bocco",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.351962,
+          "longitudine": 10.101015,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1791,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1265820"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Sillano",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.272446,
+          "longitudine": 10.335277,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1876,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/956229"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Cusna",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.296933,
+          "longitudine": 10.412191,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1166,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2121,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/955946"
+              ]
+            },
+            {
+              "nome": "dallo Spallone NE di Prassordo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2121,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/47725"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Mongiardonda",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.287173,
+          "longitudine": 10.401594,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1650,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/947015"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Cavalbianco",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.297624,
+          "longitudine": 10.296714,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 554,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1855,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/406023"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rocca Pianaccia",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.381151,
+          "longitudine": 10.08221,
+          "itinerari": [
+            {
+              "nome": "da Valditacca",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1802,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/331102"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Roccabiasca",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.393917,
+          "longitudine": 10.026194,
+          "itinerari": [
+            {
+              "nome": "Lago santo Parmense traversata",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1750,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/261096"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Orsaro",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.404555,
+          "longitudine": 10.002785,
+          "itinerari": [
+            {
+              "nome": "da Lagdei",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 577,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1830,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/249012"
+              ]
+            },
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 613,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1863,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/114504"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Alpe di Succiso",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.332694,
+          "longitudine": 10.195472,
+          "itinerari": [
+            {
+              "nome": "da Succiso Nuovo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1017,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2017,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/206998"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Casarola",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.331417,
+          "longitudine": 10.2075,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 969,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1979,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/202705"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Cimone",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.191045,
+          "longitudine": 10.68535,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 865,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2165,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/155571"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Cusna",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.302464,
+          "longitudine": 10.406591,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2121,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/116643"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Bragalata",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.357058,
+          "longitudine": 10.080661,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1813,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/115206"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Giovo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.1328,
+          "longitudine": 10.5769,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 550,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1991,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/52050"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Corno Alle Scale",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.125729,
+          "longitudine": 10.822935,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1945,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/52002"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Cusna",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.285237,
+          "longitudine": 10.412403,
+          "itinerari": [
+            {
+              "nome": "Dal Rif.Battisti per il M.La Piella e canale della Borra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2121,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/51385"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Prado",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 44.277537,
+          "longitudine": 10.419959,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2054,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/51383"
+              ]
             }
           ]
         }

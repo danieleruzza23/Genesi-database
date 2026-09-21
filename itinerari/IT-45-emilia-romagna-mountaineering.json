@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Abetone Cutigliano",
@@ -22,12 +22,46 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1936,
+              "quotaMassima": 1936.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/libro-aperto-via-mariotti/"
+              "link": [
+                "https://www.gulliver.it/itinerari/libro-aperto-via-mariotti/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Auronzo di Cadore",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Croda da Campo dal Passo Sant’Antonio",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 46.5572404,
+          "longitudine": 12.4837921,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2712.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/croda-da-campo-dal-passo-santantonio/"
+              ]
             }
           ]
         }
@@ -52,12 +86,14 @@
               "gradoMassimo": "PD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 690,
+              "sviluppo": 690.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1852,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/marmagna-monte-canalino-nord-ovest/"
+              "quotaMassima": 1852.0,
+              "discesa": "dalla vetta si raggiunge la Sella del Marmagna seguendo il crinale (sentiero 00), da qui si prosegue verso Lagdei passando per il Rifugio Mariotti e il Lago Santo (sentiero 737). 1 h dalla cima.",
+              "link": [
+                "https://www.gulliver.it/itinerari/marmagna-monte-canalino-nord-ovest/"
+              ]
             }
           ]
         },
@@ -74,12 +110,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1692,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/pumaccioletto-rocca-spigolo-sud/"
+              "quotaMassima": 1692.0,
+              "discesa": "Due doppie, la prima in un canalino a sinistra della via (guardando la parete), la secondo a destra della via (guardando la parete) Prestare attenzione a non muovere qualche sasso instabile. Quindi per medesimo sentiero di avvicinamento fino ai Lagoni (1h). Altra possibilità, dalla cima scendere verso Nord per tracce e ometti, quindi prendere a sinistra il sentiero verso i Lagoni (0.30 h).",
+              "link": [
+                "https://www.gulliver.it/itinerari/pumaccioletto-rocca-spigolo-sud/"
+              ]
             }
           ]
         },
@@ -96,12 +134,29 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1731.0,
+              "discesa": "Dalla cima si scende fino a un bivio dove si tiene la destra verso le Capanne di Badignana (segnavia 721). Il sentiero,non troppo evidente ma segnato, traversa lungo il versante E del Roccabiasca, quindi scende ripido per poi risalire leggermente ed entrare nel bosco. In circa un’oretta dalla vetta si raggiungono le Capanne con la loro bella radura. Seguendo la carrareccia in discesa (segnavia 719) si torna alla partenza.",
+              "link": [
+                "https://www.gulliver.it/itinerari/roccabiasca-monte-cresta-sud/"
+              ]
+            },
+            {
+              "nome": "Cresta Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
               "sviluppo": 600,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1731,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/roccabiasca-monte-cresta-sud/"
+              "link": [
+                "https://www.camptocamp.org/routes/1563965"
+              ]
             }
           ]
         },
@@ -118,12 +173,61 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 550,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1609.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/sterpara-monte-cresta-dello-sterpara/"
+              ]
+            },
+            {
+              "nome": "Cresta degli Sterpari",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 450,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1609,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/sterpara-monte-cresta-dello-sterpara/"
+              "link": [
+                "https://www.camptocamp.org/routes/1453991"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Fiumalbo",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Cimone (Monte) scivolo nord",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 44.1909667,
+          "longitudine": 10.6727564,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2165.0,
+              "discesa": ", dal versante OSO a riprendere le vecchie piste che riportano a Doccia.",
+              "link": [
+                "https://www.gulliver.it/itinerari/cimone-monte-scivolo-nord/"
+              ]
             }
           ]
         }
@@ -148,12 +252,14 @@
               "gradoMassimo": "AD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 300,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1939,
+              "quotaMassima": 1939.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/balzi-dellora-terzo-canale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/balzi-dellora-terzo-canale/"
+              ]
             }
           ]
         }
@@ -178,12 +284,14 @@
               "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1945,
+              "quotaMassima": 1945.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-alle-scale-canale-dei-bolognesi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-alle-scale-canale-dei-bolognesi/"
+              ]
             }
           ]
         },
@@ -200,12 +308,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1030,
+              "sviluppo": 1030.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1944,
+              "quotaMassima": 1944.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scale-corno-alle-scale-canale-di-destra-sulla-parete-est/"
+              "link": [
+                "https://www.gulliver.it/itinerari/scale-corno-alle-scale-canale-di-destra-sulla-parete-est/"
+              ]
             }
           ]
         },
@@ -222,12 +332,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1030,
+              "sviluppo": 1030.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1944,
+              "quotaMassima": 1944.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/scale-corno-alle-parete-est-canale-di-sinistra/"
+              "link": [
+                "https://www.gulliver.it/itinerari/scale-corno-alle-parete-est-canale-di-sinistra/"
+              ]
             }
           ]
         },
@@ -244,12 +356,14 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1945,
+              "quotaMassima": 1945.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/mezzo-poggio-di-via-normale-della-parete-est/"
+              "link": [
+                "https://www.gulliver.it/itinerari/mezzo-poggio-di-via-normale-della-parete-est/"
+              ]
             }
           ]
         },
@@ -266,12 +380,14 @@
               "gradoMassimo": "PD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1900,
+              "quotaMassima": 1900.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/corno-alle-scale-i-e-ii-canale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/corno-alle-scale-i-e-ii-canale/"
+              ]
             }
           ]
         }
@@ -296,12 +412,46 @@
               "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 465,
+              "sviluppo": 465.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1964,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rondinaio-monteparete-ne-viva-rotari/"
+              "quotaMassima": 1964.0,
+              "discesa": "dalla normale",
+              "link": [
+                "https://www.gulliver.it/itinerari/rondinaio-monteparete-ne-viva-rotari/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Palanzano",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Alto (Monte) Traversata Cresta di Camporaghena",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 44.3621906,
+          "longitudine": 10.1951907,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1904.0,
+              "discesa": "per il 673 che in poco porta ai Ghiaccioni e oltre all'auto.",
+              "link": [
+                "https://www.gulliver.it/itinerari/alto-monte-traversata-cresta-di-camporaghena/"
+              ]
             }
           ]
         }
@@ -326,12 +476,38 @@
               "gradoMassimo": "AD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 500,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
+              "quotaMassima": 1991.0,
+              "discesa": "via più semplice ma lunga è fare la Normale per tornare poi al rifugio.",
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-canale-della-roccia-rossa/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Giovo (Monte) traversata dal Monte Rondinaio",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 44.137306384436684,
+          "longitudine": 10.588178428588883,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1991.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-canale-della-roccia-rossa/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-traversata-dal-monte-rondinaio/"
+              ]
             }
           ]
         }
@@ -356,12 +532,14 @@
               "gradoMassimo": "D+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 550,
+              "sviluppo": 550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
+              "quotaMassima": 1991.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-canale-centrale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-canale-centrale/"
+              ]
             }
           ]
         },
@@ -378,12 +556,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 550,
+              "sviluppo": 550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-canale-destro/"
+              "quotaMassima": 1991.0,
+              "discesa": "percorrere la cresta in direzione Sud verso la vetta del Monte Giovo, con la sua grande croce, scendere ancora il sentiero di cresta e dopo poco, in prossimità del Barzo delle Rose, seguire i paletti se visibili, del sentiero 525 e imboccare il sentiero a sinistra che scende rapidamente al Lago Santo, dietro al Rif.Vittoria. quindi al parcheggio (1.30 h dalla cima).",
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-canale-destro/"
+              ]
             }
           ]
         },
@@ -400,12 +580,14 @@
               "gradoMassimo": "D+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 550,
+              "sviluppo": 550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
+              "quotaMassima": 1991.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-canale-sinistro/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-canale-sinistro/"
+              ]
             }
           ]
         },
@@ -422,12 +604,14 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 550,
+              "sviluppo": 550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-diretta-alla-croce/"
+              "quotaMassima": 1991.0,
+              "discesa": "per la via normale o per la cresta Nord.",
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-diretta-alla-croce/"
+              ]
             }
           ]
         },
@@ -447,9 +631,11 @@
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1991,
+              "quotaMassima": 1991.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/giovo-monte-vertigine/"
+              "link": [
+                "https://www.gulliver.it/itinerari/giovo-monte-vertigine/"
+              ]
             }
           ]
         },
@@ -466,12 +652,38 @@
               "gradoMassimo": "PD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 610,
+              "sviluppo": 610.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1964,
+              "quotaMassima": 1964.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rondinaio-monte-canale-a-destra-del-couloir-del-lago-turchino/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rondinaio-monte-canale-a-destra-del-couloir-del-lago-turchino/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rondinaio (Monte) dal Lago Santo Modenese per il Rondinaio Lombardo e la cresta NE",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 44.136521,
+          "longitudine": 10.585861,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1964.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/rondinaio-monte-dal-lago-santo-modenese-per-il-rondinaio-lombardo-e-la-cresta-ne/"
+              ]
             }
           ]
         },
@@ -488,12 +700,14 @@
               "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 400,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1825,
+              "quotaMassima": 1825.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rondinaio-lombardo-monte-via-pesi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/rondinaio-lombardo-monte-via-pesi/"
+              ]
             }
           ]
         },
@@ -510,12 +724,14 @@
               "gradoMassimo": "TD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 350,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1825,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rondinaio-lombardo-vola-vola-lape-maia/"
+              "quotaMassima": 1825.0,
+              "discesa": "elementare per i pendii a ovest o per la cresta nord, tornando poi alle tracce che riportano al Lago Baccio e al rif. Vittoria.",
+              "link": [
+                "https://www.gulliver.it/itinerari/rondinaio-lombardo-vola-vola-lape-maia/"
+              ]
             }
           ]
         }
@@ -540,12 +756,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 368,
+              "sviluppo": 368.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1735,
+              "quotaMassima": 1735.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/penna-monte-parete-no-variante/"
+              "link": [
+                "https://www.gulliver.it/itinerari/penna-monte-parete-no-variante/"
+              ]
             }
           ]
         }
@@ -570,12 +788,14 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 285,
+              "sviluppo": 285.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1824,
+              "quotaMassima": 1824.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/cimone-monte-cresta-del-gallo/"
+              "link": [
+                "https://www.gulliver.it/itinerari/cimone-monte-cresta-del-gallo/"
+              ]
             }
           ]
         },
@@ -592,12 +812,14 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 285,
+              "sviluppo": 285.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1824,
+              "quotaMassima": 1824.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/salto-della-capra-parete-no/"
+              "link": [
+                "https://www.gulliver.it/itinerari/salto-della-capra-parete-no/"
+              ]
             }
           ]
         }
@@ -622,12 +844,14 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1037,
+              "sviluppo": 1037.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2017,
+              "quotaMassima": 2017.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/alpe-succiso-da-succiso-nuovo-per-il-rif-consiglio-e-la-cresta-n/"
+              "link": [
+                "https://www.gulliver.it/itinerari/alpe-succiso-da-succiso-nuovo-per-il-rif-consiglio-e-la-cresta-n/"
+              ]
             }
           ]
         },
@@ -644,12 +868,14 @@
               "gradoMassimo": "AD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1904,
+              "quotaMassima": 1904.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/alto-monte-cresta-se/"
+              "link": [
+                "https://www.gulliver.it/itinerari/alto-monte-cresta-se/"
+              ]
             }
           ]
         },
@@ -666,12 +892,14 @@
               "gradoMassimo": "AD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 625,
+              "sviluppo": 625.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1894,
+              "quotaMassima": 1894.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/nuda-monte-la-canale-la-gula/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nuda-monte-la-canale-la-gula/"
+              ]
             }
           ]
         },
@@ -688,12 +916,38 @@
               "gradoMassimo": "AD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 600,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1894,
+              "quotaMassima": 1894.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/nuda-monte-lacanale-dei-2-gendarmi/"
+              "link": [
+                "https://www.gulliver.it/itinerari/nuda-monte-lacanale-dei-2-gendarmi/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Nuda (Monte la), Cima Belfiore, Monte Tondo da Cerreto Laghi, traversata di cresta",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 44.29770011,
+          "longitudine": 10.24388935,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1894.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/nuda-monte-la-cima-belfioremonte-tondo-da-cerreto-laghi-traversata-di-cresta/"
+              ]
             }
           ]
         },
@@ -710,12 +964,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1040,
+              "sviluppo": 1040.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2017,
+              "quotaMassima": 2017.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/succiso-alpe-di-canale-ovest/"
+              "link": [
+                "https://www.gulliver.it/itinerari/succiso-alpe-di-canale-ovest/"
+              ]
             }
           ]
         },
@@ -732,12 +988,38 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1040,
+              "sviluppo": 1040.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2017,
+              "quotaMassima": 2017.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/succiso-alpe-di-canale-del-masso/"
+              "link": [
+                "https://www.gulliver.it/itinerari/succiso-alpe-di-canale-del-masso/"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Succiso (Alpe di) dal Passo del Cerreto, traversata per Monte Alto e Monte Casarola",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 44.30431852,
+          "longitudine": 10.21642684,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2017.0,
+              "discesa": "sulla cresta nord fino alla sella di Casarola (si può anche raggiungere la vetta omonima in pochi minuti) e da lì con le indicazioni del sentiero 675 si raggiungono le sorgenti del Secchia e oltre l'Ospedalaccio. In breve si è di nuovo all'auto.",
+              "link": [
+                "https://www.gulliver.it/itinerari/succiso-alpe-di-traversata-alto-succiso-casarola/"
+              ]
             }
           ]
         }
@@ -762,12 +1044,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1040,
+              "sviluppo": 1040.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2054,
+              "quotaMassima": 2054.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/prado-monte-parete-est/"
+              "link": [
+                "https://www.gulliver.it/itinerari/prado-monte-parete-est/"
+              ]
             }
           ]
         },
@@ -784,12 +1068,70 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1904,
+              "quotaMassima": 1904.0,
+              "discesa": "rapida e facile per l'adiacente Passo Vallestrina.",
+              "link": [
+                "https://www.gulliver.it/itinerari/vallestrina-alpe-di-parete-no-via-fornaciari/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Monte Scala - Spigolo sud dal passo delle Fugicchia",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 44.379354,
+          "longitudine": 10.040797,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1717,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/vallestrina-alpe-di-parete-no-via-fornaciari/"
+              "link": [
+                "https://www.camptocamp.org/routes/1574157"
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Cerreto laghi",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 44.629293,
+          "longitudine": 9.94295,
+          "itinerari": [
+            {
+              "nome": "Monte Scalocchio Cresta NE e Gendarme della Nuda spigolo SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1895,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/1552894"
+              ]
             }
           ]
         }

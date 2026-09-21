@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Arquata del Tronto",
@@ -9,6 +9,30 @@
       "latitudine": null,
       "longitudine": null,
       "pareti": [
+        {
+          "nome": "Lago (Cima del) – Canale Nord di destra",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 42.78979507054978,
+          "longitudine": 13.260498046875,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2422.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/lago-cima-del-canale-nord-di-destra/"
+              ]
+            }
+          ]
+        },
         {
           "nome": "Vettore (Monte), Piramide Parete Sud – Dani",
           "disciplina": "mountaineering",
@@ -22,12 +46,14 @@
               "gradoMassimo": "TD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 360,
+              "sviluppo": 360.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2476,
+              "quotaMassima": 2476.0,
               "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/parete-s-della-piramide-via-dani/"
+              "link": [
+                "https://www.gulliver.it/itinerari/parete-s-della-piramide-via-dani/"
+              ]
             }
           ]
         }
@@ -52,12 +78,14 @@
               "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 90,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 500,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/nerone-monte-balza-della-palirosa-via-ferraglia/"
+              "quotaMassima": 500.0,
+              "discesa": "su sentiero in circa 10-15minuti si ritorna alla base della via. Dalla vetta della Balza, camminare in cresta verso sinistra e iniziare a scendere su roccette fino a incontrare pochi metri dopo un omino dove si deve deviare in discesa verso destra e pochi metri dopo deviare ancora più nettamente verso destra. Si cammina su tracce di sentiero fra erba e sassi tagliando il pendio fino a risalire per pochi metri in salita su tracce di sentiero e arrivare alla sella della Balza. Da qui è evidente il sentiero che scende netto a destra e costeggiando la parete di roccia, fra gli alberi, riconduce alla base della via appena arrampicata.",
+              "link": [
+                "https://www.gulliver.it/itinerari/nerone-monte-balza-della-palirosa-via-ferraglia/"
+              ]
             }
           ]
         }
@@ -82,12 +110,14 @@
               "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 400,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/rossa-gola-della-paretone-oggioni-badiali-conti/"
+              "quotaMassima": 400.0,
+              "discesa": "Salire in breve alla traccia indicata con bolli rossi e seguirla verso sinistra tagliando con vari saliscendi tutto il ripido pendio fino a raggiungere la verticale del Pilastro delle Placche Alte. Scendere sempre seguendo i bolli rossi, e con alcuni passi in arrampicata (attenzione) raggiungere il terrazzino di uscita delle Placche Alte attrezzato con catena per la corda doppia di 33 metri. Effettuata la calata, a piedi per tracce di passaggio ed esposte paretine da scendere in arrampicata, fino alla traccia, ora più agevole, che in breve conduce alla strada. 1 ora circa.",
+              "link": [
+                "https://www.gulliver.it/itinerari/rossa-gola-della-paretone-oggioni-badiali-conti/"
+              ]
             }
           ]
         }
@@ -112,12 +142,14 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 200,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1200,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/gelagna-alta-via-degli-alpini/"
+              "quotaMassima": 1200.0,
+              "discesa": "a piedi su sentiero. Salire su traccia esile di sentiero in salita in direzione del traliccio più vicino fino a incontrare nel bosco, un ampio sentiero che se sceso sulla destra porta a metà del sentiero di avvicinamento dell’andata. Tot 30min.",
+              "link": [
+                "https://www.gulliver.it/itinerari/gelagna-alta-via-degli-alpini/"
+              ]
             }
           ]
         }
@@ -142,12 +174,14 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 910,
+              "sviluppo": 910.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2169,
-              "discesa": null,
-              "link": "https://www.gulliver.it/itinerari/bove-monte-cima-sud-canale-primavera/"
+              "quotaMassima": 2169.0,
+              "discesa": "proseguire per le creste verso Ovest puntando al grande traliccio della funivia abbandonata. In prossimità di questo abbassarsi a sx e facilmente, seguendo gli impianti e le piste scendere direttamente verso Frontignano. Tenendosi non lontano dalla seggiovia più a dx scendendo si arriva a 5 min dal parcheggio, dove ci si riporta prendendo una stradina sterrata circa in piano.",
+              "link": [
+                "https://www.gulliver.it/itinerari/bove-monte-cima-sud-canale-primavera/"
+              ]
             }
           ]
         }

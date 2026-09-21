@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Terranova di Pollino",
@@ -22,12 +22,78 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 800,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2056,
+              "quotaMassima": 2056.0,
               "discesa": "Bosco rado",
-              "link": "https://www.gulliver.it/itinerari/crispo-serra-di-dal-lago-duglia/"
+              "link": [
+                "https://www.gulliver.it/itinerari/crispo-serra-di-dal-lago-duglia/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Viggianello",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Pollino (Monte) da Colle dell’Impiso",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 39.97352,
+          "longitudine": 16.086688,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2248.0,
+              "discesa": null,
+              "link": [
+                "https://www.gulliver.it/itinerari/pollino-monte-da-colle-dellimpiso/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Monte Sirino",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 40.132752,
+          "longitudine": 15.837238,
+          "itinerari": [
+            {
+              "nome": "Boucle",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2005,
+              "discesa": null,
+              "link": [
+                "https://www.camptocamp.org/routes/50431"
+              ]
             }
           ]
         }

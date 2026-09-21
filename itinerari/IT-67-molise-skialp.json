@@ -1,7 +1,7 @@
 {
   "formato": "4monkeys-itinerari",
   "versione": 1,
-  "esportato": "2026-09-18T11:14:49Z",
+  "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
       "nome": "Pizzone",
@@ -22,12 +22,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 811,
+              "sviluppo": 811.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2161,
+              "quotaMassima": 2161.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/monte-a-mare-q-2161-dal-piano-le-forme/"
+              "link": [
+                "https://www.gulliver.it/itinerari/monte-a-mare-q-2161-dal-piano-le-forme/"
+              ]
             }
           ]
         },
@@ -44,12 +46,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2242,
+              "quotaMassima": 2242.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/meta-monteper-il-canalone-centrale/"
+              "link": [
+                "https://www.gulliver.it/itinerari/meta-monteper-il-canalone-centrale/"
+              ]
             }
           ]
         },
@@ -66,12 +70,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2242,
+              "quotaMassima": 2242.0,
               "discesa": "Varie",
-              "link": "https://www.gulliver.it/itinerari/meta-monte-dal-piano-le-forme/"
+              "link": [
+                "https://www.gulliver.it/itinerari/meta-monte-dal-piano-le-forme/"
+              ]
             }
           ]
         },
@@ -88,12 +94,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 705,
+              "sviluppo": 705.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2105,
+              "quotaMassima": 2105.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/metuccia-per-la-val-pagana/"
+              "link": [
+                "https://www.gulliver.it/itinerari/metuccia-per-la-val-pagana/"
+              ]
             }
           ]
         }
@@ -118,12 +126,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2020,
+              "quotaMassima": 2020.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/mare-monte-dalla-valle-viata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/mare-monte-dalla-valle-viata/"
+              ]
             }
           ]
         },
@@ -140,12 +150,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 1805,
+              "quotaMassima": 1805.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/marrone-monte-dalla-valle-viata/"
+              "link": [
+                "https://www.gulliver.it/itinerari/marrone-monte-dalla-valle-viata/"
+              ]
             }
           ]
         }
@@ -170,12 +182,14 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2050,
+              "quotaMassima": 2050.0,
               "discesa": "Pendii ampi",
-              "link": "https://www.gulliver.it/itinerari/miletto-monte-da-campitello-matese-2/"
+              "link": [
+                "https://www.gulliver.it/itinerari/miletto-monte-da-campitello-matese-2/"
+              ]
             }
           ]
         },
@@ -192,12 +206,46 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1100,
+              "sviluppo": 1100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2050,
+              "quotaMassima": 2050.0,
               "discesa": "Couloir",
-              "link": "https://www.gulliver.it/itinerari/miletto-monte-traversata-a-roccamandolfi-per-valle-fondacone/"
+              "link": [
+                "https://www.gulliver.it/itinerari/miletto-monte-traversata-a-roccamandolfi-per-valle-fondacone/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Scapoli",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Mare (Monte), Morrone delle Rose da Collelongo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "latitudine": 41.6142231,
+          "longitudine": 14.05855178,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "BS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1060.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2020.0,
+              "discesa": "Couloir",
+              "link": [
+                "https://www.gulliver.it/itinerari/mare-monte-morrone-delle-rose-da-collelongo/"
+              ]
             }
           ]
         }
