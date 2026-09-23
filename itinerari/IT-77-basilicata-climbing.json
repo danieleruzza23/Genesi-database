@@ -1,0 +1,79 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Maratea",
+      "paese": "IT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Maratea",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 40.041802111952016,
+          "longitudine": 15.646394577341383,
+          "itinerari": [
+            {
+              "nome": "Mare d’Inverno",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/maratea-mare-dinverno/",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/maratea-mare-dinverno/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.041802111952016,
+          "lon": 15.646394577341383
+        },
+        {
+          "nome": "Maratea",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "latitudine": 40.041282762534564,
+          "longitudine": 15.644975182000719,
+          "itinerari": [
+            {
+              "nome": "Oceano di Silenzio",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 85.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.gulliver.it/itinerari/maratea-oceano-di-silenzio/",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/maratea-oceano-di-silenzio/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.041282762534564,
+          "lon": 15.644975182000719
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
