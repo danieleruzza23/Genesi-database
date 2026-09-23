@@ -1,0 +1,110 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Vrenelisgärtli",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 47.007958,
+          "longitudine": 9.017007,
+          "itinerari": [
+            {
+              "nome": "Arête SE \"Guppengrat\"",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2904,
+              "discesa": null,
+              "link": "https://www.camptocamp.org/routes/1792389",
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1792389",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.007958,
+          "lon": 9.017007
+        },
+        {
+          "nome": "Mürtschenstock Ruchen",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 47.070158,
+          "longitudine": 9.144158,
+          "itinerari": [
+            {
+              "nome": "Grand Couloir et Arête S - voie normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.camptocamp.org/routes/1704020",
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1704020",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.070158,
+          "lon": 9.144158
+        },
+        {
+          "nome": "Schiberg",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 47.092982,
+          "longitudine": 8.953982,
+          "itinerari": [
+            {
+              "nome": "Brennaroute",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "link": "https://www.camptocamp.org/routes/1545383",
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1545383",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.092982,
+          "lon": 8.953982
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

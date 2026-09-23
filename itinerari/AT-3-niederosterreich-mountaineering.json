@@ -1,0 +1,48 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "AT",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Stadelwand",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "latitudine": 47.749992,
+          "longitudine": 15.791843,
+          "itinerari": [
+            {
+              "nome": "Stadelwandgrat",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1407,
+              "discesa": null,
+              "link": "https://www.camptocamp.org/routes/1905838",
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1905838",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.749992,
+          "lon": 15.791843
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Lungern",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Graubart",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "latitudine": 46.779319456439104,
+          "longitudine": 8.174465278584892,
+          "itinerari": [
+            {
+              "nome": "2 Stufe (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "4+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "su Abalakov, o proseguendo oltre, si raggiunge una strada che porta al terzo piano dove ci sono altre belle cascate.",
+              "link": "https://www.gulliver.it/itinerari/graubart-2-stufe-cascata/",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/graubart-2-stufe-cascata/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.779319456439104,
+          "lon": 8.174465278584892
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "CH",
+      "latitudine": null,
+      "longitudine": null,
+      "pareti": [
+        {
+          "nome": "Grassen",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "latitudine": 46.766123,
+          "longitudine": 8.453958,
+          "itinerari": [
+            {
+              "nome": "Face S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2946,
+              "discesa": null,
+              "link": "https://www.camptocamp.org/routes/1017434",
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1017434",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.766123,
+          "lon": 8.453958
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
