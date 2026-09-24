@@ -1,0 +1,127 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Norcia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Argentella (Monte) da Castelluccio per il Versante Sud-Ovest",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-ovest",
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2200.0,
+              "discesa": "Pendii ampi",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/argentella-monte-da-castelluccio-per-il-versante-sud-ovest/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 42.828889,
+          "lon": 13.20583299
+        },
+        {
+          "nome": "Redentore (Cima del) Canale Ovest",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Ovest",
+              "gradoObbligatorio": "OS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2450.0,
+              "discesa": "Couloir",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/redentore-cima-del-canale-ovest/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 42.82921232,
+          "lon": 13.21723937
+        },
+        {
+          "nome": "Vettore (Monte) Canale dei Mezzi Litri",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": "BS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 940.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2476.0,
+              "discesa": "Couloir",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/vettore-monte-canale-dei-mezzi-litri/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 42.79085066,
+          "lon": 13.25730141
+        },
+        {
+          "nome": "Vettore (Monte) per la Valle Santa",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-ovest",
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1076.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2476.0,
+              "discesa": "Pendii ampi",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/vettore-monte-per-la-valle-santa/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 42.80453216,
+          "lon": 13.24273493
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

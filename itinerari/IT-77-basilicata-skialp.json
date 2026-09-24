@@ -1,0 +1,115 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Terranova di Pollino",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Crispo (Serra di) dal Lago Duglia",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2056.0,
+              "discesa": "Bosco rado",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/crispo-serra-di-dal-lago-duglia/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 39.9496076,
+          "lon": 16.2329316
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Viggianello",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pollino (Monte) da Colle dell’Impiso",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": null,
+              "gradoObbligatorio": "MS",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2248.0,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/pollino-monte-da-colle-dellimpiso/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 39.97352,
+          "lon": 16.086688
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Sirino",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Boucle",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2005,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/50431",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.132752,
+          "lon": 15.837238
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
