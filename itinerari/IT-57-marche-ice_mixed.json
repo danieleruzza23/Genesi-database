@@ -1,0 +1,43 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Ussita",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Bove (Monte)",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Canale Y",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "2+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/bove-sud-monte-canale-y/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 42.919846,
+          "lon": 13.154442
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

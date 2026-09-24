@@ -1,0 +1,107 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Letino",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Miletto (Monte) dal Lago del Matese",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-ovest",
+              "gradoObbligatorio": "MSA",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 952.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2050.0,
+              "discesa": "Bosco rado",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/miletto-monte-dal-lago-del-matese/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 41.453781,
+          "lon": 14.255153
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Cervialto",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Versant NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 730,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1809,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/50361",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.782967,
+          "lon": 15.132408
+        },
+        {
+          "nome": "Monte Terminio",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 985,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1806,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/50051",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.833333,
+          "lon": 14.933333
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
