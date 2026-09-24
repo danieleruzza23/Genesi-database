@@ -1,0 +1,171 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Brand bei Bludenz",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Brandnertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Blaue Valentine (Cascata)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": "su Abalakov, nessun equipaggiamento in posto.",
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/blaue-valentine/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.09443543,
+          "lon": 9.743242263
+        },
+        {
+          "nome": "Brandnertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Marilyn Manson (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/brandnertal-marilyn-manson-cascata/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.08789047,
+          "lon": 9.732745256
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Innerbraz",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Fallenbachwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Dalaas (Gran Cascata di)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "5",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/fallenbachwand-gran-cascata-di-dalaas/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.12565863435456,
+          "lon": 9.961059093475342
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Raid en Silvretta",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "traversée E>>W, de Samnaun à Klosters Platz",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3310,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/638353",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.871947,
+          "lon": 10.123622
+        },
+        {
+          "nome": "Piz Buin",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "itinerari": [
+            {
+              "nome": "Voie normale (été)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "F+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3312,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54670",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.872203,
+          "lon": 10.111223
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

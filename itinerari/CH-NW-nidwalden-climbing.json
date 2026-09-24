@@ -1,0 +1,43 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-20T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Ruchstock",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "itinerari": [
+            {
+              "nome": "Black mamba",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2818,
+              "discesa": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1937480",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.855933,
+          "lon": 8.47079
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
