@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2947,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2948,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -62,6 +60,340 @@
           ],
           "lat": 47.475643,
           "lon": 13.587728
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Dörnbach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Dörnbach",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Drytooling-Bereich Dörnbach",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 18.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 300.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/drytooling-bereich-doernbach/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 48.2849,
+          "lon": 14.2117
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gmunden",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Traunstein",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Traunstein Nordwandkessel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1691.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/traunstein-nordwandkessel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.873242,
+          "lon": 13.815072
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Halllstatt",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hallstatt",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Schleier Wasserfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schleier-wasserfall-hallstatt/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.5511,
+          "lon": 13.6236
+        },
+        {
+          "nome": "Echerntal",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Brause",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 620.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/brause/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.5495,
+          "lon": 13.6155
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hinterstoder",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Spitzmauer",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Spitzmauer Ostwand",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2442.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/spitzmauer-ostwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.694052,
+          "lon": 14.068894
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kößlbach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hochglegt",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Kessel-Eisarena",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1784.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/kessel-eisarena/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.7326,
+          "lon": 13.6962
+        },
+        {
+          "nome": "Kessel Eisarena",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "30 Jahre Frieden",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1784.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/30-jahre-frieden-kessel-eisarena/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.7324,
+          "lon": 13.696
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mitterweißenbach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Großer Höllkogel",
+          "disciplina": "ice_mixed",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Höllkogel Direkte Südwand / Gerade Südschlucht",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 975.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1862.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/hoellkogel-direkte-suedwand-gerade-suedschlucht/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.7941,
+          "lon": 13.664
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Spital am Pyhrn",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Bosruck",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Rechte Gipfelrinne",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "55°",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 380.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1992.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/rechte-gipfelrinne-bosruck/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.62617,
+          "lon": 14.34746
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Steeg Hallstättersee-Ortsteil von Bad Goisern",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Löckerkogel",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Simplbach",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1597.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/simplbach/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.60925195,
+          "lon": 13.62804651
         }
       ],
       "lat": null,

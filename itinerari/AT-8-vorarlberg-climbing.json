@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "a sinistra per tracce sul versante nord (attenzione, roccia rotta) fino al bordo di un risalto verticale sul quale si reperisce una calata in doppia su buono spuntone (corde già in posto attualmente). Si raggiunge il pendio sottostante, spesso con neve. Reperire una traccia segnalata da ometti che verso sinistra (faccia a valle), aggirando alcuni risalti rocciosi, porta al vallone dove si incrocia il sentiero segnato che a sinistra riporta alla Schweizer Tor. Da qui per sentiero con tratti attrezzati si scende alla Gruscher Alpli. Contare circa 1 ora e 30 dalla vetta. La discesa in doppia sull'itinerario è possibile ma sconsigliata.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -58,7 +57,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -86,7 +84,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "sul versante nord per ripidi pendii erbosi, tenendo la destra e cercando il passaggio migliore tra i saltini di roccia. Tracce poco evidenti. Una volta raggiunto lo Schweizertor, per sentiero si ritorna al parcheggio.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -114,7 +111,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -150,7 +146,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1532,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -178,7 +173,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -197,7 +191,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -209,6 +202,146 @@
           ],
           "lat": 47.034121,
           "lon": 9.790149
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bieler Höhe",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Glötterspitze",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Glöttergrat / Glötterspitze Südgrat",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": "3",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2847.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/gloettergrat-gloetterspitze-suedgrat/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.89113,
+          "lon": 10.04724
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hohenems",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Großer Löwenzahn",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Löwenzähne Überschreitung",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1360.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/loewenzaehne-ueberschreitung/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.3578,
+          "lon": 9.72975
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Latschau",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Gelbeck Ost-Nordostewand",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Sorgafresser",
+              "gradoObbligatorio": "7-",
+              "gradoMassimo": "7",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2827.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/sorgafresser-gelbeck-ost-nordostewand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0338342,
+          "lon": 9.8089785
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lech",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Roggalspitze",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Roggalspitze Nordkante",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 420.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2673.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/roggalspitze-nordkante/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1683,
+          "lon": 10.1162
         }
       ],
       "lat": null,

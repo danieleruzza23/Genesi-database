@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "in 5 doppie (vi sono diverse soste per calarsi).",
               "links": [
                 {
                   "provider": "gulliver",
@@ -78,7 +76,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -114,7 +111,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2531,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -142,7 +138,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2666,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -170,7 +165,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2666,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -198,7 +192,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2753,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -226,7 +219,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2420,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -254,7 +246,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2587,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -266,6 +257,148 @@
           ],
           "lat": 46.365284,
           "lon": 13.444798
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Fusine in Valromana",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Traunik",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Baubau",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2204.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/baubau-traunik/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.451021,
+          "lon": 13.648479
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Tarvis",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima de lis Codis",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "In Julian Alps with Love",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M9-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 185.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2380.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/in-julian-alps-with-love-cima-de-lis-codis/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.43133,
+          "lon": 13.47351
+        },
+        {
+          "nome": "Cima de lis Codis",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Left from Love",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2380.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/left-from-love-cima-de-lis-codis/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.431334,
+          "lon": 13.473512
+        },
+        {
+          "nome": "Spragna/Saisera",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Lord James Cook",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 125.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2666.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/lord-james-cook-spragnasaisera/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Du Trottel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 95.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2666.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/du-trottel-spragnasaisera/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.43133,
+          "lon": 13.47351
         }
       ],
       "lat": null,

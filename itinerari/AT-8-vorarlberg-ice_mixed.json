@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "su Abalakov, nessun equipaggiamento in posto.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -86,7 +84,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -122,7 +119,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3310,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -150,7 +146,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3312,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -162,6 +157,138 @@
           ],
           "lat": 46.872203,
           "lon": 10.111223
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Dalaas",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Fallbachwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Fallbachwand",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/fallbachwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1257,
+          "lon": 9.96286
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gargellen",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Madrisa Nordwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Lifeline",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M6+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 115.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2770.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/lifeline-madrisa-nordwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.9475,
+          "lon": 9.887222
+        },
+        {
+          "nome": "Madrisa Nordwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Schlems Doba",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 45.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2770.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schlems-doba-madrisa-nordwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.945,
+          "lon": 9.88555
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mittelberg",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Mittagsspitze",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Ad Astra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M6",
+              "spittatura": "P3",
+              "tiri": 2,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/ad-astra-mittagsspitze/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.308155,
+          "lon": 10.189742
         }
       ],
       "lat": null,

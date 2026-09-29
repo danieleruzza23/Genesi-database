@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3090.0,
-              "discesa": "Varie",
               "links": [
                 {
                   "provider": "gulliver",
@@ -58,7 +57,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2715.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -86,7 +84,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2851.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -122,7 +119,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2696.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -134,6 +130,195 @@
           ],
           "lat": 47.00102397,
           "lon": 13.13423977
+        },
+        {
+          "nome": "Zagutnig",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Zagutnig durch das Mitterkeiltal",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2731.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/zagutnig-durch-das-mitterkeiltal/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.979822,
+          "lon": 13.20804
+        },
+        {
+          "nome": "Kalte Wand",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Kalte Wand via Zedölnig",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2743.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kalte-wand-via-zedoelnig/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.000946,
+          "lon": 13.133231
+        },
+        {
+          "nome": "Großer Woisken Kopf",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Großer Woisken Kopf Normalweg",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2709.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/grosser-woisken-kopf-normalweg/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.000962,
+          "lon": 13.133243
+        },
+        {
+          "nome": "P 2569",
+          "disciplina": "skialp",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Wallnerrinne - Punkt 2569m - von Mallnitz",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2569.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/wallnerrinne-punkt-2569m/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.001118,
+          "lon": 13.133042
+        },
+        {
+          "nome": "Rameterspitz",
+          "disciplina": "skialp",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Rameterspitz über Normalweg von Stocherhütte",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2695.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/rameterspitz-ueber-normalweg-von-stocherhuette/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.001062,
+          "lon": 13.133158
+        },
+        {
+          "nome": "Feldseescharte",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Feldseescharte Ostflanke",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1425.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2714.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/feldseescharte-ostflanke/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.00105,
+          "lon": 13.133181
+        },
+        {
+          "nome": "Marsenspitz",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Maresenspitz (Mares’nspitz) Westseite",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2916.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/maresenspitz-maresnspitz-westseite/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.014763,
+          "lon": 13.185102
         }
       ],
       "lat": null,
@@ -158,7 +343,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2424.0,
-              "discesa": "Varie",
               "links": [
                 {
                   "provider": "gulliver",
@@ -170,6 +354,33 @@
           ],
           "lat": 46.70321373,
           "lon": 12.73155149
+        },
+        {
+          "nome": "Schwalbenkofel",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Schwalbenkofel über die Rauter Alm",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2159.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/schwalbenkofel-ueber-die-rauter-alm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.70322,
+          "lon": 12.731587
         }
       ],
       "lat": null,
@@ -194,7 +405,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2709.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -230,7 +440,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2166,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -258,7 +467,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2113,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -286,7 +494,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2370,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -314,7 +521,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3018,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -342,7 +548,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2401,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -370,7 +575,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2024,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -389,7 +593,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2104,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -417,7 +620,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2236,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -445,7 +647,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1659,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -473,7 +674,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2108,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -501,7 +701,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2144,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -529,7 +728,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3798,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -557,7 +755,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3798,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -585,7 +782,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1944,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -613,7 +809,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2237,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -641,7 +836,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2450,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -669,7 +863,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2237,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -697,7 +890,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2221,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -725,7 +917,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2236,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -753,7 +944,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2217,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -781,7 +971,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2237,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -809,7 +998,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1867,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -837,7 +1025,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1842,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -865,7 +1052,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1742,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -893,7 +1079,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2549,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -921,7 +1106,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2024,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -949,7 +1133,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3250,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -977,7 +1160,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2236,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1005,7 +1187,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2063,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1033,7 +1214,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2404,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1061,7 +1241,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2709,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1089,7 +1268,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2380,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1117,7 +1295,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2433,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1145,7 +1322,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2497,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1173,7 +1349,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2860,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1201,7 +1376,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2814,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1229,7 +1403,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2190,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1257,7 +1430,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3122,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1285,7 +1457,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3090,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1313,7 +1484,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3086,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1341,7 +1511,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2440,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1369,7 +1538,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2695,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1397,7 +1565,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3550,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1425,7 +1592,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2310,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1453,7 +1619,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2410,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1481,7 +1646,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2410,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1509,7 +1673,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2331,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1537,7 +1700,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2290,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1565,7 +1727,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2250,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1593,7 +1754,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2524,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1621,7 +1781,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2052,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1649,7 +1808,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2657,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1677,7 +1835,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3106,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1705,7 +1862,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3106,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1733,7 +1889,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2216,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1761,7 +1916,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2605,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1789,7 +1943,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3357,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1817,7 +1970,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2104,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1845,7 +1997,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2226,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1873,7 +2024,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2934,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1901,7 +2051,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2331,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1929,7 +2078,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3453,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1957,7 +2105,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3105,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -1985,7 +2132,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2185,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2013,7 +2159,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3360,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2041,7 +2186,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3360,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2069,7 +2213,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3360,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2097,7 +2240,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3360,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2125,7 +2267,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2670,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2153,7 +2294,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2351,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2181,7 +2321,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3798,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2209,7 +2348,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2200,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2237,7 +2375,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2580,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2265,7 +2402,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2010,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2293,7 +2429,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2195,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2321,7 +2456,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2507,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2349,7 +2483,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2612,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2377,7 +2510,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2308,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2405,7 +2537,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2308,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2433,7 +2564,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2747,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2461,7 +2591,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2511,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2489,7 +2618,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2868,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2517,7 +2645,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2780,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2545,7 +2672,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2227,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2573,7 +2699,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2428,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2601,7 +2726,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2587,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2629,7 +2753,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3252,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2657,7 +2780,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3250,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -2669,6 +2791,2814 @@
           ],
           "lat": 47.056484,
           "lon": 13.273973
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bad Bleiberg",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Dorbratsch",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Dobratsch Brunnlahner",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2167.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/dobratsch-brunnlahner/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.6248,
+          "lon": 13.685877
+        },
+        {
+          "nome": "Dorbratsch",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Dobratsch über Alplgraben",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2167.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/dobratsch-ueber-alplgraben/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.615958,
+          "lon": 13.622552
+        },
+        {
+          "nome": "Dorbratsch",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Dobratsch Alpenlahner",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2167.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/dobratsch-alpenlahner/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.624771,
+          "lon": 13.68586
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Döllach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Alteck",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Alteck Westflanke",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2942.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/alteck-westflanke/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0022254,
+          "lon": 12.9447758
+        },
+        {
+          "nome": "Zirknitzspitze",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Zirknitzspitze",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2932.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/zirknitzspitze/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.00322,
+          "lon": 12.94473
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Falkertsee",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Nockberge-Trail – Etappe 4",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Nockberge-Trail – 4. Etappe",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 730.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": 30.0,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/nockberge-trail-skitour-kaernten-etappe4_1867.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.864963,
+          "lon": 13.828291
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Feistritz im Rosental",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hochstuhl",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hochstuhl über Grüne Ries´n",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2237.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hochstuhl-ueber-gruene-riesn/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.469938,
+          "lon": 14.156203
+        },
+        {
+          "nome": "Hochstuhl",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hochstuhl - Johannsenrinne",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2237.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hochstuhl-johannsenrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.470901,
+          "lon": 14.156348
+        },
+        {
+          "nome": "Hochstuhl",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hochstuhl über Bielschitzasattel",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2237.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hochstuhl-ueber-bielschitzasattel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.471011,
+          "lon": 14.156213
+        },
+        {
+          "nome": "Weinasch",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Weinasch - Schneiderkar",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1040.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2104.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/weinasch-schneiderkar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.471011,
+          "lon": 14.156213
+        },
+        {
+          "nome": "Weinasch",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Weinasch - Nordost Kar",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2104.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/weinasch-nordost-kar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.470798,
+          "lon": 14.156356
+        },
+        {
+          "nome": "Bielschitza",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Bielschitza aus Bärental",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1958.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/bielschitza-aus-baerental/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.470772,
+          "lon": 14.156358
+        },
+        {
+          "nome": "Kosiak",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Kosiak",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2024.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kosiak/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.470881,
+          "lon": 14.156349
+        },
+        {
+          "nome": "Weinasch",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Weinasch Ostkar über Johannsenruhe",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2104.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/weinasch-ostkar-ueber-johannsenruhe/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.470908,
+          "lon": 14.156347
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ferlach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Selenitza",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Selenitza Ostrinne",
+              "gradoObbligatorio": "4-5",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2026.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/selenitza-ostrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.443578,
+          "lon": 14.250204
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Flattach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hoher Sonnblick",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hoher Sonnblick über Mölltaler Gletscher",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3106.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hoher-sonnblick-ueber-moelltaler-gletscher/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.03316,
+          "lon": 12.99734
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gmuend",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Faschaunereck Normalroute",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Faschaunereck Normalroute",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/faschaunereck-normalroute-1/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.974897,
+          "lon": 13.511568
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gmünd",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hochalmspitze",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Hochalmspitze vom Maltatal",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hochalmspitze-vom-maltatal/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.022088,
+          "lon": 13.406868
+        },
+        {
+          "nome": "Malteiner Sonnblick",
+          "disciplina": "skialp",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Malteiner Sonnblick via Stierkar",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1850.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3030.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/malteiner-sonnblick-via-stierkar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0287,
+          "lon": 13.39885
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Goldberg",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Jaukenhöhe",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Jaukenhöhe",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2202.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/jaukenhoehe/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.6761569,
+          "lon": 13.0660594
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Heiligenblut",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Johannisberg",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Johannisberg über Oberwalderhütte",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1320.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3453.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/johannisberg-ueber-oberwalderhuette/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.07467,
+          "lon": 12.75208
+        },
+        {
+          "nome": "Hoher Sonnblick",
+          "disciplina": "skialp",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Hoher Sonnblick - Normalweg durch das Kleinfleißtal",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3106.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hoher-sonnblick-normalweg-durch-das-kleinfleisstal/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.037949,
+          "lon": 12.87416
+        },
+        {
+          "nome": "Kellersberg",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Kellersberg Nordostflanke",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3267.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kellersberg-nordostflanke/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.075272,
+          "lon": 12.751299
+        },
+        {
+          "nome": "Dritter Leiterkopf",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Dritter Leiterkopf Nordostflanke",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2891.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/dritter-leiterkopf-nordostflanke/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.069671,
+          "lon": 12.768558
+        },
+        {
+          "nome": "Kellerskopf",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Kellerskopf Fallbachrinne",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3239.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kellerskopf-fallbachrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.069545,
+          "lon": 12.768682
+        },
+        {
+          "nome": "Racherin",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Racherin Normalweg von Glocknerstraße",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3092.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/racherin-normalweg-von-glocknerstrasse/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.060184,
+          "lon": 12.792855
+        },
+        {
+          "nome": "Großglockner",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Großglockner Lammerkeesabfahrt",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3798.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/grossglockner-lammerkeesabfahrt/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Großglockner über Hofmannskees",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3798.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/grossglockner-ueber-hofmannskees/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.075005,
+          "lon": 12.751523
+        },
+        {
+          "nome": "Johannisberg",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Johannisberg Normalweg über Pasterze",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3453.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/johannisberg-normalweg-ueber-pasterze/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.075233,
+          "lon": 12.751008
+        },
+        {
+          "nome": "Fuscherkarkopf",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Fuscherkarkopf Nordflanke",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3331.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/fuscherkarkopf-nordflanke/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.07651,
+          "lon": 12.75086
+        },
+        {
+          "nome": "Schneewinkelkopf",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Schneewinkelkopf über Pasterze",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3476.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/schneewinkelkopf-ueber-pasterze/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.075148,
+          "lon": 12.75136
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Heiligengeist",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Dobratsch",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Dobratsch Zehnernock von Heilgengeist",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1060.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2166.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/dobratsch-zehnernock-von-heilgengeist/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.6148945,
+          "lon": 13.7474469
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Innerkrems",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Peitlernock",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Peitlernock Normalroute",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2244.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/peitlernock-normalroute/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.967853,
+          "lon": 13.725848
+        },
+        {
+          "nome": "Nockberge-Trail – Etappe 2",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Nockberge-Trail – 2. Etappe",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/nockberge-trail-skitour-etappe2_1865.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.971166,
+          "lon": 13.749012
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kaning",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Rosennock",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Rosennock aus dem Langalmtal",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2440.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/rosennock-aus-dem-langalmtal/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.82668899,
+          "lon": 13.70473851
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Klösterle",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Taubenkogel",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Dreiländereck - Pisten-Skitour",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1458.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/dreilaendereck-pisten-skitour/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.5418573,
+          "lon": 13.7128952
+        },
+        {
+          "nome": "Gerlitzen",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Gerlitzen - Pisten-Skitour",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 915.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1909.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/gerlitzen-pisten-skitour/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.72946,
+          "lon": 13.91721
+        },
+        {
+          "nome": "Gerlitzen",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Gerlitzen - Waldweg - Skitour",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 915.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1909.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/gerlitzen-waldweg-skitour/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.7299163,
+          "lon": 13.9170774
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kätzschach-Mauthen",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Wodnertörl",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Wodnertörl Normalroute",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 950.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2059.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/wodnertoerl-normalroute/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.623132,
+          "lon": 12.943172
+        },
+        {
+          "nome": "Polinik",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Polinik über Spielbodenalm",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2332.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/polinik-ueber-spielbodenalm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.616298,
+          "lon": 12.952019
+        },
+        {
+          "nome": "Rauchkofel",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Rauchkofel über Valentintörl",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2460.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/rauchkofel-ueber-valentintoerl/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.62311,
+          "lon": 12.94291
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kötschach-Mauthen",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Rauchkofel",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Rauchkofel von der Valentinalm",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1360.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2460.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/rauchkofel-von-der-valentinalm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.624164,
+          "lon": 12.942271999999999
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Latschach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Mittagskogel",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Mittagskogel Westflanke",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2145.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/mittagskogel-westflanke/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.536188,
+          "lon": 13.917021
+        },
+        {
+          "nome": "Mittagskogel",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Mittagskogel Nordost-Kar",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2145.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/mittagskogel-nordost-kar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.544806,
+          "lon": 13.948684
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lendorf",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Gmeineck",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Gmeineck - Normalanstieg",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2592.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/gmeineck-normalanstieg/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.84882,
+          "lon": 13.452619
+        },
+        {
+          "nome": "Hinteregger Sonnblick",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Hinteregger Sonnblick Normalroute",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2515.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hinteregger-sonnblick-normalroute/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.84883,
+          "lon": 13.452673
+        },
+        {
+          "nome": "Rosskopf",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Rosskopf",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2573.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/rosskopf/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.84871,
+          "lon": 13.45274
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Malnitz",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Trimkopf",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Leitnerschartl via Vorderes Leitnerkar",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2704.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/leitnerschartl-via-vorderes-leitnerkar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.014691,
+          "lon": 13.187492
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Malta",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Zaubernock",
+          "disciplina": "skialp",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Zaubernock über G`wändschartl",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2944.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/zaubernock-ueber-gwaendschartl/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.98379,
+          "lon": 13.38034
+        },
+        {
+          "nome": "Hochalmspitze",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Hochalmspitze über Villacher Hütte",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hochalmspitze-ueber-villacher-huette/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.022514,
+          "lon": 13.406844
+        },
+        {
+          "nome": "Oberlercherspitz",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Oberlercherspitz über Findelkar",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3107.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/oberlercherspitz-ueber-findelkar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.059055,
+          "lon": 13.363044
+        },
+        {
+          "nome": "Poisnig",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Poisnig über Torscharte",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2528.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/poisnig-ueber-torscharte/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.974834,
+          "lon": 13.511841
+        },
+        {
+          "nome": "Oberlercherspitz",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Oberlercherspitz über Langkar",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3107.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/oberlercherspitz-ueber-langkar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.07892,
+          "lon": 13.344237
+        },
+        {
+          "nome": "Reiterereck Vorgipfel",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Reitereck Vorgipfel über Glockwandscharte",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2734.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/reitereck-vorgipfel-ueber-glockwandscharte/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.97581,
+          "lon": 13.51162
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mörtschach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Maggernigspitze (Makerni)",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Maggernigspitze (Makerni) vom Sadnighaus",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2644.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/maggernigspitze-makerni-vom-sadnighaus/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.954653,
+          "lon": 12.961147
+        },
+        {
+          "nome": "Törlkopf",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Törlkopf über Saualpe",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2821.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/toerlkopf-ueber-saualpe/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.933409,
+          "lon": 12.864351
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Napplach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Punkt 2437m über Dechantalm",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Punkt 2437m über Dechantalm",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2437.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/punkt-2437m-ueber-dechantalm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.864142,
+          "lon": 13.195015
+        },
+        {
+          "nome": "Vorgipfel über Dechantalm",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Vorgipfel über Dechantalm",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/vorgipfel-ueber-dechantalm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.864065,
+          "lon": 13.195111
+        },
+        {
+          "nome": "Hoher Bolz",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hoher Bolz",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1560.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2421.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hoher-bolz/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.864131,
+          "lon": 13.195145
+        },
+        {
+          "nome": "Punkt 2508 - Speikboden",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Punkt 2508 - Speikboden",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2508.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/punkt-2508-speikboden/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.864132,
+          "lon": 13.195194
+        },
+        {
+          "nome": "Schroneck",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Stollental - Schroneck",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2549.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/stollental/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.864139,
+          "lon": 13.195046
+        },
+        {
+          "nome": "Schroneck",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Schroneck Normalweg",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2549.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/schroneck-normalweg-1/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.8642147,
+          "lon": 13.1944512
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pusarnitz",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Böse Nase",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Böse Nase - Normalanstieg",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2227.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/boese-nase-normalanstieg/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.861408,
+          "lon": 13.40215
+        },
+        {
+          "nome": "Gurgelitzen",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Böse Nase - Variante zur Gurgelitzen",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1085.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2352.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/boese-nase-variante-zur-gurgelitzen/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.8615,
+          "lon": 13.402888
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rennweg am Katschberg",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Wandspitze",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Wandspitze - Mittlere Rinne",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2623.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/wandspitze-mittlere-rinne/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Wandspitze - Rechte Rinne",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2623.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/wandspitze-rechte-rinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.03884,
+          "lon": 13.54904
+        },
+        {
+          "nome": "Wandspitze",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Wandspitze - Nordflanke",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2623.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/wandspitze-nordflanke/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.03843,
+          "lon": 13.55017
+        },
+        {
+          "nome": "Wandspitze",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Wandspitze - Linke Rinne",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2623.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/wandspitze-linke-rinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.03856,
+          "lon": 13.54986
+        },
+        {
+          "nome": "Seemannwand",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Seemannwand",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2822.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/seemannwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0388686,
+          "lon": 13.5487498
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rosenbach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Kleiner Frauenkogel",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Kleiner Frauenkogel",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1754.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kleiner-frauenkogel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.522277,
+          "lon": 14.029502
+        },
+        {
+          "nome": "Rosenkogel",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Rosenkogel",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1776.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/rosenkogel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.522021,
+          "lon": 14.028795
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "St. Lorenzen",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Riebenkofel",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Riebenkofel Normalweg von St. Lorenzen",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2386.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/riebenkofel-normalweg-von-st-lorenzen/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.704299,
+          "lon": 12.785786
+        },
+        {
+          "nome": "Schönjöchl",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Schönjöchl",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2332.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/schoenjoechl/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.683022,
+          "lon": 12.794444
+        },
+        {
+          "nome": "Wasserköpfe",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Wasserköpfe",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2264.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/wasserkoepfe/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.682947,
+          "lon": 12.794541
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "St. Oswald",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Mallnock",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Mallnock",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 330.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2226.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/mallnock/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.844182,
+          "lon": 13.766942
+        },
+        {
+          "nome": "Klommnock",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "St. Oswaldrunde",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2331.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/st-oswaldrunde/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.844073,
+          "lon": 13.768411
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Trebsing",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Stoder",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Stoder",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2433.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/stoder/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.880818,
+          "lon": 13.485062
+        },
+        {
+          "nome": "Stoder",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Stoder Nordostkessel",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2433.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/stoder-nordostkessel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.88064,
+          "lon": 13.4851
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Turracher Höhe",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Nockberge-Trail – Etappe 3",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Nockberge-Trail – 3. Etappe",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/nockberge-trail-skitour-kaernten-etappe3_1866.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.922908,
+          "lon": 13.870751
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Villach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Dobratsch",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Dobratsch von der Aichingerhütte",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2166.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/dobratsch-von-der-aichingerhuette/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.596657,
+          "lon": 13.713735
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Weissensee Ostufer",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Latschur",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Latschur über Almspitz und Fellberger Alm",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2236.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/latschur-ueber-almspitz-und-fellberger-alm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.703142,
+          "lon": 13.415069
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Weißenbach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Spitzegel",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Spitzegel Nordrinne",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2119.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/spitzegel-nordrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.684266,
+          "lon": 13.439362
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Windisch-Bleiberg",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hochstuhl",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hochstuhl Ostkar über Wertatschakar",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2237.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hochstuhl-ostkar-ueber-wertatschakar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.467715,
+          "lon": 14.21537
+        },
+        {
+          "nome": "Bielschitza",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Bielschitza über Wertatschakar",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1056.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1958.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/bielschitza-ueber-wertatschakar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.467715,
+          "lon": 14.21537
+        },
+        {
+          "nome": "Wertatscha",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Pautz-Y-Rinne - Wertatscha",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2180.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/pautz-y-rinne-wertatscha/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.4677,
+          "lon": 14.215451
+        },
+        {
+          "nome": "Wertatscha",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Wertatscha über Bodental",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2180.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/wertatscha-ueber-bodental/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.467714,
+          "lon": 14.215568
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Winklern",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Straßkopf",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Straßkopf von St. Benedikt",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1030.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2401.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/strasskopf-von-st-benedikt/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.8727127,
+          "lon": 12.8627818
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Zell Pfarre",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Meljnik",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Mejnik über Kobounikalm",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1517.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/mejnik-ueber-kobounikalm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.471636,
+          "lon": 14.37919
+        },
+        {
+          "nome": "Hochobir",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Hochobir Gipfelrinne",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2139.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hochobir-gipfelrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.508936,
+          "lon": 14.44618
+        },
+        {
+          "nome": "Loibler Baba",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Loibler Baba von Zell-Oberwinkel über den Hajnžsattel",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1969.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/loibler-baba-von-zell-oberwinkel-ueber-den-hajnzsattel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.472805,
+          "lon": 14.336365
+        },
+        {
+          "nome": "Loibler Baba",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Loibler Baba Nordrinne",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1969.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/loibler-baba-nordrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.472842,
+          "lon": 14.336537
+        },
+        {
+          "nome": "Koschutnikturm",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Koschutnikturm Ost Schlucht",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2136.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/koschutnikturm-ost-schlucht/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.464096,
+          "lon": 14.436284
+        },
+        {
+          "nome": "Lärchenberg",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Lärchenberg - Lärchenschlucht",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2080.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/laerchenberg-laerchenschlucht/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.471555,
+          "lon": 14.379592
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Zlan",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Seetalernock",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Seetalernock - in die Kapelleralm",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2130.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/seetalernock-in-die-kapelleralm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.751719,
+          "lon": 13.461635
         }
       ],
       "lat": null,

@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2994.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -58,7 +57,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3970.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -86,7 +84,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3970.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -114,7 +111,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3970.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -142,7 +138,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4158.0,
-              "discesa": "per la stessa via.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -170,7 +165,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4107.0,
-              "discesa": "lungo la via normale del Monch,quasi sempre ben tracciata visto l'alta frequentazione fino allo Jungfraujoch dove con il trenino riporta a Grindelwald",
               "links": [
                 {
                   "provider": "gulliver",
@@ -198,7 +192,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4107.0,
-              "discesa": "si segue la normale (molto frequentata) molto affilata ed esposta la cresta all'inizio (magnifica) poi più facile con alcuni tratti da disarrampicare 2-3 ore",
               "links": [
                 {
                   "provider": "gulliver",
@@ -226,7 +219,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4078.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -254,7 +246,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4078.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -282,7 +273,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4078.0,
-              "discesa": "lungo la cresta SO (normale) con numerose doppie in loco (corde da 30m).",
               "links": [
                 {
                   "provider": "gulliver",
@@ -294,6 +284,33 @@
           ],
           "lat": 46.62321069,
           "lon": 8.046884536
+        },
+        {
+          "nome": "Eiger",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Eiger",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850.0,
+              "lunghezzaKm": 8.2,
+              "pendioMassimo": null,
+              "quotaMassima": 3970.0,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/eiger-hochtour-ueberschreitung-mittellegigrat-suedgrat_1500.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.623211,
+          "lon": 8.024139
         }
       ],
       "lat": null,
@@ -318,7 +335,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4273.0,
-              "discesa": "ritornati alla Fruhstuckplatz (3616 mt) si può tagliare per il ghiacciaio superiore alla base della cresta Sud-Est sino alla base del Gemschlicke. Att.ne: informarsi dello stato del ghiacciaio superiore dato che è molto crepacciato con fenditure in senso di marcia ! Dalla Frustuckplatz si scende sino al ghiacciaio dove giunge la traccia proveniente dalla F.hutte. Qui il percorso è evidente dato che si percorre il ghiacciaio in leggera ascesa verso la cresta SE (tenendosi a debita distanza (caduta pietre!) quindi con percorso logico ed intuitivo si divalla sino alle pietraie e nevai alla base del canale che porta al Gemschlicke. Nota: verso la parte inferiore si trovano ometti sulle pietraie che portano sino a un saltino di circa 30 metri (2 spit con cordone per doppia), da qui in breve al cono di deiezione del canale del Gemschlicke. Per il percorso precedente si ritorna alla diga e quindi all'auto.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -346,7 +362,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3631.0,
-              "discesa": "a ritroso sul percorso di salita.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -382,7 +397,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3220.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -418,7 +432,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3661.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -454,7 +467,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3503.0,
-              "discesa": "seguendo l’itinerario di salita",
               "links": [
                 {
                   "provider": "gulliver",
@@ -466,6 +478,41 @@
           ],
           "lat": 46.730903,
           "lon": 8.426894
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sustenpass",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Sustenhorn",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sustenhorn",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "2",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1415.0,
+              "lunghezzaKm": 6.5,
+              "pendioMassimo": 30.0,
+              "quotaMassima": 3503.0,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/sustenhorn-hochtour-normalweg_1792.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.713171,
+          "lon": 8.416024
         }
       ],
       "lat": null,

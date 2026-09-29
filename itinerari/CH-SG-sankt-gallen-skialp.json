@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2384.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2333.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -62,6 +60,33 @@
           ],
           "lat": 47.14600644177068,
           "lon": 9.434848558752437
+        },
+        {
+          "nome": "Chapf / Gamperney",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Chapf - Gampernei",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1545.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": 30.0,
+              "quotaMassima": 2043.0,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/chapf-gamperney-skitour_1901.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.179654,
+          "lon": 9.437286
         }
       ],
       "lat": null,
@@ -86,7 +111,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1450.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -122,7 +146,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2572.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -158,7 +181,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2235.0,
-              "discesa": "Altro",
               "links": [
                 {
                   "provider": "gulliver",
@@ -170,6 +192,41 @@
           ],
           "lat": 46.98888896,
           "lon": 9.339591264
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sevelen",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Hurst",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hurst",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 995.0,
+              "lunghezzaKm": 3.0,
+              "pendioMassimo": 30.0,
+              "quotaMassima": 1970.0,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/hurst-skitour-schweiz_1905.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.136054,
+          "lon": 9.454655
         }
       ],
       "lat": null,

@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4044.0,
-              "discesa": "Ghiacciaio",
               "links": [
                 {
                   "provider": "gulliver",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4043.0,
-              "discesa": "Ghiacciaio",
               "links": [
                 {
                   "provider": "gulliver",
@@ -86,7 +84,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2994.0,
-              "discesa": "Attraversa pendii ripidi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -114,7 +111,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2900.0,
-              "discesa": "Attraversa pendii ripidi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -142,7 +138,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3503.0,
-              "discesa": "Attraversa pendii ripidi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -178,7 +173,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2839.0,
-              "discesa": "Ski area",
               "links": [
                 {
                   "provider": "gulliver",
@@ -206,7 +200,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4273.0,
-              "discesa": "Ghiacciaio",
               "links": [
                 {
                   "provider": "gulliver",
@@ -234,7 +227,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3742.0,
-              "discesa": "Ghiacciaio",
               "links": [
                 {
                   "provider": "gulliver",
@@ -262,7 +254,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3666.0,
-              "discesa": "Ghiacciaio",
               "links": [
                 {
                   "provider": "gulliver",
@@ -274,6 +265,33 @@
           ],
           "lat": 46.60605412,
           "lon": 8.036499023
+        },
+        {
+          "nome": "Hollandia-Hütte Skidurchquerung",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hollandia-Hütte Skidurchquerung",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/hollandia-huette-skihochtour-berner-alpen_1781.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.624278,
+          "lon": 8.019862
         }
       ],
       "lat": null,
@@ -298,7 +316,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3962.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -326,7 +343,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 4099.0,
-              "discesa": "Su dorsale",
               "links": [
                 {
                   "provider": "gulliver",
@@ -362,7 +378,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3638.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -390,7 +405,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3448.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -418,7 +432,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2962.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -454,7 +467,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3247.0,
-              "discesa": "Ghiacciaio",
               "links": [
                 {
                   "provider": "gulliver",
@@ -490,7 +502,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3008.0,
-              "discesa": "Ghiacciaio",
               "links": [
                 {
                   "provider": "gulliver",
@@ -518,7 +529,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3420.0,
-              "discesa": "Ghiacciaio",
               "links": [
                 {
                   "provider": "gulliver",
@@ -546,7 +556,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3078.0,
-              "discesa": "Varie",
               "links": [
                 {
                   "provider": "gulliver",
@@ -558,6 +567,68 @@
           ],
           "lat": 46.72969,
           "lon": 8.447844
+        },
+        {
+          "nome": "Sustenhorn",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Sustenhorn",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1650.0,
+              "lunghezzaKm": 8.3,
+              "pendioMassimo": null,
+              "quotaMassima": 3503.0,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/sustenhorn-skitour-urner-alpen_1730.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.73087,
+          "lon": 8.427368
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mürren",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Hundshorn",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Hundshorn vom Schilthorn aus",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2929.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hundshorn-vom-schilthorn-aus/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.55733397,
+          "lon": 7.83533301
         }
       ],
       "lat": null,

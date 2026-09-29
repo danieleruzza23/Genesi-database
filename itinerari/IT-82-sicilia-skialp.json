@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3323.0,
-              "discesa": "Attraversa pendii ripidi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3317.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -78,7 +76,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3240.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -106,7 +103,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2750.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -142,7 +138,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3300.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -170,7 +165,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2931.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -182,6 +176,33 @@
           ],
           "lat": 37.79361344,
           "lon": 15.03894313
+        },
+        {
+          "nome": "Ätna",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Ätna",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": 30.0,
+              "quotaMassima": 3323.0,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/aetna-skitour-sizilien-nordroute_1820.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 37.798168,
+          "lon": 15.03668
         }
       ],
       "lat": null,
@@ -206,7 +227,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3300.0,
-              "discesa": "Su dorsale",
               "links": [
                 {
                   "provider": "gulliver",
@@ -234,7 +254,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3250.0,
-              "discesa": "Varie",
               "links": [
                 {
                   "provider": "gulliver",
@@ -262,7 +281,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2845.0,
-              "discesa": "Altro",
               "links": [
                 {
                   "provider": "gulliver",
@@ -290,7 +308,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2450.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -302,6 +319,33 @@
           ],
           "lat": 37.614305,
           "lon": 15.026392
+        },
+        {
+          "nome": "Etna",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Etna Süd Skitour - Ätna",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1320.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3403.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/etna-sued-skitour-aetna/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 37.7001693,
+          "lon": 14.9989265
         }
       ],
       "lat": null,
@@ -326,7 +370,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3334.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -354,7 +397,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2869.0,
-              "discesa": null,
               "links": [
                 {
                   "provider": "gulliver",
@@ -390,7 +432,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2847.0,
-              "discesa": "Pendii ampi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -426,7 +467,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2672.0,
-              "discesa": "Attraversa pendii ripidi",
               "links": [
                 {
                   "provider": "gulliver",
@@ -462,7 +502,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2639.0,
-              "discesa": "Varie",
               "links": [
                 {
                   "provider": "gulliver",
@@ -498,21 +537,10 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2845,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1513014",
-                  "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/123087",
-                  "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51299",
                   "siteName": null
                 }
               ]
@@ -536,7 +564,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3000,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -564,7 +591,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3340,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -592,7 +618,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3286,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -620,7 +645,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3340,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -648,7 +672,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3340,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -676,7 +699,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3340,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -704,7 +726,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3340,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -732,7 +753,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2644,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -760,7 +780,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3340,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -788,7 +807,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2931,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -800,6 +818,68 @@
           ],
           "lat": 37.775951,
           "lon": 14.991013
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Zafferana",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Etna",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Etna Skitour Nord - Ätna",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1570.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3403.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/etna-skitour-nord-aetna/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 37.7982702,
+          "lon": 15.0366037
+        },
+        {
+          "nome": "Pizzi Deneri",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Pizzi Deneri Skitour Etna Nord - Ätna",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1025.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2845.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/pizzi-deneri-skitour-etna-nord-aetna/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 37.7982702,
+          "lon": 15.0366037
         }
       ],
       "lat": null,

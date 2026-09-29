@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2335,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -78,7 +76,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2369,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -106,7 +103,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2829,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -134,7 +130,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2926,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -162,7 +157,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2995,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -190,7 +184,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2995,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -218,7 +211,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2465,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -246,7 +238,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2386,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -274,7 +265,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1870,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -302,7 +292,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2369,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -330,7 +319,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2251,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -358,7 +346,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2829,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -370,6 +357,41 @@
           ],
           "lat": 47.466986,
           "lon": 13.614564
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ramsau am Dachstein",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hoher Dachstein",
+          "disciplina": "mountaineering",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Dachstein über den Randkluftsteig",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 430.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2995.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/hochtour/dachstein-ueber-den-randkluftsteig/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.46819,
+          "lon": 13.62624
         }
       ],
       "lat": null,

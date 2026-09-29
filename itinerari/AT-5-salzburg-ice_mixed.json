@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "su Abalakov.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "in parte attrezzata a fix con catena.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -78,7 +76,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "da un'albero cordonato all' uscita, poi Abalakov.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -90,6 +87,3633 @@
           ],
           "lat": 47.06741792,
           "lon": 13.12871154
+        },
+        {
+          "nome": "Kötschachtal",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Akarfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 135.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/akarfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1026,
+          "lon": 13.2114
+        },
+        {
+          "nome": "Gastein",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Futurewall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/futurewall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.07084,
+          "lon": 13.06695
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Berchtesgaden",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hoher Göll",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Göll Ostwand",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "50°",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 820.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2522.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/goell-ostwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.6009,
+          "lon": 13.0758
+        },
+        {
+          "nome": "Hoher Göll",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Präludium Göll Ostwand",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2522.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/praeludium-goell-ostwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.60055,
+          "lon": 13.06918
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bucheben",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Rauristal",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Vergissmeinnicht",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1300.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/vergissmeinnicht-1/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.11186067,
+          "lon": 12.98064709
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Böckstein",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Böckstein /Gastein",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Dreikönigsfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/dreikoenigsfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0789,
+          "lon": 13.1382
+        },
+        {
+          "nome": "Anlauftal",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Federweissfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/federweissfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0669,
+          "lon": 13.1285
+        },
+        {
+          "nome": "Anlauftal",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Fenstergucker",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/fenstergucker-1/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0666,
+          "lon": 13.1289
+        },
+        {
+          "nome": "Böckstein",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Weisser Hai",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/weisser-hai/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0915,
+          "lon": 13.1128
+        },
+        {
+          "nome": "Anlauftal",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Mordor",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/mordor/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0677,
+          "lon": 13.1259
+        },
+        {
+          "nome": "Alraunewand",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Chohiba",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/chohiba/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0868,
+          "lon": 13.1006
+        },
+        {
+          "nome": "Alraunewand",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Adrenalin",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/adrenalin/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0838,
+          "lon": 13.0917
+        },
+        {
+          "nome": "Bereich Mautstation",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Rechter Doppellutscher",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/rechter-doppellutscher/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0772,
+          "lon": 13.0947
+        },
+        {
+          "nome": "Bereich Mautstation",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Linker Doppellutscher",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/linker-doppellutscher/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0775,
+          "lon": 13.0941
+        },
+        {
+          "nome": "Siglitztal",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Spieglein an der Wand",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/spieglein-an-der-wand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.05880164,
+          "lon": 13.02817583
+        },
+        {
+          "nome": "Sportgastein",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Solo für zwei",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/solo-fuer-zwei/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.04471608,
+          "lon": 13.0444622
+        },
+        {
+          "nome": "Sportgastein",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Weisser Hagenfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/weisser-hagenfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.03639463,
+          "lon": 13.08707714
+        },
+        {
+          "nome": "Anlauftal",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Höhkarfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/hoehkarfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0666,
+          "lon": 13.1323
+        },
+        {
+          "nome": "Mittlere Eisrinne",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Schareck",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "45° / 1+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 750.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3123.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schareck-mittlere-eisrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0491,
+          "lon": 13.0153
+        },
+        {
+          "nome": "Rechte Eisrinne",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Schareck",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 750.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3123.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schareck-rechte-eisrinne/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Schareck - Grace Line",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 750.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3123.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schareck-grace-line-rechte-eisrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.048,
+          "lon": 13.0136
+        },
+        {
+          "nome": "Anlauftal",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Black Pearl",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M9",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2386.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/?tx_webxbergsteigen_bergsteigen%5Baction%5D=show&tx_webxbergsteigen_bergsteigen%5Bcontroller%5D=tour&tx_webxbergsteigen_bergsteigen%5Btour%5D=25259&cHash=9121a2840e3acc0486c330e2b638ff09",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0656678,
+          "lon": 13.1358814
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Diesbach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Rauchkopf",
+          "disciplina": "ice_mixed",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Saukenrinne",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1953.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/saukenrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.494,
+          "lon": 12.8107
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Dorfgastein",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Klammberg",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Spiegelkabinett",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1200.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/spiegelkabinett/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Hot Dogs",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 50.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1200.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/hot-dogs/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2827,
+          "lon": 13.0775
+        },
+        {
+          "nome": "Neufangwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Ruinenorgel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1200.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/ruinenorgel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2789,
+          "lon": 13.0719
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ebenau",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Ochsenberg",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Linker Kraftwerksfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 85.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1487.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/linker-kraftwerksfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.76181595,
+          "lon": 13.18573952
+        },
+        {
+          "nome": "Ochsenberg - Strubklamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "50m Zapfen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 50.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1487.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/50m-zapfen/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.77311196,
+          "lon": 13.19682777
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Flachau",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Tischbühel Nordwestwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Omikron",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2195.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/omikron-tischbuehel-nordwestwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.236677,
+          "lon": 13.431559
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Fusch",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hoher Tenn",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hoher Tenn Nordwand",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "45°",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3368.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/hoher-tenn-nordwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.188,
+          "lon": 12.7577
+        },
+        {
+          "nome": "Großer Bärenkopf",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Bärenkopf Nordwand",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "45° / 1",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3396.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/baerenkopf-nordwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1324,
+          "lon": 12.729
+        },
+        {
+          "nome": "Großes Wiesbachhorn",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Wiesbachhorn NW-Wand",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "50° / 2",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3564.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/wiesbachhorn-nw-wand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1592,
+          "lon": 12.7512
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gerlos",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Wildgerlostal",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Wildgerlostal Eisfälle",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1700.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/wildgerlostal-eisfaelle/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.204,
+          "lon": 12.1059
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grüdig",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Untersberg",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Time",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1805.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/time-untersberg/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.72367,
+          "lon": 13.01039
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Harbach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Rauchkogel",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Froschmaul",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 25.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1875.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/froschmaul/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2168,
+          "lon": 13.1163
+        },
+        {
+          "nome": "Gasteinertal - Habach",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Remember to R.M",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1000.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/remember-to-rm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2189,
+          "lon": 13.1193
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hollersbach im Pinzgau",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hintersee",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Seezapfen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 18.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/seezapfen/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.19427469,
+          "lon": 12.4691391
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hüttschlag",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Kitzeck",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Kitzeck Eisfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 60.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2151.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/kitzeck-eisfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.15247191,
+          "lon": 13.29066753
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kaprun",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Schauu..",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 30.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schauu/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.25749404,
+          "lon": 12.737199069999999
+        },
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Oberer Teil / Thun-Klamm",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 30.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/oberer-teil-thun-klamm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2575086,
+          "lon": 12.74111509
+        },
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Unterer Teil / Thun-Klamm",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 40.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/unterer-teil-thun-klamm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.25882305,
+          "lon": 12.73826122
+        },
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Schnapp Dir die ....",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M8",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 40.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schnapp-dir-die/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2588,
+          "lon": 12.7379
+        },
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Frohes Alles",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 25.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/frohes-alles/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2586,
+          "lon": 12.738
+        },
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Traumsprung",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 30.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/traumsprung/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2582,
+          "lon": 12.737400000000001
+        },
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Zong",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/zong/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2582,
+          "lon": 12.7381
+        },
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Spaß Sport..",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 35.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/spass-sport/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2571,
+          "lon": 12.737
+        },
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Sonnentempler",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 35.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/sonnentempler/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.25812026,
+          "lon": 12.7372098
+        },
+        {
+          "nome": "Sigmund-Thun-Klamm",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Traumfänger",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M9+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 35.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/traumfaenger/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.25826589,
+          "lon": 12.73749948
+        },
+        {
+          "nome": "Kaprunertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Kesselfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/kesselfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.21872282,
+          "lon": 12.73004293
+        },
+        {
+          "nome": "Zefretgraben",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Kreuzbandfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI7-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 135.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2230.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/kreuzbandfall-zefretgraben/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.21558226,
+          "lon": 12.72145987
+        },
+        {
+          "nome": "Kaprunertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Eiskrampus",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/eiskrampus/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.203,
+          "lon": 12.7149
+        },
+        {
+          "nome": "Kaprunertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Eissalon",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/eissalon/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2085,
+          "lon": 12.7184
+        },
+        {
+          "nome": "Kaprunertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Grießbachfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/griessbachfall/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Eisausflug",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 190.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/eisausflug/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2063,
+          "lon": 12.7314
+        },
+        {
+          "nome": "Kaprunertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Singing in the Rain",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI7-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 210.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/singing-in-the-rain/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2064,
+          "lon": 12.7316
+        },
+        {
+          "nome": "Kaprunertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Christmas Present",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/christmas-present/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2064,
+          "lon": 12.731
+        },
+        {
+          "nome": "Nordwand Couloir",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Hohe Kammer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2636.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/hohe-kammer-nordwand-couloir/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.20743,
+          "lon": 12.70022
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kuchl",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Zinkenkopf",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Psycho Eisfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI7",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1336.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/psycho-eisfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.6446,
+          "lon": 13.1183
+        },
+        {
+          "nome": "Zinkenkopf",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Aramis Eisfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 60.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1336.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/aramis-eisfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.6443,
+          "lon": 13.1182
+        },
+        {
+          "nome": "Göll Ostwand",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Chepre",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 320.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/chepre/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.617576,
+          "lon": 13.079984
+        },
+        {
+          "nome": "Göll Ostwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Now or Never",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2522.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/now-or-never-goell-ostwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.597051,
+          "lon": 13.0805
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lend",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Klammberg",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Glaspalast",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 340.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1200.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/glaspalast/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.285,
+          "lon": 13.0774
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lungötz",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hochbrett",
+          "disciplina": "ice_mixed",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Zauber der Vergänglichkeit",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 640.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2312.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/zauber-der-vergaenglichkeit-hochbrett/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.50748,
+          "lon": 13.31018
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mittersill",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Felbertauern",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Amertaler Eisfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/amertaler-eisfall-felbertauern/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1550471,
+          "lon": 12.5359482
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Rechter Ödalmfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/rechter-oedalmfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1552,
+          "lon": 12.5357
+        },
+        {
+          "nome": "Felbertauern",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Reiteralm Eisfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 85.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1025.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/reiteralm-eisfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.22368154,
+          "lon": 12.48559713
+        },
+        {
+          "nome": "Felbertauern Nord",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Eisschild - Felbertal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1324.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/hintersee-eisschild/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.194097,
+          "lon": 12.4699102
+        },
+        {
+          "nome": "Hinterseealm",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Hintersee Eisfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1324.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/hintersee-eisfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.19444061,
+          "lon": 12.46700406
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Zylinder",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 65.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/zylinder/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1589,
+          "lon": 12.534
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Rechter Nordportalfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/rechter-nordportalfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1648,
+          "lon": 12.5345
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Linker Nordportalfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/linker-nordportalfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1642,
+          "lon": 12.5341
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Links Aussen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 50.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/links-aussen/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1639,
+          "lon": 12.5343
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Mittlerer Nordportalfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/mittlerer-nordportalfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1643,
+          "lon": 12.5341
+        },
+        {
+          "nome": "Lärchberg",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Wageralmfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/wageralmfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.20144243,
+          "lon": 12.50946879
+        },
+        {
+          "nome": "Lärchberg",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Wageralm Gully",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 178.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/wageralm-gully/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.19856303,
+          "lon": 12.51061678
+        },
+        {
+          "nome": "Lung",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Lung Eisfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2130.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/lung-eisfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2078786,
+          "lon": 12.5138998
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Nordportal Gully",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 145.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/nordportal-gully/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1668,
+          "lon": 12.5334
+        },
+        {
+          "nome": "Felbertauern",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Eisiges Klassenzimmer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 210.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2131.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/eisiges-klassenzimmer-felbertauern/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.23690087,
+          "lon": 12.48925567
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Lumberjack",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 115.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/lumberjack/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1649,
+          "lon": 12.5343
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Queen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M6",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/queen/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1669,
+          "lon": 12.532399999999999
+        },
+        {
+          "nome": "Felbertauern Nord",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Fuck the system",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/fuck-the-system-felbertauern-nord/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Gösser Virus",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/goesser-virus-felbertauern-nord/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1668,
+          "lon": 12.5334
+        },
+        {
+          "nome": "Felbertauern Nord",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "El Aspirante",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M6+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/el-aspirante-felbertauern-nord/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1641,
+          "lon": 12.5339
+        },
+        {
+          "nome": "Hintersee",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Countless hours",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1324.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/countless-hours-hintersee/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Das Schweigen der Lämmer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1324.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/das-schweigen-der-laemmer-hintersee/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Staudentschick",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M5",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1324.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/staudentschick-hintersee/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.191394,
+          "lon": 12.471352
+        },
+        {
+          "nome": "Felbertal",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Felber Mixed",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M6+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/felber-mixed-felbertal/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1639,
+          "lon": 12.5343
+        },
+        {
+          "nome": "Felbertauerntunnel",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Schau mal Mama, Ich bin ein Kletterer!",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 30.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schau-mal-mama-ich-bin-ein-kletterer/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1490902,
+          "lon": 12.5401533
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mittersill/Matrei",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Felbertauern Nord",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Wartepflicht",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/wartepflicht-felbertauern-nord/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.194,
+          "lon": 12.511
+        },
+        {
+          "nome": "Felbertauern Nord",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Nutze den Tag",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 40.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/nutze-den-tag-felbertauern-nord/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.154378,
+          "lon": 12.544189
+        },
+        {
+          "nome": "Felbertauern Nord",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Steinkar Galerie",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1900.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/steinkar-galerie-felbertauern-nord/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.15030936,
+          "lon": 12.54388265
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Neukirchen am Großvenediger",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hopffeldboden",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Back to the roots",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1067.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/back-to-the-roots/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2039,
+          "lon": 12.2469
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Niedernsill",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Grünseefälle",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Eiswalzer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/eiswalzer/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1551,
+          "lon": 12.6182
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rauris",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Eisarena Kolm-Saigurn",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Eisklettern Rauris",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 60.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3106.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/eisklettern-rauris-eisarena-kolm-saigurn/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.105,
+          "lon": 12.9918
+        },
+        {
+          "nome": "Kolm Saigurn",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Christ - Baum Rauristal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 60.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3106.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/christ-baum-rauristal-kolm-saigurn/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0665,
+          "lon": 12.9827
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rohrmoos",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hochgolling",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Linker und Rechter Hochgolling Fall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M6",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2862.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/linker-und-rechter-hochgolling-fall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.272393,
+          "lon": 13.767406
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Saalfelden",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Buchweißbachtal",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Monozack",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 740.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/monozack/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.47069,
+          "lon": 12.84473
+        },
+        {
+          "nome": "Buchweißbachtal",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Pumpolaris",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 740.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/pumpolaris/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.47069,
+          "lon": 12.84473
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schied",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Schied/Heugath - Großarltal",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Linker Breiteneben Fall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 75.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 900.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/linker-breiteneben-fall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.26582742,
+          "lon": 13.20827007
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schönfeld (ein Ortsteil der Gemeinde Thomatal)",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Stangnock",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Stangnock Nordwand G1",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 340.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2316.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/stangnock-nordwand-g1/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.984145,
+          "lon": 13.774646
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Strobl",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Sparber bei Strobl",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Seeblick Eisfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1502.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/seeblick-eisfall-sparber-bei-strobl/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.70093931,
+          "lon": 13.46224308
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Stuhlfelden",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Felbertauern Nord",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "El Nino",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/el-nino/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1641,
+          "lon": 12.5339
+        },
+        {
+          "nome": "Felbertauern Nord",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Toolf(l)ight",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/toolflight-felbertauern-nordportal/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.172,
+          "lon": 12.533
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Taxenbach",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Kitzlochklamm",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Weg der Balkone",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 700.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/weg-der-balkone/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.28736975,
+          "lon": 12.97399521
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Thalgau",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Schatzwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Schatzwand Nord à la Bardeck/Aigner",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 240.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1264.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schatzwand-nord-a-la-bardeckaigner/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.814989,
+          "lon": 13.320262
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Untertauern",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Koppen - Koppenwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "The Wall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 50.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1502.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/the-wall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.29204904,
+          "lon": 13.50717545
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Unterweißburg",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Zickenberg",
+          "disciplina": "ice_mixed",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Löxalmfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2000.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/loexalmfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.08621793,
+          "lon": 13.56418848
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Uttendorf",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Grünseefälle",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Schottenfeldgasse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/schottenfeldgasse-gruenseefaelle/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1569,
+          "lon": 12.6166
+        },
+        {
+          "nome": "Grünseefälle",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Devils Dance",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/devils-dance-gruenseefaelle/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1574,
+          "lon": 12.616
+        },
+        {
+          "nome": "Grünseefälle",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Eisfreundschaft",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/eisfreundschaft-gruenseefaelle/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1571,
+          "lon": 12.6157
+        },
+        {
+          "nome": "Grünseefälle",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Eiskanal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/eiskanal-gruenseefaelle/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1572,
+          "lon": 12.6165
+        },
+        {
+          "nome": "Grünseefälle",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Gläserne Madonna",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/glaeserne-madonna-gruenseefaelle/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Comme des Garçons",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/comme-des-garcons-gruenseefaelle/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1572,
+          "lon": 12.6162
+        },
+        {
+          "nome": "Enzinger Boden",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Braune Spur",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 55.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1650.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/braune-spur/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1638,
+          "lon": 12.6222
+        },
+        {
+          "nome": "Geierwand-Stubachtal",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Roundabout",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 240.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/roundabout/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.22890208,
+          "lon": 12.58059025
+        },
+        {
+          "nome": "Eisbodenwände",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Eisträumer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 50.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2250.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/eistraeumer/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1709,
+          "lon": 12.6252
+        },
+        {
+          "nome": "Unteres Stubachtal",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Erlkönig",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 900.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/erlkoenig/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.2266,
+          "lon": 12.5858
+        },
+        {
+          "nome": "Felbertauern Nord",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Friendly Fire",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 40.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/friendly-fire/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.154378,
+          "lon": 12.544189
+        },
+        {
+          "nome": "Grünseefälle",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Fahrenheit",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M8",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/fahrenheit-gruenseefaelle/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.154846,
+          "lon": 12.618614
+        },
+        {
+          "nome": "Grünseefälle",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Triptychon",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M7+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 175.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/triptychon-gruenseefaelle/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.156925,
+          "lon": 12.615599
+        },
+        {
+          "nome": "Grünseefälle",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Aug um Aug",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2323.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/aug-um-aug/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.157214,
+          "lon": 12.616682
+        },
+        {
+          "nome": "Enzingerboden",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Starkstrom",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M8-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2704.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/starkstrom-enzingerboden/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.16637336,
+          "lon": 12.62691417
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Uttendorf im Pinzgau",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Jaggeser",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Zirbeneck Eisfall im Stubachtal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2570.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/zirbeneck-eisfall-im-stubachtal/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1991,
+          "lon": 12.6326
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Viehofen.",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Glemmtal",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Bow man",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1762.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/bow-man-glemmtal/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.36111,
+          "lon": 12.76655
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Weißbach bei Lofer",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Kopfstein",
+          "disciplina": "ice_mixed",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Diesbachfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 55.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1528.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/diesbachfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.4987,
+          "lon": 12.8041
+        },
+        {
+          "nome": "Kopfstein",
+          "disciplina": "ice_mixed",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Kruch Zapfen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1528.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/kruch-zapfen/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.5019,
+          "lon": 12.7902
         }
       ],
       "lat": null,

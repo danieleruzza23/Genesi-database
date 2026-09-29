@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "senza difficoltà per il sentiero segnato sul fianco nord, per il quale si rientra in circa 1 ora al parcheggio a Selamatt.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "per un comodo sentiero segnato, inizialmenet un po' ripido (corda fissa), si discende tutto il fianco settentrionale e si rientra al parcheggio presso Langlitten in circa 1 ora.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -86,7 +84,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "in doppia",
               "links": [
                 {
                   "provider": "gulliver",
@@ -122,7 +119,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "facilmente per prati si raggiunge la vetta del Rosenboden e per sentiero alla stazione della funivia del Chaserrugg, dove si prende il sentiero che si insinua nel profondo vallone tra Hinterrugg e Chaserrugg e scende alla capanna Chammsassli (1742 m), in bellissima posizione panoramica tra le pareti e il lago, e quindi a Lusis (circa 2 ore dall'uscita).",
               "links": [
                 {
                   "provider": "gulliver",
@@ -150,7 +146,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": "risalire la cresta in direzione della cima principale dell' Hinderrugg. Dopo alcuni minuti si incrocia il sentiero che proviene dal Chaserrugg e lo si segue in discesa verso destra fino a ritornare alla base delle rocce dove lo si era abbandonato per attraversare a sinistra verso l'attacco.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -162,6 +157,41 @@
           ],
           "lat": 47.14663453,
           "lon": 9.309506867
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Wildhaus",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Wildhuser Schafberg",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Westriss",
+              "gradoObbligatorio": "7-",
+              "gradoMassimo": "7",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2373.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/westriss-wildhuser-schafberg/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.218253,
+          "lon": 9.348642
         }
       ],
       "lat": null,

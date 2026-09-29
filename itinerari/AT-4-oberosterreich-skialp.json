@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2948,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -50,7 +49,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2355,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -78,7 +76,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2995,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -106,7 +103,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2004,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -134,7 +130,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2388,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -162,7 +157,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2993,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -174,6 +168,691 @@
           ],
           "lat": 47.475865,
           "lon": 13.643016
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ardning",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Schwarzeck über Wurzeralm Piste",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Schwarzeck über Wurzeralm Piste",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 740.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/schwarzeck-wurzeralm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.627348,
+          "lon": 14.315792
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hallstatt",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hoher Dachstein",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Hoher Dachstein",
+              "gradoObbligatorio": "5",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2995.0,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/hoher-dachstein-skihochtour_776.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.557097,
+          "lon": 13.687124
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hinterstoder",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Steinerspitz",
+          "disciplina": "skialp",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Steinerspitz über untere Buchebnerreit",
+              "gradoObbligatorio": "1",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 547.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1203.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/steinerspitz-ueber-untere-buchebnerreit/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.664899,
+          "lon": 14.107236
+        },
+        {
+          "nome": "Grosser Priel",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Grosser Priel Nordwand",
+              "gradoObbligatorio": "5",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2515.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/grosser-priel-nordwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.692003,
+          "lon": 14.138857
+        },
+        {
+          "nome": "Temlberg",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Temlberg Ostrinne",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2331.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/temlberg-ostrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.691876,
+          "lon": 14.138821
+        },
+        {
+          "nome": "Feuertalberg",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Feuertalberg SO- Rinne und Meisenbergrinne",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2376.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/feuertalberg-so-rinne-und-meisenbergrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.691862,
+          "lon": 14.138941
+        },
+        {
+          "nome": "Schrocken",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Schrocken",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2281.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/schrocken/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.70037,
+          "lon": 14.15951
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kleinreifling",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Almkogel",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Almkogel von Kleinreifling",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 990.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1513.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/almkogel-von-kleinreifling/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.805817,
+          "lon": 14.604303999999999
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Obertraun",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hunerkogel",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Rumpler-Skitour (Gjaidstein-Umrundung) - Dachstein",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2687.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/rumpler-skitour-gjaidstein-umrundung/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.52305587,
+          "lon": 13.69306116
+        },
+        {
+          "nome": "Hoher Dachstein",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Rumpler Runde - Dachsteinwarte oder Dachstein Gipfel",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1330.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2995.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/rumpler-runde-dachstein/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.5160209,
+          "lon": 13.6740954
+        },
+        {
+          "nome": "Hoher Dachstein",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Simonyhütte vom Krippenstein",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 660.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2995.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/simonyhuette-vom-krippenstein/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.5176819,
+          "lon": 13.6699724
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rosenau am Hengstpass",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Schwazkogel",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Schwarzkogel vom Hengstpass",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1533.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/schwarzkogel-vom-hengstpass/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.703464,
+          "lon": 14.4596139
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Spital am Pyhrn",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Pyhrner Kampl",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Pyhrner Kampl und Loigistal von der Wurzeralm",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2241.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/pyhrner-kampl-und-loigistal-von-der-wurzeralm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.648078,
+          "lon": 14.254269
+        },
+        {
+          "nome": "Stubwieswipfel",
+          "disciplina": "skialp",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Stubwieswipfel",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1060.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1786.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/stubwieswipfel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.627365,
+          "lon": 14.315588
+        },
+        {
+          "nome": "Großer Pyhrgas",
+          "disciplina": "skialp",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Großer Pyhrgas - SW-Flanke u. Hasenbergrinne",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2244.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/grosser-pyhrgas-sw-flanke-u-hasenbergrinne/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.639382,
+          "lon": 14.365961
+        },
+        {
+          "nome": "Scheiblingstein",
+          "disciplina": "skialp",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Scheiblingstein über Pyhrgasgatterl",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2197.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/scheiblingstein-ueber-pyhrgasgatterl/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.639361,
+          "lon": 14.363683
+        },
+        {
+          "nome": "Rote Wand",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Rote Wand über Wurzeralm und Hals",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1872.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/rote-wand-ueber-wurzeralm-und-hals/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.627616,
+          "lon": 14.315905
+        },
+        {
+          "nome": "Karleck",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Karleck von der Bosruckhütte",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1582.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/karleck-von-der-bosruckhuette/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.639238,
+          "lon": 14.365839
+        },
+        {
+          "nome": "Arlingsattel",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Karleckrunde von der Bosruckhütte",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1425.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/karleckrunde-von-der-bosruckhuette/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.639434,
+          "lon": 14.365992
+        },
+        {
+          "nome": "Warscheneck",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Warscheneck über Frauenkar und Skilehrerweg",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1740.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2388.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/warscheneck-ueber-frauenkar-und-skilehrerweg/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.62763533,
+          "lon": 14.31503534
+        },
+        {
+          "nome": "Kreuzbauernspitz",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Kreuzbauernspitz über Piste - Wurzeralm",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1640.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kreuzbauernspitz-ueber-piste-wurzeralm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.627841,
+          "lon": 14.317254
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Windischgarsten",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Kleiner Pyhrgas",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Kleiner Pyhrgas durch das Eiskar",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2023.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kleiner-pyhrgas-durch-das-eiskar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.683195,
+          "lon": 14.390586
+        },
+        {
+          "nome": "Hocher Nock",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Hoher Nock Südanstieg von Rettenbach",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1380.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1963.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/hoher-nock-suedanstieg-von-rettenbach/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.746095,
+          "lon": 14.296497
         }
       ],
       "lat": null,

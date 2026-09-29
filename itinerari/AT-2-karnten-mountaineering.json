@@ -22,7 +22,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3798.0,
-              "discesa": "per la via di salita.",
               "links": [
                 {
                   "provider": "gulliver",
@@ -58,7 +57,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -86,7 +84,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -114,16 +111,10 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3360,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1106680",
-                  "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/293634",
                   "siteName": null
                 }
               ]
@@ -147,7 +138,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3254,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -175,7 +165,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3360,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -203,7 +192,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3252,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -231,7 +219,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2771,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -259,7 +246,6 @@
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3360,
-              "discesa": null,
               "links": [
                 {
                   "provider": "camptocamp",
@@ -271,6 +257,41 @@
           ],
           "lat": 47.015112,
           "lon": 13.34856
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Fusch",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Fuscherkarkopf",
+          "disciplina": "mountaineering",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Fuscherkarkopf NW (Nordwest) Grat",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3331.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/hochtour/fuscherkarkopf-nw-nordwest-grat-1/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.1064,
+          "lon": 12.7311
         }
       ],
       "lat": null,
