@@ -577,6 +577,192 @@
       ],
       "lat": null,
       "lon": null
+    },
+    {
+      "nome": "Kobarid",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Vrata",
+          "disciplina": "skialp",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Südwestflanke - Vrata / Lopatnik",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2014.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/suedwestflanke-vrata-lopatnik/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.273207,
+          "lon": 13.615183
+        },
+        {
+          "nome": "Krn",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Krn - Normalweg",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2245.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/krn-normalweg/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.241145,
+          "lon": 13.662958
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kranjska Gora",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Nad Sitom glava",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Nad Sitom glava - Normalroute",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2087.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/nad-sitom-glava-normalroute/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.43333,
+          "lon": 13.74323
+        },
+        {
+          "nome": "Kleine Mojstrovka",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Kleine Mojstrovka - Normalroute",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2332.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kleine-mojstrovka-normalroute/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.433523,
+          "lon": 13.74345
+        },
+        {
+          "nome": "Vrh Mlinarice",
+          "disciplina": "skialp",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Vrh Mlinarice",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2383.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/?tx_webxbergsteigen_bergsteigen%5Baction%5D=show&tx_webxbergsteigen_bergsteigen%5Bcontroller%5D=Tour&tx_webxbergsteigen_bergsteigen%5Btour%5D=25332&cHash=e76e078614f8dea9279d0418dfcafe87",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.407567,
+          "lon": 13.754677000000001
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Log pod Mangartom",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Piccolo Mangart",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Sagherzascharte - Piccolo Mangart",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2370.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/sagherzascharte-piccolo-mangart/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.41288,
+          "lon": 13.62269
+        }
+      ],
+      "lat": null,
+      "lon": null
     }
   ]
 }

@@ -1009,6 +1009,434 @@
       ],
       "lat": null,
       "lon": null
+    },
+    {
+      "nome": "Ferlach",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Veliki Vrh - Begunschitza",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Veliki Vrh - Großes Kar",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2060.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/veliki-vrh-grosses-kar/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Veliki Vrh - Gipfelkar",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2060.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/veliki-vrh-gipfelkar/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Veliki Vrh - Westkar",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2060.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/veliki-vrh-westkar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.43243,
+          "lon": 14.260215
+        },
+        {
+          "nome": "Pautz",
+          "disciplina": "skialp",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Pautz Südkar",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2024.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/pautz-suedkar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.432405,
+          "lon": 14.260122
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kranjska Gora",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Triglav",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Triglav Skitour via Krmatal",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1950.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2864.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/triglav-skitour-via-krmatal/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.385462,
+          "lon": 13.907321
+        },
+        {
+          "nome": "Vernar",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Vernar Normalroute",
+              "gradoObbligatorio": "2-3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2225.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/vernar-normalroute/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.3856,
+          "lon": 13.90732
+        },
+        {
+          "nome": "Mala Ponca",
+          "disciplina": "skialp",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Poncascharte Südanstieg - Mala Ponca",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2502.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/poncascharte-suedanstieg-mala-ponca/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.4444,
+          "lon": 13.77453
+        },
+        {
+          "nome": "Veliki Oltar",
+          "disciplina": "skialp",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Velika Dnina - Veliki Oltar",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2621.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/velika-dnina-veliki-oltar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.44396,
+          "lon": 13.77279
+        },
+        {
+          "nome": "Kriz",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Krizkar - Kriz",
+              "gradoObbligatorio": "2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2410.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/krizkar-kriz/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.4438,
+          "lon": 13.77282
+        },
+        {
+          "nome": "Lipnica",
+          "disciplina": "skialp",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Lipnica Normalroute",
+              "gradoObbligatorio": "3-4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2418.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/lipnica-normalroute/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.44393,
+          "lon": 13.77274
+        },
+        {
+          "nome": "Mali Razor",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Mali Razor Nordrinne",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2191.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/mali-razor-nordrinne/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Prisankkar",
+              "gradoObbligatorio": "1-2",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2191.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/prisankkar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.4443594,
+          "lon": 13.7745098
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mojstrana",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Vzhodne Glave",
+          "disciplina": "skialp",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Pragweg- Triglav",
+              "gradoObbligatorio": "4-5",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2314.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/pragweg-triglav/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.413744,
+          "lon": 13.848446
+        },
+        {
+          "nome": "Begunjski Vrh",
+          "disciplina": "skialp",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Cmir- Stiege - Begunjski Vrh",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2461.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/cmir-stiege-begunjski-vrh/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.418549,
+          "lon": 13.858731
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ratece",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Jalovec",
+          "disciplina": "skialp",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Kotsattel - Jalovec",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2645.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kotsattel-jalovec/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Kugy-Couloir - Jalovec",
+              "gradoObbligatorio": "4-5",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1650.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2645.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/kugy-couloir-jalovec/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.47647,
+          "lon": 13.72407
+        }
+      ],
+      "lat": null,
+      "lon": null
     }
   ]
 }

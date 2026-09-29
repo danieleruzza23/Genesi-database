@@ -1,0 +1,42 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Schriesheim",
+      "paese": "DE",
+      "pareti": [
+        {
+          "nome": "Schriesheim",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Tee mit Rum",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 12.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 449.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/tee-mit-rum-schriesheim/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 49.46892744,
+          "lon": 8.67829613
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

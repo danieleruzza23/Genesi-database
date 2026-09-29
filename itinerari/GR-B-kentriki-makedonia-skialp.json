@@ -1,0 +1,42 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Litochoro",
+      "paese": "GR",
+      "pareti": [
+        {
+          "nome": "Mytikas Mount Olymp",
+          "disciplina": "skialp",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Skitour Olymp Mytikas",
+              "gradoObbligatorio": "4-5",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2198.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/skitour/skitour-olymp-mytikas/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.1033844,
+          "lon": 22.4414177
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

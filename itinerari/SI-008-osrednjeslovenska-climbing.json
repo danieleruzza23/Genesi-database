@@ -1,0 +1,140 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Bad Eisenkappel (bzw. Kranj)",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Skuta",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Pfeilerkombi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 293.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2532.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/pfeilerkombi-skuta/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.360713,
+          "lon": 14.555617
+        },
+        {
+          "nome": "Struca",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Skandal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 185.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2464.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/skandal-struca/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "No pain no gain",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 185.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2464.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/no-pain-no-gain-struca/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.360713,
+          "lon": 14.555617
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kamnik",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Kogel",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Zupanova Smer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/zupanova-smer-kogel/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Kamniska Smer",
+              "gradoObbligatorio": "6+",
+              "gradoMassimo": "7+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/kamniska-smer-kogel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.354127,
+          "lon": 14.558558
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

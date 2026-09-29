@@ -1,0 +1,42 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Garmisch-Partenkirchen",
+      "paese": "DE",
+      "pareti": [
+        {
+          "nome": "Zugspitze",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Zugspitze",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2962.0,
+              "links": [
+                {
+                  "provider": "tourentipp",
+                  "url": "https://www.tourentipp.com/de/touren/zugspitze-bergtour-klettersteig_743.html",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.465004,
+          "lon": 11.045122
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

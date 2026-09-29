@@ -1,0 +1,42 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Demirkazik",
+      "paese": "TR",
+      "pareti": [
+        {
+          "nome": "Aladaglar",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Örümcek Women - Kayacik Towers",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "8",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2500.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/oeruemcek-women-kayacik-towers-aladaglar/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 37.816296,
+          "lon": 35.114467
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

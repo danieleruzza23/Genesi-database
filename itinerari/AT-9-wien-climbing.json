@@ -1,0 +1,42 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Wien",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Kahlenberg",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Kahlenberggrat",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "1-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 30.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 484.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/kahlenberggrat/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 48.2767,
+          "lon": 16.3419
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

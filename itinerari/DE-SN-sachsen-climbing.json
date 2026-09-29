@@ -1,0 +1,42 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Bad Schandau",
+      "paese": "DE",
+      "pareti": [
+        {
+          "nome": "Falkenstein",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Schusterweg Falkenstein",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": "4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 125.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 381.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/schusterweg-falkenstein/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 50.91739,
+          "lon": 14.199749
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

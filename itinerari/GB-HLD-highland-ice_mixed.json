@@ -1,0 +1,123 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Fort William",
+      "paese": "GB",
+      "pareti": [
+        {
+          "nome": "Ben Newis",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Tower Ridge",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M4-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1345.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/tower-ridge-ben-newis/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 56.801555,
+          "lon": -5.0009326
+        },
+        {
+          "nome": "Ben Nevis",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Creag Dhubh na Caillich Dry Tooling Crag",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M4",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 20.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1345.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/creag-dhubh-na-caillich-dry-tooling-crag/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 56.841345,
+          "lon": -5.0292317
+        },
+        {
+          "nome": "Ben Newis",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Point Five Gully",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 330.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1345.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/point-five-gully-ben-newis/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 56.7985054,
+          "lon": -5.0022211
+        },
+        {
+          "nome": "Ben Newis",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Hadrian’s Wall Direct",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M4",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 330.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1345.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/hadrians-wall-direct-ben-newis/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 56.7988315,
+          "lon": -5.0017168
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Taborno",
+      "paese": "ES",
+      "pareti": [
+        {
+          "nome": "Matterhorn Teneriffa",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Roque Taborno - Kaktusroute",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "2+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 707.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/roque-taborno-kaktusroute-matterhorn-teneriffa/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 28.5661717,
+          "lon": -16.2663954
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vilaflor",
+      "paese": "ES",
+      "pareti": [
+        {
+          "nome": "Normalweg",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Roques de Garcia, Kathedrale",
+              "gradoObbligatorio": "5",
+              "gradoMassimo": "5+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/roques-de-garcia-kathedrale-normalweg/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 28.22214891,
+          "lon": -16.63398743
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

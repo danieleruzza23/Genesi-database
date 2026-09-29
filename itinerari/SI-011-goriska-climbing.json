@@ -393,6 +393,192 @@
       ],
       "lat": null,
       "lon": null
+    },
+    {
+      "nome": "Bovec",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Mangart",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "EM 08",
+              "gradoObbligatorio": "6-",
+              "gradoMassimo": "6-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 365.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2677.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/em-08-mangart/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "WM 06",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "8",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 340.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2677.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/wm-06-mangart/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Südwestkante",
+              "gradoObbligatorio": "4+",
+              "gradoMassimo": "4+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 310.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2677.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/suedwestkante-mangart/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.44089,
+          "lon": 13.651028
+        },
+        {
+          "nome": "Mali Rateski Mangart",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Spit(x)fire",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7+/8-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 115.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2289.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/spitxfire-mali-rateski-mangart/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Unbekannte Route",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "8",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 95.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2289.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/unbekannte-route-mali-rateski-mangart/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.444931,
+          "lon": 13.649754
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kranjska Gora",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Planja",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Mansarda",
+              "gradoObbligatorio": "6+",
+              "gradoMassimo": "6+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2453.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/mansarda-planja/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.408207,
+          "lon": 13.782452
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Trenta",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Srebrnjak",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Bratovska smer - Weg der Brüder",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2099.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/bratovska-smer-weg-der-brueder-srebrnjak/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.3795178,
+          "lon": 13.6943695
+        }
+      ],
+      "lat": null,
+      "lon": null
     }
   ]
 }

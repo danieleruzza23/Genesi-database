@@ -1,0 +1,42 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Tatranská Lomnica",
+      "paese": "SK",
+      "pareti": [
+        {
+          "nome": "Jastrabia veza",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Corona",
+              "gradoObbligatorio": "10-",
+              "gradoMassimo": "11-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2139.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/corona/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 49.2109,
+          "lon": 20.2112
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

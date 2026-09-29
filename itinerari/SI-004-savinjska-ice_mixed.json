@@ -118,6 +118,41 @@
       ],
       "lat": null,
       "lon": null
+    },
+    {
+      "nome": "Logarska Dolina",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Mala Rinka Nordwand",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Vzhodna Smer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI3",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2230.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/vzhodna-smer-mala-rinka-nordwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.3695,
+          "lon": 14.599
+        }
+      ],
+      "lat": null,
+      "lon": null
     }
   ]
 }

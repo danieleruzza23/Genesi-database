@@ -1,0 +1,42 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Mestia",
+      "paese": "GE",
+      "pareti": [
+        {
+          "nome": "Gulba",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Pferderennen 02",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3725.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/pferderennen-02-gulba/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.111239,
+          "lon": 42.672243
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

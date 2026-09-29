@@ -658,6 +658,86 @@
       ],
       "lat": null,
       "lon": null
+    },
+    {
+      "nome": "Kranjska Gora",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Prisank",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Srednji Slap",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI4+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 165.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2574.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/srednji-slap-prisnak/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Desni Slap",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI5-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 245.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2574.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/desni-slap-prisnak/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.432066,
+          "lon": 13.761646
+        },
+        {
+          "nome": "Prednja Glava",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Zimska Smer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI6+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1684.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/zimska-smer-prednja-glava/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.441198,
+          "lon": 13.771323
+        }
+      ],
+      "lat": null,
+      "lon": null
     }
   ]
 }

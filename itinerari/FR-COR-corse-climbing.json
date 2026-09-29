@@ -1,0 +1,77 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Port Vecchio",
+      "paese": "FR",
+      "pareti": [
+        {
+          "nome": "Punta di u Diamante",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Punta di u Diamante",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "2+/3-",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1227.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/punta-di-u-diamante/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 41.695894,
+          "lon": 9.203272
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sari-Solenzara",
+      "paese": "FR",
+      "pareti": [
+        {
+          "nome": "Trois Soeurs",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Le Lézard Assoiffé",
+              "gradoObbligatorio": "6+",
+              "gradoMassimo": "7-/7",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 700.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/le-lezard-assoiffe-trois-soeurs/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 41.81371967,
+          "lon": 9.2695997
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

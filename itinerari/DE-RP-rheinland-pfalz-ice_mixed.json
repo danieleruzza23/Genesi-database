@@ -1,0 +1,104 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Brodenbach",
+      "paese": "DE",
+      "pareti": [
+        {
+          "nome": "Klopp",
+          "disciplina": "ice_mixed",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Kloppbachfälle",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI2",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 310.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/kloppbachfaelle/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 50.18552726,
+          "lon": 7.47233391
+        },
+        {
+          "nome": "Ruine Rauschenburg",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Rauschenburgfall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI2",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 9.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 287.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/rauschenburgfall/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 50.18390598,
+          "lon": 7.48027325
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Niederlahnstein",
+      "paese": "DE",
+      "pareti": [
+        {
+          "nome": "keiner (Lahntal)",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Ruppertsklamm",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI2",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 100.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/eisklettern/ruppertsklamm/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 50.3169,
+          "lon": 7.6270299999999995
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

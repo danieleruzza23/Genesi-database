@@ -1,0 +1,157 @@
+{
+  "formato": "4monkeys-itinerari",
+  "versione": 1,
+  "esportato": "2026-09-29T00:00:00Z",
+  "luoghi": [
+    {
+      "nome": "Bast",
+      "paese": "HR",
+      "pareti": [
+        {
+          "nome": "Kuranik",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Boogie Woogie - Osičine",
+              "gradoObbligatorio": "5",
+              "gradoMassimo": "5+/6-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/?tx_webxbergsteigen_bergsteigen%5Baction%5D=show&tx_webxbergsteigen_bergsteigen%5Bcontroller%5D=Tour&tx_webxbergsteigen_bergsteigen%5Btour%5D=25462&cHash=11984a2f2e1e841e1d9559fd59046c37",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Pelinkovac on the rock(s) - Osičine",
+              "gradoObbligatorio": "6",
+              "gradoMassimo": "7-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 195.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 850.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/?tx_webxbergsteigen_bergsteigen%5Baction%5D=show&tx_webxbergsteigen_bergsteigen%5Bcontroller%5D=Tour&tx_webxbergsteigen_bergsteigen%5Btour%5D=25504&cHash=18b9c296c8d5fc9b9cbcd4630a003923",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.354498,
+          "lon": 17.003134
+        },
+        {
+          "nome": "Križ",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "River Dance",
+              "gradoObbligatorio": "6",
+              "gradoMassimo": "7/7+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 330.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 450.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/?tx_webxbergsteigen_bergsteigen%5Baction%5D=show&tx_webxbergsteigen_bergsteigen%5Bcontroller%5D=Tour&tx_webxbergsteigen_bergsteigen%5Btour%5D=25523&cHash=c50cc6aa642334fe21cd32048f734f81",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.359282,
+          "lon": 16.990568
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Omis",
+      "paese": "HR",
+      "pareti": [
+        {
+          "nome": "Komornjak",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Happy Rock Street",
+              "gradoObbligatorio": "7-",
+              "gradoMassimo": "7",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/happy-rock-street/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.4491313,
+          "lon": 16.6889531
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Podaspilje",
+      "paese": "HR",
+      "pareti": [
+        {
+          "nome": "Cetina Canyon Omis",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Pipeline",
+              "gradoObbligatorio": "7+",
+              "gradoMassimo": "8-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 863.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/pipeline-cetina-canyon-omis/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.42930629,
+          "lon": 16.73724917
+        }
+      ],
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
