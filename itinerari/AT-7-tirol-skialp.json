@@ -5591,6 +5591,33 @@
           "esposizione": null,
           "itinerari": [
             {
+              "nome": "Traversée E→W par Kreuzerschneide (Jubiläumsgrat)",
+              "gradoObbligatorio": "PD+",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3774,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1499028",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.885271,
+          "lon": 10.86721
+        },
+        {
+          "nome": "Wildspitze – via S-Couloir",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
               "nome": "Sud",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -5607,7 +5634,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.885271,
+          "lon": 10.86721
+        },
+        {
+          "nome": "Wildspitze – via Rofenkarferner and N-flanc",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -5622,24 +5658,6 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1891303",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Traversée E→W par Kreuzerschneide (Jubiläumsgrat)",
-              "gradoObbligatorio": "PD+",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3774,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1499028",
                   "siteName": null
                 }
               ]
@@ -5676,7 +5694,7 @@
           "lon": 10.293989
         },
         {
-          "nome": "Wildlahnerscharte",
+          "nome": "Wildlahnerscharte – From Schmirn",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -5730,7 +5748,7 @@
           "lon": 11.286905
         },
         {
-          "nome": "Axamer Lizum",
+          "nome": "Axamer Lizum – Hochtennscharte N-Couloirs",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -5757,7 +5775,7 @@
           "lon": 11.293019
         },
         {
-          "nome": "Hinterer Spiegelkogel",
+          "nome": "Hinterer Spiegelkogel – Depuis Vent",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -5811,7 +5829,7 @@
           "lon": 11.306715
         },
         {
-          "nome": "Östliche Simonyspitze",
+          "nome": "Östliche Simonyspitze – po dolini Maurertal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -5865,7 +5883,7 @@
           "lon": 10.338692
         },
         {
-          "nome": "Karleskopf",
+          "nome": "Karleskopf – Da Namlos per il Treiensee",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -5919,7 +5937,7 @@
           "lon": 10.2405
         },
         {
-          "nome": "Watzespitze",
+          "nome": "Watzespitze – Face E - depuis Plangeross",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6027,7 +6045,7 @@
           "lon": 11.644986
         },
         {
-          "nome": "Kirchspitze",
+          "nome": "Kirchspitze – from Gerlos",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6054,7 +6072,7 @@
           "lon": 12.032503
         },
         {
-          "nome": "Weisskopfkogel",
+          "nome": "Weisskopfkogel – De Aurach",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6081,7 +6099,7 @@
           "lon": 12.500758
         },
         {
-          "nome": "Stuckkogel",
+          "nome": "Stuckkogel – De Pletzergraben",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6108,7 +6126,7 @@
           "lon": 12.46551
         },
         {
-          "nome": "Winnebacher Weißkogel",
+          "nome": "Winnebacher Weißkogel – depuis Lüsens",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6135,7 +6153,7 @@
           "lon": 11.062408
         },
         {
-          "nome": "Schönbichl",
+          "nome": "Schönbichl – depuis Praxmar",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6162,7 +6180,7 @@
           "lon": 11.123636
         },
         {
-          "nome": "Markinkele / Marchkinkele / Cornetto di Confine",
+          "nome": "Markinkele / Marchkinkele / Cornetto di Confine – depuis Innervillgraten",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6183,7 +6201,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.785661,
+          "lon": 12.354047
+        },
+        {
+          "nome": "Markinkele / Marchkinkele / Cornetto di Confine – Da E",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -6207,7 +6234,7 @@
           "lon": 12.354047
         },
         {
-          "nome": "Monte Cavallino",
+          "nome": "Monte Cavallino – da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6234,7 +6261,7 @@
           "lon": 12.568335
         },
         {
-          "nome": "Westliche Dremelscharte",
+          "nome": "Westliche Dremelscharte – Da Boden per la Angerletal e l’Hanauer Hutte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6261,7 +6288,7 @@
           "lon": 10.588326
         },
         {
-          "nome": "Silleskogel",
+          "nome": "Silleskogel – versant N depuis le Valsertal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6387,7 +6414,7 @@
           "lon": 11.09648
         },
         {
-          "nome": "Zahme Leck",
+          "nome": "Zahme Leck – Couloirs E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6414,7 +6441,7 @@
           "lon": 11.063264
         },
         {
-          "nome": "Wütenkarspitzen",
+          "nome": "Wütenkarspitzen – Par l'arête",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6468,7 +6495,7 @@
           "lon": 10.343269
         },
         {
-          "nome": "Mittle Sommerwand ",
+          "nome": "Mittle Sommerwand  – Par le vallon de Sommerwandferner",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6495,7 +6522,7 @@
           "lon": 11.160322
         },
         {
-          "nome": "Kreuzkamp",
+          "nome": "Kreuzkamp – Couloir SE de l'arête E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6543,7 +6570,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 47.039722,
+          "lon": 11.143333
+        },
+        {
+          "nome": "Ruderhofspitze – Da S",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -6567,7 +6603,7 @@
           "lon": 11.143333
         },
         {
-          "nome": "Westliche Schwarzenbergspitze",
+          "nome": "Westliche Schwarzenbergspitze – Épaule N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6594,7 +6630,7 @@
           "lon": 11.11644
         },
         {
-          "nome": "Torhelm",
+          "nome": "Torhelm – depuis Kühle Rast",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6621,7 +6657,7 @@
           "lon": 11.976147
         },
         {
-          "nome": "Stüdlhütte",
+          "nome": "Stüdlhütte – da Lucknerhaus (val Ködnitztal)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6675,7 +6711,7 @@
           "lon": 11.169329
         },
         {
-          "nome": "Praxmarer Griesskogel",
+          "nome": "Praxmarer Griesskogel – Depuis Praxmar",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6756,7 +6792,7 @@
           "lon": 10.232944
         },
         {
-          "nome": "Kreuzjoch",
+          "nome": "Kreuzjoch – depuis la route de Kühtai",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6804,7 +6840,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.866389,
+          "lon": 10.2325
+        },
+        {
+          "nome": "Grenzeckkopf / Piz Faschalba – da Pra da Punt (o in traversata da Scuol dopo aver sciato il Piz Tasna per il pendio SW)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -6828,7 +6873,7 @@
           "lon": 10.2325
         },
         {
-          "nome": "Punta di Finale",
+          "nome": "Punta di Finale – Traversata W-E ; da Maso Corto al Rifugio Similaun",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6882,7 +6927,7 @@
           "lon": 11.494247
         },
         {
-          "nome": "Sattelberg / Monte Sella al Brennero",
+          "nome": "Sattelberg / Monte Sella al Brennero – par Sattelbergalm",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6909,7 +6954,7 @@
           "lon": 11.483731
         },
         {
-          "nome": "Eggerberg",
+          "nome": "Eggerberg – depuis Nösslach",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6963,7 +7008,7 @@
           "lon": 12.049301
         },
         {
-          "nome": "Lahnkopf",
+          "nome": "Lahnkopf – de Greit",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6990,7 +7035,7 @@
           "lon": 10.608242
         },
         {
-          "nome": "Obere Ochsenscharte",
+          "nome": "Obere Ochsenscharte – Traversée E > W (Jamtal Hütte > Wiesbadener Hütte)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7017,7 +7062,7 @@
           "lon": 10.144459
         },
         {
-          "nome": "Hohe Warte (Navis)",
+          "nome": "Hohe Warte (Navis) – versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7049,24 +7094,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1140,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2640,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/854888",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Da W",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -7089,7 +7116,34 @@
           "lon": 11.521111
         },
         {
-          "nome": "Grafmartspitze",
+          "nome": "Pfoner Kreuzjöchl – depuis Navis",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1140,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2640,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/854888",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.161111,
+          "lon": 11.521111
+        },
+        {
+          "nome": "Grafmartspitze – Depuis Navis",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7143,7 +7197,7 @@
           "lon": 10.145533
         },
         {
-          "nome": "Hauslabkogel",
+          "nome": "Hauslabkogel – NE from Martin-Busch-Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7170,7 +7224,7 @@
           "lon": 10.86665
         },
         {
-          "nome": "Kreuzkogel",
+          "nome": "Kreuzkogel – E from Martin-Busch-Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7197,7 +7251,7 @@
           "lon": 10.86269
         },
         {
-          "nome": "Lizumer Huette",
+          "nome": "Lizumer Huette – depuis Lager Walchen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7350,7 +7404,7 @@
           "lon": 10.147812
         },
         {
-          "nome": "Martin-Busch-Hütte  / Samoar Hütte ",
+          "nome": "Martin-Busch-Hütte  / Samoar Hütte  – Da Vent per la Niedertal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7476,7 +7530,7 @@
           "lon": 11.109267
         },
         {
-          "nome": "Südlichste Sonnenwand",
+          "nome": "Südlichste Sonnenwand – NE, de Pforzeimer Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7611,7 +7665,7 @@
           "lon": 11.081146
         },
         {
-          "nome": "Samerschlag",
+          "nome": "Samerschlag – N from Pforzheimer Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7719,7 +7773,7 @@
           "lon": 10.779657
         },
         {
-          "nome": "Kreuzkogel",
+          "nome": "Kreuzkogel – Traversée E- W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7791,7 +7845,7 @@
           "lon": 10.824885
         },
         {
-          "nome": "Rosenjoch",
+          "nome": "Rosenjoch – en traversée de la Glungezer Hütte à Tulfes par le Voldertal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7818,7 +7872,7 @@
           "lon": 11.538671
         },
         {
-          "nome": "Wildes Hinterbergl",
+          "nome": "Wildes Hinterbergl – Par le glacier de berglasferner",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7845,7 +7899,7 @@
           "lon": 11.106944
         },
         {
-          "nome": "Gehrner Berg",
+          "nome": "Gehrner Berg – Von Gehren",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7872,7 +7926,7 @@
           "lon": 10.181687
         },
         {
-          "nome": "Steinberg",
+          "nome": "Steinberg – Per il versante E da Gasthaus Steinberg (Rettenbach)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7926,7 +7980,7 @@
           "lon": 12.20512
         },
         {
-          "nome": "Vorderer Wilder Turm",
+          "nome": "Vorderer Wilder Turm – Ascent via Turmscharte, descent via Turmferner",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7953,7 +8007,7 @@
           "lon": 11.119261
         },
         {
-          "nome": "Grossvenediger",
+          "nome": "Grossvenediger – da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8088,7 +8142,7 @@
           "lon": 11.054489
         },
         {
-          "nome": "Tribulaun di Dentro (o di Gschnitz)",
+          "nome": "Tribulaun di Dentro (o di Gschnitz) – Per la Schneetal e la cresta E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8115,7 +8169,7 @@
           "lon": 11.353385
         },
         {
-          "nome": "Hinterer Daunkopf",
+          "nome": "Hinterer Daunkopf – per la Gamsgarten e il vallone E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8142,7 +8196,7 @@
           "lon": 11.126134
         },
         {
-          "nome": "Habicht",
+          "nome": "Habicht – dalla Gschniztal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8169,7 +8223,7 @@
           "lon": 11.306708
         },
         {
-          "nome": "Mislkopf",
+          "nome": "Mislkopf – da Navis",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8196,7 +8250,7 @@
           "lon": 11.5186
         },
         {
-          "nome": "Mutaspitz",
+          "nome": "Mutaspitz – da Vals per il versante SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8277,7 +8331,7 @@
           "lon": 11.10559
         },
         {
-          "nome": "Hinterer Daunkopf",
+          "nome": "Hinterer Daunkopf – Dall'Amberger Hutte per il Daunjoch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8439,7 +8493,7 @@
           "lon": 10.946767
         },
         {
-          "nome": "Ruderhofspitze",
+          "nome": "Ruderhofspitze – Traversata N-S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8466,7 +8520,7 @@
           "lon": 11.172934
         },
         {
-          "nome": "Ponten",
+          "nome": "Ponten – Da Schattwald per il versante N e la cresta SW.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8763,7 +8817,7 @@
           "lon": 11.440865
         },
         {
-          "nome": "Waldrasterjochl",
+          "nome": "Waldrasterjochl – le long des torrents du versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8817,7 +8871,7 @@
           "lon": 12.26572
         },
         {
-          "nome": "Floch",
+          "nome": "Floch – Versant NE (voie normale)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8844,7 +8898,7 @@
           "lon": 12.2622
         },
         {
-          "nome": "Hinterer Daunkopf",
+          "nome": "Hinterer Daunkopf – N, dal Daunkopfferner",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8871,7 +8925,7 @@
           "lon": 11.130571
         },
         {
-          "nome": "Nördliche Hohe Wilde",
+          "nome": "Nördliche Hohe Wilde – Arête NW (voie normale) par le Langtaler Ferner",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8898,7 +8952,7 @@
           "lon": 11.011799
         },
         {
-          "nome": "Hochvernagtspitze",
+          "nome": "Hochvernagtspitze – Traversata Rofental (Hochjoch-Hospiz) → Pitztal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8925,7 +8979,7 @@
           "lon": 10.793889
         },
         {
-          "nome": "Similaun",
+          "nome": "Similaun – Da Vent per la Niedertal ed il versante NW. Traversata Vent-Hochjoch Hospiz.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8952,7 +9006,7 @@
           "lon": 10.871511
         },
         {
-          "nome": "Wildspitze",
+          "nome": "Wildspitze – Da Mittelberg J. per il Taschachferner e la cresta SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9006,7 +9060,7 @@
           "lon": 10.150783
         },
         {
-          "nome": "Hintere Jamspitz",
+          "nome": "Hintere Jamspitz – Par le Jamtal Ferner",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9033,7 +9087,7 @@
           "lon": 10.164674
         },
         {
-          "nome": "Hinterer Tajakopf",
+          "nome": "Hinterer Tajakopf – Durch Igelskar",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9060,7 +9114,7 @@
           "lon": 10.946944
         },
         {
-          "nome": "Wildspitze",
+          "nome": "Wildspitze – par le Mitterkarjoch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9159,7 +9213,7 @@
           "lon": 10.847094
         },
         {
-          "nome": "Palla Bianca - Weißkugel",
+          "nome": "Palla Bianca - Weißkugel – Refuge Schöne Aussicht >> Hochjochhospiz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9213,7 +9267,7 @@
           "lon": 10.829049
         },
         {
-          "nome": "Hauslabkogel",
+          "nome": "Hauslabkogel – Martin-Busch-Hütte → Similaunhütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9267,7 +9321,7 @@
           "lon": 10.955299
         },
         {
-          "nome": "Grubenkopf / Monte delle Cave",
+          "nome": "Grubenkopf / Monte delle Cave – Per l'Obernberger See - da Gereit",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9294,7 +9348,7 @@
           "lon": 11.405275
         },
         {
-          "nome": "Gammerspitze",
+          "nome": "Gammerspitze – Versante N - da Rohrach",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9321,7 +9375,7 @@
           "lon": 11.576111
         },
         {
-          "nome": "Seblasspitze",
+          "nome": "Seblasspitze – Per la Brandstallalm",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9348,7 +9402,7 @@
           "lon": 11.246759
         },
         {
-          "nome": "Grossvenediger",
+          "nome": "Grossvenediger – En boucle depuis Matreier Tauernhaus, en passant par Rainer Horn et Hoher Zaun",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9375,7 +9429,7 @@
           "lon": 12.408278
         },
         {
-          "nome": "Winnebachjoch",
+          "nome": "Winnebachjoch – Traversée Winnebach >> Westfalenhaus Hutte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9402,7 +9456,7 @@
           "lon": 11.078946
         },
         {
-          "nome": "Wildofen",
+          "nome": "Wildofen – De Kolsassberg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9429,7 +9483,7 @@
           "lon": 11.673889
         },
         {
-          "nome": "Wildgratscharte",
+          "nome": "Wildgratscharte – de la Franz-Senn Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9456,7 +9510,7 @@
           "lon": 11.142784
         },
         {
-          "nome": "Kräulscharte",
+          "nome": "Kräulscharte – Depuis la cabane Franz-Senn",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9483,7 +9537,7 @@
           "lon": 11.153751
         },
         {
-          "nome": "Kesselspitze",
+          "nome": "Kesselspitze – par la combe SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9510,7 +9564,7 @@
           "lon": 11.39114
         },
         {
-          "nome": "Muttenkopf",
+          "nome": "Muttenkopf – par le Muttenjoch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9564,7 +9618,7 @@
           "lon": 12.188889
         },
         {
-          "nome": "Wildes Hinterbergl",
+          "nome": "Wildes Hinterbergl – per la Turmscharte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9618,7 +9672,7 @@
           "lon": 10.872158
         },
         {
-          "nome": "Rietzer Grießkogel",
+          "nome": "Rietzer Grießkogel – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9645,7 +9699,7 @@
           "lon": 11.057006
         },
         {
-          "nome": "Österreichischer Schinder",
+          "nome": "Österreichischer Schinder – depuis Valepp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9672,7 +9726,7 @@
           "lon": 11.861111
         },
         {
-          "nome": "Zwieselbacher Rosskogel",
+          "nome": "Zwieselbacher Rosskogel – da N, per la Hütte am Stoa",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9699,7 +9753,7 @@
           "lon": 11.065954
         },
         {
-          "nome": "Schöntalspitze",
+          "nome": "Schöntalspitze – en traversée E >> N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9726,7 +9780,7 @@
           "lon": 11.103323
         },
         {
-          "nome": "Lampsenspitze",
+          "nome": "Lampsenspitze – da E (da Praxmar)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9753,7 +9807,7 @@
           "lon": 11.114393
         },
         {
-          "nome": "Wetterkreuzkogel",
+          "nome": "Wetterkreuzkogel – En traversée par l'arête de Windegg Klein et Windegg Gross 2644 m",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9780,7 +9834,7 @@
           "lon": 10.964761
         },
         {
-          "nome": "Sulzkogel",
+          "nome": "Sulzkogel – traversée de Kühtai à Haggen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9812,24 +9866,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 635,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2285,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/49863",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Depuis Hainzenberg",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -9843,6 +9879,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/49859",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.193889,
+          "lon": 11.923611
+        },
+        {
+          "nome": "Gerlossteinwand – Par le couloir de Heinrich Harrer",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 635,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2285,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/49863",
                   "siteName": null
                 }
               ]
@@ -9906,7 +9969,7 @@
           "lon": 10.865206
         },
         {
-          "nome": "Grossvenediger",
+          "nome": "Grossvenediger – Traversata W-E Kürsingerhütte - Matreier Tauernhaus",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9933,7 +9996,7 @@
           "lon": 12.381721
         },
         {
-          "nome": "Grossglockner",
+          "nome": "Grossglockner – Versante S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9960,7 +10023,7 @@
           "lon": 12.690074
         },
         {
-          "nome": "Lasörling",
+          "nome": "Lasörling – Per la Mullitztal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9987,7 +10050,7 @@
           "lon": 12.358568
         },
         {
-          "nome": "Hohe Munde",
+          "nome": "Hohe Munde – Über Normalweg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10014,7 +10077,7 @@
           "lon": 11.081667
         },
         {
-          "nome": "Steinernes Mandl",
+          "nome": "Steinernes Mandl – Da Wildschonau",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10041,7 +10104,7 @@
           "lon": 12.035
         },
         {
-          "nome": "Lämpersberg",
+          "nome": "Lämpersberg – Da Wildschonau",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10068,7 +10131,7 @@
           "lon": 12.025278
         },
         {
-          "nome": "Breiteggern / Breiteck / Breitegg",
+          "nome": "Breiteggern / Breiteck / Breitegg – Da Wildschonau",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10095,7 +10158,7 @@
           "lon": 12.079722
         },
         {
-          "nome": "Schwaigberghorn",
+          "nome": "Schwaigberghorn – Da Wildschönau",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10122,7 +10185,7 @@
           "lon": 12.0875
         },
         {
-          "nome": "Feldalphorn",
+          "nome": "Feldalphorn – Da Wildschonau",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10149,7 +10212,7 @@
           "lon": 12.08529
         },
         {
-          "nome": "Zwieselbacher Rosskogel",
+          "nome": "Zwieselbacher Rosskogel – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10176,7 +10239,7 @@
           "lon": 11.073643
         },
         {
-          "nome": "Zollspitze",
+          "nome": "Zollspitze – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10203,7 +10266,7 @@
           "lon": 12.666614
         },
         {
-          "nome": "Zischgeles / Zischgelesspitze",
+          "nome": "Zischgeles / Zischgelesspitze – Da NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10257,7 +10320,7 @@
           "lon": 11.1557
         },
         {
-          "nome": "Weißspitze",
+          "nome": "Weißspitze – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10284,7 +10347,7 @@
           "lon": 12.379038
         },
         {
-          "nome": "Weißer Knoten",
+          "nome": "Weißer Knoten – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10365,7 +10428,7 @@
           "lon": 11.522588
         },
         {
-          "nome": "Vancomun",
+          "nome": "Vancomun – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10419,7 +10482,7 @@
           "lon": 11.666389
         },
         {
-          "nome": "Tarntaler Köpfe",
+          "nome": "Tarntaler Köpfe – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10446,7 +10509,7 @@
           "lon": 11.621944
         },
         {
-          "nome": "Südlicher Tarntaler Kopf",
+          "nome": "Südlicher Tarntaler Kopf – Da NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10500,7 +10563,7 @@
           "lon": 10.883483
         },
         {
-          "nome": "Schrankogel",
+          "nome": "Schrankogel – Da W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10635,7 +10698,7 @@
           "lon": 11.140284
         },
         {
-          "nome": "Schöntalspitze",
+          "nome": "Schöntalspitze – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10662,7 +10725,7 @@
           "lon": 11.089317
         },
         {
-          "nome": "Schöntalspitze",
+          "nome": "Schöntalspitze – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10689,7 +10752,7 @@
           "lon": 11.111141
         },
         {
-          "nome": "Schöntalspitze",
+          "nome": "Schöntalspitze – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10716,7 +10779,7 @@
           "lon": 11.116656
         },
         {
-          "nome": "Schönbichler Horn",
+          "nome": "Schönbichler Horn – Da NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10743,7 +10806,7 @@
           "lon": 11.77303
         },
         {
-          "nome": "Schafgrübler",
+          "nome": "Schafgrübler – Da SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10824,7 +10887,7 @@
           "lon": 11.870384
         },
         {
-          "nome": "Ruderhofspitze",
+          "nome": "Ruderhofspitze – Via normale dalla Franz-Senn Hutte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10878,7 +10941,7 @@
           "lon": 12.356113
         },
         {
-          "nome": "Romariswandkopf",
+          "nome": "Romariswandkopf – Da SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10932,7 +10995,7 @@
           "lon": 12.60545
         },
         {
-          "nome": "Quinto Corno di Ghega",
+          "nome": "Quinto Corno di Ghega – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10986,7 +11049,7 @@
           "lon": 10.822039
         },
         {
-          "nome": "Pürgleskunke / Pürglesgungge",
+          "nome": "Pürgleskunke / Pürglesgungge – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11013,7 +11076,7 @@
           "lon": 12.305261
         },
         {
-          "nome": "Pluderling",
+          "nome": "Pluderling – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11067,7 +11130,7 @@
           "lon": 12.173989
         },
         {
-          "nome": "Picco dei Tre Signori",
+          "nome": "Picco dei Tre Signori – Da E per l'Umball Kees",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11202,7 +11265,7 @@
           "lon": 11.1667
         },
         {
-          "nome": "Ödkarscharte",
+          "nome": "Ödkarscharte – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11229,7 +11292,7 @@
           "lon": 12.790641
         },
         {
-          "nome": "Westliche Simonyspitze",
+          "nome": "Westliche Simonyspitze – Da SE per la Reggen Törl",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11310,7 +11373,7 @@
           "lon": 11.899464
         },
         {
-          "nome": "Mölser Sonnenspitze",
+          "nome": "Mölser Sonnenspitze – Traversata E >> W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11337,7 +11400,7 @@
           "lon": 11.625463
         },
         {
-          "nome": "Mölser Berg",
+          "nome": "Mölser Berg – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11418,7 +11481,7 @@
           "lon": 12.293379
         },
         {
-          "nome": "Markinkele / Marchkinkele / Cornetto di Confine",
+          "nome": "Markinkele / Marchkinkele / Cornetto di Confine – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11445,7 +11508,7 @@
           "lon": 12.322775
         },
         {
-          "nome": "Mittlere Malhamspitze",
+          "nome": "Mittlere Malhamspitze – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11472,7 +11535,7 @@
           "lon": 12.267386
         },
         {
-          "nome": "Luckenkogel",
+          "nome": "Luckenkogel – Da SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11526,7 +11589,7 @@
           "lon": 11.613354
         },
         {
-          "nome": "Lizumer Reckner",
+          "nome": "Lizumer Reckner – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11580,7 +11643,7 @@
           "lon": 11.124759
         },
         {
-          "nome": "Lüsener Spitze",
+          "nome": "Lüsener Spitze – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11607,7 +11670,7 @@
           "lon": 11.162159
         },
         {
-          "nome": "Lüsener Fernerkogel",
+          "nome": "Lüsener Fernerkogel – Da NW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11634,7 +11697,7 @@
           "lon": 11.126739
         },
         {
-          "nome": "Lüsener Fernerkogel",
+          "nome": "Lüsener Fernerkogel – Da S per il Rinnensee",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11742,7 +11805,7 @@
           "lon": 11.089569
         },
         {
-          "nome": "Längentaler Weißer Kogel",
+          "nome": "Längentaler Weißer Kogel – Da NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11823,7 +11886,7 @@
           "lon": 12.315495
         },
         {
-          "nome": "Naviser Kreuzjöchl",
+          "nome": "Naviser Kreuzjöchl – Da W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11850,7 +11913,7 @@
           "lon": 11.583962
         },
         {
-          "nome": "Klammspitze",
+          "nome": "Klammspitze – Da SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11877,7 +11940,7 @@
           "lon": 11.631069
         },
         {
-          "nome": "Kasteneck",
+          "nome": "Kasteneck – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11904,7 +11967,7 @@
           "lon": 12.702545
         },
         {
-          "nome": "Innere Sommerwand",
+          "nome": "Innere Sommerwand – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11931,7 +11994,7 @@
           "lon": 11.175249
         },
         {
-          "nome": "Hoher Zaun",
+          "nome": "Hoher Zaun – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11958,7 +12021,7 @@
           "lon": 12.4375
         },
         {
-          "nome": "Hoher Zaun",
+          "nome": "Hoher Zaun – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11985,7 +12048,7 @@
           "lon": 12.368138
         },
         {
-          "nome": "Hoher Seeblaskogel",
+          "nome": "Hoher Seeblaskogel – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12039,7 +12102,7 @@
           "lon": 11.727778
         },
         {
-          "nome": "Hoher Bösring",
+          "nome": "Hoher Bösring – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12093,7 +12156,7 @@
           "lon": 12.360035
         },
         {
-          "nome": "Hochschober",
+          "nome": "Hochschober – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12120,7 +12183,7 @@
           "lon": 12.68448
         },
         {
-          "nome": "Monte Altacroce",
+          "nome": "Monte Altacroce – Da NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12174,7 +12237,7 @@
           "lon": 12.399825
         },
         {
-          "nome": "Hochgrabe",
+          "nome": "Hochgrabe – Da Ausservilgraten per la Winkeltal ed il versante N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12201,7 +12264,7 @@
           "lon": 12.427079
         },
         {
-          "nome": "Hochgasser",
+          "nome": "Hochgasser – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12228,7 +12291,7 @@
           "lon": 12.514892
         },
         {
-          "nome": "Hinterer Wilder Turm",
+          "nome": "Hinterer Wilder Turm – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12255,7 +12318,7 @@
           "lon": 11.139728
         },
         {
-          "nome": "Hinterer Maurerkeeskopf",
+          "nome": "Hinterer Maurerkeeskopf – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12282,7 +12345,7 @@
           "lon": 12.2928
         },
         {
-          "nome": "Grossvenediger",
+          "nome": "Grossvenediger – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12309,7 +12372,7 @@
           "lon": 12.412037
         },
         {
-          "nome": "Grosser Geiger",
+          "nome": "Grosser Geiger – Versante S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12336,7 +12399,7 @@
           "lon": 12.300031
         },
         {
-          "nome": "Gritzer Hörndle",
+          "nome": "Gritzer Hörndle – Da SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12417,7 +12480,7 @@
           "lon": 11.651624
         },
         {
-          "nome": "Großer Möseler",
+          "nome": "Großer Möseler – aus N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12525,7 +12588,7 @@
           "lon": 11.617937
         },
         {
-          "nome": "Geier Spitze",
+          "nome": "Geier Spitze – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12552,7 +12615,7 @@
           "lon": 11.641388
         },
         {
-          "nome": "Gaishörndl",
+          "nome": "Gaishörndl – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12579,7 +12642,7 @@
           "lon": 12.299566
         },
         {
-          "nome": "Franz-Senn Hütte",
+          "nome": "Franz-Senn Hütte – Da NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12606,7 +12669,7 @@
           "lon": 11.181457
         },
         {
-          "nome": "Figerhorn",
+          "nome": "Figerhorn – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12633,7 +12696,7 @@
           "lon": 12.672271
         },
         {
-          "nome": "Essener-Rostocker Hütte",
+          "nome": "Essener-Rostocker Hütte – Dalla Virgental",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12714,7 +12777,7 @@
           "lon": 11.657181
         },
         {
-          "nome": "Croda Negra",
+          "nome": "Croda Negra – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12741,7 +12804,7 @@
           "lon": 12.6036
         },
         {
-          "nome": "Hintere Schwärze",
+          "nome": "Hintere Schwärze – über Marzellferner",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12768,7 +12831,7 @@
           "lon": 10.885477
         },
         {
-          "nome": "Brandberger Seespitze",
+          "nome": "Brandberger Seespitze – Da NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12849,7 +12912,7 @@
           "lon": 12.71704
         },
         {
-          "nome": "Alplesspitze",
+          "nome": "Alplesspitze – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12876,7 +12939,7 @@
           "lon": 12.259686
         },
         {
-          "nome": "Aderspitze",
+          "nome": "Aderspitze – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [

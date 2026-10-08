@@ -1378,7 +1378,7 @@
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Monte Rondinaio",
+          "nome": "Monte Rondinaio – Dal Lago Santo Modenese per la valle delle Meraviglie.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1432,7 +1432,7 @@
           "lon": 10.062287
         },
         {
-          "nome": "Matto",
+          "nome": "Matto – dai Lagoni",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1459,7 +1459,7 @@
           "lon": 10.043
         },
         {
-          "nome": "Monte Tambura",
+          "nome": "Monte Tambura – Per il rio Vendagio e il lato NW della Carcaraia.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1486,7 +1486,7 @@
           "lon": 10.232778
         },
         {
-          "nome": "Monte Pania della Croce",
+          "nome": "Monte Pania della Croce – Da Piglionico per la Focetta del Puntone ed il Vallone dell’Inferno abbinando discesa della Borra di Canala.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1513,7 +1513,7 @@
           "lon": 10.325006
         },
         {
-          "nome": "Monte Pania della Croce",
+          "nome": "Monte Pania della Croce – Costa Pulita",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1540,7 +1540,7 @@
           "lon": 10.341524
         },
         {
-          "nome": "Monte Cavallo",
+          "nome": "Monte Cavallo – Canale Cambron",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1567,7 +1567,7 @@
           "lon": 10.240755
         },
         {
-          "nome": "Monte Brusà",
+          "nome": "Monte Brusà – Da Cancelli per il lago del Pradaccio",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1639,7 +1639,7 @@
           "lon": 11.383333
         },
         {
-          "nome": "Monte Tambura",
+          "nome": "Monte Tambura – Da Vagli di Sopra",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1664,6 +1664,60 @@
           ],
           "lat": 44.113029,
           "lon": 10.250264
+        },
+        {
+          "nome": "Monte Rondinaio – Dal Lago Santo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1964,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52049",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.109936,
+          "lon": 10.59145
+        },
+        {
+          "nome": "Monte Tambura – Per il versante Nord, la Carcaraia",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1890,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/155446",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.107778,
+          "lon": 10.232778
         }
       ],
       "lat": null,

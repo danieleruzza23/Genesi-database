@@ -566,11 +566,6 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/bismantova-pietra-di-via-del-bagnino/",
                   "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/305420",
-                  "siteName": null
                 }
               ]
             },
@@ -777,6 +772,24 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Bismantova-viaDiedroUISP/860/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "via Pincelli-Brianti",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1047,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/305420",
                   "siteName": null
                 }
               ]

@@ -547,7 +547,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.43437337794508,
+          "lon": 7.862300195073266
+        },
+        {
+          "nome": "Burstspitza – Arête SW",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -567,8 +576,8 @@
               ]
             }
           ],
-          "lat": 46.43437337794508,
-          "lon": 7.862300195073266
+          "lat": 46.434706,
+          "lon": 7.862018
         }
       ],
       "lat": null,
@@ -4825,7 +4834,7 @@
           "lon": 6.960333
         },
         {
-          "nome": "Mont Blâva",
+          "nome": "Mont Blâva – Arête NE intégrale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -4852,7 +4861,7 @@
           "lon": 7.387814
         },
         {
-          "nome": "Six Carro",
+          "nome": "Six Carro – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -4933,7 +4942,7 @@
           "lon": 7.279038
         },
         {
-          "nome": "Becca de Corbassière",
+          "nome": "Becca de Corbassière – Le courage des oiseaux",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -4960,7 +4969,7 @@
           "lon": 7.305968
         },
         {
-          "nome": "Les Capucins de Brunet",
+          "nome": "Les Capucins de Brunet – Crête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -4987,7 +4996,7 @@
           "lon": 7.257716
         },
         {
-          "nome": "Aiguille de la Varappe",
+          "nome": "Aiguille de la Varappe – À Moitié Plein",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5089,7 +5098,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.985298,
+          "lon": 7.041788
+        },
+        {
+          "nome": "Aiguille Javelle – Face N directe",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -5107,7 +5125,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.985298,
+          "lon": 7.041788
+        },
+        {
+          "nome": "Aiguille Javelle – Voie normale",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -5131,7 +5158,7 @@
           "lon": 7.041788
         },
         {
-          "nome": "Diablon des Dames",
+          "nome": "Diablon des Dames – Arête SE depuis Tracuit",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5239,7 +5266,7 @@
           "lon": 7.05834
         },
         {
-          "nome": "Bättlihorn (Nord)",
+          "nome": "Bättlihorn (Nord) – Traversée intégrale des crêtes du Bättlihorn de Grengiols à Rosswald",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5266,7 +5293,7 @@
           "lon": 8.093685
         },
         {
-          "nome": "Breitlauihorn",
+          "nome": "Breitlauihorn – Arête S en A/R",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5293,7 +5320,7 @@
           "lon": 7.882164
         },
         {
-          "nome": "Mammouth",
+          "nome": "Mammouth – Avé Joseph",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5428,7 +5455,7 @@
           "lon": 7.240876
         },
         {
-          "nome": "Petits Perrons",
+          "nome": "Petits Perrons – Les Tartares 2",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5476,7 +5503,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.97824,
+          "lon": 7.658416
+        },
+        {
+          "nome": "Cervin – Schweizernase",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -5527,7 +5563,7 @@
           "lon": 7.994222
         },
         {
-          "nome": "Pigne de la Lé",
+          "nome": "Pigne de la Lé – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5608,7 +5644,7 @@
           "lon": 7.316881
         },
         {
-          "nome": "Spechhorn / Pizzo di Antigine",
+          "nome": "Spechhorn / Pizzo di Antigine – Traversée E - NW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5635,7 +5671,7 @@
           "lon": 8.009716
         },
         {
-          "nome": "Strahlhorn",
+          "nome": "Strahlhorn – South Ridge",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5667,42 +5703,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 900,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1810600",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3000,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1658415",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Arête W",
               "gradoObbligatorio": null,
               "gradoMassimo": "D+",
@@ -5725,7 +5725,61 @@
           "lon": 8.001903
         },
         {
-          "nome": "Nesthorn",
+          "nome": "Gross Fusshorn – Traversée Integrale des Fusshörner: XIII - Grossfusshorn",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1810600",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.420791,
+          "lon": 8.001903
+        },
+        {
+          "nome": "Gross Fusshorn – Premier épaule - Avant l'Orage",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1658415",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.420791,
+          "lon": 8.001903
+        },
+        {
+          "nome": "Nesthorn – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5757,24 +5811,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3083,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1805116",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Arête Mont Rogneux → Petit Combin",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD",
@@ -5797,7 +5833,34 @@
           "lon": 7.230855
         },
         {
-          "nome": "Becca Miedzo",
+          "nome": "Mont Rogneux – Arête NE",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3083,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1805116",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.009507,
+          "lon": 7.230855
+        },
+        {
+          "nome": "Becca Miedzo – Par la Comba de Becca Miedzo et l'arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -5910,24 +5973,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3000,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1800039",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Arête SW",
               "gradoObbligatorio": null,
               "gradoMassimo": "AD",
@@ -5941,6 +5986,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/54186",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.113029,
+          "lon": 8.009252
+        },
+        {
+          "nome": "Dri Horlini – Verdauungsweg",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1800039",
                   "siteName": null
                 }
               ]
@@ -5977,7 +6049,7 @@
           "lon": 8.223178
         },
         {
-          "nome": "Tour Noir",
+          "nome": "Tour Noir – Traversée arête S > arête N depuis l'A Neuve",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6004,7 +6076,7 @@
           "lon": 7.039938
         },
         {
-          "nome": "Mont Ruan / Grand Ruan",
+          "nome": "Mont Ruan / Grand Ruan – Traversée Tenneverge → Ruan depuis Emosson",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6031,7 +6103,7 @@
           "lon": 6.900514
         },
         {
-          "nome": "Tournelon Blanc",
+          "nome": "Tournelon Blanc – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6085,7 +6157,7 @@
           "lon": 7.695207
         },
         {
-          "nome": "Gletscherhorn",
+          "nome": "Gletscherhorn – voie normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6112,7 +6184,7 @@
           "lon": 7.967598
         },
         {
-          "nome": "Le Génepi (Arpette)",
+          "nome": "Le Génepi (Arpette) – Par l'Arête de la Lui",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6139,7 +6211,7 @@
           "lon": 7.040416
         },
         {
-          "nome": "Grande Tête de By",
+          "nome": "Grande Tête de By – depuis la cabane de Chanrion",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6166,7 +6238,7 @@
           "lon": 7.309694
         },
         {
-          "nome": "Trugberg",
+          "nome": "Trugberg – Face E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6193,7 +6265,7 @@
           "lon": 8.016651
         },
         {
-          "nome": "Grand Muveran",
+          "nome": "Grand Muveran – Arête des Dalles",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6251,24 +6323,6 @@
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
-            {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2980,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1692975",
-                  "siteName": null
-                }
-              ]
-            },
             {
               "nome": "Gérémiade",
               "gradoObbligatorio": null,
@@ -6328,7 +6382,34 @@
           "lon": 7.05433
         },
         {
-          "nome": "Les Otanes (Pointes 2846, 2886 et 2892)",
+          "nome": "Aiguilles d'Arpette – Voie des Étoiles",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2980,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1692975",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.003006,
+          "lon": 7.05433
+        },
+        {
+          "nome": "Les Otanes (Pointes 2846, 2886 et 2892) – En traversée du Col des Pauvres au Col des Otanes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6355,7 +6436,7 @@
           "lon": 7.313599
         },
         {
-          "nome": "Tête aux Veillon",
+          "nome": "Tête aux Veillon – Sommet de la Tête au Veillon (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6409,7 +6490,7 @@
           "lon": 7.072175
         },
         {
-          "nome": "Pointe 2943 entre le Pas de Chèvres et le Col de Riedmatten",
+          "nome": "Pointe 2943 entre le Pas de Chèvres et le Col de Riedmatten – En traversée du Pas de Chèvres au Col de Riedmatten",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6436,7 +6517,7 @@
           "lon": 7.432793
         },
         {
-          "nome": "Äusser Rothorn",
+          "nome": "Äusser Rothorn – Par l'arête NE (Rothorngrat)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6484,7 +6565,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.354948,
+          "lon": 7.856198
+        },
+        {
+          "nome": "Wiwannihorn – Verborgene Tänze",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -6589,7 +6679,7 @@
           "lon": 7.658731
         },
         {
-          "nome": "Mont Collon",
+          "nome": "Mont Collon – Face N : Pilier E (Voie Hopkinson)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6616,7 +6706,7 @@
           "lon": 7.507329
         },
         {
-          "nome": "Pointe du Pas de Chèvres",
+          "nome": "Pointe du Pas de Chèvres – Traversée Pas de Chèvres - Col de Tsenâ Réfien",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6643,7 +6733,7 @@
           "lon": 7.432319
         },
         {
-          "nome": "Sex Noir (Point 2713)",
+          "nome": "Sex Noir (Point 2713) – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6670,7 +6760,7 @@
           "lon": 7.355807
         },
         {
-          "nome": "Six Carro",
+          "nome": "Six Carro – Contreforts Sud",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6697,7 +6787,7 @@
           "lon": 7.050515
         },
         {
-          "nome": "Aiguille du Génépi (Grands)",
+          "nome": "Aiguille du Génépi (Grands) – Traversée des arêtes depuis le Col de Balme",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6724,7 +6814,7 @@
           "lon": 6.994285
         },
         {
-          "nome": "Bättlihorn (Sud)",
+          "nome": "Bättlihorn (Sud) – Bättlihorn, traversée Sommet S - Sommet N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6805,7 +6895,7 @@
           "lon": 7.497234
         },
         {
-          "nome": "Pointe d'Orny",
+          "nome": "Pointe d'Orny – en boucle depuis le Val d'Arpette",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6832,7 +6922,7 @@
           "lon": 7.089992
         },
         {
-          "nome": "Grand Muveran",
+          "nome": "Grand Muveran – Variante par Christine",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6853,7 +6943,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.237161,
+          "lon": 7.126221
+        },
+        {
+          "nome": "Grand Muveran – Traversée jusqu'au pied SW du Pacheu",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -6877,7 +6976,7 @@
           "lon": 7.126221
         },
         {
-          "nome": "Ancienne cabane d'Orny",
+          "nome": "Ancienne cabane d'Orny – Petite fleur",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6904,7 +7003,7 @@
           "lon": 7.074574
         },
         {
-          "nome": "Aiguille de la Cabane / Aiguille du Glacier Rond",
+          "nome": "Aiguille de la Cabane / Aiguille du Glacier Rond – Pointe 2881 m - arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6958,7 +7057,7 @@
           "lon": 7.653444
         },
         {
-          "nome": "Wellenkuppe",
+          "nome": "Wellenkuppe – Arête ENE depuis la Rothornhütte",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -6985,7 +7084,7 @@
           "lon": 7.677871
         },
         {
-          "nome": "Riffelhorn",
+          "nome": "Riffelhorn – Voie normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7006,7 +7105,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.981352,
+          "lon": 7.758336
+        },
+        {
+          "nome": "Riffelhorn – Traversée W > E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -7030,7 +7138,7 @@
           "lon": 7.758336
         },
         {
-          "nome": "Pizzo Gallina",
+          "nome": "Pizzo Gallina – en boucle S -> E -> S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7084,7 +7192,7 @@
           "lon": 7.518297
         },
         {
-          "nome": "Hostock",
+          "nome": "Hostock – Traversée Arête S → Hülsenhorn",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7111,7 +7219,7 @@
           "lon": 7.963165
         },
         {
-          "nome": "Trugberg",
+          "nome": "Trugberg – Arête N et traversée jusqu'au sommet d'hiver",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7138,7 +7246,7 @@
           "lon": 8.012984
         },
         {
-          "nome": "Bisse d'Einzon",
+          "nome": "Bisse d'Einzon – Bisse d'Einzon en boucle et traversée",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7300,7 +7408,7 @@
           "lon": 7.154385
         },
         {
-          "nome": "Tête du Sarshlau",
+          "nome": "Tête du Sarshlau – Arête E depuis le col du Sarshlau",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7354,7 +7462,7 @@
           "lon": 7.689784
         },
         {
-          "nome": "Dents du Midi - La Cathédrale",
+          "nome": "Dents du Midi - La Cathédrale – Traversée Forteresse - Cathédrale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7381,7 +7489,7 @@
           "lon": 6.936261
         },
         {
-          "nome": "Cabane de Valsorey CAS",
+          "nome": "Cabane de Valsorey CAS – Tentation",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7408,7 +7516,7 @@
           "lon": 7.268424
         },
         {
-          "nome": "Cabane de Valsorey CAS",
+          "nome": "Cabane de Valsorey CAS – La Sauvageonne",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7462,7 +7570,7 @@
           "lon": 7.971526
         },
         {
-          "nome": "La Luette",
+          "nome": "La Luette – Arête SE depuis la Cabane des Dix",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7489,7 +7597,7 @@
           "lon": 7.417297
         },
         {
-          "nome": "Grande Chenalette",
+          "nome": "Grande Chenalette – Avalanche",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7521,24 +7629,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 2244,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4017,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1457956",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Traversée NW -> arête N -> descente couloir à partir du gendarme 3830m",
               "gradoObbligatorio": null,
               "gradoMassimo": "D",
@@ -7561,7 +7651,34 @@
           "lon": 8.011967
         },
         {
-          "nome": "Aiguille d'Orny",
+          "nome": "Weissmies – Arête SE depuis le Zwischbergental",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2244,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4017,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1457956",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.12766,
+          "lon": 8.011967
+        },
+        {
+          "nome": "Aiguille d'Orny – Solaire Système",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7588,7 +7705,7 @@
           "lon": 7.06285
         },
         {
-          "nome": "Cabane de Valsorey CAS",
+          "nome": "Cabane de Valsorey CAS – Sensuelle - Botseresses",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7714,7 +7831,7 @@
           "lon": 7.877342
         },
         {
-          "nome": "Stockhorn (Baltschiedertal)",
+          "nome": "Stockhorn (Baltschiedertal) – Arête E (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7822,7 +7939,7 @@
           "lon": 7.653505
         },
         {
-          "nome": "Grande Chenalette",
+          "nome": "Grande Chenalette – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7849,7 +7966,7 @@
           "lon": 7.164476
         },
         {
-          "nome": "Sex Rouge (Anzère)",
+          "nome": "Sex Rouge (Anzère) – La Motte et ses satellites",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7876,7 +7993,7 @@
           "lon": 7.384371
         },
         {
-          "nome": "Äbihorn",
+          "nome": "Äbihorn – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7903,7 +8020,7 @@
           "lon": 7.653554
         },
         {
-          "nome": "Ochs / Kleines Fiescherhorn",
+          "nome": "Ochs / Kleines Fiescherhorn – von Süden",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7930,7 +8047,7 @@
           "lon": 8.080913
         },
         {
-          "nome": "Finsteraarhorn",
+          "nome": "Finsteraarhorn – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -7957,7 +8074,7 @@
           "lon": 8.143465
         },
         {
-          "nome": "Petite Jumelle",
+          "nome": "Petite Jumelle – Face NE (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8038,7 +8155,7 @@
           "lon": 7.426778
         },
         {
-          "nome": "Tour Sallière",
+          "nome": "Tour Sallière – Arête SE par l'arête d'Aboillon",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8065,7 +8182,7 @@
           "lon": 6.924598
         },
         {
-          "nome": "Pointe de Boveire",
+          "nome": "Pointe de Boveire – arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8092,7 +8209,7 @@
           "lon": 7.239843
         },
         {
-          "nome": "Col des Gentianes",
+          "nome": "Col des Gentianes – La Dalle",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8119,7 +8236,7 @@
           "lon": 7.302892
         },
         {
-          "nome": "Schönbielhorn",
+          "nome": "Schönbielhorn – Arête S-SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8146,7 +8263,7 @@
           "lon": 7.631653
         },
         {
-          "nome": "Col de Tsena Réfien",
+          "nome": "Col de Tsena Réfien – Traverse de Pointes de Tsena Réfien north —> south",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8200,7 +8317,7 @@
           "lon": 6.929264
         },
         {
-          "nome": "Mont Dolent",
+          "nome": "Mont Dolent – Par le versant W de la Brèche de l'Amône et l'arête NNW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8227,7 +8344,7 @@
           "lon": 7.046173
         },
         {
-          "nome": "Pointe de Zinal",
+          "nome": "Pointe de Zinal – Voie Normale depuis la cabane du Schönbiel (arête NE)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8254,7 +8371,7 @@
           "lon": 7.639131
         },
         {
-          "nome": "Petit Vélan",
+          "nome": "Petit Vélan – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8281,7 +8398,7 @@
           "lon": 7.235624
         },
         {
-          "nome": "Fletschhorn",
+          "nome": "Fletschhorn – Cresta NE (Breitloibgrat)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8308,7 +8425,7 @@
           "lon": 8.003264
         },
         {
-          "nome": "Sidelenhorn",
+          "nome": "Sidelenhorn – La table des Chochottes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8335,7 +8452,7 @@
           "lon": 8.406259
         },
         {
-          "nome": "Bec d'Epicoune",
+          "nome": "Bec d'Epicoune – par le glacier du Chardoney et l'arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8362,7 +8479,7 @@
           "lon": 7.422246
         },
         {
-          "nome": "Pointes de Mourti",
+          "nome": "Pointes de Mourti – Face à la Vierge",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8416,7 +8533,7 @@
           "lon": 7.586008
         },
         {
-          "nome": "Wiwannihorn",
+          "nome": "Wiwannihorn – Edelweiss",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8488,7 +8605,7 @@
           "lon": 7.851102
         },
         {
-          "nome": "Weissmies",
+          "nome": "Weissmies – Rotgrat (Arête SW)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8542,7 +8659,7 @@
           "lon": 7.866254
         },
         {
-          "nome": "Aiguille d'Argentière",
+          "nome": "Aiguille d'Argentière – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8569,7 +8686,7 @@
           "lon": 7.030392
         },
         {
-          "nome": "Dent de Fenestral",
+          "nome": "Dent de Fenestral – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8596,7 +8713,7 @@
           "lon": 6.963562
         },
         {
-          "nome": "Hungerlihorli",
+          "nome": "Hungerlihorli – Par la face S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8623,7 +8740,7 @@
           "lon": 7.721607
         },
         {
-          "nome": "Tseuzier /  Rawil barrage",
+          "nome": "Tseuzier /  Rawil barrage – Wildhorn depuis le Lac de Tseuzier et descente via le Pucé sur Anzère",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8650,7 +8767,7 @@
           "lon": 7.360079
         },
         {
-          "nome": "Jegigrat - Pointe 3350 m",
+          "nome": "Jegigrat - Pointe 3350 m – Neue Zeiten",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8671,7 +8788,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.1581,
+          "lon": 7.9778
+        },
+        {
+          "nome": "Jegigrat - Pointe 3350 m – Éperon SE et traversée SW de la Jegigrat jusqu'au Jegihorn",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -8695,7 +8821,7 @@
           "lon": 7.9778
         },
         {
-          "nome": "Mammouth",
+          "nome": "Mammouth – Arnica",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8749,7 +8875,7 @@
           "lon": 7.672
         },
         {
-          "nome": "Dammastock",
+          "nome": "Dammastock – E ridge",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8830,7 +8956,7 @@
           "lon": 6.923252
         },
         {
-          "nome": "Becca de Sery",
+          "nome": "Becca de Sery – Par le versant NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8938,7 +9064,7 @@
           "lon": 7.851614
         },
         {
-          "nome": "Bishorn",
+          "nome": "Bishorn – Arête ENE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9019,7 +9145,7 @@
           "lon": 7.716096
         },
         {
-          "nome": "Witenwasserenstock",
+          "nome": "Witenwasserenstock – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9046,7 +9172,7 @@
           "lon": 8.473481
         },
         {
-          "nome": "Tête Biselx",
+          "nome": "Tête Biselx – Dianetic",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9073,7 +9199,7 @@
           "lon": 7.038064
         },
         {
-          "nome": "Pointe de Boveire",
+          "nome": "Pointe de Boveire – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9100,7 +9226,7 @@
           "lon": 7.233645
         },
         {
-          "nome": "Gross Öugstchummuhorn",
+          "nome": "Gross Öugstchummuhorn – Silbermantel",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9121,7 +9247,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.338346,
+          "lon": 7.853145
+        },
+        {
+          "nome": "Gross Öugstchummuhorn – Gemstritt",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -9145,7 +9280,7 @@
           "lon": 7.853145
         },
         {
-          "nome": "Pointes de Mourti",
+          "nome": "Pointes de Mourti – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9199,7 +9334,7 @@
           "lon": 8.43597
         },
         {
-          "nome": "Breitlauihorn",
+          "nome": "Breitlauihorn – Arête S → Arête W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9226,7 +9361,7 @@
           "lon": 7.876934
         },
         {
-          "nome": "Petit Clocher du Portalet",
+          "nome": "Petit Clocher du Portalet – Arête W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9280,7 +9415,7 @@
           "lon": 7.16455
         },
         {
-          "nome": "Li Blanche",
+          "nome": "Li Blanche – arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9307,7 +9442,7 @@
           "lon": 7.12964
         },
         {
-          "nome": "Pointe des Ecandies",
+          "nome": "Pointe des Ecandies – Contreforts S - Au Pays d'E-Candy",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9334,7 +9469,7 @@
           "lon": 7.042322
         },
         {
-          "nome": "Ofenhorn / Punta d'Arbola",
+          "nome": "Ofenhorn / Punta d'Arbola – Par Cima Cust",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9361,7 +9496,7 @@
           "lon": 8.283765
         },
         {
-          "nome": "Grande Dent de Morcles",
+          "nome": "Grande Dent de Morcles – Traversée jusqu'à la Frête de Saille",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9388,7 +9523,7 @@
           "lon": 7.107502
         },
         {
-          "nome": "Monts Rouges d'Arolla - Sommet Central",
+          "nome": "Monts Rouges d'Arolla - Sommet Central – Traversée Col de Riedmatten → Sommet Central 3196",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9436,7 +9571,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.177343,
+          "lon": 8.035218
+        },
+        {
+          "nome": "Fletschhorn – Arête E (Sibilufluegrat)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -9460,7 +9604,7 @@
           "lon": 8.035218
         },
         {
-          "nome": "Dents du Midi - Cime de l'Est",
+          "nome": "Dents du Midi - Cime de l'Est – Pilier Harlin",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9487,7 +9631,7 @@
           "lon": 6.960532
         },
         {
-          "nome": "Pointe d'Arpitettaz",
+          "nome": "Pointe d'Arpitettaz – Par le Col de Milon",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9514,7 +9658,7 @@
           "lon": 7.648279
         },
         {
-          "nome": "Pointe Zumstein",
+          "nome": "Pointe Zumstein – Spaghetti tour",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9541,7 +9685,7 @@
           "lon": 7.871444
         },
         {
-          "nome": "Pointes d'Aboillon",
+          "nome": "Pointes d'Aboillon – Traversée S → N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9609,24 +9753,6 @@
               ]
             },
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 530,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3001,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/651478",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Traversée face S (Trittji) >> arête W",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD",
@@ -9643,7 +9769,43 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.342571,
+          "lon": 7.8588
+        },
+        {
+          "nome": "Dübigrat – Papillon",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 530,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3001,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/651478",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.342571,
+          "lon": 7.8588
+        },
+        {
+          "nome": "Dübigrat – Arête E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -9667,7 +9829,7 @@
           "lon": 7.8588
         },
         {
-          "nome": "Wysshorn",
+          "nome": "Wysshorn – Face S, Nelsen Route",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9802,7 +9964,7 @@
           "lon": 7.929778
         },
         {
-          "nome": "Petit Cervin",
+          "nome": "Petit Cervin – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10027,7 +10189,7 @@
           "lon": 7.017445
         },
         {
-          "nome": "Aiguille Purtscheller",
+          "nome": "Aiguille Purtscheller – Face NE (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10081,7 +10243,7 @@
           "lon": 8.09607
         },
         {
-          "nome": "Dent Blanche",
+          "nome": "Dent Blanche – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10108,7 +10270,7 @@
           "lon": 7.608889
         },
         {
-          "nome": "Ober Gabelhorn",
+          "nome": "Ober Gabelhorn – Gabelhorngrat",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10129,7 +10291,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.031864,
+          "lon": 7.694206
+        },
+        {
+          "nome": "Ober Gabelhorn – Face S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -10153,7 +10324,7 @@
           "lon": 7.694206
         },
         {
-          "nome": "Jägerhorn",
+          "nome": "Jägerhorn – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10315,7 +10486,7 @@
           "lon": 7.969788
         },
         {
-          "nome": "Clochers d'Arpette",
+          "nome": "Clochers d'Arpette – Traversée E >W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10336,7 +10507,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.029729,
+          "lon": 7.075419
+        },
+        {
+          "nome": "Clochers d'Arpette – Guide ou Guignol",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -10360,7 +10540,7 @@
           "lon": 7.075419
         },
         {
-          "nome": "Riffelhorn",
+          "nome": "Riffelhorn – Egg",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10441,7 +10621,7 @@
           "lon": 7.316664
         },
         {
-          "nome": "Dents du Midi - Fenêtre de Soi",
+          "nome": "Dents du Midi - Fenêtre de Soi – Versant S, Dalles de Soi",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10531,7 +10711,7 @@
           "lon": 8.397133
         },
         {
-          "nome": "Klein Wannenhorn",
+          "nome": "Klein Wannenhorn – Pilier SE - Voie Niedermann",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10630,7 +10810,7 @@
           "lon": 7.787326
         },
         {
-          "nome": "Aiguilles d'Arpette - Pointe 3059 m",
+          "nome": "Aiguilles d'Arpette - Pointe 3059 m – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10711,7 +10891,7 @@
           "lon": 8.2447
         },
         {
-          "nome": "Aiguille de la Cabane / Aiguille du Glacier Rond",
+          "nome": "Aiguille de la Cabane / Aiguille du Glacier Rond – Arête SE, \"la balade\"",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10765,7 +10945,7 @@
           "lon": 7.356011
         },
         {
-          "nome": "Mont Brulé",
+          "nome": "Mont Brulé – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10792,7 +10972,7 @@
           "lon": 7.541489
         },
         {
-          "nome": "Dents du Midi - Cime de l'Est",
+          "nome": "Dents du Midi - Cime de l'Est – Pilier central NE (pilier Roch)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10819,7 +10999,7 @@
           "lon": 6.949176
         },
         {
-          "nome": "Mammouth",
+          "nome": "Mammouth – Génépi",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10840,7 +11020,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.084162,
+          "lon": 7.645215
+        },
+        {
+          "nome": "Mammouth – Caroline",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -10864,7 +11053,7 @@
           "lon": 7.645215
         },
         {
-          "nome": "Zinalrothorn",
+          "nome": "Zinalrothorn – Arête SE (Kanzelgrat)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10891,7 +11080,7 @@
           "lon": 7.691869
         },
         {
-          "nome": "La Maye",
+          "nome": "La Maye – Passage à Gaspard",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10945,7 +11134,7 @@
           "lon": 7.33248
         },
         {
-          "nome": "La Fava",
+          "nome": "La Fava – voie normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10999,7 +11188,7 @@
           "lon": 6.89952
         },
         {
-          "nome": "Six des Eaux Froides",
+          "nome": "Six des Eaux Froides – Combe N et crête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11026,7 +11215,7 @@
           "lon": 7.40363
         },
         {
-          "nome": "Klein/Chlys Öugstchummuhorn",
+          "nome": "Klein/Chlys Öugstchummuhorn – Tscharli",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11080,7 +11269,7 @@
           "lon": 7.075578
         },
         {
-          "nome": "Pizzo di Antigine / Spechhorn",
+          "nome": "Pizzo di Antigine / Spechhorn – Cresta N poi E, con ritorno per il Joderhorn",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11107,7 +11296,7 @@
           "lon": 7.979186
         },
         {
-          "nome": "Jegichnubel / Jägichnubel",
+          "nome": "Jegichnubel / Jägichnubel – Traversée arête SW > arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11134,7 +11323,7 @@
           "lon": 7.908821
         },
         {
-          "nome": "Tour de Boussine",
+          "nome": "Tour de Boussine – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11161,7 +11350,7 @@
           "lon": 7.333599
         },
         {
-          "nome": "Aiguilles Dorées",
+          "nome": "Aiguilles Dorées – Traversée W → E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11233,7 +11422,7 @@
           "lon": 7.651046
         },
         {
-          "nome": "Mont Rouge du Giétro",
+          "nome": "Mont Rouge du Giétro – Par le col de Lire Rose et le col du Mont Rouge",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11260,7 +11449,7 @@
           "lon": 7.368421
         },
         {
-          "nome": "Dent de Chamosentze / Chamosentse",
+          "nome": "Dent de Chamosentze / Chamosentse – Voie normale (approche directe du Col de la Forcla)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11314,7 +11503,7 @@
           "lon": 7.074986
         },
         {
-          "nome": "Trouma des Boucs",
+          "nome": "Trouma des Boucs – da Ruz per i colli Crête Sèche e Chardoney",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11368,7 +11557,7 @@
           "lon": 7.019169
         },
         {
-          "nome": "Mont Gond / Crête de Lodze",
+          "nome": "Mont Gond / Crête de Lodze – Voie Normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11395,7 +11584,7 @@
           "lon": 7.263507
         },
         {
-          "nome": "Becs de Bosson",
+          "nome": "Becs de Bosson – Sommet E ou Grand Bec en traversée",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11503,7 +11692,7 @@
           "lon": 6.975031
         },
         {
-          "nome": "Mont Ruan / Grand Ruan",
+          "nome": "Mont Ruan / Grand Ruan – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11557,7 +11746,7 @@
           "lon": 7.684658
         },
         {
-          "nome": "Bec des Rosses",
+          "nome": "Bec des Rosses – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11584,7 +11773,7 @@
           "lon": 7.270487
         },
         {
-          "nome": "Klein/Chlys Öugstchummuhorn",
+          "nome": "Klein/Chlys Öugstchummuhorn – Salamander",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11638,7 +11827,7 @@
           "lon": 6.914468
         },
         {
-          "nome": "Col de Crête Sèche",
+          "nome": "Col de Crête Sèche – Via ferrata",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11746,7 +11935,7 @@
           "lon": 7.969102
         },
         {
-          "nome": "Jegihorn",
+          "nome": "Jegihorn – Bayermann Valbreisch'n",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11767,7 +11956,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.144793,
+          "lon": 7.970454
+        },
+        {
+          "nome": "Jegihorn – Arête S (Südkante)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -11845,7 +12043,7 @@
           "lon": 7.817975
         },
         {
-          "nome": "La Maya (St. Martin)",
+          "nome": "La Maya (St. Martin) – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11899,7 +12097,7 @@
           "lon": 7.885109
         },
         {
-          "nome": "Balfrin",
+          "nome": "Balfrin – Traversée Balfrin → Gross/Klein Bigerhorn",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11926,7 +12124,7 @@
           "lon": 7.856801
         },
         {
-          "nome": "Haut de Cry",
+          "nome": "Haut de Cry – Arête ESE depuis le col du Petit Renard",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11953,7 +12151,7 @@
           "lon": 7.219103
         },
         {
-          "nome": "Pointe de Zinal",
+          "nome": "Pointe de Zinal – Traversée Arête NE - Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11980,7 +12178,7 @@
           "lon": 7.669512
         },
         {
-          "nome": "Aiguille de la Cabane / Aiguille du Glacier Rond",
+          "nome": "Aiguille de la Cabane / Aiguille du Glacier Rond – Namasté",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12007,7 +12205,7 @@
           "lon": 7.067181
         },
         {
-          "nome": "Mittaghorn (Nufenen)",
+          "nome": "Mittaghorn (Nufenen) – in traversata dal Pizzo Gallina",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12034,7 +12232,7 @@
           "lon": 8.38543
         },
         {
-          "nome": "Jegigrat - Pointe 3350 m",
+          "nome": "Jegigrat - Pointe 3350 m – Face S et traversée du Jegigrat",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12061,7 +12259,7 @@
           "lon": 7.977711
         },
         {
-          "nome": "Mont Brun",
+          "nome": "Mont Brun – Traversée E >> NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12088,7 +12286,7 @@
           "lon": 7.274413
         },
         {
-          "nome": "Grande Chenalette",
+          "nome": "Grande Chenalette – Drônalette",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12115,7 +12313,7 @@
           "lon": 7.168776
         },
         {
-          "nome": "Pointe de Bricola",
+          "nome": "Pointe de Bricola – En boucle depuis la cabane de Moiry",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12217,7 +12415,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.075319,
+          "lon": 7.655868
+        },
+        {
+          "nome": "Besso – Traversée Besso → Blanc de Moming",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -12241,7 +12448,7 @@
           "lon": 7.655868
         },
         {
-          "nome": "Mont Collon",
+          "nome": "Mont Collon – Éperon SE (voie du Soleil Levant)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12268,7 +12475,7 @@
           "lon": 7.510028
         },
         {
-          "nome": "Becs Noirs",
+          "nome": "Becs Noirs – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12295,7 +12502,7 @@
           "lon": 7.198866
         },
         {
-          "nome": "Aletschhorn",
+          "nome": "Aletschhorn – Arête SE par le couloir SW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12322,7 +12529,7 @@
           "lon": 7.980547
         },
         {
-          "nome": "Pointe de Masserey",
+          "nome": "Pointe de Masserey – En traversée, du Col de Cou au Pas de Lovégno",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12448,7 +12655,7 @@
           "lon": 7.321468
         },
         {
-          "nome": "Tête de Momin",
+          "nome": "Tête de Momin – Arêtes de Louvie - S > N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12529,7 +12736,7 @@
           "lon": 7.34087
         },
         {
-          "nome": "Jegigrat - Grand Gendarme (Jegiturm)",
+          "nome": "Jegigrat - Grand Gendarme (Jegiturm) – Éperon SE et traversée NE de la Jegigrat",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12583,7 +12790,7 @@
           "lon": 7.243463
         },
         {
-          "nome": "Rimpfischhorn",
+          "nome": "Rimpfischhorn – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12637,7 +12844,7 @@
           "lon": 7.288318
         },
         {
-          "nome": "Weissmies",
+          "nome": "Weissmies – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12664,7 +12871,7 @@
           "lon": 7.992716
         },
         {
-          "nome": "Aiguille Sans Nom (Dorées)",
+          "nome": "Aiguille Sans Nom (Dorées) – Arête S Classique",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12718,7 +12925,7 @@
           "lon": 7.26066
         },
         {
-          "nome": "Bietschhorn",
+          "nome": "Bietschhorn – Éperon E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12826,7 +13033,7 @@
           "lon": 7.870922
         },
         {
-          "nome": "Grand Darrey",
+          "nome": "Grand Darrey – Arête SE, par le col des Essettes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12934,7 +13141,7 @@
           "lon": 6.860817
         },
         {
-          "nome": "Pointe d'Otemma",
+          "nome": "Pointe d'Otemma – Face N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12988,7 +13195,7 @@
           "lon": 7.25306
         },
         {
-          "nome": "Tour Saint Martin / Quille du Diable",
+          "nome": "Tour Saint Martin / Quille du Diable – Face E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13015,7 +13222,7 @@
           "lon": 7.242409
         },
         {
-          "nome": "Aiguille Purtscheller",
+          "nome": "Aiguille Purtscheller – Arête S Intégrale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13258,7 +13465,7 @@
           "lon": 7.74583
         },
         {
-          "nome": "Pointe de Moiry",
+          "nome": "Pointe de Moiry – Traversée N-S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13393,7 +13600,7 @@
           "lon": 7.664958
         },
         {
-          "nome": "Trifthorn",
+          "nome": "Trifthorn – Arête SSW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13420,7 +13627,7 @@
           "lon": 7.708417
         },
         {
-          "nome": "Schalihorn",
+          "nome": "Schalihorn – Arête N (descente sur le bivouac du Schalijoch)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13474,7 +13681,7 @@
           "lon": 7.839988
         },
         {
-          "nome": "Merle Blanc",
+          "nome": "Merle Blanc – Arête SW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13582,7 +13789,7 @@
           "lon": 7.650094
         },
         {
-          "nome": "Le Luisin",
+          "nome": "Le Luisin – Arête E (voie de la Canicule)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13609,7 +13816,7 @@
           "lon": 6.970753
         },
         {
-          "nome": "Dents Blanches - Dent du Signal",
+          "nome": "Dents Blanches - Dent du Signal – Arête W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13690,7 +13897,7 @@
           "lon": 7.653839
         },
         {
-          "nome": "Dent Blanche",
+          "nome": "Dent Blanche – Arête des Quatre Ânes (ENE)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13717,7 +13924,7 @@
           "lon": 7.631818
         },
         {
-          "nome": "Petit Combin",
+          "nome": "Petit Combin – Arête N de gauche et arête des Follats",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13789,7 +13996,7 @@
           "lon": 7.510556
         },
         {
-          "nome": "Pizzo Gallina",
+          "nome": "Pizzo Gallina – Traversée arête E - arête S, d'Oberwald au Nufenenpass",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13816,7 +14023,7 @@
           "lon": 8.375151
         },
         {
-          "nome": "Mont Blanc de Cheilon",
+          "nome": "Mont Blanc de Cheilon – Traversée Arête E → Arête SW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13870,7 +14077,7 @@
           "lon": 7.506323
         },
         {
-          "nome": "Bivouac Piero de Zen",
+          "nome": "Bivouac Piero de Zen – De Egga (Simplon)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13897,7 +14104,7 @@
           "lon": 8.002741
         },
         {
-          "nome": "La Maya (St. Martin)",
+          "nome": "La Maya (St. Martin) – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13924,7 +14131,7 @@
           "lon": 7.481717
         },
         {
-          "nome": "Egginer",
+          "nome": "Egginer – Face SE depuis Britanniahütte",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13951,7 +14158,7 @@
           "lon": 7.936345
         },
         {
-          "nome": "Pointe d'Aufalle",
+          "nome": "Pointe d'Aufalle – De Bougnone par Saille",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14059,7 +14266,7 @@
           "lon": 7.709699
         },
         {
-          "nome": "Pointe des Rosses",
+          "nome": "Pointe des Rosses – Voie normale depuis Émosson",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14086,7 +14293,7 @@
           "lon": 6.911613
         },
         {
-          "nome": "Faldumrothorn",
+          "nome": "Faldumrothorn – Depuis Fasilalpu",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14113,7 +14320,7 @@
           "lon": 7.714403
         },
         {
-          "nome": "Monte Leone",
+          "nome": "Monte Leone – Arête S, Voie Normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14140,7 +14347,7 @@
           "lon": 8.070536
         },
         {
-          "nome": "Schilthorn",
+          "nome": "Schilthorn – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14167,7 +14374,7 @@
           "lon": 7.881591
         },
         {
-          "nome": "Weisshorn",
+          "nome": "Weisshorn – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14194,7 +14401,7 @@
           "lon": 7.713381
         },
         {
-          "nome": "Weisshorn",
+          "nome": "Weisshorn – Schaligrat (arête SW)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14221,7 +14428,7 @@
           "lon": 7.709707
         },
         {
-          "nome": "Schalihorn",
+          "nome": "Schalihorn – Traversée de la Crête de Moming et arête SSW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14329,7 +14536,7 @@
           "lon": 7.587411
         },
         {
-          "nome": "Brunnethorn",
+          "nome": "Brunnethorn – Par L'Emshorn",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14383,7 +14590,7 @@
           "lon": 6.94449
         },
         {
-          "nome": "Dent Favre",
+          "nome": "Dent Favre – Face SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14431,7 +14638,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.044446,
+          "lon": 7.468016
+        },
+        {
+          "nome": "Aiguilles Rouges d'Arolla – Traversée N → S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -14482,7 +14698,7 @@
           "lon": 7.360339
         },
         {
-          "nome": "Le Pleureur",
+          "nome": "Le Pleureur – Traversée Rochers du Bouc → La Sâle → Le Pleureur → La Luette",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14536,7 +14752,7 @@
           "lon": 7.230595
         },
         {
-          "nome": "Baltschiederhorner",
+          "nome": "Baltschiederhorner – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14689,7 +14905,7 @@
           "lon": 7.825618
         },
         {
-          "nome": "Dom des Mischabel",
+          "nome": "Dom des Mischabel – Traversée Täschhorn → Dom",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14710,7 +14926,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.075286,
+          "lon": 7.864427
+        },
+        {
+          "nome": "Dom des Mischabel – Cresta S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -14761,7 +14986,7 @@
           "lon": 7.836997
         },
         {
-          "nome": "Breithorn (Lötschental)",
+          "nome": "Breithorn (Lötschental) – Arête Blanchet",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14860,7 +15085,7 @@
           "lon": 7.839813
         },
         {
-          "nome": "Pointe de Zinal",
+          "nome": "Pointe de Zinal – Voie Normale depuis la cabane du Grand Mountet",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14887,7 +15112,7 @@
           "lon": 7.63201
         },
         {
-          "nome": "Petit Muveran",
+          "nome": "Petit Muveran – Face NE et versant SSE depuis la Frête de Saille",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14914,7 +15139,7 @@
           "lon": 7.138417
         },
         {
-          "nome": "La Maya de Bricola",
+          "nome": "La Maya de Bricola – Versant S et arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15049,7 +15274,7 @@
           "lon": 7.13416
         },
         {
-          "nome": "Le Luisin",
+          "nome": "Le Luisin – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15076,7 +15301,7 @@
           "lon": 6.988114
         },
         {
-          "nome": "Aiguilles de la Lé",
+          "nome": "Aiguilles de la Lé – Traversée S → N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15103,7 +15328,7 @@
           "lon": 7.60301
         },
         {
-          "nome": "Aiguille de la Tsa",
+          "nome": "Aiguille de la Tsa – Face E, voie normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15130,7 +15355,7 @@
           "lon": 7.508041
         },
         {
-          "nome": "Grand Muveran",
+          "nome": "Grand Muveran – Face S (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15157,7 +15382,7 @@
           "lon": 7.1418
         },
         {
-          "nome": "Besso",
+          "nome": "Besso – Face S et arête SE (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15184,7 +15409,7 @@
           "lon": 7.647442
         },
         {
-          "nome": "Weissmies",
+          "nome": "Weissmies – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15211,7 +15436,7 @@
           "lon": 8.011285
         },
         {
-          "nome": "Bouquetins",
+          "nome": "Bouquetins – Traversée S → N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15265,7 +15490,7 @@
           "lon": 8.077683
         },
         {
-          "nome": "Mont Ruan / Grand Ruan",
+          "nome": "Mont Ruan / Grand Ruan – Traversée Ruan → Tenneverge depuis Emosson",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15346,7 +15571,7 @@
           "lon": 7.363332
         },
         {
-          "nome": "Weisshorn",
+          "nome": "Weisshorn – Cresta E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15400,7 +15625,7 @@
           "lon": 7.481369
         },
         {
-          "nome": "Zinalrothorn",
+          "nome": "Zinalrothorn – Cresta SE (via normale del Rothornhütte)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15454,7 +15679,7 @@
           "lon": 7.514282
         },
         {
-          "nome": "Blanc de Moming",
+          "nome": "Blanc de Moming – Arête E et Traversée E > W, Depuis la cabane du Mountet",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15481,7 +15706,7 @@
           "lon": 7.675134
         },
         {
-          "nome": "Tour Sallière",
+          "nome": "Tour Sallière – Arête SE - depuis Emosson",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15535,7 +15760,7 @@
           "lon": 7.230624
         },
         {
-          "nome": "Dents du Midi - Dent Jaune",
+          "nome": "Dents du Midi - Dent Jaune – Vire aux Genevois",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15589,7 +15814,7 @@
           "lon": 7.884189
         },
         {
-          "nome": "Dents du Midi - Haute Cime",
+          "nome": "Dents du Midi - Haute Cime – par la Cabane des Dents du Midi",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15724,7 +15949,7 @@
           "lon": 7.818961
         },
         {
-          "nome": "Schijenhorn",
+          "nome": "Schijenhorn – Arête NNE (Voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15751,7 +15976,7 @@
           "lon": 8.071046
         },
         {
-          "nome": "Jägihorn",
+          "nome": "Jägihorn – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15778,7 +16003,7 @@
           "lon": 7.885581
         },
         {
-          "nome": "Alphubel",
+          "nome": "Alphubel – Traversée N → S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15805,7 +16030,7 @@
           "lon": 7.867337
         },
         {
-          "nome": "Stockhorn (Baltschiedertal)",
+          "nome": "Stockhorn (Baltschiedertal) – Arête S, par les 5 Tours",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15832,7 +16057,7 @@
           "lon": 7.879623
         },
         {
-          "nome": "Zinalrothorn",
+          "nome": "Zinalrothorn – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15859,7 +16084,7 @@
           "lon": 7.682882
         },
         {
-          "nome": "Combin de Corbassière",
+          "nome": "Combin de Corbassière – Arête S depuis Panossière",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15886,7 +16111,7 @@
           "lon": 7.297766
         },
         {
-          "nome": "Aiguilles Dorées",
+          "nome": "Aiguilles Dorées – Traversée E → W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15913,7 +16138,7 @@
           "lon": 7.045155
         },
         {
-          "nome": "Grand Cornier",
+          "nome": "Grand Cornier – Traversée SW → NW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15994,7 +16219,7 @@
           "lon": 7.401511
         },
         {
-          "nome": "Aiguille de la Varappe",
+          "nome": "Aiguille de la Varappe – Arête S de l'Aiguille Sans Nom et Traversée vers l'W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16048,7 +16273,7 @@
           "lon": 7.683563
         },
         {
-          "nome": "Petite Dent de Veisivi",
+          "nome": "Petite Dent de Veisivi – Traversée des arêtes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16075,7 +16300,7 @@
           "lon": 7.520923
         },
         {
-          "nome": "Pointe des Ecandies",
+          "nome": "Pointe des Ecandies – Traversée S - N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16129,7 +16354,7 @@
           "lon": 6.9235
         },
         {
-          "nome": "Grand Luy",
+          "nome": "Grand Luy – Arête ESE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16156,7 +16381,7 @@
           "lon": 7.050514
         },
         {
-          "nome": "Wiwannihorn",
+          "nome": "Wiwannihorn – Steinadlerroute",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16183,7 +16408,7 @@
           "lon": 7.853848
         },
         {
-          "nome": "Grisighorn",
+          "nome": "Grisighorn – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16291,7 +16516,7 @@
           "lon": 8.018823
         },
         {
-          "nome": "Dent Blanche",
+          "nome": "Dent Blanche – Cresta S - Wandfluegrat (via normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16345,7 +16570,7 @@
           "lon": 7.626699
         },
         {
-          "nome": "Allalinhorn",
+          "nome": "Allalinhorn – cresta E (Hohlaubgrat)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16372,7 +16597,7 @@
           "lon": 7.915065
         },
         {
-          "nome": "Lagginhorn",
+          "nome": "Lagginhorn – Cresta S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16399,7 +16624,7 @@
           "lon": 8.007047
         },
         {
-          "nome": "Rosablanche",
+          "nome": "Rosablanche – Arête SW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16426,7 +16651,7 @@
           "lon": 7.356971
         },
         {
-          "nome": "Nadelhorn",
+          "nome": "Nadelhorn – Parete NNE della Lenzspitze e traversata del Nadelhorn",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16453,7 +16678,7 @@
           "lon": 7.870119
         },
         {
-          "nome": "Ober Gabelhorn",
+          "nome": "Ober Gabelhorn – Face N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16588,7 +16813,7 @@
           "lon": 7.392908
         },
         {
-          "nome": "Bietschhorn",
+          "nome": "Bietschhorn – Cresta N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16642,7 +16867,7 @@
           "lon": 7.391174
         },
         {
-          "nome": "Matterhorn",
+          "nome": "Matterhorn – Hörnli Ridge",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16669,7 +16894,7 @@
           "lon": 7.674567
         },
         {
-          "nome": "Ober Gabelhorn",
+          "nome": "Ober Gabelhorn – Traversée Wellenkuppe → Arbengrat",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16777,7 +17002,7 @@
           "lon": 7.986072
         },
         {
-          "nome": "Nadelhorn",
+          "nome": "Nadelhorn – Traversée Lenzspitze → Nadelhorn",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16831,7 +17056,7 @@
           "lon": 7.283627
         },
         {
-          "nome": "Roter Totz",
+          "nome": "Roter Totz – De Schwarenbach, descente sur Kandersteg",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16885,7 +17110,7 @@
           "lon": 7.887318
         },
         {
-          "nome": "Wildhorn",
+          "nome": "Wildhorn – Per la Combe des Andins ed il versante SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16964,6 +17189,222 @@
           ],
           "lat": 45.95823,
           "lon": 7.810656
+        },
+        {
+          "nome": "Petits Perrons – Les Tartares 1",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1860379",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.128209,
+          "lon": 6.981918
+        },
+        {
+          "nome": "Six Carro – Point culminant (2830 m environ) par le S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2830,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/687885",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.023101,
+          "lon": 7.052161
+        },
+        {
+          "nome": "Six Carro – Plaisirs d'automne",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1365,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2826,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56921",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.024562,
+          "lon": 7.050426
+        },
+        {
+          "nome": "Riffelhorn – D'Sezz",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2927,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/373210",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.982922,
+          "lon": 7.761267
+        },
+        {
+          "nome": "Klein/Chlys Öugstchummuhorn – Enzian",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 410,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2880,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54635",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.348208,
+          "lon": 7.851134
+        },
+        {
+          "nome": "Jegihorn – Alpendurst",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 806,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3206,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57011",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.144793,
+          "lon": 7.970454
+        },
+        {
+          "nome": "Aiguille de la Cabane / Aiguille du Glacier Rond – Tichodrome",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2999,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/53891",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.005651,
+          "lon": 7.067106
+        },
+        {
+          "nome": "Aiguille Sans Nom (Dorées) – Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3444,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56241",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.982567,
+          "lon": 7.040262
         }
       ],
       "lat": null,

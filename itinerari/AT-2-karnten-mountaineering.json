@@ -43,7 +43,7 @@
       "paese": "AT",
       "pareti": [
         {
-          "nome": "Kepa",
+          "nome": "Kepa – SV greben",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -97,7 +97,7 @@
           "lon": 13.274237
         },
         {
-          "nome": "Hochalmspitze",
+          "nome": "Hochalmspitze – Traumfänger",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -124,7 +124,7 @@
           "lon": 13.321384
         },
         {
-          "nome": "Hocharn",
+          "nome": "Hocharn – Arête S via Goldzechkopf",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -151,7 +151,7 @@
           "lon": 12.93889
         },
         {
-          "nome": "Hochalmspitze",
+          "nome": "Hochalmspitze – Detmolder Grat (arête SW)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -178,7 +178,7 @@
           "lon": 13.313284
         },
         {
-          "nome": "Ankogel",
+          "nome": "Ankogel – arête SW par le Kleiner Ankogel",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -232,7 +232,7 @@
           "lon": 13.258827
         },
         {
-          "nome": "Hochalmspitze",
+          "nome": "Hochalmspitze – Versante E, dalla Maltatal, Rudolstädter Weg",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -257,6 +257,33 @@
           ],
           "lat": 47.015112,
           "lon": 13.34856
+        },
+        {
+          "nome": "Hochalmspitze – Pilier S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/293634",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.013903,
+          "lon": 13.321996
         }
       ],
       "lat": null,

@@ -2203,11 +2203,6 @@
                   "siteName": null
                 },
                 {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1536413",
-                  "siteName": null
-                },
-                {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-SanPaolo-viaPerLuca/818/",
                   "siteName": null
@@ -5900,6 +5895,33 @@
           ],
           "lat": 45.94465,
           "lon": 10.9003543
+        },
+        {
+          "nome": "Monte Colt - Parete San Paolo",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "itinerari": [
+            {
+              "nome": "Perla Nera",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1536413",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.938557,
+          "lon": 10.895476
         }
       ],
       "lat": null,
@@ -6413,6 +6435,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/PizCiavazes-viaRampa/350/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/129955",
                   "siteName": null
                 }
               ]
@@ -10839,6 +10866,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/placche-zebrate-via-teresa/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288357",
+                  "siteName": null
                 }
               ]
             },
@@ -10897,6 +10929,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/placche-zebrate-claudia/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288359",
                   "siteName": null
                 }
               ]
@@ -21995,6 +22032,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Parete Zebrata - Via Delle Mimose",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/292839",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.992,
@@ -22163,6 +22218,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/56506",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Face SSW - Voie Schober",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2533,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/461772",
                   "siteName": null
                 }
               ]
@@ -22431,6 +22504,33 @@
           ],
           "lat": 46.169457,
           "lon": 10.941456
+        },
+        {
+          "nome": "Prima Torre del Sella",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "itinerari": [
+            {
+              "nome": "Via Freccia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2533,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/130445",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.508929,
+          "lon": 11.770841
         }
       ],
       "lat": null,

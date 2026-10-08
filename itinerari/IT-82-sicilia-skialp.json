@@ -523,7 +523,7 @@
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Pizzi Deneri",
+          "nome": "Pizzi Deneri – dal rifugio Citelli",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -550,7 +550,7 @@
           "lon": 15.01694
         },
         {
-          "nome": "Etna",
+          "nome": "Etna – Anello alle pendici dei crateri sommitali di SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -577,7 +577,7 @@
           "lon": 14.995278
         },
         {
-          "nome": "Etna - Cratere di NE",
+          "nome": "Etna - Cratere di NE – Dal Piano Provenzana al cratere di NE e discesa dal versante NE dei Pizzi Deneri",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -604,7 +604,7 @@
           "lon": 15.031388
         },
         {
-          "nome": "Etna - Cratère SE",
+          "nome": "Etna - Cratère SE – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -631,7 +631,7 @@
           "lon": 14.998705
         },
         {
-          "nome": "Etna",
+          "nome": "Etna – Traversata S >> N del cratere centrale e discesa dai Pizzi Deneri",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -739,7 +739,7 @@
           "lon": 14.967139
         },
         {
-          "nome": "La Montagnola",
+          "nome": "La Montagnola – Valle del Bove >> Serra dell'Acqua - depuis le refuge Sapienza",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -766,7 +766,7 @@
           "lon": 15.00578
         },
         {
-          "nome": "Etna - Cratère NE",
+          "nome": "Etna - Cratère NE – Versant NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -793,7 +793,7 @@
           "lon": 15.023077
         },
         {
-          "nome": "Etna - Punta Lucia",
+          "nome": "Etna - Punta Lucia – Traversata E >> W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -818,6 +818,60 @@
           ],
           "lat": 37.775951,
           "lon": 14.991013
+        },
+        {
+          "nome": "Pizzi Deneri – da Provenzana",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1022,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2847,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/123087",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 37.76637,
+          "lon": 15.01694
+        },
+        {
+          "nome": "Pizzi Deneri – Canalone Y",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1180,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2847,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51299",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 37.76637,
+          "lon": 15.01694
         }
       ],
       "lat": null,

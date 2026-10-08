@@ -6398,7 +6398,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.91437093,
+          "lon": 6.365725993
+        },
+        {
+          "nome": "Pic Coolidge – Voie Bonatti / (Bizzari) 1955",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -6418,8 +6427,8 @@
               ]
             }
           ],
-          "lat": 44.91437093,
-          "lon": 6.365725993
+          "lat": 44.914956,
+          "lon": 6.365418
         },
         {
           "nome": "Coolidge (Pic) – Via Bonatti",
@@ -6461,7 +6470,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.91649826,
+          "lon": 6.365125178
+        },
+        {
+          "nome": "Barre des Écrins – Pilier S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -6481,8 +6499,8 @@
               ]
             }
           ],
-          "lat": 44.91649826,
-          "lon": 6.365125178
+          "lat": 44.916474,
+          "lon": 6.363986
         },
         {
           "nome": "Counier (Coste) Cresta Sud",
@@ -6530,11 +6548,6 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/coupe-de-sabre-couloir-nord/",
-                  "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57808",
                   "siteName": null
                 }
               ]
@@ -6904,11 +6917,6 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/glacier-noir-col-du-da-pre-de-madame-carle/",
-                  "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55953",
                   "siteName": null
                 }
               ]
@@ -7452,7 +7460,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.89795742,
+          "lon": 6.379122733
+        },
+        {
+          "nome": "Pic Sans Nom – Combinaison Voie du Souvenir + L'éloge de la fuite",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -7472,8 +7489,8 @@
               ]
             }
           ],
-          "lat": 44.89795742,
-          "lon": 6.379122733
+          "lat": 44.896772,
+          "lon": 6.378766
         },
         {
           "nome": "Sans Nom (Pic) – La Raie des Fesses",
@@ -7603,14 +7620,18 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/sialouze-aiguille-de-traversata-s-n/",
                   "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56534",
-                  "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.883433506731485,
+          "lon": 6.405801502807638
+        },
+        {
+          "nome": "Pic du Coup de Sabre – Le grand sabre et le petit couillon",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -7630,8 +7651,8 @@
               ]
             }
           ],
-          "lat": 44.883433506731485,
-          "lon": 6.405801502807638
+          "lat": 44.883033,
+          "lon": 6.40648
         },
         {
           "nome": "Écrins (Barre des) Parete Nord, Couloir Whymper",
@@ -7659,6 +7680,87 @@
           ],
           "lat": 44.91777462,
           "lon": 6.417388915
+        },
+        {
+          "nome": "Pic Sans Nom – Big tower is watching you",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3450,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57808",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.902307,
+          "lon": 6.387027
+        },
+        {
+          "nome": "Pic Sans Nom – Voie George - Russenberger",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2039,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3913,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55953",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.897528,
+          "lon": 6.380899
+        },
+        {
+          "nome": "Pic du Coup de Sabre – Arête E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3699,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56534",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.883033,
+          "lon": 6.40648
         }
       ],
       "lat": null,
@@ -8443,7 +8545,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.122074,
+          "lon": 7.398378
+        },
+        {
+          "nome": "Cime de la Malédie – viaggio postmoderno",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -8461,7 +8572,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.122074,
+          "lon": 7.398378
+        },
+        {
+          "nome": "Cime de la Malédie – via ellena",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -8485,7 +8605,7 @@
           "lon": 7.398378
         },
         {
-          "nome": "Crête du Raisin",
+          "nome": "Crête du Raisin – Le Totem (Groove Makina)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8512,7 +8632,7 @@
           "lon": 6.532109
         },
         {
-          "nome": "Tour de Chillol",
+          "nome": "Tour de Chillol – Oiseau farceur",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8593,7 +8713,7 @@
           "lon": 6.953801
         },
         {
-          "nome": "Pic Jocelme",
+          "nome": "Pic Jocelme – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8647,7 +8767,7 @@
           "lon": 6.408007
         },
         {
-          "nome": "L'Ailette",
+          "nome": "L'Ailette – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8706,24 +8826,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 370,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 800,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1918157",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Malet directe - Partie haute",
               "gradoObbligatorio": null,
               "gradoMassimo": "D",
@@ -8737,6 +8839,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1875261",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.750815,
+          "lon": 7.137478
+        },
+        {
+          "nome": "Baou de Saint-Jeannet – Les années 40",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 370,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 800,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1918157",
                   "siteName": null
                 }
               ]
@@ -8773,7 +8902,7 @@
           "lon": 6.374979
         },
         {
-          "nome": "Pic de la Moulinière",
+          "nome": "Pic de la Moulinière – Éperon des Moulinettes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8800,7 +8929,7 @@
           "lon": 6.490073
         },
         {
-          "nome": "Caire Fourchu",
+          "nome": "Caire Fourchu – La sève ou Arête SW du Caire fourchu",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8848,7 +8977,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.453779,
+          "lon": 5.698755
+        },
+        {
+          "nome": "Sigottier – Le Rocher d'Agnielle - Le Dièdre",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -8893,7 +9031,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.107385,
+          "lon": 7.388733
+        },
+        {
+          "nome": "Mont Colomb – Voie du Milieu",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -8917,7 +9064,7 @@
           "lon": 7.388733
         },
         {
-          "nome": "Croix de la Salcette",
+          "nome": "Croix de la Salcette – Eperon E de la Salcette",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8944,7 +9091,7 @@
           "lon": 6.55166
         },
         {
-          "nome": "Brèche en V du Sirac",
+          "nome": "Brèche en V du Sirac – Couloir S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8971,7 +9118,7 @@
           "lon": 6.320751
         },
         {
-          "nome": "Pic de Neige Cordier",
+          "nome": "Pic de Neige Cordier – Brèche Cordier S et Arête E (depuis Refuge des Ecrins)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -8992,7 +9139,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.95613,
+          "lon": 6.38906
+        },
+        {
+          "nome": "Pic de Neige Cordier – Arête N",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -9043,7 +9199,7 @@
           "lon": 7.441389
         },
         {
-          "nome": "Pics du Casset",
+          "nome": "Pics du Casset – Si tu t'emmêles je m'en mêle",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9178,7 +9334,7 @@
           "lon": 7.304239
         },
         {
-          "nome": "Mont Coudon",
+          "nome": "Mont Coudon – La cime hantée",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9232,7 +9388,7 @@
           "lon": 7.40065
         },
         {
-          "nome": "Tête de Sanglier",
+          "nome": "Tête de Sanglier – L'Innommée",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9259,7 +9415,7 @@
           "lon": 6.80754
         },
         {
-          "nome": "Castel de l'Aigle",
+          "nome": "Castel de l'Aigle – Bec de l'aigle / l'aigle-easy",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9340,7 +9496,7 @@
           "lon": 7.330794
         },
         {
-          "nome": "Pointe de la Selle",
+          "nome": "Pointe de la Selle – Voie normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9367,7 +9523,7 @@
           "lon": 6.813792
         },
         {
-          "nome": "Le Rouchon",
+          "nome": "Le Rouchon – Voie Normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9394,7 +9550,7 @@
           "lon": 6.93558
         },
         {
-          "nome": "Pointe de Chanteloube",
+          "nome": "Pointe de Chanteloube – Traversée Arête Sud/Pointe de Chanteloube/Arête Nord",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9421,7 +9577,7 @@
           "lon": 6.344453
         },
         {
-          "nome": "Cime du Mercantour",
+          "nome": "Cime du Mercantour – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9475,7 +9631,7 @@
           "lon": 7.235708
         },
         {
-          "nome": "Pic Sans Nom",
+          "nome": "Pic Sans Nom – Fais ta Prieur",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9496,7 +9652,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.89333,
+          "lon": 6.38359
+        },
+        {
+          "nome": "Pic Sans Nom – Traversée Sialouze > Pic sans Nom",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -9520,7 +9685,7 @@
           "lon": 6.38359
         },
         {
-          "nome": "Cimes du Lausfer",
+          "nome": "Cimes du Lausfer – Antécime ENE : Sergente della Neve",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9541,7 +9706,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.224835,
+          "lon": 7.090475
+        },
+        {
+          "nome": "Cimes du Lausfer – Via Il provinciale",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -9637,7 +9811,7 @@
           "lon": 6.414503
         },
         {
-          "nome": "Pic du Pelvat",
+          "nome": "Pic du Pelvat – Face SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9664,7 +9838,7 @@
           "lon": 6.918919
         },
         {
-          "nome": "Grand Galibier",
+          "nome": "Grand Galibier – Super Tonton",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9691,7 +9865,7 @@
           "lon": 6.433963
         },
         {
-          "nome": "Petite Céüse",
+          "nome": "Petite Céüse – Arête Est",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9718,7 +9892,7 @@
           "lon": 5.94272
         },
         {
-          "nome": "Petit doigt d'Adèle",
+          "nome": "Petit doigt d'Adèle – Tire sur mon doigt",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9745,7 +9919,7 @@
           "lon": 6.346699
         },
         {
-          "nome": "Refuge Adèle Planchard",
+          "nome": "Refuge Adèle Planchard – Arête de la Plombière",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9772,7 +9946,7 @@
           "lon": 6.345081
         },
         {
-          "nome": "Contreforts des Bans",
+          "nome": "Contreforts des Bans – Spigolo Sud du Contrefort Médian. Voie Prieur - Rousset.",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9799,7 +9973,7 @@
           "lon": 6.33627
         },
         {
-          "nome": "Pointe de Celse Nière",
+          "nome": "Pointe de Celse Nière – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9826,7 +10000,7 @@
           "lon": 6.39499
         },
         {
-          "nome": "Pointe des Trois Scies",
+          "nome": "Pointe des Trois Scies – Éperon E - Voie Elisa",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9853,7 +10027,7 @@
           "lon": 6.7425
         },
         {
-          "nome": "Aiguille de la Soupape",
+          "nome": "Aiguille de la Soupape – Balade interglaciaire",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9880,7 +10054,7 @@
           "lon": 6.407509
         },
         {
-          "nome": "Roche de Rossalonga",
+          "nome": "Roche de Rossalonga – Traversée des arêtes jusqu'au Mont Ténibre",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9907,7 +10081,7 @@
           "lon": 6.971729
         },
         {
-          "nome": "Roche d'Alvau - Sommet NW",
+          "nome": "Roche d'Alvau - Sommet NW – Ç'Alvau l'coup",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9934,7 +10108,7 @@
           "lon": 6.338385
         },
         {
-          "nome": "Calanques - Sormiou - Rumpe Cuou",
+          "nome": "Calanques - Sormiou - Rumpe Cuou – Accès/descente alternatif",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9961,7 +10135,7 @@
           "lon": 5.41903
         },
         {
-          "nome": "Barre des Écrins",
+          "nome": "Barre des Écrins – La Barretasse",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -9982,7 +10156,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.92215,
+          "lon": 6.35952
+        },
+        {
+          "nome": "Barre des Écrins – Coup de Barre, j'Écrins le pire!",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -10006,7 +10189,7 @@
           "lon": 6.35952
         },
         {
-          "nome": "Pic de Bure",
+          "nome": "Pic de Bure – Combe de bure",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10033,7 +10216,7 @@
           "lon": 5.932977
         },
         {
-          "nome": "Crête de clos Chamaurie",
+          "nome": "Crête de clos Chamaurie – Fenêtre de Clos Chamaurie",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10087,7 +10270,7 @@
           "lon": 6.681432
         },
         {
-          "nome": "Crête de la Gueyta",
+          "nome": "Crête de la Gueyta – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10114,7 +10297,7 @@
           "lon": 6.595012
         },
         {
-          "nome": "Crête des Veyres",
+          "nome": "Crête des Veyres – Floréclaire",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10168,7 +10351,7 @@
           "lon": 6.289072
         },
         {
-          "nome": "Les Fréaux",
+          "nome": "Les Fréaux – arête des Fréaux",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10261,7 +10444,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.841667,
+          "lon": 6.204504
+        },
+        {
+          "nome": "La Rouye – Arête S Intégrale",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -10285,7 +10477,7 @@
           "lon": 6.204504
         },
         {
-          "nome": "Tête de Gaulent",
+          "nome": "Tête de Gaulent – Traverse L'Aguillas & tête de Gaulent - N to S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10306,7 +10498,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.718522,
+          "lon": 6.524998
+        },
+        {
+          "nome": "Tête de Gaulent – Epaule SW depuis le col de Val Haute",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -10330,7 +10531,7 @@
           "lon": 6.524998
         },
         {
-          "nome": "Pic N de la Font Sancte",
+          "nome": "Pic N de la Font Sancte – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10357,7 +10558,7 @@
           "lon": 6.79971
         },
         {
-          "nome": "Pic Godefroy",
+          "nome": "Pic Godefroy – Par les crêtes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10432,7 +10633,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.84819,
+          "lon": 6.53291
+        },
+        {
+          "nome": "Tête d'Aval de Montbrison – Directissime 77",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -10456,7 +10666,7 @@
           "lon": 6.53291
         },
         {
-          "nome": "Ailefroide - Pointe Fourastier",
+          "nome": "Ailefroide - Pointe Fourastier – Pilier des Séracs",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10483,7 +10693,7 @@
           "lon": 6.362257
         },
         {
-          "nome": "Mont Pelvoux - Pointe Puiseux",
+          "nome": "Mont Pelvoux - Pointe Puiseux – Face N - Voie Directe",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10564,7 +10774,7 @@
           "lon": 6.7483
         },
         {
-          "nome": "Crête de Balari - Sommet S",
+          "nome": "Crête de Balari - Sommet S – Camping Balari",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10591,7 +10801,7 @@
           "lon": 6.736541
         },
         {
-          "nome": "Bosse de la Momie",
+          "nome": "Bosse de la Momie – Eperon NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10618,7 +10828,7 @@
           "lon": 6.39826
         },
         {
-          "nome": "Bec de l'Homme",
+          "nome": "Bec de l'Homme – Arête de la Palun intégrale ou arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10649,24 +10859,6 @@
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
-            {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1585,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3290,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1642526",
-                  "siteName": null
-                }
-              ]
-            },
             {
               "nome": "Arête SW intégrale",
               "gradoObbligatorio": null,
@@ -10708,7 +10900,34 @@
           "lon": 6.460658
         },
         {
-          "nome": "Cayre Nègre du Mercantour",
+          "nome": "Corne S de Clouzis – Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1585,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3290,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1642526",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.916658,
+          "lon": 6.460658
+        },
+        {
+          "nome": "Cayre Nègre du Mercantour – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10735,7 +10954,7 @@
           "lon": 7.29498
         },
         {
-          "nome": "Agneau Central",
+          "nome": "Agneau Central – Par le Glacier Tuckett supérieur",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10762,7 +10981,7 @@
           "lon": 6.42849
         },
         {
-          "nome": "Grand Séru - Pointe Emilio Questa",
+          "nome": "Grand Séru - Pointe Emilio Questa – Il Grande Volo",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10789,7 +11008,7 @@
           "lon": 6.58817
         },
         {
-          "nome": "Grand Seru - Pointe Ettore Mattirolo",
+          "nome": "Grand Seru - Pointe Ettore Mattirolo – Arête SE (Voie Normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10879,7 +11098,7 @@
           "lon": 6.381438
         },
         {
-          "nome": "Montagne de Beaussebérard",
+          "nome": "Montagne de Beaussebérard – On s'excuse",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10906,7 +11125,7 @@
           "lon": 6.715045
         },
         {
-          "nome": "Pointe Holmes",
+          "nome": "Pointe Holmes – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10960,7 +11179,7 @@
           "lon": 7.163656
         },
         {
-          "nome": "Chandelle du Lac Rouge ",
+          "nome": "Chandelle du Lac Rouge  – Poisson rouge",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -10987,7 +11206,7 @@
           "lon": 6.507623
         },
         {
-          "nome": "Tête de la Cassille",
+          "nome": "Tête de la Cassille – Sous le regard des Bouquetins",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11041,7 +11260,7 @@
           "lon": 6.803118
         },
         {
-          "nome": "Péouvou",
+          "nome": "Péouvou – Le voleur nocturne",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11068,7 +11287,7 @@
           "lon": 6.882639
         },
         {
-          "nome": "Envers du Vaccivier",
+          "nome": "Envers du Vaccivier – L'Odyssée des Tours Perdues",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11095,7 +11314,7 @@
           "lon": 6.285539
         },
         {
-          "nome": "Pointe des Bœufs Rouges",
+          "nome": "Pointe des Bœufs Rouges – Traversée N->S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11176,7 +11395,7 @@
           "lon": 6.515537
         },
         {
-          "nome": "Pic de la Grave",
+          "nome": "Pic de la Grave – Pilier SE - Les exploratrices",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11207,24 +11426,6 @@
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
-            {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2690,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1558595",
-                  "siteName": null
-                }
-              ]
-            },
             {
               "nome": "Attaque à Main Armée",
               "gradoObbligatorio": null,
@@ -11284,7 +11485,34 @@
           "lon": 6.40804
         },
         {
-          "nome": "Pic S des Cavales",
+          "nome": "Refuge du Pelvoux / Lemercier – Gnocchis au Bleu",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2690,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1558595",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.882523,
+          "lon": 6.40804
+        },
+        {
+          "nome": "Pic S des Cavales – Traversée E > W , depuis le Col de la Grande Ruine jusqu'à la Pointe Chalonge",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11316,24 +11544,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3564,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1556481",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Directe de gauche",
               "gradoObbligatorio": null,
               "gradoMassimo": "ED",
@@ -11356,7 +11566,34 @@
           "lon": 6.196315
         },
         {
-          "nome": "Aiguille Pierre André",
+          "nome": "Olan – Pilier SE du Sommet Central",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3564,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1556481",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.858133,
+          "lon": 6.196315
+        },
+        {
+          "nome": "Aiguille Pierre André – Variante d'attaque pour \"La Sud-Sud-Est\", \"Marmottes Givrées\", \"Face Sud Classique\"",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11410,7 +11647,7 @@
           "lon": 6.513412
         },
         {
-          "nome": "Roche Faurio",
+          "nome": "Roche Faurio – Traversée Pointe Louise -> Pointe Xavier Blanc -> Roche Faurio",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11487,24 +11724,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2966,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1543253",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Voie \"Marcel Molinatti\"",
               "gradoObbligatorio": null,
               "gradoMassimo": "D-",
@@ -11518,6 +11737,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/918078",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.945015,
+          "lon": 6.40877
+        },
+        {
+          "nome": "Aiguille Pierre Étienne – Voie André Giraud",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2966,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1543253",
                   "siteName": null
                 }
               ]
@@ -11554,7 +11800,7 @@
           "lon": 6.36025
         },
         {
-          "nome": "Passerelle du Chardillon",
+          "nome": "Passerelle du Chardillon – Cognet de Dode",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11608,7 +11854,7 @@
           "lon": 6.540093
         },
         {
-          "nome": "Pic de Bonvoisin",
+          "nome": "Pic de Bonvoisin – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11662,7 +11908,7 @@
           "lon": 6.643164
         },
         {
-          "nome": "Pointe Gaspard",
+          "nome": "Pointe Gaspard – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11689,7 +11935,7 @@
           "lon": 6.651766
         },
         {
-          "nome": "Roche Rousse",
+          "nome": "Roche Rousse – Super Rouge",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11721,24 +11967,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1550,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3235,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1466605",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Arête ENE (voie normale)",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD+",
@@ -11761,7 +11989,34 @@
           "lon": 6.767035
         },
         {
-          "nome": "Envers du Vaccivier",
+          "nome": "Pic des Houerts – Sur l'Île des Houerts",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1550,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3235,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1466605",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.587295,
+          "lon": 6.767035
+        },
+        {
+          "nome": "Envers du Vaccivier – L' arête des 3 pointes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11782,7 +12037,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.868964,
+          "lon": 6.284139
+        },
+        {
+          "nome": "Envers du Vaccivier – Face E du gendarme jaune",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -11806,7 +12070,7 @@
           "lon": 6.284139
         },
         {
-          "nome": "Cime de Sistron",
+          "nome": "Cime de Sistron – Antécime NE - Pilier d'Aurélien",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11860,7 +12124,7 @@
           "lon": 6.8535
         },
         {
-          "nome": "Aiguille Large de Mary",
+          "nome": "Aiguille Large de Mary – Voie de la Cathédrale (face E)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11887,7 +12151,7 @@
           "lon": 6.85695
         },
         {
-          "nome": "Pic N des Cavales",
+          "nome": "Pic N des Cavales – Surtout n'le dites pas à Flo!",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -11908,7 +12172,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.97962,
+          "lon": 6.315554
+        },
+        {
+          "nome": "Pic N des Cavales – Arête N",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -11926,7 +12199,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.97962,
+          "lon": 6.315554
+        },
+        {
+          "nome": "Pic N des Cavales – Arête S (voie normale)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -12004,7 +12286,7 @@
           "lon": 6.359784
         },
         {
-          "nome": "La Meije - Grand Pic",
+          "nome": "La Meije - Grand Pic – Directissime des potes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12031,7 +12313,7 @@
           "lon": 6.30421
         },
         {
-          "nome": "Pic de Pian",
+          "nome": "Pic de Pian – Arête SE depuis le Col de Font Froide",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12058,7 +12340,7 @@
           "lon": 6.165833
         },
         {
-          "nome": "Pointe Emma",
+          "nome": "Pointe Emma – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12079,7 +12361,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.986251,
+          "lon": 6.31706
+        },
+        {
+          "nome": "Pointe Emma – Facette ENE - voie des dalles",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -12097,7 +12388,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.986251,
+          "lon": 6.31706
+        },
+        {
+          "nome": "Pointe Emma – Facette ESE - Voie du couloir",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -12115,7 +12415,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.986251,
+          "lon": 6.31706
+        },
+        {
+          "nome": "Pointe Emma – Traversée Pointe Emma > Pointe des Chamois",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -12139,7 +12448,7 @@
           "lon": 6.31706
         },
         {
-          "nome": "Pointe des Cinéastes",
+          "nome": "Pointe des Cinéastes – Variante des chèvres du Garlaban",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12166,7 +12475,7 @@
           "lon": 6.42057
         },
         {
-          "nome": "Vallon de Pierre Malle",
+          "nome": "Vallon de Pierre Malle – L'Envers des Lombards",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12193,7 +12502,7 @@
           "lon": 4.830179
         },
         {
-          "nome": "Grand Clocher de l'Alpe ",
+          "nome": "Grand Clocher de l'Alpe  – Face SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12214,7 +12523,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.972322,
+          "lon": 6.34391
+        },
+        {
+          "nome": "Grand Clocher de l'Alpe  – Face S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -12238,7 +12556,7 @@
           "lon": 6.34391
         },
         {
-          "nome": "Roche d'Alvau - Sommet NW",
+          "nome": "Roche d'Alvau - Sommet NW – Face N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12265,7 +12583,7 @@
           "lon": 6.338903
         },
         {
-          "nome": "Mont Ponset",
+          "nome": "Mont Ponset – Voie Dufranc - Gounand",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12292,7 +12610,7 @@
           "lon": 7.387505
         },
         {
-          "nome": "La Meijette",
+          "nome": "La Meijette – Arête de la Meijette",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12319,7 +12637,7 @@
           "lon": 6.307176
         },
         {
-          "nome": "Bric Froid",
+          "nome": "Bric Froid – Crête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12346,7 +12664,7 @@
           "lon": 6.944711
         },
         {
-          "nome": "Aiguille du Pelvoux",
+          "nome": "Aiguille du Pelvoux – Traversée des cols W → E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12427,7 +12745,7 @@
           "lon": 6.330882
         },
         {
-          "nome": "Calan du Hublot (ou Petit Calan de Maussane)",
+          "nome": "Calan du Hublot (ou Petit Calan de Maussane) – Arêtes du Calan du hublot",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12454,7 +12772,7 @@
           "lon": 4.842318
         },
         {
-          "nome": "Roche Pertuse",
+          "nome": "Roche Pertuse – Épaule W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12508,7 +12826,7 @@
           "lon": 4.805461
         },
         {
-          "nome": "Tête de Combe Grosse",
+          "nome": "Tête de Combe Grosse – Traversée des arêtes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12535,7 +12853,7 @@
           "lon": 7.177456
         },
         {
-          "nome": "Petit Pelvoux",
+          "nome": "Petit Pelvoux – Voie du milieu (entre Tuckett et Clot de l'Homme)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12583,7 +12901,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.886381,
+          "lon": 6.386039
+        },
+        {
+          "nome": "Brèche Inférieure de Sialouze – Traversée Arête S → Arête N",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -12657,24 +12984,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3576,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1373148",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Unchi Maka",
               "gradoObbligatorio": null,
               "gradoMassimo": "ED+",
@@ -12688,6 +12997,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1331665",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.88811,
+          "lon": 6.38494
+        },
+        {
+          "nome": "Aiguille de Sialouze – Voie Guibert - Prangé avec sortie directe Maldy - Tchudowsky",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3576,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1373148",
                   "siteName": null
                 }
               ]
@@ -12724,7 +13060,7 @@
           "lon": 6.870689
         },
         {
-          "nome": "Aiguille Rouge (Névache)",
+          "nome": "Aiguille Rouge (Névache) – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12745,7 +13081,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.046344,
+          "lon": 6.647221
+        },
+        {
+          "nome": "Aiguille Rouge (Névache) – Névache : via corda de l'Aiguille Rouge",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -12796,7 +13141,7 @@
           "lon": 6.565161
         },
         {
-          "nome": "Grand Adret",
+          "nome": "Grand Adret – Voie normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12823,7 +13168,7 @@
           "lon": 6.57541
         },
         {
-          "nome": "Pointe Melchior",
+          "nome": "Pointe Melchior – Par le Pas de la Galline et le vallon froid",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12850,7 +13195,7 @@
           "lon": 6.632155
         },
         {
-          "nome": "Pointe de l'Enfourant",
+          "nome": "Pointe de l'Enfourant – par le Pas du Bonhomme",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12904,7 +13249,7 @@
           "lon": 6.326333
         },
         {
-          "nome": "Ceillac - La Viste",
+          "nome": "Ceillac - La Viste – Arête à Nino",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12931,7 +13276,7 @@
           "lon": 6.757651
         },
         {
-          "nome": "Pic du Coup de Sabre",
+          "nome": "Pic du Coup de Sabre – Versant S (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -12958,7 +13303,7 @@
           "lon": 6.376776
         },
         {
-          "nome": "Pic du Cros",
+          "nome": "Pic du Cros – Traversée Intégrale SE → NW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13012,7 +13357,7 @@
           "lon": 6.332254
         },
         {
-          "nome": "Le Peyron",
+          "nome": "Le Peyron – Dalle en pente",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13066,7 +13411,7 @@
           "lon": 7.073705
         },
         {
-          "nome": "Pointe de Cloutzau",
+          "nome": "Pointe de Cloutzau – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13093,7 +13438,7 @@
           "lon": 6.746597
         },
         {
-          "nome": "Pointe de Verdonne",
+          "nome": "Pointe de Verdonne – Face S et arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13120,7 +13465,7 @@
           "lon": 6.339233
         },
         {
-          "nome": "Pic de Céüse",
+          "nome": "Pic de Céüse – Balade Sauvage",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13174,7 +13519,7 @@
           "lon": 6.273197
         },
         {
-          "nome": "Les Bans",
+          "nome": "Les Bans – Bans Bino",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13195,7 +13540,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.847708,
+          "lon": 6.338978
+        },
+        {
+          "nome": "Les Bans – Voie Giraud",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -13219,7 +13573,7 @@
           "lon": 6.338978
         },
         {
-          "nome": "Pic Gaspard",
+          "nome": "Pic Gaspard – Ginel-Pinard - Face N voie de gauche",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13251,24 +13605,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 500,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1307351",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Traversée Pavé - Gaspard",
               "gradoObbligatorio": null,
               "gradoMassimo": "AD",
@@ -13291,7 +13627,34 @@
           "lon": 6.328463
         },
         {
-          "nome": "Le Grand Peygu",
+          "nome": "Pic Gaspard – Voie Moulin - By fair means",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1307351",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.998953,
+          "lon": 6.328463
+        },
+        {
+          "nome": "Le Grand Peygu – Traversée depuis le petit Peygu",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13318,7 +13681,7 @@
           "lon": 6.70496
         },
         {
-          "nome": "Vallon de Gialorgues",
+          "nome": "Vallon de Gialorgues – Cigare de Roche Blanche",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13345,7 +13708,7 @@
           "lon": 6.842563
         },
         {
-          "nome": "Tête de Colombe",
+          "nome": "Tête de Colombe – Eperon de droite",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13372,7 +13735,7 @@
           "lon": 6.44949
         },
         {
-          "nome": "Grand Parpaillon",
+          "nome": "Grand Parpaillon – Crête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13399,7 +13762,7 @@
           "lon": 6.65173
         },
         {
-          "nome": "Pointe Holmes",
+          "nome": "Pointe Holmes – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13426,7 +13789,7 @@
           "lon": 6.371542
         },
         {
-          "nome": "Aiguillette du Lauzet",
+          "nome": "Aiguillette du Lauzet – Eperon NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13453,7 +13816,7 @@
           "lon": 6.484447
         },
         {
-          "nome": "Aiguillette du Lauzet",
+          "nome": "Aiguillette du Lauzet – Arête N de la face W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13480,7 +13843,7 @@
           "lon": 6.481634
         },
         {
-          "nome": "Aiguillette du Lauzet",
+          "nome": "Aiguillette du Lauzet – la Diagonale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13507,7 +13870,7 @@
           "lon": 6.478055
         },
         {
-          "nome": "Roche Colombe",
+          "nome": "Roche Colombe – Voie Davin",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13534,7 +13897,7 @@
           "lon": 6.463837
         },
         {
-          "nome": "Tête de Colombe",
+          "nome": "Tête de Colombe – Voie des PSHM",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13561,7 +13924,7 @@
           "lon": 6.447763
         },
         {
-          "nome": "Grand Galibier",
+          "nome": "Grand Galibier – Voie Collangettes - Laborie - Constans.",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13588,7 +13951,7 @@
           "lon": 6.43318
         },
         {
-          "nome": "Grand Galibier",
+          "nome": "Grand Galibier – Face S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13642,7 +14005,7 @@
           "lon": 7.302836
         },
         {
-          "nome": "Tourelles Termier",
+          "nome": "Tourelles Termier – Joli petit pain",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13723,7 +14086,7 @@
           "lon": 6.224207
         },
         {
-          "nome": "Envers du Vaccivier",
+          "nome": "Envers du Vaccivier – Première Pointe - Lune Complice",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13777,7 +14140,7 @@
           "lon": 6.065243
         },
         {
-          "nome": "Chapeau de Gendarme - Tête du Clot des Morts",
+          "nome": "Chapeau de Gendarme - Tête du Clot des Morts – Depuis le haut des voies d'escalade",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13831,7 +14194,7 @@
           "lon": 6.11597
         },
         {
-          "nome": "Petit Rochebrune",
+          "nome": "Petit Rochebrune – Arête ESE, par la Crête du Malrif",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13858,7 +14221,7 @@
           "lon": 6.85556
         },
         {
-          "nome": "Pointe Louise",
+          "nome": "Pointe Louise – Louise attaque",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13912,7 +14275,7 @@
           "lon": 6.463233
         },
         {
-          "nome": "Pic Pétarel",
+          "nome": "Pic Pétarel – Traversée N → W par la Crête de Romane",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13939,7 +14302,7 @@
           "lon": 6.175003
         },
         {
-          "nome": "Roche Bernaude",
+          "nome": "Roche Bernaude – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -13966,7 +14329,7 @@
           "lon": 6.631258
         },
         {
-          "nome": "Roches du Castellaras",
+          "nome": "Roches du Castellaras – Les feux de la rampe",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14020,7 +14383,7 @@
           "lon": 6.613243
         },
         {
-          "nome": "Crête du Queyrellin",
+          "nome": "Crête du Queyrellin – Pilier 2866m - Face E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14047,7 +14410,7 @@
           "lon": 6.515452
         },
         {
-          "nome": "Crête du Queyrellin - 3ème Tour ",
+          "nome": "Crête du Queyrellin - 3ème Tour  – Face E (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14101,7 +14464,7 @@
           "lon": 4.861901
         },
         {
-          "nome": "Aiguille de Chambeyron",
+          "nome": "Aiguille de Chambeyron – Pilier S Parize-Dallo",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14128,7 +14491,7 @@
           "lon": 6.85615
         },
         {
-          "nome": "Bec de Grenier",
+          "nome": "Bec de Grenier – depuis le glacier Lombard",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14155,7 +14518,7 @@
           "lon": 6.317062
         },
         {
-          "nome": "Pointe Guyard",
+          "nome": "Pointe Guyard – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14214,24 +14577,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2742,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1186567",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Face W",
               "gradoObbligatorio": null,
               "gradoMassimo": "TD",
@@ -14245,6 +14590,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1186565",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.996743,
+          "lon": 6.551476
+        },
+        {
+          "nome": "Pointe de Buffère – Face E - Voie Diaféria",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2742,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1186567",
                   "siteName": null
                 }
               ]
@@ -14308,7 +14680,7 @@
           "lon": 6.711042
         },
         {
-          "nome": "Pointe Nérot",
+          "nome": "Pointe Nérot – Un fauteuil pour deux",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14335,7 +14707,7 @@
           "lon": 6.353069
         },
         {
-          "nome": "Cayre de Préfouns",
+          "nome": "Cayre de Préfouns – Voie Bertrand-Demenge (voie de droite)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14362,7 +14734,7 @@
           "lon": 7.223286
         },
         {
-          "nome": "Pointe de la Muande",
+          "nome": "Pointe de la Muande – Face S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14389,7 +14761,7 @@
           "lon": 6.251864
         },
         {
-          "nome": "Dentelles Sarrasines - chambre du turc",
+          "nome": "Dentelles Sarrasines - chambre du turc – Chambre du turc depuis Lafare",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14416,7 +14788,7 @@
           "lon": 5.020733
         },
         {
-          "nome": "Tête des Drailles",
+          "nome": "Tête des Drailles – Voie des Drailles",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14470,7 +14842,7 @@
           "lon": 5.973233
         },
         {
-          "nome": "Brec Second",
+          "nome": "Brec Second – Traversée Col de Gyp - Col de Fours par les Brecs",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14497,7 +14869,7 @@
           "lon": 6.674594
         },
         {
-          "nome": "Collet de Porteras",
+          "nome": "Collet de Porteras – Traversée Chalance-Pigeonnier",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14529,24 +14901,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1026,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2560,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1140551",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Arête W",
               "gradoObbligatorio": null,
               "gradoMassimo": "D+",
@@ -14560,6 +14914,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/801994",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.33411,
+          "lon": 6.647946
+        },
+        {
+          "nome": "Le Pain de Sucre (la Méa) – Arête E (voie normale)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1026,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2560,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1140551",
                   "siteName": null
                 }
               ]
@@ -14623,7 +15004,7 @@
           "lon": 6.332502
         },
         {
-          "nome": "Pointe Xavier Blanc",
+          "nome": "Pointe Xavier Blanc – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14709,24 +15090,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1133816",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Arête W",
               "gradoObbligatorio": null,
               "gradoMassimo": "F",
@@ -14749,7 +15112,34 @@
           "lon": 6.350269
         },
         {
-          "nome": "Pointe Nérot",
+          "nome": "Pointe des Pichettes – Arête E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1133816",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.999809,
+          "lon": 6.350269
+        },
+        {
+          "nome": "Pointe Nérot – Face S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14808,24 +15198,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2880,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1133530",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Face N",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD",
@@ -14848,7 +15220,34 @@
           "lon": 6.807756
         },
         {
-          "nome": "Pointe des Chamois",
+          "nome": "Fort Carra – Om Mani Padme Hum",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2880,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1133530",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.245659,
+          "lon": 6.807756
+        },
+        {
+          "nome": "Pointe des Chamois – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14875,7 +15274,7 @@
           "lon": 6.318557
         },
         {
-          "nome": "Cayre de l'Escandail",
+          "nome": "Cayre de l'Escandail – Est-ce qu'on baille ?",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14902,7 +15301,7 @@
           "lon": 7.400261
         },
         {
-          "nome": "Le Râteau - Sommet E",
+          "nome": "Le Râteau - Sommet E – Cambon - Francou",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -14929,7 +15328,7 @@
           "lon": 6.279403
         },
         {
-          "nome": "Les Opies",
+          "nome": "Les Opies – Arête W : La désirée",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15112,7 +15511,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.148261,
+          "lon": 6.724362
+        },
+        {
+          "nome": "Grande Aiguille de Pelens – Face N de l'Aiguille de Prapelet-Testa d'Aï-\"la voie où la main de l'Homme n'avait jamais mis le pied...Et ne le mettra pas souvent!\"",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -15163,7 +15571,7 @@
           "lon": 6.342802
         },
         {
-          "nome": "Pic Gaspard",
+          "nome": "Pic Gaspard – Face E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15190,7 +15598,7 @@
           "lon": 6.335163
         },
         {
-          "nome": "Roche Méane",
+          "nome": "Roche Méane – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15211,7 +15619,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.968922,
+          "lon": 6.339945
+        },
+        {
+          "nome": "Roche Méane – Super Mimine",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -15235,7 +15652,7 @@
           "lon": 6.339945
         },
         {
-          "nome": "Passage du Bâton",
+          "nome": "Passage du Bâton – Traversée E → W du refuge de Chalance au refuge de l'Olan",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15415,7 +15832,7 @@
           "lon": 6.530863
         },
         {
-          "nome": "Rochers de la Clapière",
+          "nome": "Rochers de la Clapière – Arête à Loulou",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15469,7 +15886,7 @@
           "lon": 7.273905
         },
         {
-          "nome": "Pointe Trifide",
+          "nome": "Pointe Trifide – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15496,7 +15913,7 @@
           "lon": 6.270683
         },
         {
-          "nome": "Tête des Pras Arnaud",
+          "nome": "Tête des Pras Arnaud – Couloir E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15523,7 +15940,7 @@
           "lon": 5.89701
         },
         {
-          "nome": "Montagnette",
+          "nome": "Montagnette – arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15550,7 +15967,7 @@
           "lon": 6.512827
         },
         {
-          "nome": "Cime du Vallon",
+          "nome": "Cime du Vallon – La Chalancée du Bâton (Arête S de la pointe 3156 m)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15577,7 +15994,7 @@
           "lon": 6.233752
         },
         {
-          "nome": "Aiguille d'Argentière",
+          "nome": "Aiguille d'Argentière – Crête ESE depuis le Col du Goléon",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15631,7 +16048,7 @@
           "lon": 6.372697
         },
         {
-          "nome": "Aiguille du Goléon",
+          "nome": "Aiguille du Goléon – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15685,7 +16102,7 @@
           "lon": 6.318855
         },
         {
-          "nome": "Aiguille Orientale de la Saussaz",
+          "nome": "Aiguille Orientale de la Saussaz – arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15798,24 +16215,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3100,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/915673",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Parete W della cima N - Via d'Agrain-Broccardi-Cassone",
               "gradoObbligatorio": null,
               "gradoMassimo": "AD-",
@@ -15850,7 +16249,43 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.122292,
+          "lon": 7.384452
+        },
+        {
+          "nome": "Monte Gelas – Traversata degli Italiani",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3100,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/915673",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.122292,
+          "lon": 7.384452
+        },
+        {
+          "nome": "Monte Gelas – Couloir E (Voie normale estivale)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -15901,7 +16336,7 @@
           "lon": 7.017114
         },
         {
-          "nome": "Pointe des Cirques",
+          "nome": "Pointe des Cirques – Arête SW (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15955,7 +16390,7 @@
           "lon": 6.375312
         },
         {
-          "nome": "Col du Says",
+          "nome": "Col du Says – Versant S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -15986,24 +16421,6 @@
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
-            {
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/904024",
-                  "siteName": null
-                }
-              ]
-            },
             {
               "nome": "Via De Cessole (con variante d'attacco e variante di uscita)",
               "gradoObbligatorio": null,
@@ -16135,7 +16552,34 @@
           "lon": 7.375487
         },
         {
-          "nome": "Pointe Guyard",
+          "nome": "Cima Saint Robert – Cresta NE (via normale italiana)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/904024",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.119238,
+          "lon": 7.375487
+        },
+        {
+          "nome": "Pointe Guyard – Crête des Aguyés",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16198,24 +16642,6 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/131840",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 500,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2413,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57878",
                   "siteName": null
                 }
               ]
@@ -16288,6 +16714,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/53786",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.099724,
+          "lon": 7.369247
+        },
+        {
+          "nome": "Mont Ponset – voie Dufour (face N)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2413,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57878",
                   "siteName": null
                 }
               ]
@@ -16378,7 +16831,7 @@
           "lon": 6.848602
         },
         {
-          "nome": "Pointe Xavier Blanc",
+          "nome": "Pointe Xavier Blanc – Versant S (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16432,7 +16885,7 @@
           "lon": 6.84354
         },
         {
-          "nome": "Mont Ponset",
+          "nome": "Mont Ponset – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16459,7 +16912,7 @@
           "lon": 7.384646
         },
         {
-          "nome": "Cayre de la Madone",
+          "nome": "Cayre de la Madone – Arête E (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16480,7 +16933,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.098983,
+          "lon": 7.372214
+        },
+        {
+          "nome": "Cayre de la Madone – Traversée des arêtes",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -16498,7 +16960,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.098983,
+          "lon": 7.372214
+        },
+        {
+          "nome": "Cayre de la Madone – Voie Raffaelli",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -16522,7 +16993,7 @@
           "lon": 7.372214
         },
         {
-          "nome": "Alpilles - Mouriès",
+          "nome": "Alpilles - Mouriès – Traversée des Dentelles des Alpilles - tour du Vallon du Renard",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16603,7 +17074,7 @@
           "lon": 4.8614
         },
         {
-          "nome": "Pointe Guyard",
+          "nome": "Pointe Guyard – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16630,7 +17101,7 @@
           "lon": 6.40161
         },
         {
-          "nome": "Tête du Clotonnet",
+          "nome": "Tête du Clotonnet – Traversée des arêtes du Col de Combe Méanne au Col de la Vaurze",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16734,24 +17205,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 720,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3150,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/780350",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Arête SSW par le Gendarme Rouge",
               "gradoObbligatorio": null,
               "gradoMassimo": "AD",
@@ -16765,6 +17218,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/55995",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.866752,
+          "lon": 6.279873
+        },
+        {
+          "nome": "Gendarme Rouge du Vaccivier – Ça roule !",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 720,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3150,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/780350",
                   "siteName": null
                 }
               ]
@@ -16801,7 +17281,7 @@
           "lon": 6.328039
         },
         {
-          "nome": "Ravin de Prouvarel",
+          "nome": "Ravin de Prouvarel – Drouchka",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16855,7 +17335,7 @@
           "lon": 6.700686
         },
         {
-          "nome": "Cime Saint Robert",
+          "nome": "Cime Saint Robert – Versant S et Arête SE (voie normale française)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16882,7 +17362,7 @@
           "lon": 7.375904
         },
         {
-          "nome": "le Trou de l'Aigle",
+          "nome": "le Trou de l'Aigle – par la Face S-SW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16909,7 +17389,7 @@
           "lon": 6.711548
         },
         {
-          "nome": "Refuge du Glacier Blanc",
+          "nome": "Refuge du Glacier Blanc – Chemin des Guides",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16936,7 +17416,7 @@
           "lon": 6.41232
         },
         {
-          "nome": "Dent d'Aurouze",
+          "nome": "Dent d'Aurouze – Face E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -16990,7 +17470,7 @@
           "lon": 7.306503
         },
         {
-          "nome": "Mont Neiglier",
+          "nome": "Mont Neiglier – Couloir SW (Voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17017,7 +17497,7 @@
           "lon": 7.385948
         },
         {
-          "nome": "Aiguille de Chambeyron",
+          "nome": "Aiguille de Chambeyron – Face S (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17044,7 +17524,7 @@
           "lon": 6.858194
         },
         {
-          "nome": "Cayres Nègres du Pélago",
+          "nome": "Cayres Nègres du Pélago – Traversée intégrale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17071,7 +17551,7 @@
           "lon": 7.308628
         },
         {
-          "nome": "Crête de l'Étoile",
+          "nome": "Crête de l'Étoile – Arête de l'Etoile (pointe 2458 m) par la voie de la rampe",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17179,7 +17659,7 @@
           "lon": 6.493512
         },
         {
-          "nome": "Tête de Baume Noire",
+          "nome": "Tête de Baume Noire – Face N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17206,7 +17686,7 @@
           "lon": 5.929293
         },
         {
-          "nome": "Contrefort du Pilon",
+          "nome": "Contrefort du Pilon – Pilier du feu sacré",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17287,7 +17767,7 @@
           "lon": 7.214681
         },
         {
-          "nome": "Pointe de Rome",
+          "nome": "Pointe de Rome – Traversée des arêtes, depuis le couloir du Porc jusqu'au passo Giacoletti",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17314,7 +17794,7 @@
           "lon": 7.073098
         },
         {
-          "nome": "Roche Méane",
+          "nome": "Roche Méane – Cheminée en arc de cercle",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17341,7 +17821,7 @@
           "lon": 6.336558
         },
         {
-          "nome": "Pointe Emma",
+          "nome": "Pointe Emma – Arête S (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17362,7 +17842,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.984486,
+          "lon": 6.3176
+        },
+        {
+          "nome": "Pointe Emma – Éperon E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -17386,7 +17875,7 @@
           "lon": 6.3176
         },
         {
-          "nome": "Grande Ruine - Pointe Brevoort",
+          "nome": "Grande Ruine - Pointe Brevoort – Voie des Trois piliers",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17467,7 +17956,7 @@
           "lon": 6.456687
         },
         {
-          "nome": "Pointe de Chabournéou",
+          "nome": "Pointe de Chabournéou – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17521,7 +18010,7 @@
           "lon": 6.290495
         },
         {
-          "nome": "Pointe de Verdonne",
+          "nome": "Pointe de Verdonne – Arête SW (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17548,7 +18037,7 @@
           "lon": 6.304813
         },
         {
-          "nome": "Punta dell'Alp",
+          "nome": "Punta dell'Alp – Face N et traversée des arêtes vers le Pic de Caramantran",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17629,7 +18118,7 @@
           "lon": 5.971404
         },
         {
-          "nome": "Pic des Houerts",
+          "nome": "Pic des Houerts – Voie du 22 septembre",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17660,24 +18149,6 @@
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
-            {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2931,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/641075",
-                  "siteName": null
-                }
-              ]
-            },
             {
               "nome": "Flying Machine",
               "gradoObbligatorio": null,
@@ -17737,7 +18208,34 @@
           "lon": 6.835843
         },
         {
-          "nome": "Pointe Cézanne",
+          "nome": "Aiguillette du Vallonnet – Un brin d'folie",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2931,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/641075",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.487419,
+          "lon": 6.835843
+        },
+        {
+          "nome": "Pointe Cézanne – Arête SSE directe",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -17796,24 +18294,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3067,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/630871",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Face S, voie normale",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD-",
@@ -17827,6 +18307,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/56850",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.480619,
+          "lon": 6.832998
+        },
+        {
+          "nome": "La Meyna – Couloir N",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3067,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/630871",
                   "siteName": null
                 }
               ]
@@ -17863,7 +18370,7 @@
           "lon": 6.63755
         },
         {
-          "nome": "Pic de Malamort",
+          "nome": "Pic de Malamort – Crête de Malamort",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18084,24 +18591,6 @@
               ]
             },
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1300,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2900,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/196259",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Arrétez les Ministres",
               "gradoObbligatorio": null,
               "gradoMassimo": "TD+",
@@ -18300,24 +18789,6 @@
               ]
             },
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2921,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/54145",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Histoire d'en Rirou",
               "gradoObbligatorio": null,
               "gradoMassimo": "TD",
@@ -18358,7 +18829,61 @@
           "lon": 7.322024
         },
         {
-          "nome": "Les Rouies",
+          "nome": "Cayres de la Cougourde – Arête N de la Cime III",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2900,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/196259",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.125617,
+          "lon": 7.322024
+        },
+        {
+          "nome": "Cayres de la Cougourde – Spigolo S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2921,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54145",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.125617,
+          "lon": 7.322024
+        },
+        {
+          "nome": "Les Rouies – Par le Col de Muande Bellonne et le Pic W du Vaccivier",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18385,7 +18910,7 @@
           "lon": 6.276728
         },
         {
-          "nome": "Rocher du Piéron",
+          "nome": "Rocher du Piéron – Arête E (Voie Kelle)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18412,7 +18937,7 @@
           "lon": 6.48538
         },
         {
-          "nome": "Barre des Écrins",
+          "nome": "Barre des Écrins – Voie Diagonale, par l'éperon de base",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18439,7 +18964,7 @@
           "lon": 6.368685
         },
         {
-          "nome": "Mont Chaberton",
+          "nome": "Mont Chaberton – Face SE (voie du télégraphe)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18466,7 +18991,7 @@
           "lon": 6.757477
         },
         {
-          "nome": "Tête de Bouchet",
+          "nome": "Tête de Bouchet – Face SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18493,7 +19018,7 @@
           "lon": 6.762063
         },
         {
-          "nome": "Cime d'Orgières",
+          "nome": "Cime d'Orgières – Voie Normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18520,7 +19045,7 @@
           "lon": 6.14486
         },
         {
-          "nome": "Tête des Pras Arnaud",
+          "nome": "Tête des Pras Arnaud – Par le Pas de Paul",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18574,7 +19099,7 @@
           "lon": 6.274797
         },
         {
-          "nome": "Pointe Cézanne",
+          "nome": "Pointe Cézanne – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18601,7 +19126,7 @@
           "lon": 6.415455
         },
         {
-          "nome": "Pic du Glacier d'Arsine",
+          "nome": "Pic du Glacier d'Arsine – Arête S (de gauche)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18682,7 +19207,7 @@
           "lon": 7.188831
         },
         {
-          "nome": "Aiguilles de Chabrières",
+          "nome": "Aiguilles de Chabrières – Aiguille Septentrionale - Pilier d'Angélique",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18709,7 +19234,7 @@
           "lon": 6.337072
         },
         {
-          "nome": "Aiguilles de Chabrières",
+          "nome": "Aiguilles de Chabrières – Grande Tour - Arête Van Gogh",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18736,7 +19261,7 @@
           "lon": 6.347345
         },
         {
-          "nome": "Le Sirac",
+          "nome": "Le Sirac – Arête de Rivarol (S)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18790,7 +19315,7 @@
           "lon": 7.418599
         },
         {
-          "nome": "Sommet Rouge",
+          "nome": "Sommet Rouge – Le hasard ou la nécessité",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18817,7 +19342,7 @@
           "lon": 6.804115
         },
         {
-          "nome": "Aiguille de Sialouze",
+          "nome": "Aiguille de Sialouze – Wakan Tanka",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18838,7 +19363,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.885012,
+          "lon": 6.413776
+        },
+        {
+          "nome": "Aiguille de Sialouze – Je vous salue Marie",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -18856,7 +19390,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.885012,
+          "lon": 6.413776
+        },
+        {
+          "nome": "Aiguille de Sialouze – Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -18880,7 +19423,7 @@
           "lon": 6.413776
         },
         {
-          "nome": "Pointe 3074 - Secteur N col du Bec",
+          "nome": "Pointe 3074 - Secteur N col du Bec – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18907,7 +19450,7 @@
           "lon": 6.343227
         },
         {
-          "nome": "Barre Blanche",
+          "nome": "Barre Blanche – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -18961,7 +19504,7 @@
           "lon": 7.086475
         },
         {
-          "nome": "Les Rouies",
+          "nome": "Les Rouies – Mille Blues",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19015,7 +19558,7 @@
           "lon": 6.293871
         },
         {
-          "nome": "Pic de Bonvoisin",
+          "nome": "Pic de Bonvoisin – Éperon NNE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19042,7 +19585,7 @@
           "lon": 6.35153
         },
         {
-          "nome": "Pic Gaspard",
+          "nome": "Pic Gaspard – Gérons la canicule !",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19069,7 +19612,7 @@
           "lon": 6.333999
         },
         {
-          "nome": "Ailefroide Orientale",
+          "nome": "Ailefroide Orientale – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19096,7 +19639,7 @@
           "lon": 6.371969
         },
         {
-          "nome": "Pic Sans Nom",
+          "nome": "Pic Sans Nom – Magic Stone",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19123,7 +19666,7 @@
           "lon": 6.39282
         },
         {
-          "nome": "Pic du Glacier Blanc",
+          "nome": "Pic du Glacier Blanc – Directe du Gendarme Coiffé",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19144,7 +19687,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.952985,
+          "lon": 6.392581
+        },
+        {
+          "nome": "Pic du Glacier Blanc – Versant SE (voie originale)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -19204,24 +19756,6 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/362844",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2897,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/234802",
                   "siteName": null
                 }
               ]
@@ -19303,7 +19837,34 @@
           "lon": 7.182001
         },
         {
-          "nome": "Bric Bouchet",
+          "nome": "Tête du Claus – Spigolo de la Tour Jaune - Variante d'attaque",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2897,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/234802",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.185746,
+          "lon": 7.182001
+        },
+        {
+          "nome": "Bric Bouchet – Arête NE - Voie normale N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19369,7 +19930,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.933467,
+          "lon": 6.416123
+        },
+        {
+          "nome": "Pointe des Cinéastes – Chassé-croisé",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -19393,7 +19963,7 @@
           "lon": 6.416123
         },
         {
-          "nome": "Monte Granero",
+          "nome": "Monte Granero – Lo per te !",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19420,7 +19990,7 @@
           "lon": 7.047166
         },
         {
-          "nome": "Monte Granero",
+          "nome": "Monte Granero – Voie Michelin - Masoero",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19474,7 +20044,7 @@
           "lon": 6.379369
         },
         {
-          "nome": "Pic des Aupillous",
+          "nome": "Pic des Aupillous – Versant E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19528,7 +20098,7 @@
           "lon": 5.970448
         },
         {
-          "nome": "Cime de la Planette",
+          "nome": "Cime de la Planette – Face SW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19555,7 +20125,7 @@
           "lon": 6.627569
         },
         {
-          "nome": "Pic Ponsin",
+          "nome": "Pic Ponsin – Les rampes diagonales",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19582,7 +20152,7 @@
           "lon": 5.967002
         },
         {
-          "nome": "La Meije - Grand Pic",
+          "nome": "La Meije - Grand Pic – Salsa pour trois étoiles",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19609,7 +20179,7 @@
           "lon": 6.311174
         },
         {
-          "nome": "Le Râteau - Sommet E",
+          "nome": "Le Râteau - Sommet E – L'Empire des Sons",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19636,7 +20206,7 @@
           "lon": 6.273261
         },
         {
-          "nome": "Grun de Saint-Maurice",
+          "nome": "Grun de Saint-Maurice – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19663,7 +20233,7 @@
           "lon": 6.059571
         },
         {
-          "nome": "Tour Termier",
+          "nome": "Tour Termier – Éperon S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19717,7 +20287,7 @@
           "lon": 6.425266
         },
         {
-          "nome": "Pointe Nérot",
+          "nome": "Pointe Nérot – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19816,7 +20386,7 @@
           "lon": 6.461316
         },
         {
-          "nome": "Cayre de Préfouns",
+          "nome": "Cayre de Préfouns – Spigolo E à l'Ultime Pointe N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19888,7 +20458,7 @@
           "lon": 6.92234
         },
         {
-          "nome": "Neillère",
+          "nome": "Neillère – Arête N (Arête des Pipelettes)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -19936,7 +20506,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.890407,
+          "lon": 6.379622
+        },
+        {
+          "nome": "Pic Sans Nom – Voie Kelle (Face S de l'Épaule W et Arête W)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -19960,7 +20539,7 @@
           "lon": 6.379622
         },
         {
-          "nome": "Pic W du Vaccivier (ou Pointe Duhamel)",
+          "nome": "Pic W du Vaccivier (ou Pointe Duhamel) – Traversée E → W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20161,7 +20740,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.123367,
+          "lon": 7.296853
+        },
+        {
+          "nome": "Cayre des Erps – Voie du 11 Mars",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -20212,7 +20800,7 @@
           "lon": 7.338301
         },
         {
-          "nome": "Cayre de l'Agnel",
+          "nome": "Cayre de l'Agnel – Grand Gendarme - Choucas-chups",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20239,7 +20827,7 @@
           "lon": 7.332261
         },
         {
-          "nome": "Pointe de Rome",
+          "nome": "Pointe de Rome – Arête S ou Cresta Colonello, depuis le passo Giacoletti",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20341,7 +20929,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.997518,
+          "lon": 6.323404
+        },
+        {
+          "nome": "Le Pavé – Face S - Voie Rébuffat - Coupé",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -20392,7 +20989,7 @@
           "lon": 6.31264
         },
         {
-          "nome": "Grande Ruine - Pic Maître",
+          "nome": "Grande Ruine - Pic Maître – Arête et Face S (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20419,7 +21016,7 @@
           "lon": 6.329498
         },
         {
-          "nome": "Passage du Bâton",
+          "nome": "Passage du Bâton – Traversée W → E du refuge de l'Olan au refuge de Chalance",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20446,7 +21043,7 @@
           "lon": 6.21345
         },
         {
-          "nome": "Le Sirac",
+          "nome": "Le Sirac – Arête S du sommet E puis traversée E → W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20554,7 +21151,7 @@
           "lon": 7.381734
         },
         {
-          "nome": "Mont Neiglier",
+          "nome": "Mont Neiglier – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20581,7 +21178,7 @@
           "lon": 7.3876
         },
         {
-          "nome": "Bec de l'Aigle (la Ciotat)",
+          "nome": "Bec de l'Aigle (la Ciotat) – De la calanque du Mugel à l'anse du Gameou par le bord de mer",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20608,7 +21205,7 @@
           "lon": 5.604341
         },
         {
-          "nome": "Tête des Pras Arnaud",
+          "nome": "Tête des Pras Arnaud – Éperon S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20689,7 +21286,7 @@
           "lon": 7.386049
         },
         {
-          "nome": "Pic E de Combeynot - Pointe 3054 m",
+          "nome": "Pic E de Combeynot - Pointe 3054 m – Couloir de l'arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20716,7 +21313,7 @@
           "lon": 6.427672
         },
         {
-          "nome": "Pic du Glacier Blanc",
+          "nome": "Pic du Glacier Blanc – Le Communard",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20743,7 +21340,7 @@
           "lon": 6.394624
         },
         {
-          "nome": "Ailefroide Centrale",
+          "nome": "Ailefroide Centrale – Versant SE de l'Arête E (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20833,7 +21430,7 @@
           "lon": 7.375431
         },
         {
-          "nome": "Aiguille de Chambeyron",
+          "nome": "Aiguille de Chambeyron – Parcours des Arêtes par le Couloir Gastaldi",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20887,7 +21484,7 @@
           "lon": 7.297191
         },
         {
-          "nome": "La Meije - Pic Oriental (Meije Orientale)",
+          "nome": "La Meije - Pic Oriental (Meije Orientale) – Traversée Meije Orientale → Pavé",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20914,7 +21511,7 @@
           "lon": 6.319607
         },
         {
-          "nome": "Agneau Central",
+          "nome": "Agneau Central – Traversée Agneau Blanc → Agneau Central → Col Tuckett",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20968,7 +21565,7 @@
           "lon": 5.812973
         },
         {
-          "nome": "La Gélinasse",
+          "nome": "La Gélinasse – Traversée des arêtes Gelinasse - Peigne E >> W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -20995,7 +21592,7 @@
           "lon": 6.839235
         },
         {
-          "nome": "La Meije - Grand Pic",
+          "nome": "La Meije - Grand Pic – Voie originale de la face N (Z direct)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21022,7 +21619,7 @@
           "lon": 6.308169
         },
         {
-          "nome": "Pointe Gravelotte",
+          "nome": "Pointe Gravelotte – Face S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21049,7 +21646,7 @@
           "lon": 6.355913
         },
         {
-          "nome": "Grand Ferrand",
+          "nome": "Grand Ferrand – Par l'arête de l'Etoile",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21076,7 +21673,7 @@
           "lon": 5.840172
         },
         {
-          "nome": "Pic W du Vaccivier (ou Pointe Duhamel)",
+          "nome": "Pic W du Vaccivier (ou Pointe Duhamel) – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21153,24 +21750,6 @@
               ]
             },
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2828,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/131857",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Arête W (ou NW) ",
               "gradoObbligatorio": null,
               "gradoMassimo": "D+",
@@ -21184,6 +21763,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/53779",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.100352,
+          "lon": 7.381278
+        },
+        {
+          "nome": "Mont Ponset – Voie Dufour-Morisset",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2828,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/131857",
                   "siteName": null
                 }
               ]
@@ -21220,7 +21826,7 @@
           "lon": 7.3408
         },
         {
-          "nome": "Ailefroide Occidentale",
+          "nome": "Ailefroide Occidentale – Éperon SE (voie originale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21328,7 +21934,7 @@
           "lon": 6.316525
         },
         {
-          "nome": "Cayre de Préfouns",
+          "nome": "Cayre de Préfouns – Cresta Savoia",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21349,7 +21955,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.159116,
+          "lon": 7.234335
+        },
+        {
+          "nome": "Cayre de Préfouns – Voie Dufranc-Demenge : \"Face S de gauche\"",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -21396,24 +22011,6 @@
               ]
             },
             {
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 900,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3175,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56741",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Les 3 dièdres (voie normale \"Nord\")",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD",
@@ -21436,7 +22033,34 @@
           "lon": 6.91876
         },
         {
-          "nome": "Pic Coolidge",
+          "nome": "Tête des Toillies – Arête NE",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3175,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56741",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.673806,
+          "lon": 6.91876
+        },
+        {
+          "nome": "Pic Coolidge – Arête E intégrale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21490,7 +22114,7 @@
           "lon": 5.821333
         },
         {
-          "nome": "La Rouye",
+          "nome": "La Rouye – Couloir des Sorciers et Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21571,7 +22195,7 @@
           "lon": 6.37995
         },
         {
-          "nome": "Cayre Colomb",
+          "nome": "Cayre Colomb – Arête S Intégrale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21592,7 +22216,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.101611,
+          "lon": 7.386318
+        },
+        {
+          "nome": "Cayre Colomb – Voie Dufour dite Directe Est",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -21643,7 +22276,7 @@
           "lon": 7.381095
         },
         {
-          "nome": "Cayres de la Cougourde",
+          "nome": "Cayres de la Cougourde – Voie de la Paroi Jaune",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21670,7 +22303,7 @@
           "lon": 7.344103
         },
         {
-          "nome": "Tête de l'Estrop",
+          "nome": "Tête de l'Estrop – Par la face N depuis les Eaux Chaudes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21697,7 +22330,7 @@
           "lon": 6.50052
         },
         {
-          "nome": "Tête d'Aval de Montbrison",
+          "nome": "Tête d'Aval de Montbrison – Voie Desmaison",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21796,7 +22429,7 @@
           "lon": 7.378148
         },
         {
-          "nome": "Pointe des Bœufs Rouges",
+          "nome": "Pointe des Bœufs Rouges – Face S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21823,7 +22456,7 @@
           "lon": 6.355365
         },
         {
-          "nome": "Roche Noire (Cristillan)",
+          "nome": "Roche Noire (Cristillan) – Voie normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21850,7 +22483,7 @@
           "lon": 6.83319
         },
         {
-          "nome": "Cime Chamineye",
+          "nome": "Cime Chamineye – Versant S (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21877,7 +22510,7 @@
           "lon": 7.420717
         },
         {
-          "nome": "Ailefroide Occidentale",
+          "nome": "Ailefroide Occidentale – Traversée Orientale → Centrale → Occidentale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21898,7 +22531,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.887877,
+          "lon": 6.366569
+        },
+        {
+          "nome": "Ailefroide Occidentale – Traversée Orientale → Centrale",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -21922,7 +22564,7 @@
           "lon": 6.366569
         },
         {
-          "nome": "Aiguille Méridionale d'Arves",
+          "nome": "Aiguille Méridionale d'Arves – Arête SE, depuis le Col N de Jean-Jean",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21949,7 +22591,7 @@
           "lon": 6.338854
         },
         {
-          "nome": "Tête du Pelvas",
+          "nome": "Tête du Pelvas – Face E du Grand Gendarme, Voie Michelin",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -21970,7 +22612,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.786584,
+          "lon": 6.98659
+        },
+        {
+          "nome": "Tête du Pelvas – Arête SE (dite des Gendarmes)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -22021,7 +22672,7 @@
           "lon": 6.324272
         },
         {
-          "nome": "Les Rouies",
+          "nome": "Les Rouies – Voie du triangle",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22042,7 +22693,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.853262,
+          "lon": 6.274736
+        },
+        {
+          "nome": "Les Rouies – Voie de la Rampe",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -22066,7 +22726,7 @@
           "lon": 6.274736
         },
         {
-          "nome": "Pic N des Cavales",
+          "nome": "Pic N des Cavales – Salon du prêt à saîgner",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22120,7 +22780,7 @@
           "lon": 7.236001
         },
         {
-          "nome": "Le Râteau - Sommet W",
+          "nome": "Le Râteau - Sommet W – Face S - Goulotte \"Destins Tordus\"",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22147,7 +22807,7 @@
           "lon": 6.269947
         },
         {
-          "nome": "Grand Ferrand",
+          "nome": "Grand Ferrand – Par la face N du Petit Ferrand",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22233,24 +22893,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3073,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56997",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Couloir NE (voie normale)",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD-",
@@ -22273,7 +22915,34 @@
           "lon": 7.398535
         },
         {
-          "nome": "Pointe Louise",
+          "nome": "Cime Chafrion – Arête E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3073,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56997",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.109266,
+          "lon": 7.398535
+        },
+        {
+          "nome": "Pointe Louise – Super Michèle",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22294,7 +22963,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.942349,
+          "lon": 6.369504
+        },
+        {
+          "nome": "Pointe Louise – Arête SE (dite arête S)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -22318,7 +22996,7 @@
           "lon": 6.369504
         },
         {
-          "nome": "Pic d'Asti",
+          "nome": "Pic d'Asti – Arête E (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22372,7 +23050,7 @@
           "lon": 6.425973
         },
         {
-          "nome": "Cime du Gélas",
+          "nome": "Cime du Gélas – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22399,7 +23077,7 @@
           "lon": 7.384248
         },
         {
-          "nome": "Olan",
+          "nome": "Olan – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22420,7 +23098,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.839025,
+          "lon": 6.198911
+        },
+        {
+          "nome": "Olan – Voie Demenge",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -22492,7 +23179,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.83974,
+          "lon": 6.348846
+        },
+        {
+          "nome": "Dents de Coste Counier – Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -22516,7 +23212,7 @@
           "lon": 6.348846
         },
         {
-          "nome": "Pointe Claire",
+          "nome": "Pointe Claire – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22699,7 +23395,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.943869,
+          "lon": 6.422866
+        },
+        {
+          "nome": "Agneau Noir – Traversata delle creste",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -22717,7 +23422,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.943869,
+          "lon": 6.422866
+        },
+        {
+          "nome": "Agneau Noir – 1ère pointe - Voie des Gapençais (ou variante Chaud)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -22741,7 +23455,7 @@
           "lon": 6.422866
         },
         {
-          "nome": "Aiguille de Chambeyron",
+          "nome": "Aiguille de Chambeyron – Parcours des Arêtes par le Couloir Nérot",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22789,7 +23503,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.097553,
+          "lon": 7.370935
+        },
+        {
+          "nome": "Cayre de la Madone – Éperon de la Tour Rouge (éperon S)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -22840,7 +23563,7 @@
           "lon": 7.185106
         },
         {
-          "nome": "Contreforts S de la Grande Sagne",
+          "nome": "Contreforts S de la Grande Sagne – Soleil Trompeur",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -22888,7 +23611,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.088525,
+          "lon": 7.38397
+        },
+        {
+          "nome": "Mont Neiglier – Éperon S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -22912,7 +23644,7 @@
           "lon": 7.38397
         },
         {
-          "nome": "Pic des Souffles - Sommet Central",
+          "nome": "Pic des Souffles - Sommet Central – Versant S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23020,7 +23752,7 @@
           "lon": 7.504095
         },
         {
-          "nome": "Contreforts des Bans",
+          "nome": "Contreforts des Bans – Versant SE - Voie Picard Vernet",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23047,7 +23779,7 @@
           "lon": 6.341797
         },
         {
-          "nome": "Barre des Écrins",
+          "nome": "Barre des Écrins – Arête Rouge",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23074,7 +23806,7 @@
           "lon": 6.360052
         },
         {
-          "nome": "Roche Paillon",
+          "nome": "Roche Paillon – Arête S et traversée sur le Col Émile Pic",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23200,7 +23932,7 @@
           "lon": 6.383196
         },
         {
-          "nome": "Pointe de Chabournéou",
+          "nome": "Pointe de Chabournéou – Face N par les Arêtes du Glacier",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23227,7 +23959,7 @@
           "lon": 6.319605
         },
         {
-          "nome": "Pics du Loup",
+          "nome": "Pics du Loup – Traversée depuis le Col du Loup",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23254,7 +23986,7 @@
           "lon": 6.34831
         },
         {
-          "nome": "Trois Dents du Pelvoux",
+          "nome": "Trois Dents du Pelvoux – La fête des mères",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23362,7 +24094,7 @@
           "lon": 6.298998
         },
         {
-          "nome": "Pic Gaspard",
+          "nome": "Pic Gaspard – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23416,7 +24148,7 @@
           "lon": 6.82335
         },
         {
-          "nome": "Aiguille Noire (Cerces)",
+          "nome": "Aiguille Noire (Cerces) – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23443,7 +24175,7 @@
           "lon": 6.480696
         },
         {
-          "nome": "Petite Séolane",
+          "nome": "Petite Séolane – L’Or du Rein",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23470,7 +24202,7 @@
           "lon": 6.511867
         },
         {
-          "nome": "Sainte Victoire - Croix de Provence",
+          "nome": "Sainte Victoire - Croix de Provence – Ancien Tracé Noir (couloir des libellules + arête sourdive)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23497,7 +24229,7 @@
           "lon": 5.580145
         },
         {
-          "nome": "Les Rouies",
+          "nome": "Les Rouies – La Mafia",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23524,7 +24256,7 @@
           "lon": 6.261131
         },
         {
-          "nome": "Olan - Contreforts S",
+          "nome": "Olan - Contreforts S – Petit Olan",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23551,7 +24283,7 @@
           "lon": 6.198361
         },
         {
-          "nome": "Les Rouies",
+          "nome": "Les Rouies – Éperon SE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23578,7 +24310,7 @@
           "lon": 6.265378
         },
         {
-          "nome": "Tour Choisy",
+          "nome": "Tour Choisy – Face E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23659,7 +24391,7 @@
           "lon": 6.361651
         },
         {
-          "nome": "La Meije - Doigt de Dieu (Pic Central)",
+          "nome": "La Meije - Doigt de Dieu (Pic Central) – Versant NE (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23707,7 +24439,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.875921,
+          "lon": 6.355118
+        },
+        {
+          "nome": "Ailefroide Occidentale – Versant S (voie normale)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -23731,7 +24472,7 @@
           "lon": 6.355118
         },
         {
-          "nome": "Brèche de la Meije",
+          "nome": "Brèche de la Meije – Versant N, par les Enfetchores",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23785,7 +24526,7 @@
           "lon": 6.74532
         },
         {
-          "nome": "Enfetchores de Droite",
+          "nome": "Enfetchores de Droite – O sole mio",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23812,7 +24553,7 @@
           "lon": 6.290666
         },
         {
-          "nome": "Pointe Chalonge",
+          "nome": "Pointe Chalonge – Voie BCD",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23839,7 +24580,7 @@
           "lon": 6.322653
         },
         {
-          "nome": "Pointe du Sélé",
+          "nome": "Pointe du Sélé – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23893,7 +24634,7 @@
           "lon": 6.31256
         },
         {
-          "nome": "Pic Jocelme",
+          "nome": "Pic Jocelme – Couloir NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -23920,7 +24661,7 @@
           "lon": 6.340432
         },
         {
-          "nome": "Pic d'Arsine",
+          "nome": "Pic d'Arsine – Traversée S - N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24001,7 +24742,7 @@
           "lon": 6.294891
         },
         {
-          "nome": "Tête de Moïse",
+          "nome": "Tête de Moïse – Couloir S et Arête W (voie normale) (été)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24028,7 +24769,7 @@
           "lon": 6.912547
         },
         {
-          "nome": "Cime Chamineye",
+          "nome": "Cime Chamineye – Face NW",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24055,7 +24796,7 @@
           "lon": 7.415506
         },
         {
-          "nome": "Olan",
+          "nome": "Olan – Versant S et Arête E (voie Escarra)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24082,7 +24823,7 @@
           "lon": 6.200705
         },
         {
-          "nome": "Le Sirac",
+          "nome": "Le Sirac – Arête N",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24109,7 +24850,7 @@
           "lon": 6.305743
         },
         {
-          "nome": "Dents de Coste Counier",
+          "nome": "Dents de Coste Counier – Le Diable par la Queue",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24136,7 +24877,7 @@
           "lon": 6.350445
         },
         {
-          "nome": "Pic du Glacier Blanc",
+          "nome": "Pic du Glacier Blanc – Versant S de l'Arête E (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24163,7 +24904,7 @@
           "lon": 6.400298
         },
         {
-          "nome": "Olan - Pilier Nounours",
+          "nome": "Olan - Pilier Nounours – Ours qui fouille",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24190,7 +24931,7 @@
           "lon": 6.202401
         },
         {
-          "nome": "La Meije - Pic Oriental (Meije Orientale)",
+          "nome": "La Meije - Pic Oriental (Meije Orientale) – Arête du Pousse Caillou",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24217,7 +24958,7 @@
           "lon": 6.330761
         },
         {
-          "nome": "Grande Ruine - Pointe Brevoort",
+          "nome": "Grande Ruine - Pointe Brevoort – La Nuit des Refuges (Arête SE)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24271,7 +25012,7 @@
           "lon": 6.222876
         },
         {
-          "nome": "Pic Central du Vaccivier",
+          "nome": "Pic Central du Vaccivier – Crête de l'Orient",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24298,7 +25039,7 @@
           "lon": 6.282279
         },
         {
-          "nome": "Le Sirac",
+          "nome": "Le Sirac – Traversée des arêtes E → W",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24325,7 +25066,7 @@
           "lon": 6.323705
         },
         {
-          "nome": "Barre des Écrins",
+          "nome": "Barre des Écrins – Petite Traversée des Écrins par l'arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24352,7 +25093,7 @@
           "lon": 6.36556
         },
         {
-          "nome": "Crête du Raisin",
+          "nome": "Crête du Raisin – Arêtes N du Raisin",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24379,7 +25120,7 @@
           "lon": 6.528589
         },
         {
-          "nome": "Pic de Chamoissière",
+          "nome": "Pic de Chamoissière – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24406,7 +25147,7 @@
           "lon": 6.386833
         },
         {
-          "nome": "Aiguille de Coste Rouge",
+          "nome": "Aiguille de Coste Rouge – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24433,7 +25174,7 @@
           "lon": 6.37714
         },
         {
-          "nome": "Mont Gioberney",
+          "nome": "Mont Gioberney – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24460,7 +25201,7 @@
           "lon": 6.318781
         },
         {
-          "nome": "Aiguille du Goléon",
+          "nome": "Aiguille du Goléon – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24514,7 +25255,7 @@
           "lon": 7.419539
         },
         {
-          "nome": "Le Râteau - Sommet W",
+          "nome": "Le Râteau - Sommet W – Grande canale Nord - Couloir Alléra Pelatan",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24595,7 +25336,7 @@
           "lon": 6.454028
         },
         {
-          "nome": "Grande Ruine - Pointe Brevoort",
+          "nome": "Grande Ruine - Pointe Brevoort – Versant E (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24676,7 +25417,7 @@
           "lon": 6.987297
         },
         {
-          "nome": "Pic Sans Nom",
+          "nome": "Pic Sans Nom – Aurore Nucléaire",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24703,7 +25444,7 @@
           "lon": 6.381786
         },
         {
-          "nome": "Les Bans",
+          "nome": "Les Bans – Arête ENE (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24757,7 +25498,7 @@
           "lon": 6.760412
         },
         {
-          "nome": "Mont Pelvoux - Pointe Puiseux",
+          "nome": "Mont Pelvoux - Pointe Puiseux – Rochers Rouges",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24784,7 +25525,7 @@
           "lon": 6.395818
         },
         {
-          "nome": "Agneau Noir",
+          "nome": "Agneau Noir – via normale",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24811,7 +25552,7 @@
           "lon": 6.430812
         },
         {
-          "nome": "Pointe des Cinéastes",
+          "nome": "Pointe des Cinéastes – Voie du Vieux Piton",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24865,7 +25606,7 @@
           "lon": 6.418405
         },
         {
-          "nome": "Trois Dents du Pelvoux",
+          "nome": "Trois Dents du Pelvoux – Arête NE",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24892,7 +25633,7 @@
           "lon": 6.412396
         },
         {
-          "nome": "Pic Sans Nom",
+          "nome": "Pic Sans Nom – Une Septentrion pour Rire",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24919,7 +25660,7 @@
           "lon": 6.386179
         },
         {
-          "nome": "Aiguille du Grand Laus",
+          "nome": "Aiguille du Grand Laus – Le bonheur est dans le pré",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -24973,7 +25714,7 @@
           "lon": 6.355537
         },
         {
-          "nome": "Barre Noire",
+          "nome": "Barre Noire – Pilier S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -25000,7 +25741,7 @@
           "lon": 6.369331
         },
         {
-          "nome": "Ailefroide Orientale",
+          "nome": "Ailefroide Orientale – Arête S (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -25027,7 +25768,7 @@
           "lon": 6.371976
         },
         {
-          "nome": "Cime de la Malédie",
+          "nome": "Cime de la Malédie – Traversée des Arêtes",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -25081,7 +25822,7 @@
           "lon": 7.382671
         },
         {
-          "nome": "Col du Glacier Noir",
+          "nome": "Col du Glacier Noir – Versant S",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -25108,7 +25849,7 @@
           "lon": 6.375824
         },
         {
-          "nome": "Col du Clot des Cavales",
+          "nome": "Col du Clot des Cavales – Versant E",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -25162,7 +25903,7 @@
           "lon": 6.72628
         },
         {
-          "nome": "Aiguille du Goléon",
+          "nome": "Aiguille du Goléon – Versant N par le lac du Goléon et le glacier Lombard (voie normale)",
           "disciplina": "mountaineering",
           "esposizione": null,
           "itinerari": [
@@ -25214,6 +25955,708 @@
           ],
           "lat": 44.832037,
           "lon": 6.32435
+        },
+        {
+          "nome": "Cimes du Lausfer – Antécime ENE - One Piece",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 380,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1573422",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.224835,
+          "lon": 7.090475
+        },
+        {
+          "nome": "Barre des Écrins – Directe de l'arête Rouge",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4102,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/182481",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.921377,
+          "lon": 6.360108
+        },
+        {
+          "nome": "Chandelle du Lac Rouge – Face E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1274503",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.053865,
+          "lon": 6.508696
+        },
+        {
+          "nome": "Aiguille Pierre Étienne – Voie PDB",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 425,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2967,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/452511",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.944057,
+          "lon": 6.408119
+        },
+        {
+          "nome": "Aiguille Pierre Étienne – Graine de Cézanne",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 425,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2967,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55823",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.943832,
+          "lon": 6.408835
+        },
+        {
+          "nome": "Envers du Vaccivier – Arête sud de la 2ème pointe",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3100,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1466446",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.868964,
+          "lon": 6.284139
+        },
+        {
+          "nome": "Envers du Vaccivier – Arête S de la première pointe",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1247186",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.868964,
+          "lon": 6.284139
+        },
+        {
+          "nome": "Pic N des Cavales – Voie directe Tormoz",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1133808",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.98031,
+          "lon": 6.31515
+        },
+        {
+          "nome": "Pic N des Cavales – Voie Gaspard",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 550,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3362,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1130876",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.980507,
+          "lon": 6.316162
+        },
+        {
+          "nome": "Pic N des Cavales – Voie du Génépi",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 520,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3362,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/646405",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.979958,
+          "lon": 6.315771
+        },
+        {
+          "nome": "Pointe Emma – Facette ENE - Voie du dièdre",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 510,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3346,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55306",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.985799,
+          "lon": 6.318019
+        },
+        {
+          "nome": "Pointe Emma – Facette ESE - Voie de gauche",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3346,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54418",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.98535,
+          "lon": 6.31716
+        },
+        {
+          "nome": "Mont Ponset – Voie Dufranc",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2828,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57652",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.098885,
+          "lon": 7.386667
+        },
+        {
+          "nome": "Tête de Colombe – Eperon SE",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3022,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1251400",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.044055,
+          "lon": 6.449414
+        },
+        {
+          "nome": "Roche Colombe – Voie des Dalles Rouges",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2844,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1251404",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.039125,
+          "lon": 6.464125
+        },
+        {
+          "nome": "Roche Colombe – Arête S - Voie Gauci",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2832,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1251403",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.039503,
+          "lon": 6.463587
+        },
+        {
+          "nome": "Grand Galibier – Voie des Québécois",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3229,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1251395",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.062145,
+          "lon": 6.433314
+        },
+        {
+          "nome": "Roche Méane - Tour Carrée – Voie Normale dite du Plan Incliné",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3675,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54460",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.970424,
+          "lon": 6.336491
+        },
+        {
+          "nome": "Pic Sans Nom – Pilier Chapoutot - Mercadié - Rolland",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1555,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3429,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/358081",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.909911,
+          "lon": 6.39282
+        },
+        {
+          "nome": "Pic du Glacier Blanc – Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3525,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54117",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.952856,
+          "lon": 6.391514
+        },
+        {
+          "nome": "Pointe des Cinéastes – Voie Péguy",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3205,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/175376",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.933467,
+          "lon": 6.416123
+        },
+        {
+          "nome": "Grand Galibier – Par le Couloir Termier",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3228,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54609",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.057058,
+          "lon": 6.438696
+        },
+        {
+          "nome": "Pointe Louise – Tous en Vallouise",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3668,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54385",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.942345,
+          "lon": 6.369597
+        },
+        {
+          "nome": "Olan – Pilier Anne",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1170,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3564,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55253",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.839025,
+          "lon": 6.198911
+        },
+        {
+          "nome": "Petit Cayre de la Madone – Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2413,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56519",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.097802,
+          "lon": 7.370037
+        },
+        {
+          "nome": "Trois Dents du Pelvoux – Pilier E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1935,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3683,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55877",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.89877,
+          "lon": 6.416272
         }
       ],
       "lat": null,

@@ -523,6 +523,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/castello-rocca-spigolo-maria-grazia/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57690",
+                  "siteName": null
                 }
               ]
             }
@@ -1526,6 +1531,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/maurin-parete-del-aubry/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1215559",
                   "siteName": null
                 }
               ]
@@ -4548,6 +4558,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/ostanettapunta-via-delle-fessura/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1221217",
                   "siteName": null
                 }
               ]
@@ -13220,6 +13235,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Re di caprie",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1434332",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.1185608,
@@ -17768,6 +17801,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/biolle-torrioni-del-via-del-camino/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/925530",
                   "siteName": null
                 }
               ]
@@ -30129,6 +30167,33 @@
           ],
           "lat": 45.348149,
           "lon": 7.217037048
+        },
+        {
+          "nome": "Bec di Mea",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "itinerari": [
+            {
+              "nome": "Combinazione \"una per Ugo\"",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1546,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1800999",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.376882,
+          "lon": 7.306402
         }
       ],
       "lat": null,
@@ -37054,6 +37119,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/piramide-fessura-per-p-a/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288437",
+                  "siteName": null
                 }
               ]
             }
@@ -37375,6 +37445,33 @@
           ],
           "lat": 45.45401979,
           "lon": 7.320349216
+        },
+        {
+          "nome": "Valle dell'Orco - Caporal",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "itinerari": [
+            {
+              "nome": "Enchaînement Orecchio del Pachiderma - Tempi Moderni",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1800,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57670",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.44835,
+          "lon": 7.28063
         }
       ],
       "lat": null,
@@ -44996,6 +45093,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Vie Grido di pietra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288429",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 44.99309054,
@@ -52443,6 +52558,33 @@
           ],
           "lat": 44.964188,
           "lon": 7.2876122
+        },
+        {
+          "nome": "Rocca Sbarua",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "itinerari": [
+            {
+              "nome": "Rocca Sbarua: Via dei giapponesi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1075,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1523457",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.96807,
+          "lon": 7.3011
         }
       ],
       "lat": null,
@@ -59496,6 +59638,11 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/corno-stella-m-3050-via-dei-lupetti/1040/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57885",
+                  "siteName": null
                 }
               ]
             }
@@ -60035,6 +60182,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/stella-corno-mister-green/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/664617",
                   "siteName": null
                 }
               ]
@@ -65648,6 +65800,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Ultimo volo zucchero mirtilli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1800555",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.381928,
@@ -65834,6 +66004,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1766527",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Via Carina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1360,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/237921",
                   "siteName": null
                 }
               ]
@@ -69563,6 +69751,78 @@
           ],
           "lat": 45.071343,
           "lon": 7.253207
+        },
+        {
+          "nome": "Valle dell'Orco",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "itinerari": [
+            {
+              "nome": "Parete de l'ombre - Fessure degli schiavi della pietra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1452003",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Parete de l'ombre; croce di pietra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1341203",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.447125,
+          "lon": 7.271919
+        },
+        {
+          "nome": "Contrefort SE de Lausa Bruna: A l'è el travai pi bel fè",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "itinerari": [
+            {
+              "nome": "Contrefort SE de Lausa Bruna: A l'è el travai pi bel fè",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1031079",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.270787,
+          "lon": 7.128497
         }
       ],
       "lat": null,

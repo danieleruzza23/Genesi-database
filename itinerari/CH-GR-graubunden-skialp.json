@@ -1752,7 +1752,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.96958739999999,
+          "lon": 9.8142825
+        },
+        {
+          "nome": "Schijenflue depuis St. Antönien",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -1772,8 +1781,8 @@
               ]
             }
           ],
-          "lat": 46.96958739999999,
-          "lon": 9.8142825
+          "lat": 46.96943,
+          "lon": 9.81411
         }
       ],
       "lat": null,
@@ -4622,7 +4631,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.97333492926443,
+          "lon": 9.828623362426754
+        },
+        {
+          "nome": "Hasenflüeli – concatenamento con l'Eggberg, da St. Antönien",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -4642,8 +4660,8 @@
               ]
             }
           ],
-          "lat": 46.97333492926443,
-          "lon": 9.828623362426754
+          "lat": 46.97363,
+          "lon": 9.82852
         },
         {
           "nome": "Sulzfluh da Sankt Antönien per il Canalone dei Camosci",
@@ -6427,7 +6445,7 @@
       "paese": "CH",
       "pareti": [
         {
-          "nome": "Piz Grialetsch ",
+          "nome": "Piz Grialetsch  – Anello F.la Radont m 2786>F.la Vallorgia m 2962>F.la 2981 a Est Scalettahorn>quota 2380 Chilbiritze per il Gletschtalli>F.la Grialetsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6562,7 +6580,7 @@
           "lon": 10.15331
         },
         {
-          "nome": "Refuge Diavolezza",
+          "nome": "Refuge Diavolezza – Diavolezza Challenge - Parcours balisé hors pistes",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6589,7 +6607,7 @@
           "lon": 9.968179
         },
         {
-          "nome": "Chantun",
+          "nome": "Chantun – De Bernina Suot ou Bernina Diavolezza",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6616,7 +6634,7 @@
           "lon": 10.009889
         },
         {
-          "nome": "Piz Minschun",
+          "nome": "Piz Minschun – Face N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6643,7 +6661,7 @@
           "lon": 10.241053
         },
         {
-          "nome": "Senetriz Furgga",
+          "nome": "Senetriz Furgga – par le versant NW, depuis Sertig Dörfli",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6670,7 +6688,7 @@
           "lon": 9.876588
         },
         {
-          "nome": "Riner Furgga",
+          "nome": "Riner Furgga – Par le versant S, depuis Sertig Sand",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6702,24 +6720,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 734,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2194,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1745018",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Da St. Antonien Litzruti per la Gafiatal ed il versante Sud. Discesa per il Grosslaub nella Partnuntal.",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -6742,7 +6742,34 @@
           "lon": 9.857597
         },
         {
-          "nome": "Güner Lückli",
+          "nome": "Spitzenbuel – Par le versant S, depuis Sankt Antönien",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 734,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2194,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1745018",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.977254,
+          "lon": 9.857597
+        },
+        {
+          "nome": "Güner Lückli – Versant E depuis Gün",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6769,7 +6796,7 @@
           "lon": 9.286526
         },
         {
-          "nome": "Dutjer Horn",
+          "nome": "Dutjer Horn – Versant N depuis Ober Dutjen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6796,7 +6823,7 @@
           "lon": 9.278281
         },
         {
-          "nome": "Mattjisch Horn",
+          "nome": "Mattjisch Horn – Traversata Langwies (via Casanna)-Fideris",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6828,24 +6855,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": "PD",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1650,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3397,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1717935",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "da Sur per l' Alp Flix",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -6868,7 +6877,34 @@
           "lon": 9.695927
         },
         {
-          "nome": "Egghorn",
+          "nome": "Piz Calderas – Traversée La Veduta - Sur par la face SE du Piz Picuogl",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": "PD",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3397,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1717935",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.536344,
+          "lon": 9.695927
+        },
+        {
+          "nome": "Egghorn – En traversée NE --> SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6895,7 +6931,7 @@
           "lon": 10.09256
         },
         {
-          "nome": "Piz d'Emmat Dadaint",
+          "nome": "Piz d'Emmat Dadaint – Da Mot (Bivio) per la Fuorcla Materdell",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6916,7 +6952,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.440693,
+          "lon": 9.703868
+        },
+        {
+          "nome": "Piz d'Emmat Dadaint – Da Plaun da Lej",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -6940,7 +6985,7 @@
           "lon": 9.703868
         },
         {
-          "nome": "Munt Pers",
+          "nome": "Munt Pers – De la cabane Boval à Diavolezza",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6967,7 +7012,7 @@
           "lon": 9.953542
         },
         {
-          "nome": "Piz Chalchagn",
+          "nome": "Piz Chalchagn – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -6994,7 +7039,7 @@
           "lon": 9.905881
         },
         {
-          "nome": "Chamanna Coaz",
+          "nome": "Chamanna Coaz – Depuis Surlej",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7021,7 +7066,7 @@
           "lon": 9.835392
         },
         {
-          "nome": "Jörihorn",
+          "nome": "Jörihorn – versant SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7048,7 +7093,7 @@
           "lon": 9.955661
         },
         {
-          "nome": "Mederger Flue",
+          "nome": "Mederger Flue – par Stafelalp et Stafler Berg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7075,7 +7120,7 @@
           "lon": 9.751234
         },
         {
-          "nome": "Rätschenhorn",
+          "nome": "Rätschenhorn – Da St. Antonien Litziruti per la Gafiatal e discesa per la Chammerastaga",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7102,7 +7147,7 @@
           "lon": 9.850455
         },
         {
-          "nome": "Bach Alpa",
+          "nome": "Bach Alpa – Depuis Am Bach",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7129,7 +7174,7 @@
           "lon": 9.579998
         },
         {
-          "nome": "Piz San Gian",
+          "nome": "Piz San Gian – da Corvatsch bergstation passando per la fuorcla",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7156,7 +7201,7 @@
           "lon": 9.838342
         },
         {
-          "nome": "Muotta Radonda",
+          "nome": "Muotta Radonda – De Plaun da Lej, par Grevasalvas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7183,7 +7228,7 @@
           "lon": 9.694137
         },
         {
-          "nome": "Crap da Radons",
+          "nome": "Crap da Radons – De Bivio",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7210,7 +7255,7 @@
           "lon": 9.636686
         },
         {
-          "nome": "Parpaner Schwarzhorn",
+          "nome": "Parpaner Schwarzhorn – Anello da Tschiertschen per l’Alp Farur ed il pendio Sud con traversata per i pendii Nord su Schafalp concatenando il Tschingla m 2449.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7237,7 +7282,7 @@
           "lon": 9.596506
         },
         {
-          "nome": "Schildflue",
+          "nome": "Schildflue – Da Klosters per la Schlappintal ed il versante N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7264,7 +7309,7 @@
           "lon": 9.956852
         },
         {
-          "nome": "Cima di Pian Vacca",
+          "nome": "Cima di Pian Vacca – dalla Val Madris",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7291,7 +7336,7 @@
           "lon": 9.465326
         },
         {
-          "nome": "Amselflue",
+          "nome": "Amselflue – Da Arosa per l'Altein Tiefenberg ed il Barentaler Furgga. Traversata Arosa-Davos Glaris.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7318,7 +7363,7 @@
           "lon": 9.729236
         },
         {
-          "nome": "Motta da Sett",
+          "nome": "Motta da Sett – da Casaccia per l'Alpascela e l'Alpascelin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7480,7 +7525,7 @@
           "lon": 9.854587
         },
         {
-          "nome": "Hinterberg",
+          "nome": "Hinterberg – Da Vergalda (Gargellen) per la Vergaldner Tal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7561,7 +7606,7 @@
           "lon": 9.8725
         },
         {
-          "nome": "Schollberg Cima N",
+          "nome": "Schollberg Cima N – da Partnun per il versante N e la Silbertalli concatenato con Rotspitz m 2516 per il Talli ed il pendio S.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7588,7 +7633,7 @@
           "lon": 9.86383
         },
         {
-          "nome": "Pis Pardatschas",
+          "nome": "Pis Pardatschas – Couloir Est de gauche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7615,7 +7660,7 @@
           "lon": 8.774197
         },
         {
-          "nome": "Älpeltispitz",
+          "nome": "Älpeltispitz – en boucle depuis Klosters Dorf",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7647,24 +7692,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2551,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1517464",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Col 2511 m du Ronggspitz en traversée, de Ruti à Partnunstafel",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -7681,7 +7708,43 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.97504,
+          "lon": 9.87768
+        },
+        {
+          "nome": "Riedchopf – Giro ad Anello salendo la Rotspitz, discesa a Gargellen, salita al St. Antonier Joch m 2342> Berghaus Sulzfluh.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2551,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1517464",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.97504,
+          "lon": 9.87768
+        },
+        {
+          "nome": "Riedchopf – De Gargellen",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -7705,7 +7768,7 @@
           "lon": 9.87768
         },
         {
-          "nome": "Sulzfluh",
+          "nome": "Sulzfluh – Giro ad Anello salendo dal Gemschtobel, discesa per il Rachen alla Lindauer Hutte, salita al Drusator, m 2342> Berghaus Sulzfluh.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7726,7 +7789,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 47.012621,
+          "lon": 9.839638
+        },
+        {
+          "nome": "Sulzfluh – Giro ad anello attraverso Partnun concatenando la Wiss Platte.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -7771,7 +7843,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.814028,
+          "lon": 9.947306
+        },
+        {
+          "nome": "Pischahorn – Traversata Pitscha-klosters attraverso il P. 2520.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -7822,7 +7903,7 @@
           "lon": 9.871253
         },
         {
-          "nome": "Eggberg",
+          "nome": "Eggberg – par le versant N, depuis Rüti",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7849,7 +7930,7 @@
           "lon": 9.828917
         },
         {
-          "nome": "Pizzo di Cassimoi",
+          "nome": "Pizzo di Cassimoi – depuis la Länta Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7876,7 +7957,7 @@
           "lon": 9.018137
         },
         {
-          "nome": "Piz Scharboda",
+          "nome": "Piz Scharboda – depuis la Länta Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7903,7 +7984,7 @@
           "lon": 9.042967
         },
         {
-          "nome": "Läntahorn",
+          "nome": "Läntahorn – par la Güferlücke",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7930,7 +8011,7 @@
           "lon": 9.060698
         },
         {
-          "nome": "Grauhorn",
+          "nome": "Grauhorn – versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -7957,7 +8038,7 @@
           "lon": 9.03239
         },
         {
-          "nome": "Piz Jut",
+          "nome": "Piz Jut – Von der Läntahütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8065,7 +8146,7 @@
           "lon": 9.9725
         },
         {
-          "nome": "Tgiern Ravetsch, sommet d'hiver, pt2858",
+          "nome": "Tgiern Ravetsch, sommet d'hiver, pt2858 – De la Camona da Maighels",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8092,7 +8173,7 @@
           "lon": 8.703608
         },
         {
-          "nome": "Piz Julier - Piz Güglia",
+          "nome": "Piz Julier - Piz Güglia – alla quota 3192 m dalla strada dello julierpass per il Munteratsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8146,7 +8227,7 @@
           "lon": 9.093934
         },
         {
-          "nome": "Piz Lagalb",
+          "nome": "Piz Lagalb – Traversée hospice Bernina - Piz Lagalb - station Lagalb",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8178,24 +8259,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 954,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3048,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1398985",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Dalla val Minor",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -8218,7 +8281,34 @@
           "lon": 10.028334
         },
         {
-          "nome": "Fuorcla Materdell",
+          "nome": "Piz Minor – Traversée N - S",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 954,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3048,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1398985",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.45102,
+          "lon": 10.028334
+        },
+        {
+          "nome": "Fuorcla Materdell – Traversata Plaun da Lej - Mot",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8326,7 +8416,7 @@
           "lon": 9.519863
         },
         {
-          "nome": "Wuosthorn",
+          "nome": "Wuosthorn – Da Nord per la Ruedisch-Talli..",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8353,7 +8443,7 @@
           "lon": 9.877875
         },
         {
-          "nome": "Ziteil",
+          "nome": "Ziteil – Giro ad anello intorno al Piz Toissa.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8380,7 +8470,7 @@
           "lon": 9.512063
         },
         {
-          "nome": "Sur al Cant",
+          "nome": "Sur al Cant – Per la Valletta da Beiva, versante N. Anello con risalita quota 2560 e discesa per il Cuolmens.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8407,7 +8497,7 @@
           "lon": 9.62518
         },
         {
-          "nome": "Mugmol",
+          "nome": "Mugmol – Per il versante E e per quello NE.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8434,7 +8524,7 @@
           "lon": 9.578734
         },
         {
-          "nome": "Äussere Schwarzhörner",
+          "nome": "Äussere Schwarzhörner – per il canale W e la parete S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8461,7 +8551,7 @@
           "lon": 9.361363
         },
         {
-          "nome": "Rotspitz",
+          "nome": "Rotspitz – par Partnunstafel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8515,7 +8605,7 @@
           "lon": 9.733746
         },
         {
-          "nome": "Hasenflüeli",
+          "nome": "Hasenflüeli – depuis Rüti",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8596,7 +8686,7 @@
           "lon": 9.026539
         },
         {
-          "nome": "Mingalunhorn",
+          "nome": "Mingalunhorn – De Juf, par la face NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8623,7 +8713,7 @@
           "lon": 9.572113
         },
         {
-          "nome": "Uf da Flüe",
+          "nome": "Uf da Flüe – De Juf",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8650,7 +8740,7 @@
           "lon": 9.603699
         },
         {
-          "nome": "Piz Turba",
+          "nome": "Piz Turba – De Juf, par le sommet de Columban à l'aller et au retour",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8731,7 +8821,7 @@
           "lon": 9.578199
         },
         {
-          "nome": "Punta Rosa / Rötlspitz / Piz Cotschen",
+          "nome": "Punta Rosa / Rötlspitz / Piz Cotschen – En aller-retour de Punt Teal par le Val Costainas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8758,7 +8848,7 @@
           "lon": 10.457625
         },
         {
-          "nome": "Piz Nalar",
+          "nome": "Piz Nalar – couloir NNE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8839,7 +8929,7 @@
           "lon": 9.60641
         },
         {
-          "nome": "Piz da l'Hom",
+          "nome": "Piz da l'Hom – per la Val Punt Ota",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8866,7 +8956,7 @@
           "lon": 9.956574
         },
         {
-          "nome": "Gletscherchamm",
+          "nome": "Gletscherchamm – dalla Silvrettahutte per il ghiacciaio della Silvretta e quota 2350m, con discesa nella Verstancla",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8893,7 +8983,7 @@
           "lon": 10.08496
         },
         {
-          "nome": "Piz Terza",
+          "nome": "Piz Terza – Da Fuldera per il versante S; traversata su Mustair per la diretta Est.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8920,7 +9010,7 @@
           "lon": 10.398693
         },
         {
-          "nome": "Piz Sarsura",
+          "nome": "Piz Sarsura – Pendio NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8947,7 +9037,7 @@
           "lon": 10.003685
         },
         {
-          "nome": "Piz Spadla ",
+          "nome": "Piz Spadla  – Da Hof Zuort per la Val Laver e la cresta W. Traversata Hof Zuort-Sent.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -8974,7 +9064,7 @@
           "lon": 10.29375
         },
         {
-          "nome": "Piz Valpiglia",
+          "nome": "Piz Valpiglia – Da Vnà per la Val Sinestra, la Val Choglias ed il pendio N.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9001,7 +9091,7 @@
           "lon": 10.294179
         },
         {
-          "nome": "Julierpass ",
+          "nome": "Julierpass  – Crappa, Campagnun, Cima Procione",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9049,7 +9139,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.410446,
+          "lon": 9.670299
+        },
+        {
+          "nome": "Piz Lunghin – da Maloja per il Lagh dal Lunghin",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -9127,7 +9226,7 @@
           "lon": 9.356289
         },
         {
-          "nome": "Pizzo Tambò",
+          "nome": "Pizzo Tambò – Parete NE per il canale di destra",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9181,7 +9280,7 @@
           "lon": 9.730263
         },
         {
-          "nome": "Piz da las Clavigliadas",
+          "nome": "Piz da las Clavigliadas – Tour",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9208,7 +9307,7 @@
           "lon": 10.152397
         },
         {
-          "nome": "Piz Tasna",
+          "nome": "Piz Tasna – discesa per il versante SW su Pra da Punt",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9229,7 +9328,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.8591,
+          "lon": 10.2523
+        },
+        {
+          "nome": "Piz Tasna – dagli impianti di Scuol per il Piz Champatsch e il Vradet da Tasna",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -9280,7 +9388,7 @@
           "lon": 9.850004
         },
         {
-          "nome": "Leidbachhorn",
+          "nome": "Leidbachhorn – Per il Laidbachmeder e la cresta SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9334,7 +9442,7 @@
           "lon": 9.850422
         },
         {
-          "nome": "Piz Giuv",
+          "nome": "Piz Giuv – Traversata Oberalppass → Etzlihutte per la Val Val",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9415,7 +9523,7 @@
           "lon": 9.726358
         },
         {
-          "nome": "Muttler",
+          "nome": "Muttler – Traversata per il versante W e S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9442,7 +9550,7 @@
           "lon": 10.378652
         },
         {
-          "nome": "Piz Spinas",
+          "nome": "Piz Spinas – da Samedan per il Murtirol e i pendii SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9523,7 +9631,7 @@
           "lon": 9.647141
         },
         {
-          "nome": "Piz Curvér",
+          "nome": "Piz Curvér – traversata Savognin-Zillis",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9550,7 +9658,7 @@
           "lon": 9.496111
         },
         {
-          "nome": "Mattjisch Horn",
+          "nome": "Mattjisch Horn – Traversata Langwies-Kublis passando per Punto m 2275 e Raschitsch.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9577,7 +9685,7 @@
           "lon": 9.734368
         },
         {
-          "nome": "Las Set Rösas 3044 m",
+          "nome": "Las Set Rösas 3044 m – alla quota 2985 m da Samedan per in pendii SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9631,7 +9739,7 @@
           "lon": 9.22196
         },
         {
-          "nome": "Ful Berg",
+          "nome": "Ful Berg – Traversata Fatschel-Trimmis concatenando l’Hochwang m 2533, discese per il Tufelsch Chopf N e Furstenalp.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9658,7 +9766,7 @@
           "lon": 9.610906
         },
         {
-          "nome": "Carschinahütte  SAC",
+          "nome": "Carschinahütte  SAC – Da St.Antonien Ruti Anello passando da Partnun-Brunnenegg-Obersass",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9685,7 +9793,7 @@
           "lon": 9.827274
         },
         {
-          "nome": "Schollberg Cima N",
+          "nome": "Schollberg Cima N – Dalla conca di Partnun lungo il versante N e la Silbertalli.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9712,7 +9820,7 @@
           "lon": 9.846175
         },
         {
-          "nome": "Schwarzhorn (Frauenkirch)",
+          "nome": "Schwarzhorn (Frauenkirch) – Pente NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9733,7 +9841,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.777303,
+          "lon": 9.742664
+        },
+        {
+          "nome": "Schwarzhorn (Frauenkirch) – Versant S par Chummeralp",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -9784,7 +9901,7 @@
           "lon": 9.158046
         },
         {
-          "nome": "Piz Mesdì",
+          "nome": "Piz Mesdì – Da ST.Moritz-Bad ed il Laviner Grand, versante N.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9811,7 +9928,7 @@
           "lon": 9.863251
         },
         {
-          "nome": "Muot Cotschen",
+          "nome": "Muot Cotschen – Dalla Valletta dal Güglia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9919,7 +10036,7 @@
           "lon": 9.03406
         },
         {
-          "nome": "Piz Sarsura",
+          "nome": "Piz Sarsura – dalla Chamanna da Grialetsch per la Fuorcla Sarsura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -9973,7 +10090,7 @@
           "lon": 9.915344
         },
         {
-          "nome": "Piz Jenatsch",
+          "nome": "Piz Jenatsch – Per il vadrett d'Err e il canalone sud dalla capanna Jenatsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10054,7 +10171,7 @@
           "lon": 8.902929
         },
         {
-          "nome": "Piz Valdraus",
+          "nome": "Piz Valdraus – Depuis la Camona da Medel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10189,7 +10306,7 @@
           "lon": 10.007975
         },
         {
-          "nome": "Roggenhorn",
+          "nome": "Roggenhorn – da Monbiel per il pendio di Roggen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10216,7 +10333,7 @@
           "lon": 9.995393
         },
         {
-          "nome": "Piz Maroz Dent ",
+          "nome": "Piz Maroz Dent  – da Roticcio per lo scivolo S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10378,7 +10495,7 @@
           "lon": 9.773719
         },
         {
-          "nome": "Piz Val Gronda",
+          "nome": "Piz Val Gronda – Anello St Martin-Piz Titschal m2550-Piz Lad m 2665-Piz Val Gronda-Giranica",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10405,7 +10522,7 @@
           "lon": 9.027133
         },
         {
-          "nome": "Bocchetta Malgina",
+          "nome": "Bocchetta Malgina – da Bastian per l'Alp Pescia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10426,7 +10543,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.241702,
+          "lon": 10.081558
+        },
+        {
+          "nome": "Bocchetta Malgina – da Cavajone per Mandrun",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -10450,7 +10576,7 @@
           "lon": 10.081558
         },
         {
-          "nome": "Piz Laviner",
+          "nome": "Piz Laviner – traversata Chamanna Jenatsch > Furcla Laviner > Val d'Err > Tinizong",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10504,7 +10630,7 @@
           "lon": 9.913744
         },
         {
-          "nome": "Cima de Nomnom",
+          "nome": "Cima de Nomnom – da Soazza",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10531,7 +10657,7 @@
           "lon": 9.176214
         },
         {
-          "nome": "Hasenflueli",
+          "nome": "Hasenflueli – Traversata St. Antonien>> Saas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10558,7 +10684,7 @@
           "lon": 9.828089
         },
         {
-          "nome": "Munt Pers",
+          "nome": "Munt Pers – dal Diavolezza per il canale NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10585,7 +10711,7 @@
           "lon": 9.958024
         },
         {
-          "nome": "La Margneta",
+          "nome": "La Margneta – da Maloja per Murtairac",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10612,7 +10738,7 @@
           "lon": 9.723418
         },
         {
-          "nome": "Fuorcla Chalaus",
+          "nome": "Fuorcla Chalaus – Depuis Jamtal Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10639,7 +10765,7 @@
           "lon": 10.19097
         },
         {
-          "nome": "Crap Mats",
+          "nome": "Crap Mats – Da Trin per il versante Sud.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10720,7 +10846,7 @@
           "lon": 10.092248
         },
         {
-          "nome": "Piz Sarsuret",
+          "nome": "Piz Sarsuret – per l'Alp Sarsura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10828,7 +10954,7 @@
           "lon": 8.77652
         },
         {
-          "nome": "Piz Corviglia",
+          "nome": "Piz Corviglia – da Celerina",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -10954,7 +11080,7 @@
           "lon": 9.688654
         },
         {
-          "nome": "Piz Viroula",
+          "nome": "Piz Viroula – Traversata S > N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11008,7 +11134,7 @@
           "lon": 9.793667
         },
         {
-          "nome": "Piz Daint",
+          "nome": "Piz Daint – Dall'Ofenpass Plaun dels Bovs e discesa direttissima Nord",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11062,7 +11188,7 @@
           "lon": 9.34114
         },
         {
-          "nome": "Piz Turba",
+          "nome": "Piz Turba – da Juf",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11143,7 +11269,7 @@
           "lon": 9.865732
         },
         {
-          "nome": "Refuge Marco e Rosa",
+          "nome": "Refuge Marco e Rosa – Depuis la Diavolezza par Fortezza",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11278,7 +11404,7 @@
           "lon": 9.508738
         },
         {
-          "nome": "Hanengretji",
+          "nome": "Hanengretji – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11305,7 +11431,7 @@
           "lon": 9.787595
         },
         {
-          "nome": "Drimarchenspitz",
+          "nome": "Drimarchenspitz – Versant NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11386,7 +11512,7 @@
           "lon": 9.925948
         },
         {
-          "nome": "Girenspitz",
+          "nome": "Girenspitz – Da Küblis",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11467,7 +11593,7 @@
           "lon": 9.083927
         },
         {
-          "nome": "Zapporthutte SAC",
+          "nome": "Zapporthutte SAC – D'Hinterrhein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11548,7 +11674,7 @@
           "lon": 10.042454
         },
         {
-          "nome": "Kronenjoch",
+          "nome": "Kronenjoch – Traversée E > W (Heidelberger Hütte > Jamtal Hütte)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11656,7 +11782,7 @@
           "lon": 9.843262
         },
         {
-          "nome": "Piz Surparé",
+          "nome": "Piz Surparé – Da Stalveder con giro ad Anello da S e discesa diretta NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11677,7 +11803,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.473769,
+          "lon": 9.618524
+        },
+        {
+          "nome": "Piz Surparé – Da Stalveder per il vallone SE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -11701,7 +11836,7 @@
           "lon": 9.618524
         },
         {
-          "nome": "Piz Borel",
+          "nome": "Piz Borel – Depuis Oberalppass, via la cabane Maighels",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11728,7 +11863,7 @@
           "lon": 8.699402
         },
         {
-          "nome": "Piz Albris",
+          "nome": "Piz Albris – Da Bernina suot3137",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11782,7 +11917,7 @@
           "lon": 9.709271
         },
         {
-          "nome": "Piz da Termin",
+          "nome": "Piz da Termin – dalla val Calanca",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11809,7 +11944,7 @@
           "lon": 9.103133
         },
         {
-          "nome": "Scharls",
+          "nome": "Scharls – Depuis Lumbrein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11863,7 +11998,7 @@
           "lon": 8.863353
         },
         {
-          "nome": "Flüela Wisshorn",
+          "nome": "Flüela Wisshorn – Da Tschuggen e giro ad Anello Jorigletscher - Mullerschtalli",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11890,7 +12025,7 @@
           "lon": 9.943396
         },
         {
-          "nome": "Piz Gannaretsch",
+          "nome": "Piz Gannaretsch – Piz Gannaretsch dal Lago di Santa Maria",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11917,7 +12052,7 @@
           "lon": 8.79533
         },
         {
-          "nome": "Garvera",
+          "nome": "Garvera – Depuis Laus ou Surrein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -11948,24 +12083,6 @@
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
-            {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1090,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2551,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/613440",
-                  "siteName": null
-                }
-              ]
-            },
             {
               "nome": "De Saint-Antonien par le Silbertälli",
               "gradoObbligatorio": null,
@@ -12007,6 +12124,33 @@
           "lon": 9.8531
         },
         {
+          "nome": "Riedchopf – Traversée S-N de l'Alpeltitälli vers Partnun",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1090,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2551,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/613440",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.974335,
+          "lon": 9.8531
+        },
+        {
           "nome": "Castalegns",
           "disciplina": "skialp",
           "esposizione": null,
@@ -12034,7 +12178,7 @@
           "lon": 9.657632
         },
         {
-          "nome": "Gfroren Horn",
+          "nome": "Gfroren Horn – Con giro ad Anello da Nord e discesa SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12082,7 +12226,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.497515,
+          "lon": 9.714158
+        },
+        {
+          "nome": "Piz d'Agnel – da Sur Gonda per la Fuorcla d'Agnel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -12127,7 +12280,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.600633,
+          "lon": 8.682525
+        },
+        {
+          "nome": "Piz Borel – Vermigel Hütte >> cabana da Maighels",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -12151,7 +12313,7 @@
           "lon": 8.682525
         },
         {
-          "nome": "Piz Maroz Dent ",
+          "nome": "Piz Maroz Dent  – Al colle Est da Roticcio per l’alp Furcela e la val d’Inferno",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12205,7 +12367,7 @@
           "lon": 9.361417
         },
         {
-          "nome": "Piz Forbesch",
+          "nome": "Piz Forbesch – Canale Sud",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12259,7 +12421,7 @@
           "lon": 9.9175
         },
         {
-          "nome": "Passo Confinale",
+          "nome": "Passo Confinale – Traversata del Passo Confinale",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12340,7 +12502,7 @@
           "lon": 8.734688
         },
         {
-          "nome": "Rotspitz",
+          "nome": "Rotspitz – da Sankt Antönien per Partnunstafel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12439,7 +12601,7 @@
           "lon": 9.209379
         },
         {
-          "nome": "Pizzet",
+          "nome": "Pizzet – Da Zuoz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12466,7 +12628,7 @@
           "lon": 9.944097
         },
         {
-          "nome": "Fuorcla da Misaun",
+          "nome": "Fuorcla da Misaun – dalla stazione Retica di Morteratsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12493,7 +12655,7 @@
           "lon": 9.920183
         },
         {
-          "nome": "Scalettahorn",
+          "nome": "Scalettahorn – Da Durrboden Dischmatal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12520,7 +12682,7 @@
           "lon": 9.932206
         },
         {
-          "nome": "Piz Traunter Ovas",
+          "nome": "Piz Traunter Ovas – Per la Valletta dal Güglia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12552,42 +12714,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1450,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3900,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/528225",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1350,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3905,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52663",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Parete NW del Palù occidentale,  Via Corti al Piz Spinas",
               "gradoObbligatorio": "D",
               "gradoMassimo": null,
@@ -12610,7 +12736,61 @@
           "lon": 9.969818
         },
         {
-          "nome": "Piz Argient",
+          "nome": "Piz Palü – dal Diavolezza con traversata integrale delle vette orientale e centrale e discesa per il Foura",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3900,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/528225",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.410952,
+          "lon": 9.969818
+        },
+        {
+          "nome": "Piz Palü – Diavolezza → discesa su Alp Grum",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1350,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52663",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.410952,
+          "lon": 9.969818
+        },
+        {
+          "nome": "Piz Argient – Da Diavolezza per la Fortezza e la terrazza dei Bellavista",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12637,7 +12817,7 @@
           "lon": 9.954524
         },
         {
-          "nome": "Cima di Rosso",
+          "nome": "Cima di Rosso – Scivolo N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12718,7 +12898,7 @@
           "lon": 8.889636
         },
         {
-          "nome": "Piz Pisoc",
+          "nome": "Piz Pisoc – Canalino SW e cresta S, per la Val Zuort",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12799,7 +12979,7 @@
           "lon": 9.597194
         },
         {
-          "nome": "Pizzo Paglia",
+          "nome": "Pizzo Paglia – Da Cama per il Busen, la parete ESE e la cresta N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12847,7 +13027,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.438992,
+          "lon": 9.628137
+        },
+        {
+          "nome": "Piz Turba – da Bivio per Tgavretga",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -12925,7 +13114,7 @@
           "lon": 9.86925
         },
         {
-          "nome": "Piz Surparé",
+          "nome": "Piz Surparé – da Juf",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -12979,7 +13168,7 @@
           "lon": 9.865518
         },
         {
-          "nome": "Piz della Palù",
+          "nome": "Piz della Palù – Per l'Alp Niemet e la cresta NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13006,7 +13195,7 @@
           "lon": 9.432207
         },
         {
-          "nome": "Corn dal Solcun",
+          "nome": "Corn dal Solcun – con discesa diretta della val dal Giumelin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13033,7 +13222,7 @@
           "lon": 10.096602
         },
         {
-          "nome": "Piz Mürasc",
+          "nome": "Piz Mürasc – Val Saent >> Val Mürasc",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13060,7 +13249,7 @@
           "lon": 10.084154
         },
         {
-          "nome": "Piz Cancian / Pizzo Canciano",
+          "nome": "Piz Cancian / Pizzo Canciano – En boucle: Selva >> Val Caral",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13087,7 +13276,7 @@
           "lon": 10.025997
         },
         {
-          "nome": "Monte Combolo",
+          "nome": "Monte Combolo – Dalla Val dal Saent per il Lagh dal Mat",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13114,7 +13303,7 @@
           "lon": 10.07665
         },
         {
-          "nome": "Piz Bles",
+          "nome": "Piz Bles – dalla Val Madris",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13141,7 +13330,7 @@
           "lon": 9.465712
         },
         {
-          "nome": "Piz Cam",
+          "nome": "Piz Cam – da Casaccia per la Val Maroz e la Val Cam",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13162,7 +13351,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.380306,
+          "lon": 9.638065
+        },
+        {
+          "nome": "Piz Cam – De Casaccia à Soglio",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -13186,7 +13384,7 @@
           "lon": 9.638065
         },
         {
-          "nome": "Carungas",
+          "nome": "Carungas – Face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13213,7 +13411,7 @@
           "lon": 9.645973
         },
         {
-          "nome": "Safierberg",
+          "nome": "Safierberg – da Splügen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13267,7 +13465,7 @@
           "lon": 9.912756
         },
         {
-          "nome": "Böc da Caral",
+          "nome": "Böc da Caral – Da Cogoz per la Costascia da Suasar",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13294,7 +13492,7 @@
           "lon": 10.065227
         },
         {
-          "nome": "Mot di Curt",
+          "nome": "Mot di Curt – Da Poschiavo per Abrüsai e Somdoss",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13321,7 +13519,7 @@
           "lon": 10.0324
         },
         {
-          "nome": "Quota 2848 - Schneister da Sarsura",
+          "nome": "Quota 2848 - Schneister da Sarsura – per la Val Sarsura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13375,7 +13573,7 @@
           "lon": 10.085515
         },
         {
-          "nome": "Piz de Molinera",
+          "nome": "Piz de Molinera – da Buseno per i Monti di San Carlo",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13456,7 +13654,7 @@
           "lon": 9.874267
         },
         {
-          "nome": "Cima Fontana",
+          "nome": "Cima Fontana – da Campel per la Val d' Ursé",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13483,7 +13681,7 @@
           "lon": 10.017317
         },
         {
-          "nome": "Bruschghorn punta 3044",
+          "nome": "Bruschghorn punta 3044 – Traversata Wergenstein > Glaspass > Ober Tschappina",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13510,7 +13708,7 @@
           "lon": 9.358155
         },
         {
-          "nome": "Chalchagn Pitschen",
+          "nome": "Chalchagn Pitschen – per il Mouttas da Puntraschigna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13537,7 +13735,7 @@
           "lon": 9.91558
         },
         {
-          "nome": "Pazolastock / Piz Nurschalas",
+          "nome": "Pazolastock / Piz Nurschalas – da Tschamut (Valle del Reno Anteriore)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13564,7 +13762,7 @@
           "lon": 8.683519
         },
         {
-          "nome": "Piz Corvatsch ",
+          "nome": "Piz Corvatsch  – Da Surlej per le piste del Corvatsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13618,7 +13816,7 @@
           "lon": 9.82696
         },
         {
-          "nome": "Cima dal Cantun",
+          "nome": "Cima dal Cantun – Versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13645,7 +13843,7 @@
           "lon": 9.694585
         },
         {
-          "nome": "Sasso di Fora",
+          "nome": "Sasso di Fora – Versante NE per la Val Fex",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13672,7 +13870,7 @@
           "lon": 9.773917
         },
         {
-          "nome": "Sur al Cant",
+          "nome": "Sur al Cant – da Bivio per Cuolmens (piste da sci)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13699,7 +13897,7 @@
           "lon": 9.637905
         },
         {
-          "nome": "Piz da la Funtauna",
+          "nome": "Piz da la Funtauna – Per la Val Saluver",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13753,7 +13951,7 @@
           "lon": 9.880757
         },
         {
-          "nome": "Muttler",
+          "nome": "Muttler – Dalla Val Maisas per il versante N e la cresta SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13780,7 +13978,7 @@
           "lon": 10.370441
         },
         {
-          "nome": "Piz Malmurainza",
+          "nome": "Piz Malmurainza – Traversata Tschlin-Acla da Fans(Engadina-Samnaun)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13834,7 +14032,7 @@
           "lon": 9.607536
         },
         {
-          "nome": "Piz Vignun",
+          "nome": "Piz Vignun – da San Bernardino",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13888,7 +14086,7 @@
           "lon": 10.010795
         },
         {
-          "nome": "Sulzfluh",
+          "nome": "Sulzfluh – Da St.Antonien per il Gemschtobel e la cresta W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13915,7 +14113,7 @@
           "lon": 9.834079
         },
         {
-          "nome": "Tällihorn (Safiental)",
+          "nome": "Tällihorn (Safiental) – Da Bach per il Mittelbarg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13969,7 +14167,7 @@
           "lon": 9.657603
         },
         {
-          "nome": "Lattenhorn",
+          "nome": "Lattenhorn – De Splügen, boucle via le col du Splügen et la face NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -13996,7 +14194,7 @@
           "lon": 9.311046
         },
         {
-          "nome": "Pizzo Cavriola",
+          "nome": "Pizzo Cavriola – dal Passo Vignun",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14050,7 +14248,7 @@
           "lon": 9.339213
         },
         {
-          "nome": "Garvera",
+          "nome": "Garvera – Dalla Sumvitgtal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14077,7 +14275,7 @@
           "lon": 8.929967
         },
         {
-          "nome": "Piz Cazirauns",
+          "nome": "Piz Cazirauns – da Val per il versante NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14104,7 +14302,7 @@
           "lon": 8.93093
         },
         {
-          "nome": "Piz Turba",
+          "nome": "Piz Turba – Da Casaccia per la parete Est",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14158,7 +14356,7 @@
           "lon": 10.308232
         },
         {
-          "nome": "Piz Sarsura Pitschen",
+          "nome": "Piz Sarsura Pitschen – Per la Val Sarsura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14185,7 +14383,7 @@
           "lon": 10.03821
         },
         {
-          "nome": "Piz Sarsura",
+          "nome": "Piz Sarsura – Traversée S → E, par le Val Barlas-ch et le Val Sarsura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14212,7 +14410,7 @@
           "lon": 10.007028
         },
         {
-          "nome": "Piz Muraun",
+          "nome": "Piz Muraun – Dalla Val Sumvitg per il versante E.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14266,7 +14464,7 @@
           "lon": 9.856268
         },
         {
-          "nome": "Piz Forun",
+          "nome": "Piz Forun – Depuis la cabane Kesch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14401,7 +14599,7 @@
           "lon": 9.3043
         },
         {
-          "nome": "Cima Val Fontana",
+          "nome": "Cima Val Fontana – da Selva per la Val Cancian",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14428,7 +14626,7 @@
           "lon": 10.015916
         },
         {
-          "nome": "Piz Albana",
+          "nome": "Piz Albana – canale SSW fra la cima NE e il Piz Albana Pitschen da Silvaplana",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14449,7 +14647,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.47228,
+          "lon": 9.785349
+        },
+        {
+          "nome": "Piz Albana – da Silvaplana per il canale Sud Est",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -14473,7 +14680,7 @@
           "lon": 9.785349
         },
         {
-          "nome": "Cima di Garina",
+          "nome": "Cima di Garina – dalla Val Cristallina",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14500,7 +14707,7 @@
           "lon": 8.871001
         },
         {
-          "nome": "Tgapeala Cotschna",
+          "nome": "Tgapeala Cotschna – Par la crête depuis de la Creusch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14554,7 +14761,7 @@
           "lon": 9.943547
         },
         {
-          "nome": "Piz dal Sasc",
+          "nome": "Piz dal Sasc – da Maloja per il Passo del Lunghin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14761,7 +14968,7 @@
           "lon": 10.065734
         },
         {
-          "nome": "Piz Grialetsch ",
+          "nome": "Piz Grialetsch  – Dal Fluelapass",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14788,7 +14995,7 @@
           "lon": 9.95101
         },
         {
-          "nome": "Schwarzhorn",
+          "nome": "Schwarzhorn – da Vrin per l’Alp Patnaul ed il versante N.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14836,7 +15043,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.528833,
+          "lon": 9.361543
+        },
+        {
+          "nome": "Punta Adami – traversata dal Passo dello Spluga a Sufner Schmelzi",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -14860,7 +15076,7 @@
           "lon": 9.361543
         },
         {
-          "nome": "Piz Muttala",
+          "nome": "Piz Muttala – Passo dello Spluga >> Sufner Schmelzi per i Surettagletscher",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14914,7 +15130,7 @@
           "lon": 9.826355
         },
         {
-          "nome": "Piz Salet ",
+          "nome": "Piz Salet  – da Tschlin per l'Alp Tea Nova",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -14941,7 +15157,7 @@
           "lon": 10.4125
         },
         {
-          "nome": "Juferhorn",
+          "nome": "Juferhorn – Da Juf",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15022,7 +15238,7 @@
           "lon": 10.15957
         },
         {
-          "nome": "Murter",
+          "nome": "Murter – Da Radons per la Val Schmorras e Saletscha",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15076,7 +15292,7 @@
           "lon": 9.690551
         },
         {
-          "nome": "Haldensteiner Calanda",
+          "nome": "Haldensteiner Calanda – da Untervaz per la Calandahütte e il Calandasiten",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15103,7 +15319,7 @@
           "lon": 9.494925
         },
         {
-          "nome": "Piz Tasna",
+          "nome": "Piz Tasna – Da Vnà per Zuort e la Val Laver",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15211,7 +15427,7 @@
           "lon": 10.2217
         },
         {
-          "nome": "Piz Minschun",
+          "nome": "Piz Minschun – Per la Val Tasna e Marangun d' Urschai",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15292,7 +15508,7 @@
           "lon": 10.22095
         },
         {
-          "nome": "Muttans",
+          "nome": "Muttans – Da Furnatsch con discesa in Val da Faller su Mulegns",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15319,7 +15535,7 @@
           "lon": 9.614
         },
         {
-          "nome": "Schlüechtli",
+          "nome": "Schlüechtli – da Versam per il versante N.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15346,7 +15562,7 @@
           "lon": 9.328332
         },
         {
-          "nome": "Piz Colm / Cuolm",
+          "nome": "Piz Colm / Cuolm – da Vardaval",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15373,7 +15589,7 @@
           "lon": 9.640992
         },
         {
-          "nome": "Piz Guw",
+          "nome": "Piz Guw – da Turrahus per l' Alp Guw",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15400,7 +15616,7 @@
           "lon": 9.2581
         },
         {
-          "nome": "Piz Radun / Plangghorn",
+          "nome": "Piz Radun / Plangghorn – da Safien Platz per la Bruschgaläschger Alp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15427,7 +15643,7 @@
           "lon": 9.296249
         },
         {
-          "nome": "Luener Grat",
+          "nome": "Luener Grat – Da Castiel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15454,7 +15670,7 @@
           "lon": 9.612917
         },
         {
-          "nome": "Crap Grisch / Planggenhorn ",
+          "nome": "Crap Grisch / Planggenhorn  – da Bäch per la Camaner Tälli",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15481,7 +15697,7 @@
           "lon": 9.25605
         },
         {
-          "nome": "Corno Campascio / Corno delle Ruzze",
+          "nome": "Corno Campascio / Corno delle Ruzze – Canale NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15508,7 +15724,7 @@
           "lon": 10.027222
         },
         {
-          "nome": "Schlüechtli",
+          "nome": "Schlüechtli – da Ober Egschi per la Tenner Alp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15535,7 +15751,7 @@
           "lon": 9.331895
         },
         {
-          "nome": "Motta Rossa",
+          "nome": "Motta Rossa – Per Braita con discesa in Val Varuna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15589,7 +15805,7 @@
           "lon": 9.538392
         },
         {
-          "nome": "Curnasel",
+          "nome": "Curnasel – Dall’Alpe Grum per il versante N.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15643,7 +15859,7 @@
           "lon": 10.157139
         },
         {
-          "nome": "Schollahorn / Schollenhorn",
+          "nome": "Schollahorn / Schollenhorn – da Montespluga",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15697,7 +15913,7 @@
           "lon": 9.4536
         },
         {
-          "nome": "Böc da Caral",
+          "nome": "Böc da Caral – per la Costascia da Suasar e Pru Muscardin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15724,7 +15940,7 @@
           "lon": 10.057849
         },
         {
-          "nome": "Corno Campascio / Corno delle Ruzze",
+          "nome": "Corno Campascio / Corno delle Ruzze – Quota 2312m, per il Munt da Campasc",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15778,7 +15994,7 @@
           "lon": 9.70332
         },
         {
-          "nome": "Pass da Val Mera",
+          "nome": "Pass da Val Mera – Per la Val da Camp e la Val Mera",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15832,7 +16048,7 @@
           "lon": 9.787733
         },
         {
-          "nome": "Piz Lagrev",
+          "nome": "Piz Lagrev – Canale S - da Plaun da Lej",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15859,7 +16075,7 @@
           "lon": 9.723801
         },
         {
-          "nome": "Zapporthorn",
+          "nome": "Zapporthorn – Per l'Alp, il Bec e il Pass, de Mucia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -15963,24 +16179,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 676,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3386,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/274784",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "De la Chamanna Coaz",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -15994,6 +16192,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/166089",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.404694,
+          "lon": 9.822899
+        },
+        {
+          "nome": "Il Chapütschin – dalla Chamanna Coaz per il Chapütschin Pitschen",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 676,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3386,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/274784",
                   "siteName": null
                 }
               ]
@@ -16024,7 +16249,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.46845,
+          "lon": 9.838481
+        },
+        {
+          "nome": "Piz Surlej – Traversata al Piz San Gian",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -16048,7 +16282,7 @@
           "lon": 9.838481
         },
         {
-          "nome": "Piz Murtel Trigd - cima N",
+          "nome": "Piz Murtel Trigd - cima N – Dal Lago di Palpuogna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16075,7 +16309,7 @@
           "lon": 9.775051
         },
         {
-          "nome": "Monte dell'Oro",
+          "nome": "Monte dell'Oro – dal Maloja per la Valle di Fedox",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16156,7 +16390,7 @@
           "lon": 10.118871
         },
         {
-          "nome": "Motta da Sett",
+          "nome": "Motta da Sett – da Bivio per l'Alp Tgavregta",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16183,7 +16417,7 @@
           "lon": 9.649415
         },
         {
-          "nome": "Piz dal Sasc",
+          "nome": "Piz dal Sasc – da Bivio per l'Eva dal Lunghin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16309,7 +16543,7 @@
           "lon": 9.792966
         },
         {
-          "nome": "Punta Rosa / Rötlspitz / Piz Cotschen",
+          "nome": "Punta Rosa / Rötlspitz / Piz Cotschen – En traversée Val Muraunza - Val Costainas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16336,7 +16570,7 @@
           "lon": 10.448843
         },
         {
-          "nome": "Klein Tartscher Kopf",
+          "nome": "Klein Tartscher Kopf – Par le Val Costainas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16417,7 +16651,7 @@
           "lon": 10.465114
         },
         {
-          "nome": "Piz Colm / Cuolm",
+          "nome": "Piz Colm / Cuolm – Nordseite von Tinizong über Demat",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16498,7 +16732,7 @@
           "lon": 9.86999
         },
         {
-          "nome": "Il Cantaccio",
+          "nome": "Il Cantaccio – da Bondo per il Passo della Tegiola, con discesa sui monti di Villa di Chiavenna a Canete.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16525,7 +16759,7 @@
           "lon": 9.529839
         },
         {
-          "nome": "Cima da Murtaira",
+          "nome": "Cima da Murtaira – Per la Valle del Forno",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16552,7 +16786,7 @@
           "lon": 9.694011
         },
         {
-          "nome": "Fanellhorn",
+          "nome": "Fanellhorn – Da Hinterrhein attraverso la Chilchalplücke",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16651,7 +16885,7 @@
           "lon": 9.608937
         },
         {
-          "nome": "Gletscherhorn (Maloja)",
+          "nome": "Gletscherhorn (Maloja) – Versante E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16705,7 +16939,7 @@
           "lon": 10.11165
         },
         {
-          "nome": "Pizzo Suretta",
+          "nome": "Pizzo Suretta – da Sufers per la val Suretta svizzera",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16732,7 +16966,7 @@
           "lon": 9.363128
         },
         {
-          "nome": "Chlin Hüreli",
+          "nome": "Chlin Hüreli – cresta NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16759,7 +16993,7 @@
           "lon": 9.515588
         },
         {
-          "nome": "Piz Blaisun",
+          "nome": "Piz Blaisun – Madulain >> Foura dell'Üertsch >> La Punt",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16813,7 +17047,7 @@
           "lon": 9.854554
         },
         {
-          "nome": "Piz Blaisun",
+          "nome": "Piz Blaisun – Von Bergün durch das Val Tuors und das Val Plazbi über den N-Grat",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16840,7 +17074,7 @@
           "lon": 9.828001
         },
         {
-          "nome": "Piz Blaisun",
+          "nome": "Piz Blaisun – Per la Val d'Es-cha",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16894,7 +17128,7 @@
           "lon": 9.936532
         },
         {
-          "nome": "Motta d'Ur",
+          "nome": "Motta d'Ur – Per la Val d'Ur",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16921,7 +17155,7 @@
           "lon": 10.049607
         },
         {
-          "nome": "Oberalpstock",
+          "nome": "Oberalpstock – Traversata Sedrun → Maderanertal con discesa per lo Staldenfirn",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16948,7 +17182,7 @@
           "lon": 8.752406
         },
         {
-          "nome": "Oberalpstock",
+          "nome": "Oberalpstock – Da Sedrun via Val Strem",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -16975,7 +17209,7 @@
           "lon": 8.772594
         },
         {
-          "nome": "Pizzo Galleggione/Pizz Gallagiun",
+          "nome": "Pizzo Galleggione/Pizz Gallagiun – da Stettli per la Val Madris",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17029,7 +17263,7 @@
           "lon": 10.008696
         },
         {
-          "nome": "Piz da la Fuorcla / Pizzo della Forcola Alta",
+          "nome": "Piz da la Fuorcla / Pizzo della Forcola Alta – Dalla Chamanna Coaz per il Vadret da Roseg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17056,7 +17290,7 @@
           "lon": 9.84735
         },
         {
-          "nome": "Wengahorn",
+          "nome": "Wengahorn – Versant NE - de Juf",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17110,7 +17344,7 @@
           "lon": 10.16202
         },
         {
-          "nome": "Pizzo del Ramulazz, cima N ",
+          "nome": "Pizzo del Ramulazz, cima N  – Per il vallone NE ed il pendio NW.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17137,7 +17371,7 @@
           "lon": 9.110659
         },
         {
-          "nome": "Corno Campascio / Corno delle Ruzze",
+          "nome": "Corno Campascio / Corno delle Ruzze – Da Selva per i Platti da Cancian",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17164,7 +17398,7 @@
           "lon": 10.02616
         },
         {
-          "nome": "Piz Mezzaun (vetta orientale)",
+          "nome": "Piz Mezzaun (vetta orientale) – Scavalcando il Piz Arpiglia e il Piz Uter",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17191,7 +17425,7 @@
           "lon": 9.980918
         },
         {
-          "nome": "Crap da Radons",
+          "nome": "Crap da Radons – Da Stalveder per il vallone della Eva da Sur Ragn",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17245,7 +17479,7 @@
           "lon": 9.617149
         },
         {
-          "nome": "Piz Buin",
+          "nome": "Piz Buin – Silvrettapass >> Furcla del Cunfin >> Plan Rai >> Tuoi Tal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17299,7 +17533,7 @@
           "lon": 10.246776
         },
         {
-          "nome": "Piz Ursera",
+          "nome": "Piz Ursera – dalla Val Mera per la Cima di Cardan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17326,7 +17560,7 @@
           "lon": 10.079689
         },
         {
-          "nome": "Crasta Mora",
+          "nome": "Crasta Mora – alla quota m2798 per l'Alp Proliebas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17353,7 +17587,7 @@
           "lon": 9.890919
         },
         {
-          "nome": "Piz d'Arbeola",
+          "nome": "Piz d'Arbeola – Da Spina di Pian San Giacomo per la Fopela",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17380,7 +17614,7 @@
           "lon": 9.188541
         },
         {
-          "nome": "Corn di Marsc / Monte Saline",
+          "nome": "Corn di Marsc / Monte Saline – per l'alp Vartegna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17434,7 +17668,7 @@
           "lon": 10.012699
         },
         {
-          "nome": "Garvera",
+          "nome": "Garvera – Da Curaglia per i pendii dell’Alp Soliva. Traversata Curaglia-Cumpadials",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17461,7 +17695,7 @@
           "lon": 8.898997
         },
         {
-          "nome": "Piz Muttala",
+          "nome": "Piz Muttala – da Innerferrera per il Lais da Muttala",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17488,7 +17722,7 @@
           "lon": 9.41843
         },
         {
-          "nome": "Bocchetta da la Furcela",
+          "nome": "Bocchetta da la Furcela – Da Roticcio per Nambrun e la Val Furcela",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17515,7 +17749,7 @@
           "lon": 9.62681
         },
         {
-          "nome": "Piz Cam",
+          "nome": "Piz Cam – da Roticcio per la Val Furcela",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17542,7 +17776,7 @@
           "lon": 9.62455
         },
         {
-          "nome": "quota 2787 (Piz Albana)",
+          "nome": "quota 2787 (Piz Albana) – Da Silvaplana per l'alpe Secha",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17596,7 +17830,7 @@
           "lon": 10.456084
         },
         {
-          "nome": "Piz Terza",
+          "nome": "Piz Terza – Da Sta Maria",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17623,7 +17857,7 @@
           "lon": 10.411765
         },
         {
-          "nome": "Piz Griatschouls",
+          "nome": "Piz Griatschouls – Quota 2769 m, da S-Chanf",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17650,7 +17884,7 @@
           "lon": 9.974015
         },
         {
-          "nome": "quota 2747 m (Pizzo Cavriola di NE )",
+          "nome": "quota 2747 m (Pizzo Cavriola di NE ) – dal Passo Vignun",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17677,7 +17911,7 @@
           "lon": 9.211489
         },
         {
-          "nome": "Piz Lunghin",
+          "nome": "Piz Lunghin – Da Casaccia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17704,7 +17938,7 @@
           "lon": 9.667105
         },
         {
-          "nome": "Piz Zupò",
+          "nome": "Piz Zupò – Traversée Marco&Rosa → Diavolezza par Vadret da Morteratsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17731,7 +17965,7 @@
           "lon": 9.927745
         },
         {
-          "nome": "Piz Palü",
+          "nome": "Piz Palü – Traversée Diavolezza → Marinelli",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17812,7 +18046,7 @@
           "lon": 9.975507
         },
         {
-          "nome": "Piz Trovat",
+          "nome": "Piz Trovat – dalla Val d'Arlas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17866,7 +18100,7 @@
           "lon": 10.032722
         },
         {
-          "nome": "Pass Cacciabella S",
+          "nome": "Pass Cacciabella S – per la Val Bondasca",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -17974,7 +18208,7 @@
           "lon": 10.148789
         },
         {
-          "nome": "Piz Saluver",
+          "nome": "Piz Saluver – Da Celerina per la Val Saluver",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18001,7 +18235,7 @@
           "lon": 9.827126
         },
         {
-          "nome": "Piz Glüschaint",
+          "nome": "Piz Glüschaint – dalla Chamanna Coaz per il Vadret da Roseg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18028,7 +18262,7 @@
           "lon": 9.850084
         },
         {
-          "nome": "(Bergalga-) Wissberg ",
+          "nome": "(Bergalga-) Wissberg  – De Juppa, par le versant E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18055,7 +18289,7 @@
           "lon": 9.538863
         },
         {
-          "nome": "Cima Sondrio",
+          "nome": "Cima Sondrio – dalla Chamanna Coaz per il Vadret da Roseg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18082,7 +18316,7 @@
           "lon": 9.831324
         },
         {
-          "nome": "Bödagrat",
+          "nome": "Bödagrat – Versant NE, depuis Juppa",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18109,7 +18343,7 @@
           "lon": 9.539223
         },
         {
-          "nome": "Tscheischhorn",
+          "nome": "Tscheischhorn – dalla Bergalga per il Versante NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18136,7 +18370,7 @@
           "lon": 9.536133
         },
         {
-          "nome": "La Sella",
+          "nome": "La Sella – Depuis la Chamanna Coaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18163,7 +18397,7 @@
           "lon": 9.851821
         },
         {
-          "nome": "Piz Grevasalvas",
+          "nome": "Piz Grevasalvas – Da Bivio",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18217,7 +18451,7 @@
           "lon": 9.510577
         },
         {
-          "nome": "Piz Vadret Pitschen",
+          "nome": "Piz Vadret Pitschen – da Brail per la Val Punt Ota",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18244,7 +18478,7 @@
           "lon": 9.998017
         },
         {
-          "nome": "Piz Fliana",
+          "nome": "Piz Fliana – Descente face NE directe",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18265,7 +18499,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.811308,
+          "lon": 10.128911
+        },
+        {
+          "nome": "Piz Fliana – Traversée Arête WNW >> Face E",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -18289,7 +18532,7 @@
           "lon": 10.128911
         },
         {
-          "nome": "Piz Sursass",
+          "nome": "Piz Sursass – Per Sursass, Alp e Marangun",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18316,7 +18559,7 @@
           "lon": 10.175978
         },
         {
-          "nome": "Bellavista",
+          "nome": "Bellavista – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18424,7 +18667,7 @@
           "lon": 9.618366
         },
         {
-          "nome": "Schollahorn / Schollenhorn",
+          "nome": "Schollahorn / Schollenhorn – Boucle Stutzalp>> couloir SW >> Schollenalp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18445,7 +18688,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.557019,
+          "lon": 9.297413
+        },
+        {
+          "nome": "Schollahorn / Schollenhorn – da Splügen",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -18496,7 +18748,7 @@
           "lon": 9.261388
         },
         {
-          "nome": "Hasenflüeli",
+          "nome": "Hasenflüeli – Vom Parkplatz Sankt Antönien N.N. aus",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18523,7 +18775,7 @@
           "lon": 9.84569
         },
         {
-          "nome": "Piz Bial",
+          "nome": "Piz Bial – da Preda per l'Alp Mulix",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18577,7 +18829,7 @@
           "lon": 9.537129
         },
         {
-          "nome": "Feil",
+          "nome": "Feil – Crete Feil",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18658,7 +18910,7 @@
           "lon": 9.596609
         },
         {
-          "nome": "Curnasel",
+          "nome": "Curnasel – da Cavaglia per Li Geri da Palù",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18679,7 +18931,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.347527,
+          "lon": 10.036818
+        },
+        {
+          "nome": "Curnasel – da Privilasco per l'Alp Varuna",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -18703,7 +18964,7 @@
           "lon": 10.036818
         },
         {
-          "nome": "Corno Campascio / Corno delle Ruzze",
+          "nome": "Corno Campascio / Corno delle Ruzze – per la Val da Guli e Plaz Leon",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18730,7 +18991,7 @@
           "lon": 10.038447
         },
         {
-          "nome": "Pilinghel",
+          "nome": "Pilinghel – Per Braita e Foppa Pisna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18757,7 +19018,7 @@
           "lon": 10.050994
         },
         {
-          "nome": "Piz Terza",
+          "nome": "Piz Terza – Da Valchava",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18784,7 +19045,7 @@
           "lon": 10.401176
         },
         {
-          "nome": "Muttner Horn",
+          "nome": "Muttner Horn – Da Reischen per il versante SW e la Muttner Alp.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18865,7 +19126,7 @@
           "lon": 9.710584
         },
         {
-          "nome": "Lares Vecc",
+          "nome": "Lares Vecc – Da Selva per il Bosch da Caral",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18892,7 +19153,7 @@
           "lon": 10.044378
         },
         {
-          "nome": "Piz Giümela / Piz Red / Pizzo Giumella",
+          "nome": "Piz Giümela / Piz Red / Pizzo Giumella – dalla Val Calanca",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18919,7 +19180,7 @@
           "lon": 9.108789
         },
         {
-          "nome": "Pizzo di Claro / Visagno",
+          "nome": "Pizzo di Claro / Visagno – da Selma in traversata con discesa su Arvigo",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18973,7 +19234,7 @@
           "lon": 9.681318
         },
         {
-          "nome": "La Pala",
+          "nome": "La Pala – da Sfazù per la Val Mera con discesa dallo Scispadus",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -18994,7 +19255,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.402607,
+          "lon": 10.104916
+        },
+        {
+          "nome": "La Pala – Per lo Scispadus",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -19063,7 +19333,7 @@
           "lon": 9.727042
         },
         {
-          "nome": "Piz Titschal",
+          "nome": "Piz Titschal – per Obersaxsen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19090,7 +19360,7 @@
           "lon": 9.045857
         },
         {
-          "nome": "Stelli",
+          "nome": "Stelli – Versante E da Untervaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19117,7 +19387,7 @@
           "lon": 9.509846
         },
         {
-          "nome": "Präzer Höhi Mutta",
+          "nome": "Präzer Höhi Mutta – Da Luvreu e per la cresta N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19144,7 +19414,7 @@
           "lon": 9.398354
         },
         {
-          "nome": "Corn Chamuotsch",
+          "nome": "Corn Chamuotsch – per la Valletta dal Güglia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19171,7 +19441,7 @@
           "lon": 9.749036
         },
         {
-          "nome": "Lattenhorn",
+          "nome": "Lattenhorn – dalla dogana Svizzera (Berghus)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19198,7 +19468,7 @@
           "lon": 9.313956
         },
         {
-          "nome": "Six Madun / Badus",
+          "nome": "Six Madun / Badus – Voie normale depuis l'Oberalppass",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19225,7 +19495,7 @@
           "lon": 8.674653
         },
         {
-          "nome": "Uf da Flüe",
+          "nome": "Uf da Flüe – da Bivio",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19252,7 +19522,7 @@
           "lon": 9.627165
         },
         {
-          "nome": "Piz Aguagliouls",
+          "nome": "Piz Aguagliouls – Per la Val Roseg.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19279,7 +19549,7 @@
           "lon": 9.862827
         },
         {
-          "nome": "Piz da la Margna",
+          "nome": "Piz da la Margna – per il Canale Nord",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19306,7 +19576,7 @@
           "lon": 9.724489
         },
         {
-          "nome": "Adula / Rheinwaldhorn",
+          "nome": "Adula / Rheinwaldhorn – Par la cabane Zapport",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19333,7 +19603,7 @@
           "lon": 9.111098
         },
         {
-          "nome": "Silvrettahorn",
+          "nome": "Silvrettahorn – Da Guarda per la Val Tuoi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19360,7 +19630,7 @@
           "lon": 10.123509
         },
         {
-          "nome": "Piz Palü",
+          "nome": "Piz Palü – Per la Vedretta del Morteratsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19387,7 +19657,7 @@
           "lon": 9.946895
         },
         {
-          "nome": "Cima de la Bedoleta",
+          "nome": "Cima de la Bedoleta – Per l'Alp d'Arbeola",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19414,7 +19684,7 @@
           "lon": 9.18587
         },
         {
-          "nome": "Piz Nair",
+          "nome": "Piz Nair – per la Valle Suvretta de San Murezzan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19441,7 +19711,7 @@
           "lon": 9.799169
         },
         {
-          "nome": "Einshorn - Wannagrat",
+          "nome": "Einshorn - Wannagrat – Da Nufenen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19468,7 +19738,7 @@
           "lon": 9.236253
         },
         {
-          "nome": "Piz dal Fain",
+          "nome": "Piz dal Fain – per la Val da Fain",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19495,7 +19765,7 @@
           "lon": 9.986498
         },
         {
-          "nome": "Piz Pian Grand",
+          "nome": "Piz Pian Grand – da Pian San Giacomo (Spina)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19522,7 +19792,7 @@
           "lon": 9.184006
         },
         {
-          "nome": "Cima di Cardan",
+          "nome": "Cima di Cardan – Per la Val Mera",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19549,7 +19819,7 @@
           "lon": 10.092488
         },
         {
-          "nome": "Piz Curvér",
+          "nome": "Piz Curvér – Da Zillis",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19576,7 +19846,7 @@
           "lon": 9.473431
         },
         {
-          "nome": "Piz Val Nera",
+          "nome": "Piz Val Nera – Da Sfazù",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19603,7 +19873,7 @@
           "lon": 10.110155
         },
         {
-          "nome": "Lorenzhorn",
+          "nome": "Lorenzhorn – per la Chilchalplücke ed il Fanellgletscher",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19635,24 +19905,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1650,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2790,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/118458",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Traversée : Dorsale NE >> Versant N (Tschamut)",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -19675,7 +19927,34 @@
           "lon": 8.753912
         },
         {
-          "nome": "Piz Surgonda",
+          "nome": "Piz Maler – Traversée : Dorsale NE >> Versant N (Sedrun)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2790,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/118458",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.65716,
+          "lon": 8.753912
+        },
+        {
+          "nome": "Piz Surgonda – traversata Valletta dal Güglia - Val Bever - Val Mulix - Preda",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19723,7 +20002,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.642733,
+          "lon": 8.686044
+        },
+        {
+          "nome": "Pazolastock – Depuis la Camona de Maighels",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -19747,7 +20035,7 @@
           "lon": 8.686044
         },
         {
-          "nome": "Piz Lad",
+          "nome": "Piz Lad – Depuis Saint Martin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19774,7 +20062,7 @@
           "lon": 9.04572
         },
         {
-          "nome": "Piz Uffiern",
+          "nome": "Piz Uffiern – Spallone W da Fuorns",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19801,7 +20089,7 @@
           "lon": 8.871896
         },
         {
-          "nome": "Piz Bleis Marscha",
+          "nome": "Piz Bleis Marscha – per la Val Mulix",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19855,7 +20143,7 @@
           "lon": 9.128327
         },
         {
-          "nome": "Farcletta digl Lai Pingt",
+          "nome": "Farcletta digl Lai Pingt – per la Cufercalhütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19882,7 +20170,7 @@
           "lon": 9.353538
         },
         {
-          "nome": "Piz Alv (Savognin)",
+          "nome": "Piz Alv (Savognin) – da Savognin.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19909,7 +20197,7 @@
           "lon": 9.54268
         },
         {
-          "nome": "Bärenhorn",
+          "nome": "Bärenhorn – da Splugen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19936,7 +20224,7 @@
           "lon": 9.276323
         },
         {
-          "nome": "Schiahorn",
+          "nome": "Schiahorn – Da Crot",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19963,7 +20251,7 @@
           "lon": 9.477541
         },
         {
-          "nome": "Piz Cancan / Pizzo Cancano",
+          "nome": "Piz Cancan / Pizzo Cancano – Per la Val dal Saent",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -19990,7 +20278,7 @@
           "lon": 10.08518
         },
         {
-          "nome": "Piz Campagnung",
+          "nome": "Piz Campagnung – traversée Marmorera >> La Veduta (Julierpass)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20017,7 +20305,7 @@
           "lon": 9.687682
         },
         {
-          "nome": "Motta da Vartegna",
+          "nome": "Motta da Vartegna – Da Annunziata per l'Alp Vartegna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20044,7 +20332,7 @@
           "lon": 10.047629
         },
         {
-          "nome": "Heinzenberger Tguma",
+          "nome": "Heinzenberger Tguma – da Flerden",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20071,7 +20359,7 @@
           "lon": 9.382259
         },
         {
-          "nome": "Piz Ot",
+          "nome": "Piz Ot – Da Muntarutsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20098,7 +20386,7 @@
           "lon": 9.841352
         },
         {
-          "nome": "Monte Combolo",
+          "nome": "Monte Combolo – Anticima ESE, per la Val dal Saent",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20125,7 +20413,7 @@
           "lon": 10.07618
         },
         {
-          "nome": "Corn Chamuotsch",
+          "nome": "Corn Chamuotsch – Per la Val Suvretta da San Murezzan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20152,7 +20440,7 @@
           "lon": 9.78225
         },
         {
-          "nome": "Muntischè",
+          "nome": "Muntischè – Da Madulain alla quota 2605 m per la dorsale E.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20173,7 +20461,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.591819,
+          "lon": 9.918495
+        },
+        {
+          "nome": "Muntischè – Depuis Madulain",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -20197,7 +20494,7 @@
           "lon": 9.918495
         },
         {
-          "nome": "Piz Murterchömbel",
+          "nome": "Piz Murterchömbel – Per il vallone di Arpschella",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20224,7 +20521,7 @@
           "lon": 10.042402
         },
         {
-          "nome": "Muttler",
+          "nome": "Muttler – per Pradguin - da Tschlin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20251,7 +20548,7 @@
           "lon": 10.402126
         },
         {
-          "nome": "Ful Berg",
+          "nome": "Ful Berg – Versante S - da Calfreisen concatenamento con Montalin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20305,7 +20602,7 @@
           "lon": 9.650384
         },
         {
-          "nome": "Piz Beverin",
+          "nome": "Piz Beverin – per il Beverin Pintg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20332,7 +20629,7 @@
           "lon": 9.393032
         },
         {
-          "nome": "Piz Arina",
+          "nome": "Piz Arina – Da Seraplana per il versante SE.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20359,7 +20656,7 @@
           "lon": 10.373026
         },
         {
-          "nome": "Las Set Rösas 3044 m",
+          "nome": "Las Set Rösas 3044 m – Quota 2985 m, da Samaden per il Murtirol",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20386,7 +20683,7 @@
           "lon": 9.84655
         },
         {
-          "nome": "Piz Canfinal",
+          "nome": "Piz Canfinal – Dalla Valle d'Ursè.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20413,7 +20710,7 @@
           "lon": 10.023081
         },
         {
-          "nome": "Piz dal Büz",
+          "nome": "Piz dal Büz – da Samedan per la Valletta",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20440,7 +20737,7 @@
           "lon": 9.83476
         },
         {
-          "nome": "Piz da la Funtauna",
+          "nome": "Piz da la Funtauna – Per la Valletta",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20494,7 +20791,7 @@
           "lon": 10.115855
         },
         {
-          "nome": "Piz Griatschouls",
+          "nome": "Piz Griatschouls – alla quota 2801 m, da Chapella per il Munt Griatschouls",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20521,7 +20818,7 @@
           "lon": 9.975497
         },
         {
-          "nome": "Rothorn (Hinterberg)",
+          "nome": "Rothorn (Hinterberg) – Traversata su alp Falsch e Wannenspitz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20548,7 +20845,7 @@
           "lon": 9.649227
         },
         {
-          "nome": "Vanatsch",
+          "nome": "Vanatsch – da Cavorgia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20647,7 +20944,7 @@
           "lon": 8.886632
         },
         {
-          "nome": "Piz Griatschouls",
+          "nome": "Piz Griatschouls – per il Munt Prosbierg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20668,7 +20965,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.614125,
+          "lon": 9.952667
+        },
+        {
+          "nome": "Piz Griatschouls – Traversée Pizzet >> Botta Cuolm >> Griatschouls",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -20746,7 +21052,7 @@
           "lon": 9.362437
         },
         {
-          "nome": "Cima di Rosso",
+          "nome": "Cima di Rosso – Dal Maloja per la Vedretta del Forno",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20773,7 +21079,7 @@
           "lon": 9.709542
         },
         {
-          "nome": "Piz Ault",
+          "nome": "Piz Ault – Dalla Val Pintga e la parete N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20800,7 +21106,7 @@
           "lon": 8.818889
         },
         {
-          "nome": "Piz Campagnung",
+          "nome": "Piz Campagnung – da Sur Gonda, alla quota 3001 m",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20827,7 +21133,7 @@
           "lon": 9.704774
         },
         {
-          "nome": "Gletscher Ducan",
+          "nome": "Gletscher Ducan – Da Sand per la Ducantal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20881,7 +21187,7 @@
           "lon": 9.343124
         },
         {
-          "nome": "Vogelberg",
+          "nome": "Vogelberg – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -20908,7 +21214,7 @@
           "lon": 9.119026
         },
         {
-          "nome": "Adula / Rheinwaldhorn",
+          "nome": "Adula / Rheinwaldhorn – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21007,7 +21313,7 @@
           "lon": 9.710811
         },
         {
-          "nome": "Piz de Stabi",
+          "nome": "Piz de Stabi – Per il versante NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21109,7 +21415,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.456921,
+          "lon": 9.67513
+        },
+        {
+          "nome": "Piz d'Emmat Dadora – Per il Dossone Settentrionale",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -21133,7 +21448,7 @@
           "lon": 9.67513
         },
         {
-          "nome": "Piz Nuna",
+          "nome": "Piz Nuna – Versante N, per l'Alp Nuna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21160,7 +21475,7 @@
           "lon": 10.17788
         },
         {
-          "nome": "Piz Salatschina",
+          "nome": "Piz Salatschina – Da Segl Maria, per l'Alp da Segl",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21187,7 +21502,7 @@
           "lon": 9.764629
         },
         {
-          "nome": "Motta Rossa 2430 m",
+          "nome": "Motta Rossa 2430 m – Dalla Val da Camp per Terzana",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21214,7 +21529,7 @@
           "lon": 10.097252
         },
         {
-          "nome": "Einshorn 2944m",
+          "nome": "Einshorn 2944m – Da Nufenen, per la Val Curciusa",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21241,7 +21556,7 @@
           "lon": 9.237517
         },
         {
-          "nome": "Six Madun / Badus",
+          "nome": "Six Madun / Badus – Anello Oberalppass >> Pazolastock >> Badus >> Piz Cavradi >> Oberalpass",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21268,7 +21583,7 @@
           "lon": 8.674434
         },
         {
-          "nome": "Valserberg",
+          "nome": "Valserberg – Da Hinterrhein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21295,7 +21610,7 @@
           "lon": 9.194323
         },
         {
-          "nome": "Pizzo Scalino",
+          "nome": "Pizzo Scalino – Da Selva per la Vedretta dello Scalino",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21322,7 +21637,7 @@
           "lon": 10.012972
         },
         {
-          "nome": "Piz Malgina",
+          "nome": "Piz Malgina – Per la Val dal Saent",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21349,7 +21664,7 @@
           "lon": 10.080313
         },
         {
-          "nome": "Rossbodenstock",
+          "nome": "Rossbodenstock – Traversée : Lai da Tuma >> Rossbodenstock >> Pazolastock - depuis l'Oberalppass",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21370,7 +21685,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.647936,
+          "lon": 8.659854
+        },
+        {
+          "nome": "Rossbodenstock – Dal Lai da Tuma",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -21466,7 +21790,7 @@
           "lon": 9.876403
         },
         {
-          "nome": "Rossbodenstock",
+          "nome": "Rossbodenstock – Giro : Pazolastock >> Rossbodenstock >> Lai da Tuma",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21493,7 +21817,7 @@
           "lon": 8.672757
         },
         {
-          "nome": "Piz Gannaretsch",
+          "nome": "Piz Gannaretsch – Dal Lai da Sontga Maria, discesa a N su Sedrun",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21520,7 +21844,7 @@
           "lon": 8.79447
         },
         {
-          "nome": "Einshorn Quota 2862",
+          "nome": "Einshorn Quota 2862 – Versante SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21547,7 +21871,7 @@
           "lon": 9.209444
         },
         {
-          "nome": "Hüreli",
+          "nome": "Hüreli – Per la Schwarzwald",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21574,7 +21898,7 @@
           "lon": 9.39573
         },
         {
-          "nome": "Piz Surgonda",
+          "nome": "Piz Surgonda – per la Valletta dal Güglia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21601,7 +21925,7 @@
           "lon": 9.734534
         },
         {
-          "nome": "Surettajoch",
+          "nome": "Surettajoch – Traversata da Splügen a Sufers per la valle Suretta",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21628,7 +21952,7 @@
           "lon": 9.358276
         },
         {
-          "nome": "Piz Punt Ota",
+          "nome": "Piz Punt Ota – Per la Val Punt Ota",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21655,7 +21979,7 @@
           "lon": 9.999853
         },
         {
-          "nome": "Piz Cavradi",
+          "nome": "Piz Cavradi – Da Tschamut",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21682,7 +22006,7 @@
           "lon": 8.698187
         },
         {
-          "nome": "Piz Neir",
+          "nome": "Piz Neir – all'anticima NE per la Val d'Agnel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21709,7 +22033,7 @@
           "lon": 9.69769
         },
         {
-          "nome": "Lückli / Passo Tallihorn",
+          "nome": "Lückli / Passo Tallihorn – Da Nufenen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21736,7 +22060,7 @@
           "lon": 9.23334
         },
         {
-          "nome": "Breitstock",
+          "nome": "Breitstock – Dalla strada del Passo San Bernardino",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21763,7 +22087,7 @@
           "lon": 9.160579
         },
         {
-          "nome": "Piz Scalotta",
+          "nome": "Piz Scalotta – Da Stalveder",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21790,7 +22114,7 @@
           "lon": 9.618359
         },
         {
-          "nome": "Piz la Mazza",
+          "nome": "Piz la Mazza – da Ausserferrera per l'Alp Fuina",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21844,7 +22168,7 @@
           "lon": 9.98875
         },
         {
-          "nome": "Piz Cristallina",
+          "nome": "Piz Cristallina – Da Fuorns per la Val la Buora",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21898,7 +22222,7 @@
           "lon": 9.661564
         },
         {
-          "nome": "Six Madun / Badus",
+          "nome": "Six Madun / Badus – Traversata Oberalppass >> Tschamut concatenando il Pazolastock m.2739",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21925,7 +22249,7 @@
           "lon": 8.683093
         },
         {
-          "nome": "Schiahorn",
+          "nome": "Schiahorn – da Campsut",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -21952,7 +22276,7 @@
           "lon": 9.473793
         },
         {
-          "nome": "Piz Alvra (Albula)",
+          "nome": "Piz Alvra (Albula) – dal Pass d' Alvra per la Terrassas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22006,7 +22330,7 @@
           "lon": 9.707848
         },
         {
-          "nome": "Fuorcla Trovat",
+          "nome": "Fuorcla Trovat – Per la Val d' Arlas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22168,7 +22492,7 @@
           "lon": 9.840097
         },
         {
-          "nome": "Crasta Burdun",
+          "nome": "Crasta Burdun – Traversata Punt Muragl >> Chamues-Ch, per il Munt Müsella",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22195,7 +22519,7 @@
           "lon": 9.920988
         },
         {
-          "nome": "Sur Carungas",
+          "nome": "Sur Carungas – Da Parsonz per la Val Cumegna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22222,7 +22546,7 @@
           "lon": 9.55174
         },
         {
-          "nome": "Piz da la Margna",
+          "nome": "Piz da la Margna – Per Murtairac",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22249,7 +22573,7 @@
           "lon": 9.746582
         },
         {
-          "nome": "Piz Kesch / Piz d'Es-cha",
+          "nome": "Piz Kesch / Piz d'Es-cha – da Madulain per la Porta d'Es-cha ed il Vadret da Porchabella",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22276,7 +22600,7 @@
           "lon": 9.899849
         },
         {
-          "nome": "Fuorcla da Crispalt",
+          "nome": "Fuorcla da Crispalt – Salita dalla Val Val e discesa nella Val Giuv",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22303,7 +22627,7 @@
           "lon": 8.704026
         },
         {
-          "nome": "Piz Titschal",
+          "nome": "Piz Titschal – Da Lumneins",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22330,7 +22654,7 @@
           "lon": 9.022277
         },
         {
-          "nome": "Piz Toissa",
+          "nome": "Piz Toissa – Da Mon attraverso l'Alpe Munter",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22402,7 +22726,7 @@
           "lon": 9.275272
         },
         {
-          "nome": "Präzer Höhi Mutta",
+          "nome": "Präzer Höhi Mutta – Da Lescha e per il Sarnerhöhi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22456,7 +22780,7 @@
           "lon": 10.167142
         },
         {
-          "nome": "Motal",
+          "nome": "Motal – Da Sfazù",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22555,7 +22879,7 @@
           "lon": 9.857302
         },
         {
-          "nome": "Mederger Flue",
+          "nome": "Mederger Flue – Par le Chörbsch Horn",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22582,7 +22906,7 @@
           "lon": 9.773972
         },
         {
-          "nome": "Valbellahorn",
+          "nome": "Valbellahorn – De Wiesen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22609,7 +22933,7 @@
           "lon": 9.708739
         },
         {
-          "nome": "Augstberg",
+          "nome": "Augstberg – Arête ESE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22636,7 +22960,7 @@
           "lon": 9.760479
         },
         {
-          "nome": "Piz Lai Blau",
+          "nome": "Piz Lai Blau – Dal Lai da Sontga Maria",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22684,7 +23008,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.873829,
+          "lon": 9.623029
+        },
+        {
+          "nome": "Hochwang – Depuis Fatschel, descente sur Says",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -22708,7 +23041,7 @@
           "lon": 9.623029
         },
         {
-          "nome": "Fuorcla Valletta",
+          "nome": "Fuorcla Valletta – da Samedan, per la Valletta",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22735,7 +23068,7 @@
           "lon": 9.84384
         },
         {
-          "nome": "Piz Beverin",
+          "nome": "Piz Beverin – Da Donat (via Wergestein) per la Beverin Lucke",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22762,7 +23095,7 @@
           "lon": 9.382723
         },
         {
-          "nome": "Piz Sarsura",
+          "nome": "Piz Sarsura – da Crastatscha Suot per la Val Sarsura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22789,7 +23122,7 @@
           "lon": 10.049884
         },
         {
-          "nome": "Sandhubel",
+          "nome": "Sandhubel – Da Wiesen per Gurgelun",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22816,7 +23149,7 @@
           "lon": 9.700154
         },
         {
-          "nome": "Piz Blaisun",
+          "nome": "Piz Blaisun – Quota 2876 m, da La Punt",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22843,7 +23176,7 @@
           "lon": 9.893399
         },
         {
-          "nome": "Piz Belvair",
+          "nome": "Piz Belvair – Depuis Som Muntatsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22870,7 +23203,7 @@
           "lon": 9.940372
         },
         {
-          "nome": "Piz Spadolazzo",
+          "nome": "Piz Spadolazzo – Da Innerferrera",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22924,7 +23257,7 @@
           "lon": 9.36768
         },
         {
-          "nome": "Piz Tuf",
+          "nome": "Piz Tuf – Da Wergenstein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22951,7 +23284,7 @@
           "lon": 9.368044
         },
         {
-          "nome": "Piz Cancian / Pizzo Canciano",
+          "nome": "Piz Cancian / Pizzo Canciano – Quota 2657 m, da Annunziata passando per il Lares Vecc",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -22978,7 +23311,7 @@
           "lon": 10.038903
         },
         {
-          "nome": "Piz Palü",
+          "nome": "Piz Palü – Per la Val d' Arlas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23005,7 +23338,7 @@
           "lon": 9.960374
         },
         {
-          "nome": "Piz Cambrena",
+          "nome": "Piz Cambrena – Per il Vadret dal Cambrena, canale SE e dorsale NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23032,7 +23365,7 @@
           "lon": 9.999321
         },
         {
-          "nome": "Piz da las Coluonnas",
+          "nome": "Piz da las Coluonnas – per il Lago Grevasalvas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23059,7 +23392,7 @@
           "lon": 9.715534
         },
         {
-          "nome": "Areuapass",
+          "nome": "Areuapass – Per la Tamboalp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23113,7 +23446,7 @@
           "lon": 9.67082
         },
         {
-          "nome": "Schafberg (Grisons)",
+          "nome": "Schafberg (Grisons) – Ab St. Antönien Rüti",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23140,7 +23473,7 @@
           "lon": 9.821974
         },
         {
-          "nome": "Tödi / Piz Russein",
+          "nome": "Tödi / Piz Russein – Giro con salita alla vetta - dalla Fridolinshutte.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23167,7 +23500,7 @@
           "lon": 8.906935
         },
         {
-          "nome": "Aroser Rothorn",
+          "nome": "Aroser Rothorn – Lenzerheide >> Arosa >> Lenzerheide",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23194,7 +23527,7 @@
           "lon": 9.585801
         },
         {
-          "nome": "Forcula dal Caral",
+          "nome": "Forcula dal Caral – Dal Passo del Bernina",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23221,7 +23554,7 @@
           "lon": 10.012497
         },
         {
-          "nome": "Piz Laviner",
+          "nome": "Piz Laviner – Traversata Val d'Agnel > Val Mulix > Preda",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23275,7 +23608,7 @@
           "lon": 8.685368
         },
         {
-          "nome": "Piz d'Err",
+          "nome": "Piz d'Err – per la Fuorcla d'Agnel e la Capanna Jenatsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23302,7 +23635,7 @@
           "lon": 9.714282
         },
         {
-          "nome": "Tschima da Flix",
+          "nome": "Tschima da Flix – Per la Capanna Jenatsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23329,7 +23662,7 @@
           "lon": 9.717023
         },
         {
-          "nome": "Piz Giuv",
+          "nome": "Piz Giuv – Traversata Rueras → Etzlihutte per la Val Giuv",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23350,7 +23683,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.698613,
+          "lon": 8.722338
+        },
+        {
+          "nome": "Piz Giuv – Boucle depuis Rueras par le Mittelplatten",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -23374,7 +23716,7 @@
           "lon": 8.722338
         },
         {
-          "nome": "Piz Tumpiv",
+          "nome": "Piz Tumpiv – Da Breil",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23401,7 +23743,7 @@
           "lon": 9.024248
         },
         {
-          "nome": "Piz Buin",
+          "nome": "Piz Buin – Per la Val Tuoi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23428,7 +23770,7 @@
           "lon": 10.125767
         },
         {
-          "nome": "Bärenhorn",
+          "nome": "Bärenhorn – Face NE, de Safien Thalkirch (Turrahus)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23509,7 +23851,7 @@
           "lon": 10.122628
         },
         {
-          "nome": "Guggernüll",
+          "nome": "Guggernüll – da Splügen per la Tamboalp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23536,7 +23878,7 @@
           "lon": 9.296033
         },
         {
-          "nome": "Vizan Pintg",
+          "nome": "Vizan Pintg – Da Sufers",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23563,7 +23905,7 @@
           "lon": 9.368312
         },
         {
-          "nome": "Glattwang",
+          "nome": "Glattwang – da Jenaz per Schlegel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23590,7 +23932,7 @@
           "lon": 9.716275
         },
         {
-          "nome": "Bärenhorn",
+          "nome": "Bärenhorn – Versante SE da Nufenen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23617,7 +23959,7 @@
           "lon": 9.238373
         },
         {
-          "nome": "Piz Schigels",
+          "nome": "Piz Schigels – Ab S. Benedetg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23644,7 +23986,7 @@
           "lon": 8.925468
         },
         {
-          "nome": "Piz d'Agnel",
+          "nome": "Piz d'Agnel – traversata Chamanna Jenatsch >> Val Agnel >> La Veduta",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23665,7 +24007,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.504648,
+          "lon": 9.71788
+        },
+        {
+          "nome": "Piz d'Agnel – Depuis la Cabane Jenatsch",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -23689,7 +24040,7 @@
           "lon": 9.71788
         },
         {
-          "nome": "Piz Avat",
+          "nome": "Piz Avat – Voie normale",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23716,7 +24067,7 @@
           "lon": 8.922565
         },
         {
-          "nome": "Muott' Ota",
+          "nome": "Muott' Ota – Da Sils per Crasta",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23737,7 +24088,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.413567,
+          "lon": 9.761685
+        },
+        {
+          "nome": "Muott' Ota – Par le Val Fex",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -23833,7 +24193,7 @@
           "lon": 9.659056
         },
         {
-          "nome": "Piz Argient",
+          "nome": "Piz Argient – Per il Vadret da Morteratsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23860,7 +24220,7 @@
           "lon": 9.925757
         },
         {
-          "nome": "Piz Zupò",
+          "nome": "Piz Zupò – Per il Vadret da Morteratsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23887,7 +24247,7 @@
           "lon": 9.93259
         },
         {
-          "nome": "Piz Bernina",
+          "nome": "Piz Bernina – Per il Vadret da Morteratsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -23941,7 +24301,7 @@
           "lon": 9.340935
         },
         {
-          "nome": "Piz Nuna",
+          "nome": "Piz Nuna – In traversata dalla Prada Laschadura alla stazione FFS di Guarda",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24022,7 +24382,7 @@
           "lon": 9.913069
         },
         {
-          "nome": "Piz Cambrena",
+          "nome": "Piz Cambrena – Per la Fuorcla dal Cambrena e la cresta SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24076,7 +24436,7 @@
           "lon": 10.009411
         },
         {
-          "nome": "Sass Queder",
+          "nome": "Sass Queder – da Bernina Diavolezza con discesa per la Gletscher Route",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24103,7 +24463,7 @@
           "lon": 9.965011
         },
         {
-          "nome": "Pizzo Tambò",
+          "nome": "Pizzo Tambò – da Splügen per Tanatzalp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24157,7 +24517,7 @@
           "lon": 9.341697
         },
         {
-          "nome": "Piz Posta Biala",
+          "nome": "Piz Posta Biala – Versante S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24229,7 +24589,7 @@
           "lon": 10.384102
         },
         {
-          "nome": "Piz Umbrail",
+          "nome": "Piz Umbrail – En traversée, descente sur le Val Vau",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24256,7 +24616,7 @@
           "lon": 10.425648
         },
         {
-          "nome": "Piz Laschadurella",
+          "nome": "Piz Laschadurella – per la Val Laschadura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24283,7 +24643,7 @@
           "lon": 10.167982
         },
         {
-          "nome": "Punta Rosa / Rötlspitz / Piz Cotschen",
+          "nome": "Punta Rosa / Rötlspitz / Piz Cotschen – En traversée Val Costainas-Val Muraunza",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24315,24 +24675,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2968,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/50582",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Versant NW",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -24355,7 +24697,34 @@
           "lon": 10.291309
         },
         {
-          "nome": "Piz Lizun",
+          "nome": "Piz Daint – En traversée arête W, couloir NE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2968,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/50582",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.629572,
+          "lon": 10.291309
+        },
+        {
+          "nome": "Piz Lizun – Per la Val Maroz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24382,7 +24751,7 @@
           "lon": 9.651835
         },
         {
-          "nome": "Q 2247 / Cima di Passit",
+          "nome": "Q 2247 / Cima di Passit – Da San Bernardino per il Motton",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24409,7 +24778,7 @@
           "lon": 9.176883
         },
         {
-          "nome": "Splügenpass / Passo dello Spluga",
+          "nome": "Splügenpass / Passo dello Spluga – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24436,7 +24805,7 @@
           "lon": 9.325408
         },
         {
-          "nome": "Piz Sarsura",
+          "nome": "Piz Sarsura – Traversata Val Grialetsch → Val Sarsura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24463,7 +24832,7 @@
           "lon": 10.017648
         },
         {
-          "nome": "Piz Alv (Bernina)",
+          "nome": "Piz Alv (Bernina) – Da Bernina Suot per la Val Fain",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24544,7 +24913,7 @@
           "lon": 9.689513
         },
         {
-          "nome": "Piz d'Arbeola",
+          "nome": "Piz d'Arbeola – Per il Pass di Passit",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24625,7 +24994,7 @@
           "lon": 9.579446
         },
         {
-          "nome": "Oberalpstock",
+          "nome": "Oberalpstock – Dal Piz Ault (Disentis) per il Brunnifirn",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24652,7 +25021,7 @@
           "lon": 8.802455
         },
         {
-          "nome": "Glattwang",
+          "nome": "Glattwang – Da Fideris per Heuberg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24679,7 +25048,7 @@
           "lon": 9.727872
         },
         {
-          "nome": "Sassauna",
+          "nome": "Sassauna – Von Eggl",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24706,7 +25075,7 @@
           "lon": 9.682385
         },
         {
-          "nome": "Piz Misaun",
+          "nome": "Piz Misaun – da Morteratsch per Chunetta Sur con le 2 varianti di discesa in Val Roseg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24733,7 +25102,7 @@
           "lon": 9.913499
         },
         {
-          "nome": "Piz Arina",
+          "nome": "Piz Arina – Da Vnà per il versante S.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24760,7 +25129,7 @@
           "lon": 10.368097
         },
         {
-          "nome": "Fil da Rueun",
+          "nome": "Fil da Rueun – Von Siat",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24787,7 +25156,7 @@
           "lon": 9.150961
         },
         {
-          "nome": "Piz Medel",
+          "nome": "Piz Medel – dalla Camona da Medel, discesa sull'Alp Sura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24814,7 +25183,7 @@
           "lon": 8.894573
         },
         {
-          "nome": "Piz Padella",
+          "nome": "Piz Padella – Da Samedan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24841,7 +25210,7 @@
           "lon": 9.854449
         },
         {
-          "nome": "Piz da Staz",
+          "nome": "Piz da Staz – Ab Pontresina",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24868,7 +25237,7 @@
           "lon": 9.883122
         },
         {
-          "nome": "Jägglisch Horn",
+          "nome": "Jägglisch Horn – Von St. Antönien Ascharina",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24895,7 +25264,7 @@
           "lon": 9.82573
         },
         {
-          "nome": "Valser Horn",
+          "nome": "Valser Horn – da Nufenen per la Tällialp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24922,7 +25291,7 @@
           "lon": 9.22651
         },
         {
-          "nome": "Corn da Mürasciola",
+          "nome": "Corn da Mürasciola – da Sfazù per la Val da Camp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24976,7 +25345,7 @@
           "lon": 9.642835
         },
         {
-          "nome": "Curvér Pintg da Taspegn",
+          "nome": "Curvér Pintg da Taspegn – Per Planezza",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25003,7 +25372,7 @@
           "lon": 9.531774
         },
         {
-          "nome": "Corn dal Solcun",
+          "nome": "Corn dal Solcun – Per la Val di Mafisciöi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25057,7 +25426,7 @@
           "lon": 9.365213
         },
         {
-          "nome": "Crap Tgietschen (Panixer Rotstock)",
+          "nome": "Crap Tgietschen (Panixer Rotstock) – Par Alp Ranasca",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25084,7 +25453,7 @@
           "lon": 9.114411
         },
         {
-          "nome": "Piz Beverin",
+          "nome": "Piz Beverin – Von Mathon via Einshorn",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25111,7 +25480,7 @@
           "lon": 9.383042
         },
         {
-          "nome": "Muntognas Digls Lajets",
+          "nome": "Muntognas Digls Lajets – Per il Leg Neir",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25138,7 +25507,7 @@
           "lon": 9.622997
         },
         {
-          "nome": "Marscholhorn - E-Gipfel",
+          "nome": "Marscholhorn - E-Gipfel – Von Hinterrhein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25192,7 +25561,7 @@
           "lon": 8.681882
         },
         {
-          "nome": "Piz Tomül / Wissensteinhorn",
+          "nome": "Piz Tomül / Wissensteinhorn – per la dorsale SE, da Turrahus",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25219,7 +25588,7 @@
           "lon": 9.252638
         },
         {
-          "nome": "Six Madun / Badus",
+          "nome": "Six Madun / Badus – traversée Pazolastock >> Badus >> Camona da Maighels",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25246,7 +25615,7 @@
           "lon": 8.669069
         },
         {
-          "nome": "Piz Piot",
+          "nome": "Piz Piot – Da Juf per la Jufer Alpa.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25273,7 +25642,7 @@
           "lon": 9.583483
         },
         {
-          "nome": "Piz dal Märc",
+          "nome": "Piz dal Märc – versante N dal Bergalgapass",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25327,7 +25696,7 @@
           "lon": 9.956955
         },
         {
-          "nome": "Pass di Omenit",
+          "nome": "Pass di Omenit – Per l'Alp da Confin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25354,7 +25723,7 @@
           "lon": 9.139816
         },
         {
-          "nome": "Piz Murtel",
+          "nome": "Piz Murtel – per le piste del Corvatsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25462,7 +25831,7 @@
           "lon": 9.752401
         },
         {
-          "nome": "Piz Sella",
+          "nome": "Piz Sella – dalla Val Roseg in traversata da I Gemelli",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25489,7 +25858,7 @@
           "lon": 9.866098
         },
         {
-          "nome": "Piz Timun / Pizzo d'Emet",
+          "nome": "Piz Timun / Pizzo d'Emet – per la Val Niemet",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25561,7 +25930,7 @@
           "lon": 9.874568
         },
         {
-          "nome": "Il Chapütschin",
+          "nome": "Il Chapütschin – Traversée Furtschellas → Coaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25615,7 +25984,7 @@
           "lon": 9.546457
         },
         {
-          "nome": "Munt Pers",
+          "nome": "Munt Pers – Aufstieg von Bernina Suot; Abfahrt nach Morteratsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25642,7 +26011,7 @@
           "lon": 9.968661
         },
         {
-          "nome": "Sassal Mason",
+          "nome": "Sassal Mason – Per il Vadret da Sassal Mason",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25669,7 +26038,7 @@
           "lon": 10.017498
         },
         {
-          "nome": "Piz Tschierva",
+          "nome": "Piz Tschierva – Per Chunetta Sur",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25831,7 +26200,7 @@
           "lon": 9.916752
         },
         {
-          "nome": "Ringelspitz",
+          "nome": "Ringelspitz – Da Vättis",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25858,7 +26227,7 @@
           "lon": 9.388128
         },
         {
-          "nome": "Piz Mäder",
+          "nome": "Piz Mäder – Per la Val Turba",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25885,7 +26254,7 @@
           "lon": 9.635998
         },
         {
-          "nome": "Pizzo Varuna",
+          "nome": "Pizzo Varuna – Per il Vadret da Palu'",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25912,7 +26281,7 @@
           "lon": 10.029336
         },
         {
-          "nome": "Piz Salteras",
+          "nome": "Piz Salteras – Dalla Val Tschitta",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25939,7 +26308,7 @@
           "lon": 9.744108
         },
         {
-          "nome": "Piz Nuna",
+          "nome": "Piz Nuna – Versante S, dalla Prada Laschadura",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25966,7 +26335,7 @@
           "lon": 10.147271
         },
         {
-          "nome": "Pizzo Paradisino",
+          "nome": "Pizzo Paradisino – Dal Rifugio Saoseo",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25993,7 +26362,7 @@
           "lon": 10.105268
         },
         {
-          "nome": "Piz Arblatsch",
+          "nome": "Piz Arblatsch – Da Mulegns",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26020,7 +26389,7 @@
           "lon": 9.59881
         },
         {
-          "nome": "Corno di Campo",
+          "nome": "Corno di Campo – per la Val Mera e discesa dallo Scispadus",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26047,7 +26416,7 @@
           "lon": 10.102134
         },
         {
-          "nome": "Pass Cacciabella S",
+          "nome": "Pass Cacciabella S – Traversée Albigna → Sciora",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26074,7 +26443,7 @@
           "lon": 9.652609
         },
         {
-          "nome": "Piz Lagrev",
+          "nome": "Piz Lagrev – Dall'Alp Güglia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26101,7 +26470,7 @@
           "lon": 9.733598
         },
         {
-          "nome": "Piz d' Urezza",
+          "nome": "Piz d' Urezza – Per l'Alp Munt",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26155,7 +26524,7 @@
           "lon": 9.355187
         },
         {
-          "nome": "Piz Duan",
+          "nome": "Piz Duan – da Casaccia, Canalone NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26209,7 +26578,7 @@
           "lon": 9.684989
         },
         {
-          "nome": "Piz Surparé",
+          "nome": "Piz Surparé – Da Bivio",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26263,7 +26632,7 @@
           "lon": 9.737398
         },
         {
-          "nome": "Oberalpstock",
+          "nome": "Oberalpstock – Da Disentis, discesa in Maderanertal per lo Staldenfirn",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26290,7 +26659,7 @@
           "lon": 8.788394
         },
         {
-          "nome": "Cima di Campagneda",
+          "nome": "Cima di Campagneda – da Selva per la Val Cancian",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26317,7 +26686,7 @@
           "lon": 10.013202
         },
         {
-          "nome": "Vilan",
+          "nome": "Vilan – Montée par les pentes SE, descente par l'Ochsenberg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26371,7 +26740,7 @@
           "lon": 9.470946
         },
         {
-          "nome": "Piz Surgonda",
+          "nome": "Piz Surgonda – Depuis la Chamanna Jenatsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26425,7 +26794,7 @@
           "lon": 9.75328
         },
         {
-          "nome": "Um Su",
+          "nome": "Um Su – Von Lumbrein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26452,7 +26821,7 @@
           "lon": 9.111197
         },
         {
-          "nome": "Piz Mandra",
+          "nome": "Piz Mandra – per i Pasculs da Boval",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26506,7 +26875,7 @@
           "lon": 9.34692
         },
         {
-          "nome": "Piz Scalotta",
+          "nome": "Piz Scalotta – Da Bivio",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26533,7 +26902,7 @@
           "lon": 9.622865
         },
         {
-          "nome": "Chrüzlistock",
+          "nome": "Chrüzlistock – Via normale per la Val Mila",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26560,7 +26929,7 @@
           "lon": 8.747395
         },
         {
-          "nome": "Tällihorn (Rheinwald)",
+          "nome": "Tällihorn (Rheinwald) – Da Nufenen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26587,7 +26956,7 @@
           "lon": 9.236655
         },
         {
-          "nome": "Piz Fourun",
+          "nome": "Piz Fourun – alla anticima SE per la Chamanna Murter",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26614,7 +26983,7 @@
           "lon": 9.991286
         },
         {
-          "nome": "Piz Maler",
+          "nome": "Piz Maler – Dorsale NE - Da Surrein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26641,7 +27010,7 @@
           "lon": 8.756677
         },
         {
-          "nome": "Piz Grevasalvas",
+          "nome": "Piz Grevasalvas – da Maloja per il Lägh dal Lunghin e la dorsale W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26695,7 +27064,7 @@
           "lon": 9.983451
         },
         {
-          "nome": "Frunthorn",
+          "nome": "Frunthorn – Von der Dachberghütte, Route 305a - Abfahrt nach Zervreila, Route 305b",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26722,7 +27091,7 @@
           "lon": 9.107486
         },
         {
-          "nome": "Rotflue",
+          "nome": "Rotflue – Per il Versante E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26749,7 +27118,7 @@
           "lon": 9.259851
         },
         {
-          "nome": "Piz da Vrin",
+          "nome": "Piz da Vrin – Von Sogn Giusep",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26776,7 +27145,7 @@
           "lon": 9.071142
         },
         {
-          "nome": "Schlüechtli",
+          "nome": "Schlüechtli – Versante SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26830,7 +27199,7 @@
           "lon": 9.90993
         },
         {
-          "nome": "Portgerenstock",
+          "nome": "Portgerenstock – Par le Pass Maighels",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26857,7 +27226,7 @@
           "lon": 8.673161
         },
         {
-          "nome": "Piz Pischa",
+          "nome": "Piz Pischa – per la Val d'Es-cha",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26884,7 +27253,7 @@
           "lon": 9.901963
         },
         {
-          "nome": "Piz Platta",
+          "nome": "Piz Platta – Per la Val da Faller",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26911,7 +27280,7 @@
           "lon": 9.591196
         },
         {
-          "nome": "Piz Chalchagn",
+          "nome": "Piz Chalchagn – Versante S, per Chunetta Sur",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26965,7 +27334,7 @@
           "lon": 10.01896
         },
         {
-          "nome": "Parpeinahorn / Einshorn W",
+          "nome": "Parpeinahorn / Einshorn W – Da Mathon",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26992,7 +27361,7 @@
           "lon": 9.3899
         },
         {
-          "nome": "Piz Uccello (Cima S)",
+          "nome": "Piz Uccello (Cima S) – da San Bernardino",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27019,7 +27388,7 @@
           "lon": 9.195848
         },
         {
-          "nome": "Piz Pazzola",
+          "nome": "Piz Pazzola – Via normale per la dorsale N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27046,7 +27415,7 @@
           "lon": 8.830302
         },
         {
-          "nome": "Sentisch Horn",
+          "nome": "Sentisch Horn – de Tschugga",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27073,7 +27442,7 @@
           "lon": 9.917727
         },
         {
-          "nome": "La Piramida",
+          "nome": "La Piramida – per il Lai Alv",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27100,7 +27469,7 @@
           "lon": 9.803964
         },
         {
-          "nome": "Radüner Rothorn",
+          "nome": "Radüner Rothorn – per il Vadret da Radont",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27127,7 +27496,7 @@
           "lon": 9.946811
         },
         {
-          "nome": "Schwarzhorn (Flüela)",
+          "nome": "Schwarzhorn (Flüela) – Depuis la Flüela",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27280,7 +27649,7 @@
           "lon": 9.916104
         },
         {
-          "nome": "Mugmol",
+          "nome": "Mugmol – per il Versante NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27307,7 +27676,7 @@
           "lon": 9.579366
         },
         {
-          "nome": "Piz dal Lej Alv",
+          "nome": "Piz dal Lej Alv – Traversata N >> S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27334,7 +27703,7 @@
           "lon": 9.814629
         },
         {
-          "nome": "Pazolastock",
+          "nome": "Pazolastock – montée par le versant E, descente par les pentes NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27361,7 +27730,7 @@
           "lon": 8.672806
         },
         {
-          "nome": "Piz Malmurainza",
+          "nome": "Piz Malmurainza – En traversée",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27415,7 +27784,7 @@
           "lon": 8.662153
         },
         {
-          "nome": "Piz Zuort",
+          "nome": "Piz Zuort – per la Val Zuort",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27442,7 +27811,7 @@
           "lon": 10.26487
         },
         {
-          "nome": "Piz Champatsch (Guarda)",
+          "nome": "Piz Champatsch (Guarda) – Combe N et Couloir E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27469,7 +27838,7 @@
           "lon": 10.131461
         },
         {
-          "nome": "Gfroren Horn",
+          "nome": "Gfroren Horn – Von Sand",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27550,7 +27919,7 @@
           "lon": 9.807267
         },
         {
-          "nome": "Gfroren Horn",
+          "nome": "Gfroren Horn – Von Sertig Dörfli",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27577,7 +27946,7 @@
           "lon": 9.85635
         },
         {
-          "nome": "Tomülgrat, Zentral Gipfel",
+          "nome": "Tomülgrat, Zentral Gipfel – da Strätscherhorn",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27631,7 +28000,7 @@
           "lon": 9.661476
         },
         {
-          "nome": "Zwölfihorn",
+          "nome": "Zwölfihorn – Versante SE per il Rappakopf - da Lhon",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27658,7 +28027,7 @@
           "lon": 9.412573
         },
         {
-          "nome": "Chilchalphorn",
+          "nome": "Chilchalphorn – per la Chilchalp e il versante NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27685,7 +28054,7 @@
           "lon": 9.176666
         },
         {
-          "nome": "Bruschghorn",
+          "nome": "Bruschghorn – Depuis Wergenstein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27712,7 +28081,7 @@
           "lon": 9.35296
         },
         {
-          "nome": "Piz Tarantschun",
+          "nome": "Piz Tarantschun – Da Wergenstein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27766,7 +28135,7 @@
           "lon": 9.850401
         },
         {
-          "nome": "Piz Mez",
+          "nome": "Piz Mez – N-Hang",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27793,7 +28162,7 @@
           "lon": 9.561952
         },
         {
-          "nome": "Grosshorn",
+          "nome": "Grosshorn – Versant NE, depuis Avers-Pürt",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27820,7 +28189,7 @@
           "lon": 9.511633
         },
         {
-          "nome": "Schwarzseehorn",
+          "nome": "Schwarzseehorn – Dalla Val Madris",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27847,7 +28216,7 @@
           "lon": 9.469598
         },
         {
-          "nome": "Piz Pischa",
+          "nome": "Piz Pischa – per la Val Pischa",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27874,7 +28243,7 @@
           "lon": 9.978158
         },
         {
-          "nome": "Piz Champatsch (Guarda)",
+          "nome": "Piz Champatsch (Guarda) – Versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27901,7 +28270,7 @@
           "lon": 10.116815
         },
         {
-          "nome": "Piz Cotschen (Silvretta)",
+          "nome": "Piz Cotschen (Silvretta) – Versante S - da Guarda",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28009,7 +28378,7 @@
           "lon": 9.545559
         },
         {
-          "nome": "Piz Campagnung",
+          "nome": "Piz Campagnung – per la Val d'Agnel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28036,7 +28405,7 @@
           "lon": 9.695551
         },
         {
-          "nome": "Piz Borel",
+          "nome": "Piz Borel – Versante N dal Gemstock, Vermigelhütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28063,7 +28432,7 @@
           "lon": 8.664461
         },
         {
-          "nome": "Hasenflüeli",
+          "nome": "Hasenflüeli – St-Antönien - Eggberg - Hasenflüeli",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28090,7 +28459,7 @@
           "lon": 9.836875
         },
         {
-          "nome": "Munt Buffalora",
+          "nome": "Munt Buffalora – per Buffalora",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28117,7 +28486,7 @@
           "lon": 10.270861
         },
         {
-          "nome": "Madrisahorn",
+          "nome": "Madrisahorn – Traversata Madrisahorn - Ratschenhorn Versante N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28198,7 +28567,7 @@
           "lon": 9.585939
         },
         {
-          "nome": "Piz Calderas",
+          "nome": "Piz Calderas – per il Vadret Calderas - dalla Chamanna Jenatsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28225,7 +28594,7 @@
           "lon": 9.715773
         },
         {
-          "nome": "Schafberg (Grisons)",
+          "nome": "Schafberg (Grisons) – Par la Carschinahütte - depuis Sankt Antönien, Rüti",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28252,7 +28621,7 @@
           "lon": 9.823741
         },
         {
-          "nome": "Chrüz",
+          "nome": "Chrüz – De St Antönien",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28279,7 +28648,7 @@
           "lon": 9.794528
         },
         {
-          "nome": "Eggberg",
+          "nome": "Eggberg – Traversée N-S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28306,7 +28675,7 @@
           "lon": 9.828719
         },
         {
-          "nome": "Mattjisch Horn",
+          "nome": "Mattjisch Horn – Traversée Pirigen - Casanna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28333,7 +28702,7 @@
           "lon": 9.717566
         },
         {
-          "nome": "Chörbsch Horn",
+          "nome": "Chörbsch Horn – Da Frauenkirch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28360,7 +28729,7 @@
           "lon": 9.781972
         },
         {
-          "nome": "Mattjisch Horn",
+          "nome": "Mattjisch Horn – Traversée Mattjisch Horn >> Glattwang",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28414,7 +28783,7 @@
           "lon": 9.848303
         },
         {
-          "nome": "Büelenhorn",
+          "nome": "Büelenhorn – da Monstein per la Inneralp",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28441,7 +28810,7 @@
           "lon": 9.768856
         },
         {
-          "nome": "Piz Dora",
+          "nome": "Piz Dora – da Tschierv per Era da la Bescha",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28522,7 +28891,7 @@
           "lon": 9.898979
         },
         {
-          "nome": "Piz Palü",
+          "nome": "Piz Palü – Traversée Boval → Marinelli",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28603,7 +28972,7 @@
           "lon": 9.92987
         },
         {
-          "nome": "Mazzaspitz",
+          "nome": "Mazzaspitz – da Juf per il versante SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28630,7 +28999,7 @@
           "lon": 9.576994
         },
         {
-          "nome": "Zwölfihorn",
+          "nome": "Zwölfihorn – Depuis Lohn par la Face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28657,7 +29026,7 @@
           "lon": 9.41275
         },
         {
-          "nome": "Tschima da Flix",
+          "nome": "Tschima da Flix – per la Val d'Agnel da Sur Gonda",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28711,7 +29080,7 @@
           "lon": 9.796993
         },
         {
-          "nome": "Piz Palü",
+          "nome": "Piz Palü – dal Diavolezza",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28738,7 +29107,7 @@
           "lon": 9.967513
         },
         {
-          "nome": "Piz Ursera",
+          "nome": "Piz Ursera – per la Val Mera",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28765,7 +29134,7 @@
           "lon": 10.092944
         },
         {
-          "nome": "Piz Led",
+          "nome": "Piz Led – Par Muott'Ota",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28792,7 +29161,7 @@
           "lon": 9.767838
         },
         {
-          "nome": "Fuorcla d'Agnel",
+          "nome": "Fuorcla d'Agnel – Traversée sur le Julierpass",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28813,7 +29182,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.504278,
+          "lon": 9.722105
+        },
+        {
+          "nome": "Fuorcla d'Agnel – Traversée W-E - depuis la Chamanna Jenatsch",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -28837,7 +29215,7 @@
           "lon": 9.722105
         },
         {
-          "nome": "Piz d'Emmat Dadaint",
+          "nome": "Piz d'Emmat Dadaint – per il Lago Grevasalvas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28864,7 +29242,7 @@
           "lon": 9.706139
         },
         {
-          "nome": "Berger Calanda",
+          "nome": "Berger Calanda – Depuis Untervaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28918,7 +29296,7 @@
           "lon": 9.98291
         },
         {
-          "nome": "Tällihorn (Safiental)",
+          "nome": "Tällihorn (Safiental) – dalla Safiental",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28945,7 +29323,7 @@
           "lon": 9.259229
         },
         {
-          "nome": "Piz Nalar / Motta Radonda",
+          "nome": "Piz Nalar / Motta Radonda – per il Lej Nair",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28972,7 +29350,7 @@
           "lon": 9.702749
         },
         {
-          "nome": "Safierberg",
+          "nome": "Safierberg – Depuis Thalkirch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28999,7 +29377,7 @@
           "lon": 9.272412
         },
         {
-          "nome": "Strätscherhorn",
+          "nome": "Strätscherhorn – Depuis Thalkirch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29026,7 +29404,7 @@
           "lon": 9.264859
         },
         {
-          "nome": "Piz de Mucia",
+          "nome": "Piz de Mucia – Dalla Capanna Genziana",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29080,7 +29458,7 @@
           "lon": 9.798567
         },
         {
-          "nome": "Plan Tguils",
+          "nome": "Plan Tguils – depuis Stalveder (Lai da Marmorera)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29107,7 +29485,7 @@
           "lon": 9.632537
         },
         {
-          "nome": "Piz San Gian",
+          "nome": "Piz San Gian – per il Vadret da Rosatsch",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29134,7 +29512,7 @@
           "lon": 9.840982
         },
         {
-          "nome": "Wenglispitz",
+          "nome": "Wenglispitz – Versante SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29161,7 +29539,7 @@
           "lon": 9.182568
         },
         {
-          "nome": "Piz Mezdì",
+          "nome": "Piz Mezdì – Da St-Moritz Bad per il Laviner Grand",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29215,7 +29593,7 @@
           "lon": 9.989524
         },
         {
-          "nome": "Piz Grevasalvas",
+          "nome": "Piz Grevasalvas – da Plaun da Lej",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29242,7 +29620,7 @@
           "lon": 9.700398
         },
         {
-          "nome": "Piz Belvair",
+          "nome": "Piz Belvair – Versante S, per l'Alp Belvair",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29269,7 +29647,7 @@
           "lon": 9.928827
         },
         {
-          "nome": "Piz Kesch / Piz d'Es-cha",
+          "nome": "Piz Kesch / Piz d'Es-cha – Tour horaire - depuis Chant",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29350,7 +29728,7 @@
           "lon": 9.900232
         },
         {
-          "nome": "Corn Suvretta",
+          "nome": "Corn Suvretta – dalla Valletta dal Güglia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29377,7 +29755,7 @@
           "lon": 9.746801
         },
         {
-          "nome": "Munt Müsella",
+          "nome": "Munt Müsella – da Chamues-ch per l'Alp Müsella",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29404,7 +29782,7 @@
           "lon": 9.933751
         },
         {
-          "nome": "Hintere Jamspitz",
+          "nome": "Hintere Jamspitz – Depuis la chamanna Tuoi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29431,7 +29809,7 @@
           "lon": 10.144602
         },
         {
-          "nome": "Mot dal Gajer",
+          "nome": "Mot dal Gajer – Traversée Pass del Fuorn - S-Charl",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29458,7 +29836,7 @@
           "lon": 10.318526
         },
         {
-          "nome": "Piz Turettas",
+          "nome": "Piz Turettas – Par Lai da Chazforà",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29483,6 +29861,573 @@
           ],
           "lat": 46.605216,
           "lon": 10.340056
+        },
+        {
+          "nome": "Schollberg Cima N – Dalla B. Sulzfluh per la Silbertalli discesa versante N salita allo Spitzenbuel per il Poschenwang discesa a St.Antonirn Litzeuti per il Grosslaub.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2544,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1518816",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.977201,
+          "lon": 9.86383
+        },
+        {
+          "nome": "Schollberg Cima N – discesa diretta dalla vetta per il versante N",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2570,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1101004",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.977201,
+          "lon": 9.86383
+        },
+        {
+          "nome": "Riedchopf – Anello St. Antonien Litzruti >Alpeltitalli > cresta S Riedchopf m 2552 > discesa N a quota 2250 > Rotspitz m 2517 > Partnun > St. Antonien.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2552,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1171182",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.97504,
+          "lon": 9.87768
+        },
+        {
+          "nome": "Pischahorn – dalla.funivia del Pischa con discesa sulla Berghaus Vereina lungo il Chlein Hafentälli",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 520,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2980,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/983815",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.814028,
+          "lon": 9.947306
+        },
+        {
+          "nome": "Schwarzhorn (Frauenkirch) – Versant NE par Stafelalp",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1260,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2758,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1065893",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.777303,
+          "lon": 9.742664
+        },
+        {
+          "nome": "Piz Maroz Dent – Da Roticcio per la val Furcela",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1330,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2599,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/253038",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.372121,
+          "lon": 9.63051
+        },
+        {
+          "nome": "Piz Palü – Traversée E → Central",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46025",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.410952,
+          "lon": 9.969818
+        },
+        {
+          "nome": "Piz Cancian / Pizzo Canciano – da Selva per la Vedretta di Pizzo Scalino",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3103,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46268",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.291677,
+          "lon": 10.025997
+        },
+        {
+          "nome": "Mot di Curt – Da Privilasco per Braita",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1309,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2409,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/146310",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.337438,
+          "lon": 10.0324
+        },
+        {
+          "nome": "Cima Fontana – da Privilasco per la val tempesta",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1970,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3070,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/259349",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.338173,
+          "lon": 10.017316
+        },
+        {
+          "nome": "Sasso di Fora – per la Val Fex e la Fuorcla Fex-Fedoz",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3363,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/48518",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.385288,
+          "lon": 9.773917
+        },
+        {
+          "nome": "Muttans – Per Scalotta e Pra Miez",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 920,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2440,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/326949",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.510451,
+          "lon": 9.614
+        },
+        {
+          "nome": "Motta Rossa – Da Privilasco per Somdoss e il Mot di Curt",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2563,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/196027",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.339318,
+          "lon": 10.032873
+        },
+        {
+          "nome": "Motta Rossa – da Poschiavo per Braita",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1420,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2563,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/49827",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.339318,
+          "lon": 10.032873
+        },
+        {
+          "nome": "Zapporthorn – Da San Bernardino",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1502,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3152,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/49000",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.472988,
+          "lon": 9.1501
+        },
+        {
+          "nome": "Silvrettahorn – Par la Fuorcla del Cunfin",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3244,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/45413",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.821594,
+          "lon": 10.123509
+        },
+        {
+          "nome": "Piz Salatschina – Par le Val Fex",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 950,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2824,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/45598",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.402464,
+          "lon": 9.764629
+        },
+        {
+          "nome": "Rossbodenstock – Traversée Pazolastock>>Rossbodenstock>>Lai da Turma - depuis l'Oberalppass",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2836,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/45934",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.648009,
+          "lon": 8.660667
+        },
+        {
+          "nome": "Mederger Flue – per lo Stafler Berg",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1205,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2706,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47598",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.777852,
+          "lon": 9.773972
+        },
+        {
+          "nome": "Q 2247 / Cima di Passit – Da San Bernardino per il Bosch d'Isola",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2247,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/48636",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.454952,
+          "lon": 9.176883
+        },
+        {
+          "nome": "Piz Surgonda – da Sur Gonda per la Val d'Agnel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3196,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46471",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.503508,
+          "lon": 9.721518
         }
       ],
       "lat": null,

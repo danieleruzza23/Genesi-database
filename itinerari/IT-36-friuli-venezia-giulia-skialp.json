@@ -655,7 +655,7 @@
           "lon": 13.475501
         },
         {
-          "nome": "Forcella Mosè",
+          "nome": "Forcella Mosè – dal rifugio Corsi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -709,7 +709,7 @@
           "lon": 12.552094
         },
         {
-          "nome": "Sella Leupa (arrivo funivia)",
+          "nome": "Sella Leupa (arrivo funivia) – Da Sella Nevea per sentiero 636",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -736,7 +736,7 @@
           "lon": 13.488935
         },
         {
-          "nome": "Forcella Lavinal dell'Orso",
+          "nome": "Forcella Lavinal dell'Orso – Per il versante N attraverso la conca della Spragna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -763,7 +763,7 @@
           "lon": 13.477012
         },
         {
-          "nome": "Monte Bivera",
+          "nome": "Monte Bivera – per il canale N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -790,7 +790,7 @@
           "lon": 12.641944
         },
         {
-          "nome": "Forca Riomoz",
+          "nome": "Forca Riomoz – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -862,7 +862,7 @@
           "lon": 12.496636
         },
         {
-          "nome": "Jôf Fuart",
+          "nome": "Jôf Fuart – Da S attraverso la forcella del Vallone",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -889,7 +889,7 @@
           "lon": 13.495535
         },
         {
-          "nome": "Monte Arvenis",
+          "nome": "Monte Arvenis – da N per la cresta del Tamai",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -943,7 +943,7 @@
           "lon": 13.468518
         },
         {
-          "nome": "Starhand",
+          "nome": "Starhand – da S per la Sella di Lom (Lomsattel)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -970,7 +970,7 @@
           "lon": 13.467553
         },
         {
-          "nome": "Forcella della Lavina",
+          "nome": "Forcella della Lavina – dai laghi di Fusine",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -997,7 +997,7 @@
           "lon": 13.644644
         },
         {
-          "nome": "Forcella Tragonia o Resumela",
+          "nome": "Forcella Tragonia o Resumela – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1024,7 +1024,7 @@
           "lon": 12.617
         },
         {
-          "nome": "Matajur",
+          "nome": "Matajur – Versante S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1078,7 +1078,7 @@
           "lon": 12.789933
         },
         {
-          "nome": "Forcella Lavinal dell'Orso",
+          "nome": "Forcella Lavinal dell'Orso – dalla strada per il rifugio Corsi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1105,7 +1105,7 @@
           "lon": 13.489663
         },
         {
-          "nome": "Passo dell'Oregone",
+          "nome": "Passo dell'Oregone – Monte in Val di Fleons da Pierabech",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1218,24 +1218,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 807,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2019,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47324",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Da SW per Malga Pieltinis",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -1249,6 +1231,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/47323",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.463242,
+          "lon": 12.735844
+        },
+        {
+          "nome": "Torondon – Da SE per Malga Novarzutta",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 807,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2019,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47324",
                   "siteName": null
                 }
               ]
@@ -1285,7 +1294,7 @@
           "lon": 12.808583
         },
         {
-          "nome": "Sella Ursich",
+          "nome": "Sella Ursich – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1339,7 +1348,7 @@
           "lon": 13.471223
         },
         {
-          "nome": "Sella Nabois",
+          "nome": "Sella Nabois – Da NE per il Rifugio Pellarini",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1366,7 +1375,7 @@
           "lon": 13.501002
         },
         {
-          "nome": "Sella Buinz",
+          "nome": "Sella Buinz – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1393,7 +1402,7 @@
           "lon": 13.466851
         },
         {
-          "nome": "Sella Bila Pec",
+          "nome": "Sella Bila Pec – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1420,7 +1429,7 @@
           "lon": 13.45693
         },
         {
-          "nome": "Sella Bieliga",
+          "nome": "Sella Bieliga – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1452,24 +1461,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 820,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2180,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47266",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Da W",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -1483,6 +1474,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/47265",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.600654,
+          "lon": 12.886117
+        },
+        {
+          "nome": "Rifugio Marinelli – Da E",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 820,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2180,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47266",
                   "siteName": null
                 }
               ]
@@ -1564,7 +1582,7 @@
           "lon": 12.553368
         },
         {
-          "nome": "Piccolo Siera",
+          "nome": "Piccolo Siera – Da N per il Canalone del Siera",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1639,7 +1657,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.617908,
+          "lon": 12.753281
+        },
+        {
+          "nome": "Passo Sesis – Da Pierabech per la Val Avanza",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -1663,7 +1690,7 @@
           "lon": 12.753281
         },
         {
-          "nome": "Passo Sesis",
+          "nome": "Passo Sesis – Da Cima Sappada",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1690,7 +1717,7 @@
           "lon": 12.7276
         },
         {
-          "nome": "Passo dell'Agnello",
+          "nome": "Passo dell'Agnello – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1711,7 +1738,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.643606,
+          "lon": 12.787282
+        },
+        {
+          "nome": "Passo dell'Agnello – Da S",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -1888,7 +1924,7 @@
           "lon": 12.711296
         },
         {
-          "nome": "Monte Dimon",
+          "nome": "Monte Dimon – Da SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2023,7 +2059,7 @@
           "lon": 12.738419
         },
         {
-          "nome": "Monte Santo di Lussari",
+          "nome": "Monte Santo di Lussari – Da N per la Via dei Pellegrini",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2050,7 +2086,7 @@
           "lon": 13.534061
         },
         {
-          "nome": "Jôf Fuart",
+          "nome": "Jôf Fuart – Da S per la Via Normale",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2077,7 +2113,7 @@
           "lon": 13.498156
         },
         {
-          "nome": "Jôf di Sompdogna",
+          "nome": "Jôf di Sompdogna – Da NE per il Rifugio Grego",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2104,7 +2140,7 @@
           "lon": 13.446804
         },
         {
-          "nome": "Jôf di Montasio",
+          "nome": "Jôf di Montasio – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2131,7 +2167,7 @@
           "lon": 13.439619
         },
         {
-          "nome": "Giogo Veranis",
+          "nome": "Giogo Veranis – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2185,7 +2221,7 @@
           "lon": 12.506447
         },
         {
-          "nome": "Forcella Riofreddo",
+          "nome": "Forcella Riofreddo – Da NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2212,7 +2248,7 @@
           "lon": 13.521391
         },
         {
-          "nome": "Forcella Rinsen",
+          "nome": "Forcella Rinsen – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2239,7 +2275,7 @@
           "lon": 12.722362
         },
         {
-          "nome": "Forcella dei Pecoli",
+          "nome": "Forcella dei Pecoli – Da N (val di Giaf)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2266,7 +2302,7 @@
           "lon": 12.520008
         },
         {
-          "nome": "Forca del Palone",
+          "nome": "Forca del Palone – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2320,7 +2356,7 @@
           "lon": 12.499977
         },
         {
-          "nome": "Forca dei Disteis",
+          "nome": "Forca dei Disteis – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2347,7 +2383,7 @@
           "lon": 13.437881
         },
         {
-          "nome": "Forca de lis Sieris",
+          "nome": "Forca de lis Sieris – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2374,7 +2410,7 @@
           "lon": 13.454722
         },
         {
-          "nome": "Forca de la Val",
+          "nome": "Forca de la Val – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2401,7 +2437,7 @@
           "lon": 13.478645
         },
         {
-          "nome": "Floriz",
+          "nome": "Floriz – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2428,7 +2464,7 @@
           "lon": 12.888622
         },
         {
-          "nome": "Curtissons",
+          "nome": "Curtissons – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2455,7 +2491,7 @@
           "lon": 13.432655
         },
         {
-          "nome": "Monte Crostis",
+          "nome": "Monte Crostis – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2509,7 +2545,7 @@
           "lon": 12.876808
         },
         {
-          "nome": "Creta Grauzaria",
+          "nome": "Creta Grauzaria – Da N per il Portonat",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2590,7 +2626,7 @@
           "lon": 13.00447
         },
         {
-          "nome": "Creta di Collina (o Pizzo Collina)",
+          "nome": "Creta di Collina (o Pizzo Collina) – Da E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2617,7 +2653,7 @@
           "lon": 12.908207
         },
         {
-          "nome": "Col Nudo",
+          "nome": "Col Nudo – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2644,7 +2680,7 @@
           "lon": 12.403343
         },
         {
-          "nome": "Monte Coglians",
+          "nome": "Monte Coglians – Da S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2698,7 +2734,7 @@
           "lon": 12.63132
         },
         {
-          "nome": "Cima di Terrarossa",
+          "nome": "Cima di Terrarossa – Versante N per la Huda Paliza",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2725,7 +2761,7 @@
           "lon": 13.460499
         },
         {
-          "nome": "Cima di Mezzo",
+          "nome": "Cima di Mezzo – Da SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2746,7 +2782,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.567222,
+          "lon": 12.951389
+        },
+        {
+          "nome": "Cima di Mezzo – Da S",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -2770,7 +2815,7 @@
           "lon": 12.951389
         },
         {
-          "nome": "Cima del Cacciatore",
+          "nome": "Cima del Cacciatore – Da N per la Via dei Pellegrini",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2797,7 +2842,7 @@
           "lon": 13.53352
         },
         {
-          "nome": "Cima del Cacciatore",
+          "nome": "Cima del Cacciatore – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2824,7 +2869,7 @@
           "lon": 13.526163
         },
         {
-          "nome": "Cima Bella",
+          "nome": "Cima Bella – Da SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2851,7 +2896,7 @@
           "lon": 13.459785
         },
         {
-          "nome": "Monte Cavallo di Pontebba",
+          "nome": "Monte Cavallo di Pontebba – Da N per la Via Contin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2878,7 +2923,7 @@
           "lon": 13.2457
         },
         {
-          "nome": "Monte Canin",
+          "nome": "Monte Canin – Da N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -3002,6 +3047,60 @@
           ],
           "lat": 46.621802,
           "lon": 12.741214
+        },
+        {
+          "nome": "Monte Bivera – Da N",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 735,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2474,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46984",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.441389,
+          "lon": 12.641944
+        },
+        {
+          "nome": "Monte Cavallo di Pontebba – Da N",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2300,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46991",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.5513,
+          "lon": 13.2457
         }
       ],
       "lat": null,

@@ -745,6 +745,33 @@
           ],
           "lat": 44.97474131,
           "lon": 6.222774353
+        },
+        {
+          "nome": "Aiguille du Plat de la Selle",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "itinerari": [
+            {
+              "nome": "Couloir N (du glacier suspendu)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2900,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1105646",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.975854,
+          "lon": 6.223599
         }
       ],
       "lat": null,
@@ -1440,6 +1467,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Traversée W - E par le fil de l'arête",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3809,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55830",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.00061,
@@ -1566,6 +1611,42 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Pas d'Agonie I",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3541,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1099635",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Pas d'Agonie III",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3541,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/983524",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.869197,
@@ -1644,6 +1725,60 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/504641",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Contrefort - Les Babars 1",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1757402",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Contrefort - GnaGnaGna !",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "D+",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2150,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/319282",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Contrefort - Les Babars 2",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1860801",
                   "siteName": null
                 }
               ]
@@ -2079,6 +2214,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Voie Verte",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "D+",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3010,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1408735",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.94795,
@@ -2103,6 +2256,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1881535",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Moule Mouillée",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1281014",
                   "siteName": null
                 }
               ]
@@ -2502,6 +2673,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Couloir rectiligne ou du chien",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2250,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/148920",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.125828,
@@ -2700,6 +2889,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Couloir Dérobé",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P4+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1677,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1741838",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.102343,
@@ -2778,6 +2985,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/412481",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Couloir de Droite",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F",
+              "spittatura": "P4+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1683,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1512719",
                   "siteName": null
                 }
               ]
@@ -3501,6 +3726,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Le syndrome de lime",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "D+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1633606",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.970141,
@@ -4122,6 +4365,96 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Goulotte Timoté",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "D",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2200,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/590064",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "2ème étage - Voyager 1",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2225,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1730072",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "2ème étage - Space X",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2225,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1730068",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "2ème étage - Ariane",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2225,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1730061",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "@ Approches - descentes",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2250,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/586903",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.131054,
@@ -4518,6 +4851,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Dernier étage",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD",
+              "spittatura": "P4+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2350,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1854169",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 44.924931,
@@ -4542,6 +4893,42 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1854797",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Couloir Whymper",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "AD+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4122,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54309",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Couloir en Y - branche de gauche",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4122,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54952",
                   "siteName": null
                 }
               ]
@@ -4983,6 +5370,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1833824",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Goulotte Aureille - Feutren",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3824,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54316",
                   "siteName": null
                 }
               ]
@@ -5496,6 +5901,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/57346",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Par le glacier de l'A Neuve et arête N",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3837,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54457",
                   "siteName": null
                 }
               ]
@@ -6525,6 +6948,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Couloir Gervasutti",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D-",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4248,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52981",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.862252,
@@ -6882,6 +7323,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1734022",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Goulotte P.M.U.",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": "P4+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2041,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1173580",
                   "siteName": null
                 }
               ]
@@ -7350,6 +7809,42 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1619031",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "L'évidente",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "D",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1627,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1618932",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "La logique",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "D+",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1628,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1619018",
                   "siteName": null
                 }
               ]
@@ -7938,6 +8433,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Van Life",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "TD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1606453",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.130214,
@@ -8358,6 +8871,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1675813",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Couloir S de l'arête des Cosmiques",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3842,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54895",
                   "siteName": null
                 }
               ]
@@ -9051,6 +9582,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/487114",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Van Halen",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2330,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/257085",
                   "siteName": null
                 }
               ]
@@ -9834,6 +10383,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/195873",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "La voie des Poilus",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD+",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2286,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/191790",
                   "siteName": null
                 }
               ]
@@ -11079,6 +11646,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Delafosse - Perroux",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "TD-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3792,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/571367",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.843563,
@@ -11463,6 +12048,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1508698",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Couloir S du Sommet 3168 m",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "AD-",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3168,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/480252",
                   "siteName": null
                 }
               ]
@@ -13230,6 +13833,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Facette NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3391,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/694336",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.288606,
@@ -14274,6 +14895,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Couloir NE",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "D",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3619,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56324",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.977194,
@@ -15309,6 +15948,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Par la combe et le couloir cachés du Dôme.",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1612,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/594265",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.524179,
@@ -15522,6 +16179,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/997968",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Couloir NE rectiligne du sommet E",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2557,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/45857",
                   "siteName": null
                 }
               ]
@@ -15918,6 +16593,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/963682",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Couloir NE Central",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2371,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54328",
                   "siteName": null
                 }
               ]
@@ -18753,6 +19446,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/704292",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Le petit chaperon rouge",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "TD-",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2375,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57414",
                   "siteName": null
                 }
               ]
@@ -29624,6 +30335,24 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Mer de rêve (intégrale)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "TD-",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/53975",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.972058,
@@ -31763,6 +32492,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/57645",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Couloir N",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2660,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57575",
                   "siteName": null
                 }
               ]
@@ -44334,6 +45081,60 @@
           ],
           "lat": 44.975961,
           "lon": 6.228038
+        },
+        {
+          "nome": "Les Drus",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "itinerari": [
+            {
+              "nome": "Couloir N",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "ED",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3754,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/264719",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.935354,
+          "lon": 6.95706
+        },
+        {
+          "nome": "Pic du Grand Domènon",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "itinerari": [
+            {
+              "nome": "Couloir NW",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD",
+              "spittatura": "P3+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2802,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54343",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.170009,
+          "lon": 5.9427
         }
       ],
       "lat": null,
@@ -44397,6 +45198,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Chardonnet-GoulotteEscarra/443/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54300",
                   "siteName": null
                 }
               ]
@@ -44514,6 +45320,11 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Bianco-Tacul-Chere/434/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54159",
+                  "siteName": null
                 }
               ]
             }
@@ -44540,6 +45351,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Bianco-Tacul-ContamineGrisolle/435/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54062",
                   "siteName": null
                 }
               ]

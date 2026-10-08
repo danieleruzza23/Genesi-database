@@ -591,7 +591,7 @@
       "paese": "AT",
       "pareti": [
         {
-          "nome": "Valschavieler Maderer",
+          "nome": "Valschavieler Maderer – Von Gaschurn über das Valschavieltal und die Bizulalpe",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -618,7 +618,7 @@
           "lon": 10.069775
         },
         {
-          "nome": "Frastafaller Spitz",
+          "nome": "Frastafaller Spitz – von Gaschurn durch das Valschavieltal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -645,7 +645,7 @@
           "lon": 10.074537
         },
         {
-          "nome": "Derrenjoch",
+          "nome": "Derrenjoch – depuis Baad",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -717,7 +717,7 @@
           "lon": 10.092702
         },
         {
-          "nome": "Röbispitzen",
+          "nome": "Röbispitzen – depuis Sankt Antönien, par Partnun",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -744,7 +744,7 @@
           "lon": 9.890437
         },
         {
-          "nome": "Ragazer Blanken",
+          "nome": "Ragazer Blanken – depuis Damüls",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -771,7 +771,7 @@
           "lon": 9.852638
         },
         {
-          "nome": "Madrisa Joch",
+          "nome": "Madrisa Joch – Da Gargellen m 1400 ca. per il Gandasee ed il Gafierjoch.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -798,7 +798,7 @@
           "lon": 9.877191
         },
         {
-          "nome": "Quota 2448",
+          "nome": "Quota 2448 – Anello da Langen per il Kragenboden ed il Satteinser Talli.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -830,24 +830,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3101,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1183038",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Versant NW (voie normale)",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -864,7 +846,43 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 46.868448,
+          "lon": 10.138782
+        },
+        {
+          "nome": "Rauher Kopf Scharte – traversata E-W, dalla Jamtalhutte alla Wiesbadener Hutte",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3101,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1183038",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.868448,
+          "lon": 10.138782
+        },
+        {
+          "nome": "Rauher Kopf Scharte – en traversée E-W",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -888,7 +906,7 @@
           "lon": 10.138782
         },
         {
-          "nome": "Schneeberg",
+          "nome": "Schneeberg – Vergaldner depuis Gargellen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -974,24 +992,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2830,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1101524",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "dalla Lindauer per lo Sporaturm con discesa per lo Sporentbel",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -1005,6 +1005,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1101521",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.0237,
+          "lon": 9.81155
+        },
+        {
+          "nome": "Dri Turm – da St. Antonien per la Carschinahutte e il Drusator",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2830,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1101524",
                   "siteName": null
                 }
               ]
@@ -1041,7 +1068,7 @@
           "lon": 9.801584
         },
         {
-          "nome": "Öfapass",
+          "nome": "Öfapass – du Lindauer Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1068,7 +1095,7 @@
           "lon": 9.815423
         },
         {
-          "nome": "Schwarzer Turm",
+          "nome": "Schwarzer Turm – Face E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1095,7 +1122,7 @@
           "lon": 10.154964
         },
         {
-          "nome": "Elferkopf Wintergipfel",
+          "nome": "Elferkopf Wintergipfel – Dalla Wildental per il versante SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1122,7 +1149,7 @@
           "lon": 10.187386
         },
         {
-          "nome": "Hoferspitze",
+          "nome": "Hoferspitze – Dalla Bargunttal per il versante N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1149,7 +1176,7 @@
           "lon": 10.11116
         },
         {
-          "nome": "Klippern",
+          "nome": "Klippern – Per il versante Sud",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1203,7 +1230,7 @@
           "lon": 9.96846
         },
         {
-          "nome": "Sulzfluh",
+          "nome": "Sulzfluh – Da Latschau per la Gauertal ed il Rachen.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1230,7 +1257,7 @@
           "lon": 9.850827
         },
         {
-          "nome": "Hochkünzelspitze",
+          "nome": "Hochkünzelspitze – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1338,7 +1365,7 @@
           "lon": 10.07942
         },
         {
-          "nome": "Westliche Eisentalerspitze",
+          "nome": "Westliche Eisentalerspitze – Traversata Wald-Klosterle per l’Ameisen joch m 2495 e la Eisental.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1365,7 +1392,7 @@
           "lon": 10.07899
         },
         {
-          "nome": "Östliche Eisentalerspitze",
+          "nome": "Östliche Eisentalerspitze – Von Langen über das Nenzingasttal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1392,7 +1419,7 @@
           "lon": 10.100234
         },
         {
-          "nome": "Portlahorn",
+          "nome": "Portlahorn – Von der Bergstation der Sesselbahn Sunnegg",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1446,7 +1473,7 @@
           "lon": 9.928701
         },
         {
-          "nome": "Gerenspitze",
+          "nome": "Gerenspitze – Von Bad Laterns über Sackalpe",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1500,7 +1527,7 @@
           "lon": 9.809697
         },
         {
-          "nome": "Toblermannskopf",
+          "nome": "Toblermannskopf – VN par le versant NE, depuis Schoppernau",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1527,7 +1554,7 @@
           "lon": 10.007354
         },
         {
-          "nome": "Drusenfluh - Dri Türm",
+          "nome": "Drusenfluh - Dri Türm – Versant N depuis la Lindauer Hütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1581,7 +1608,7 @@
           "lon": 10.105975
         },
         {
-          "nome": "Warther Horn",
+          "nome": "Warther Horn – Von Warth über die Westseite",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1608,7 +1635,7 @@
           "lon": 10.156896
         },
         {
-          "nome": "Kreuzjoch",
+          "nome": "Kreuzjoch – Da Latschau per la Gauertal e Latschatzalpe",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1635,7 +1662,7 @@
           "lon": 9.83
         },
         {
-          "nome": "Tschaggunser Mittagspitz  ",
+          "nome": "Tschaggunser Mittagspitz   – Da Grabs per il versante N.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1734,7 +1761,7 @@
           "lon": 9.943092
         },
         {
-          "nome": "Muttjöchle",
+          "nome": "Muttjöchle – boucle Kristberg - Muttjöchle avec descente par la face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1788,7 +1815,7 @@
           "lon": 10.091833
         },
         {
-          "nome": "Untschenspitze",
+          "nome": "Untschenspitze – Traversata S>>N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1815,7 +1842,7 @@
           "lon": 10.060491
         },
         {
-          "nome": "Oberzalimkopf",
+          "nome": "Oberzalimkopf – Dalla Brandnertal per il versante E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1842,7 +1869,7 @@
           "lon": 9.677981
         },
         {
-          "nome": "Mondspitze",
+          "nome": "Mondspitze – Da Burserberg concatenando lo Schillersattel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1869,7 +1896,7 @@
           "lon": 9.726528
         },
         {
-          "nome": "Schlappiner Spitze",
+          "nome": "Schlappiner Spitze – Von Gargellen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -1977,7 +2004,7 @@
           "lon": 9.810283
         },
         {
-          "nome": "Piz Buin",
+          "nome": "Piz Buin – Versant W (voie normale hiver) depuis la Wiesbadenerhütte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [

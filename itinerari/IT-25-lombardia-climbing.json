@@ -8,7 +8,7 @@
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Grigna Merdionale, Torrione Magnaghi settentrionale",
+          "nome": "Grigna Meridionale, Torrione Magnaghi Settentrionale",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -27,23 +27,15 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/magnaghi-settentrionale-torrione-via-lecco/",
                   "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Via sogni d'autunno - I torrione",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-TMS-viaLecco/119/",
+                  "siteName": null
+                },
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1581104",
+                  "url": "https://www.camptocamp.org/routes/131077",
                   "siteName": null
                 }
               ]
@@ -615,6 +607,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/vitali-torre-via-sara/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/185190",
+                  "siteName": null
                 }
               ]
             }
@@ -709,6 +706,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-TMC-viaButta/110/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/188216",
                   "siteName": null
                 }
               ]
@@ -883,6 +885,11 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-TMM-viaGraziella/417/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/238855",
+                  "siteName": null
                 }
               ]
             },
@@ -923,6 +930,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-TMM-viaSpigoloDorn/129/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/375951",
                   "siteName": null
                 }
               ]
@@ -1014,6 +1026,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-TMS-viaBartesaghi/121/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/173371",
                   "siteName": null
                 }
               ]
@@ -1725,6 +1742,11 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-TMM-viaCanalinoAlbertini/83/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57628",
+                  "siteName": null
                 }
               ]
             }
@@ -1839,33 +1861,6 @@
           ],
           "lat": 45.9215,
           "lon": 9.3947
-        },
-        {
-          "nome": "Grigna Meridionale, Torrione Magnaghi Settentrionale",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "via Lecco",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV+",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 125.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2078.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-TMS-viaLecco/119/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.9215,
-          "lon": 9.3947
         }
       ],
       "lat": null,
@@ -1931,6 +1926,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-Cinquantenario-viaGandin/16/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57043",
                   "siteName": null
                 }
               ]
@@ -2387,6 +2387,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/cecilia-torre-spigolo-marimonti/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57912",
+                  "siteName": null
                 }
               ]
             }
@@ -2451,6 +2456,11 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-TMM-viaVitaliLongoni/112/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/168661",
+                  "siteName": null
                 }
               ]
             },
@@ -2473,6 +2483,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Grigna-TMM-viaSpigoloAntidorn/128/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/178987",
                   "siteName": null
                 }
               ]
@@ -3869,6 +3884,11 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoPesciola-viaBramaniFasana/204/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/230230",
+                  "siteName": null
                 }
               ]
             }
@@ -4359,6 +4379,69 @@
           ],
           "lat": 45.94118296,
           "lon": 9.470043182
+        },
+        {
+          "nome": "Zucco Angelone",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "itinerari": [
+            {
+              "nome": "Terzo Sperone - Via Ortofresco",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1200,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288848",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Quarto Sperone - Schiavi della pietra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288849",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Quarto Sperone - Anabasi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1165,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55490",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.957846,
+          "lon": 9.462453
         }
       ],
       "lat": null,
@@ -8004,6 +8087,11 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Antimedale-viaChiappa/32/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/111439",
+                  "siteName": null
                 }
               ]
             }
@@ -8328,6 +8416,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Antimedale-viaApache/14/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1429338",
                   "siteName": null
                 }
               ]
@@ -8677,6 +8770,11 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Medale-viaPoseidone/53/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1433797",
+                  "siteName": null
                 }
               ]
             },
@@ -8753,6 +8851,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Medale-viaTaveggia/9/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/160917",
                   "siteName": null
                 }
               ]
@@ -8839,6 +8942,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Medale-viaBonatti/41/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/223260",
                   "siteName": null
                 }
               ]
@@ -8986,6 +9094,11 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Medale-viaBrianzi/151/",
                   "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/223249",
+                  "siteName": null
                 }
               ]
             }
@@ -9044,6 +9157,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Medale-viaGogna/48/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/223252",
                   "siteName": null
                 }
               ]
@@ -9809,11 +9927,6 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/resegone-torre-cai-via-ruchin/",
                   "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1850324",
-                  "siteName": null
                 }
               ]
             },
@@ -10564,6 +10677,33 @@
           ],
           "lat": 45.864447879454005,
           "lon": 9.447662829444589
+        },
+        {
+          "nome": "Resegone",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "itinerari": [
+            {
+              "nome": "Via Giuseppina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1850324",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.85845,
+          "lon": 9.46866
         }
       ],
       "lat": null,
@@ -13350,11 +13490,6 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/baiedo-rocca-di-moltitudine/",
                   "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1527760",
-                  "siteName": null
                 }
               ]
             },
@@ -13422,6 +13557,11 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/RoccaBaiedo-viaSolitudine/571/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1527760",
                   "siteName": null
                 }
               ]
@@ -22787,6 +22927,78 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "nome": "Via sogni d'autunno - I torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1581104",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Via Fasana 2000 - III Torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2078,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/222228",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Via I Maggio - III Torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2078,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/222227",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Via Chiappa-Mozzanica - II Torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2045,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/188289",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 45.913094,
@@ -22928,6 +23140,24 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/286421",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Corno Pagano - Via Salamandra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/290637",
                   "siteName": null
                 }
               ]

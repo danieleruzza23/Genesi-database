@@ -4601,7 +4601,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.87035722778823,
+          "lon": 7.400288923373424
+        },
+        {
+          "nome": "Col Berlon – Circuit Combe de Crête Sèche → Combe de Vertsan",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -4621,8 +4630,8 @@
               ]
             }
           ],
-          "lat": 45.87035722778823,
-          "lon": 7.400288923373424
+          "lat": 45.8705,
+          "lon": 7.40139
         },
         {
           "nome": "Tsan o Cian (Dome de) dalla Diga di Place Moulin",
@@ -21386,11 +21395,6 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/tsa-mont-de-la-thouraz/",
                   "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1610280",
-                  "siteName": null
                 }
               ]
             }
@@ -21424,6 +21428,33 @@
           ],
           "lat": 45.74227296410808,
           "lon": 7.244174880950935
+        },
+        {
+          "nome": "Pointe de Metz – versant SE depuis Thouraz",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 950,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2553,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1610280",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.741922,
+          "lon": 7.244592
         }
       ],
       "lat": null,
@@ -22381,7 +22412,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.585294730957195,
+          "lon": 7.030192839286791
+        },
+        {
+          "nome": "Rifugio Mario Bezzi – da Valgrisenche per Useleres",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -22401,8 +22441,8 @@
               ]
             }
           ],
-          "lat": 45.585294730957195,
-          "lon": 7.030192839286791
+          "lat": 45.585378,
+          "lon": 7.030412
         },
         {
           "nome": "Lac (Becca du) da Surrier per versante sud",
@@ -24867,7 +24907,7 @@
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Bec des Rousses ",
+          "nome": "Bec des Rousses  – Couloir NNE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24921,7 +24961,7 @@
           "lon": 7.366097
         },
         {
-          "nome": "Col de Valsorey",
+          "nome": "Col de Valsorey – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -24948,7 +24988,7 @@
           "lon": 7.273338
         },
         {
-          "nome": "Pointe de la Crosatie",
+          "nome": "Pointe de la Crosatie – Versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25056,7 +25096,7 @@
           "lon": 7.416409
         },
         {
-          "nome": "Mont Paglietta",
+          "nome": "Mont Paglietta – Par le vallon de Menouve",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25077,7 +25117,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.846765,
+          "lon": 7.214033
+        },
+        {
+          "nome": "Mont Paglietta – Itinéraire des paresseux",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -25209,7 +25258,7 @@
           "lon": 7.173031
         },
         {
-          "nome": "Pointe des Ouillons",
+          "nome": "Pointe des Ouillons – Face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25230,7 +25279,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.724851,
+          "lon": 6.809255
+        },
+        {
+          "nome": "Pointe des Ouillons – Face NW en boucle",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -25254,7 +25312,7 @@
           "lon": 6.809255
         },
         {
-          "nome": "Aiguille Centrale SE de Tré la Tête",
+          "nome": "Aiguille Centrale SE de Tré la Tête – Couloir NNE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25308,7 +25366,7 @@
           "lon": 7.257797
         },
         {
-          "nome": "Breithorn Central",
+          "nome": "Breithorn Central – Couloir SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25335,7 +25393,7 @@
           "lon": 7.756698
         },
         {
-          "nome": "Mont Blanc",
+          "nome": "Mont Blanc – Voie de la Sentinelle Rouge",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25362,7 +25420,7 @@
           "lon": 6.878735
         },
         {
-          "nome": "Crêtes des Ceingles",
+          "nome": "Crêtes des Ceingles – Couloir ENE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25416,7 +25474,7 @@
           "lon": 7.011429
         },
         {
-          "nome": "Mont Gruetta occidental",
+          "nome": "Mont Gruetta occidental – Face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25443,7 +25501,7 @@
           "lon": 7.017204
         },
         {
-          "nome": "Glacier du Chérillon",
+          "nome": "Glacier du Chérillon – Da Breuil - Cervinia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25470,7 +25528,7 @@
           "lon": 7.620242
         },
         {
-          "nome": "Col de Livournea",
+          "nome": "Col de Livournea – depuis le Vallon de Saint Barthélémy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25524,7 +25582,7 @@
           "lon": 7.673584
         },
         {
-          "nome": "Mont Ouille",
+          "nome": "Mont Ouille – En boucle Crête SE et Versant Couloir E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25596,7 +25654,7 @@
           "lon": 6.854249
         },
         {
-          "nome": "Pointe Valletta",
+          "nome": "Pointe Valletta – Couloir N Direct",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25650,7 +25708,7 @@
           "lon": 7.117434
         },
         {
-          "nome": "Mont Emilius",
+          "nome": "Mont Emilius – Arête S via le Col de Comboé",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25677,7 +25735,7 @@
           "lon": 7.371742
         },
         {
-          "nome": "Bec France",
+          "nome": "Bec France – Par le versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25704,7 +25762,7 @@
           "lon": 7.218808
         },
         {
-          "nome": "Sommet des Rousses",
+          "nome": "Sommet des Rousses – Couloir ESE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25758,7 +25816,7 @@
           "lon": 7.44624
         },
         {
-          "nome": "Grandes Jorasses - Pointe Croz",
+          "nome": "Grandes Jorasses - Pointe Croz – Face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25785,7 +25843,7 @@
           "lon": 6.98265
         },
         {
-          "nome": "Grandes Jorasses - Pointe Hélène",
+          "nome": "Grandes Jorasses - Pointe Hélène – Face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25893,7 +25951,7 @@
           "lon": 7.5563
         },
         {
-          "nome": "Becca di Fontaney",
+          "nome": "Becca di Fontaney – Versante N da Cuney",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25914,7 +25972,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.834214,
+          "lon": 7.478628
+        },
+        {
+          "nome": "Becca di Fontaney – Da Porliod per il Col Salvè ed il Canale SE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -25938,7 +26005,7 @@
           "lon": 7.478628
         },
         {
-          "nome": "Col de Praterier",
+          "nome": "Col de Praterier – par le Vallon de Saint Bartélemy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25965,7 +26032,7 @@
           "lon": 7.515764
         },
         {
-          "nome": "Col du Mont",
+          "nome": "Col du Mont – da Valgrisenche passando per il Truc de Seyaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -25986,7 +26053,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.601004,
+          "lon": 6.981819
+        },
+        {
+          "nome": "Col du Mont – depuis La Masure.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -26064,7 +26140,7 @@
           "lon": 7.022776
         },
         {
-          "nome": "Bec Noir",
+          "nome": "Bec Noir – Couloir E \"Emma\"",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26112,7 +26188,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.7971,
+          "lon": 7.019031
+        },
+        {
+          "nome": "Tête de Licony – Par le vallon et le lac de Licony",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -26136,7 +26221,7 @@
           "lon": 7.019031
         },
         {
-          "nome": "Tête de l'Ane",
+          "nome": "Tête de l'Ane – Les couloirs Face N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26190,7 +26275,7 @@
           "lon": 7.344135
         },
         {
-          "nome": "Tête d'Arp",
+          "nome": "Tête d'Arp – Couloir en S Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26217,7 +26302,7 @@
           "lon": 6.925191
         },
         {
-          "nome": "Pointes des Charmonts (Mont Favre)",
+          "nome": "Pointes des Charmonts (Mont Favre) – Face N Couloir Gomito",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26238,7 +26323,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.761986,
+          "lon": 6.894808
+        },
+        {
+          "nome": "Pointes des Charmonts (Mont Favre) – par le vallon des Chavannes",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -26343,7 +26437,7 @@
           "lon": 7.110662
         },
         {
-          "nome": "Tête Bernarde",
+          "nome": "Tête Bernarde – Versant NW et Face N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26424,7 +26518,7 @@
           "lon": 7.100182
         },
         {
-          "nome": "Aiguilles de l'Hermite",
+          "nome": "Aiguilles de l'Hermite – Traversée Chaz Duraz → Pont Serrand",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26451,7 +26545,7 @@
           "lon": 6.844301
         },
         {
-          "nome": "Grand Créton N",
+          "nome": "Grand Créton N – Couloir E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26505,7 +26599,7 @@
           "lon": 6.905438
         },
         {
-          "nome": "Mont Labiez",
+          "nome": "Mont Labiez – Traversée depuis Vétan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26559,7 +26653,7 @@
           "lon": 7.193413
         },
         {
-          "nome": "Mont Fortin",
+          "nome": "Mont Fortin – Face N, via Youlaz, Arp Vieille Supérieur",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26580,7 +26674,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.763281,
+          "lon": 6.870451
+        },
+        {
+          "nome": "Mont Fortin – Par le Vallon des Chavannes",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -26604,7 +26707,7 @@
           "lon": 6.870451
         },
         {
-          "nome": "Glacier de la Brenva",
+          "nome": "Glacier de la Brenva – Via le Col Oriental de la Tour Ronde",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26631,7 +26734,7 @@
           "lon": 6.913285
         },
         {
-          "nome": "Bec de Luseney",
+          "nome": "Bec de Luseney – par le Vallon de Saint Barthélemy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26658,7 +26761,7 @@
           "lon": 7.498085
         },
         {
-          "nome": "Col Montagnaya",
+          "nome": "Col Montagnaya – par le versant E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26712,7 +26815,7 @@
           "lon": 7.215779
         },
         {
-          "nome": "La Singla",
+          "nome": "La Singla – Antécime N, couloir E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26739,7 +26842,7 @@
           "lon": 7.476642
         },
         {
-          "nome": "Dôme de Tsan / Cian",
+          "nome": "Dôme de Tsan / Cian – versant S par le vallon de Saint Barthélemy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26847,7 +26950,7 @@
           "lon": 6.939814
         },
         {
-          "nome": "Crête de Torvéraz - Pointe 3032 m",
+          "nome": "Crête de Torvéraz - Pointe 3032 m – Versant E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26928,7 +27031,7 @@
           "lon": 6.854266
         },
         {
-          "nome": "Tête de Sereina",
+          "nome": "Tête de Sereina – par le vallon de Vertosan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -26982,7 +27085,7 @@
           "lon": 6.903705
         },
         {
-          "nome": "Crête du vallon de Belle Combe -  pointe 2990 m",
+          "nome": "Crête du vallon de Belle Combe -  pointe 2990 m – Circuit par le balcon supérieur du val Ferret",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27009,7 +27112,7 @@
           "lon": 7.067276
         },
         {
-          "nome": "Aiguille de Belle Combe",
+          "nome": "Aiguille de Belle Combe – Couloir S de gauche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27036,7 +27139,7 @@
           "lon": 7.103601
         },
         {
-          "nome": "Pain de Sucre du Fourchon",
+          "nome": "Pain de Sucre du Fourchon – Couloir SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27084,7 +27187,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.788135,
+          "lon": 7.663714
+        },
+        {
+          "nome": "Monte Zerbion – Arête N depuis Antagnod",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -27108,7 +27220,7 @@
           "lon": 7.663714
         },
         {
-          "nome": "Mont Tantané",
+          "nome": "Mont Tantané – Da Artaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27162,7 +27274,7 @@
           "lon": 7.0954
         },
         {
-          "nome": "Petit Avert",
+          "nome": "Petit Avert – Da Les Druges",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27261,7 +27373,7 @@
           "lon": 7.108723
         },
         {
-          "nome": "Mont Paramont",
+          "nome": "Mont Paramont – Face N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27342,7 +27454,7 @@
           "lon": 7.088971
         },
         {
-          "nome": "Pointe de Moline",
+          "nome": "Pointe de Moline – Retour par le Mont de Pro",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27369,7 +27481,7 @@
           "lon": 7.228326
         },
         {
-          "nome": "Tsanteleina",
+          "nome": "Tsanteleina – Face E - couloir \"Bonne Tsanté\"",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27477,7 +27589,7 @@
           "lon": 7.573494
         },
         {
-          "nome": "Aiguille des Glaciers",
+          "nome": "Aiguille des Glaciers – Couloir E en boucle par le versant SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27504,7 +27616,7 @@
           "lon": 6.810294
         },
         {
-          "nome": "Tête du Ruitor",
+          "nome": "Tête du Ruitor – Par le col du Château Blanc",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27612,7 +27724,7 @@
           "lon": 7.504443
         },
         {
-          "nome": "Croix de Fana",
+          "nome": "Croix de Fana – Versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27639,7 +27751,7 @@
           "lon": 7.417625
         },
         {
-          "nome": "Pointe de Chaligne",
+          "nome": "Pointe de Chaligne – Par le Vallon de Clusellaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27666,7 +27778,7 @@
           "lon": 7.240849
         },
         {
-          "nome": "Col Moutsaillon",
+          "nome": "Col Moutsaillon – versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27747,7 +27859,7 @@
           "lon": 7.183822
         },
         {
-          "nome": "Becca di Trecarè",
+          "nome": "Becca di Trecarè – da Saint Jacques per il colle di Nana",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27855,7 +27967,7 @@
           "lon": 7.510216
         },
         {
-          "nome": "Col des Pyramides Calcaires",
+          "nome": "Col des Pyramides Calcaires – Par le Val Veny",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27882,7 +27994,7 @@
           "lon": 6.832969
         },
         {
-          "nome": "Pointe de Metz",
+          "nome": "Pointe de Metz – Descente par la face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27909,7 +28021,7 @@
           "lon": 7.234456
         },
         {
-          "nome": "Mont Ros",
+          "nome": "Mont Ros – Par les lacs Muffé et de Vernoille - Descente couloir SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -27936,7 +28048,7 @@
           "lon": 7.593852
         },
         {
-          "nome": "Lac de Vercoche",
+          "nome": "Lac de Vercoche – Traversée Vallon de la Legna >Vallon de Laris",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28044,7 +28156,7 @@
           "lon": 7.098173
         },
         {
-          "nome": "Col d'Arsy",
+          "nome": "Col d'Arsy – Versant S par le Vallon de Clusellaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28071,7 +28183,7 @@
           "lon": 7.206053
         },
         {
-          "nome": "Mont Barbeston",
+          "nome": "Mont Barbeston – Da Cloutraz per il Colle di Valmeriana",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28125,7 +28237,7 @@
           "lon": 7.758381
         },
         {
-          "nome": "Tête Crévacol",
+          "nome": "Tête Crévacol – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28146,7 +28258,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.843032,
+          "lon": 7.140776
+        },
+        {
+          "nome": "Tête Crévacol – Face NE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -28170,7 +28291,7 @@
           "lon": 7.140776
         },
         {
-          "nome": "Crête de Corleans",
+          "nome": "Crête de Corleans – Couloir N du col 2760 m",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28197,7 +28318,7 @@
           "lon": 7.12638
         },
         {
-          "nome": "Pointe Tersiva",
+          "nome": "Pointe Tersiva – Face NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28224,7 +28345,7 @@
           "lon": 7.476289
         },
         {
-          "nome": "Col de Leppe",
+          "nome": "Col de Leppe – Versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28251,7 +28372,7 @@
           "lon": 7.423268
         },
         {
-          "nome": "Col Lavodilec",
+          "nome": "Col Lavodilec – Par le Vallon de Saint Marcel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28323,7 +28444,7 @@
           "lon": 7.340611
         },
         {
-          "nome": "Pointe de Monpers",
+          "nome": "Pointe de Monpers – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28431,7 +28552,7 @@
           "lon": 7.58518
         },
         {
-          "nome": "Bec Vannetta",
+          "nome": "Bec Vannetta – Par la gorge du torrent du Braoulé",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28458,7 +28579,7 @@
           "lon": 7.516595
         },
         {
-          "nome": "Aiguille de la Grande Sassière",
+          "nome": "Aiguille de la Grande Sassière – Face NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28485,7 +28606,7 @@
           "lon": 7.010261
         },
         {
-          "nome": "Col des Lacs",
+          "nome": "Col des Lacs – Couloir SSW depuis Place Moulin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28539,7 +28660,7 @@
           "lon": 6.932802
         },
         {
-          "nome": "Pas de Leseney",
+          "nome": "Pas de Leseney – Traversée Arpy > Refuge Deffeyes",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28566,7 +28687,7 @@
           "lon": 7.003
         },
         {
-          "nome": "Côte de Sereina",
+          "nome": "Côte de Sereina – Pointe N 2785 m",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28587,7 +28708,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.811564,
+          "lon": 7.100389
+        },
+        {
+          "nome": "Côte de Sereina – Combe NE - Sommet N",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -28611,7 +28741,7 @@
           "lon": 7.100389
         },
         {
-          "nome": "Bec Pouegnenta Central",
+          "nome": "Bec Pouegnenta Central – Par le col d'Ameran > Combe SE > Col de la Serra",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28665,7 +28795,7 @@
           "lon": 7.132869
         },
         {
-          "nome": "Mont Thuilette",
+          "nome": "Mont Thuilette – Circuit par la combe Sozin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28719,7 +28849,7 @@
           "lon": 7.018133
         },
         {
-          "nome": "Pointe d'Entremont - Arête W - Point 2765 m",
+          "nome": "Pointe d'Entremont - Arête W - Point 2765 m – par le versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28773,7 +28903,7 @@
           "lon": 7.079044
         },
         {
-          "nome": "Grand Dent",
+          "nome": "Grand Dent – Da Chamois",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28854,7 +28984,7 @@
           "lon": 7.107939
         },
         {
-          "nome": "Mont Miravidi",
+          "nome": "Mont Miravidi – Versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -28908,7 +29038,7 @@
           "lon": 7.684093
         },
         {
-          "nome": "Pointe Paletta S",
+          "nome": "Pointe Paletta S – Par le versant E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29088,7 +29218,7 @@
           "lon": 7.347685
         },
         {
-          "nome": "Mont Iverta",
+          "nome": "Mont Iverta – Versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29142,7 +29272,7 @@
           "lon": 7.238804
         },
         {
-          "nome": "Colle di Saint-Barthélemy",
+          "nome": "Colle di Saint-Barthélemy – Da Fonteil per la Comba Dèche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29169,7 +29299,7 @@
           "lon": 7.416444
         },
         {
-          "nome": "Tête des Hommes",
+          "nome": "Tête des Hommes – Tour par le col de la Tête des Hommes et le col du Lac Blanc",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29196,7 +29326,7 @@
           "lon": 7.579187
         },
         {
-          "nome": "Mont de l'Âne",
+          "nome": "Mont de l'Âne – Boucle Plan Cou > Plan Bry",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29223,7 +29353,7 @@
           "lon": 7.136816
         },
         {
-          "nome": "Bec des Quatre Dents",
+          "nome": "Bec des Quatre Dents – En boucle SW > NW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29250,7 +29380,7 @@
           "lon": 7.072288
         },
         {
-          "nome": "Pointe Percia",
+          "nome": "Pointe Percia – Par le vallon de Nampio",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29277,7 +29407,7 @@
           "lon": 7.161258
         },
         {
-          "nome": "Mont Glacier",
+          "nome": "Mont Glacier – Face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29304,7 +29434,7 @@
           "lon": 7.536174
         },
         {
-          "nome": "Pointe du Lac Gelé",
+          "nome": "Pointe du Lac Gelé – Par le Mont Rascias",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29331,7 +29461,7 @@
           "lon": 7.517144
         },
         {
-          "nome": "Mont Mars",
+          "nome": "Mont Mars – Par la Vallée de la Legna",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29358,7 +29488,7 @@
           "lon": 7.609756
         },
         {
-          "nome": "Pointe Bocon Damon ou Giasset",
+          "nome": "Pointe Bocon Damon ou Giasset – Par Raté",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29439,7 +29569,7 @@
           "lon": 7.435498
         },
         {
-          "nome": "Col d'Ars",
+          "nome": "Col d'Ars – versant E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29466,7 +29596,7 @@
           "lon": 7.201376
         },
         {
-          "nome": "Bella Valletta",
+          "nome": "Bella Valletta – Traversée versant E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29493,7 +29623,7 @@
           "lon": 6.919518
         },
         {
-          "nome": "Col Citrin",
+          "nome": "Col Citrin – Par le vallon de Vertosan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29520,7 +29650,7 @@
           "lon": 7.137347
         },
         {
-          "nome": "Col de Bardoney",
+          "nome": "Col de Bardoney – Depuis le vallon d'Urtier",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29547,7 +29677,7 @@
           "lon": 7.427526
         },
         {
-          "nome": "Mont Fallère",
+          "nome": "Mont Fallère – Mont Fallere : versante nord",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29574,7 +29704,7 @@
           "lon": 7.204692
         },
         {
-          "nome": "Mont Corquet",
+          "nome": "Mont Corquet – Montée N > Descente NW par Servette",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29601,7 +29731,7 @@
           "lon": 7.468404
         },
         {
-          "nome": "Bec Pouegnenta S",
+          "nome": "Bec Pouegnenta S – Par le vallon de Leseney",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29628,7 +29758,7 @@
           "lon": 7.023808
         },
         {
-          "nome": "Mont Lusse",
+          "nome": "Mont Lusse – Par le col de la Serra",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29655,7 +29785,7 @@
           "lon": 6.99611
         },
         {
-          "nome": "Mont Vallettaz",
+          "nome": "Mont Vallettaz – Boucle par les vallons de Tillac et de Lantaney",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29682,7 +29812,7 @@
           "lon": 7.041248
         },
         {
-          "nome": "Mont Large",
+          "nome": "Mont Large – Par Tillac",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29736,7 +29866,7 @@
           "lon": 7.145154
         },
         {
-          "nome": "Col d'Arp",
+          "nome": "Col d'Arp – Par le vallon NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29790,7 +29920,7 @@
           "lon": 7.792277
         },
         {
-          "nome": "Col de la Serra",
+          "nome": "Col de la Serra – Par le vallon d'Arpy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29925,7 +30055,7 @@
           "lon": 7.002394
         },
         {
-          "nome": "Mont Colmet",
+          "nome": "Mont Colmet – Couloir N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29952,7 +30082,7 @@
           "lon": 6.994222
         },
         {
-          "nome": "Cime d'Entrelor",
+          "nome": "Cime d'Entrelor – Par le Vallon de Meyes",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -29979,7 +30109,7 @@
           "lon": 7.16306
         },
         {
-          "nome": "Bec de Montandayné",
+          "nome": "Bec de Montandayné – Par le col Bonney",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30006,7 +30136,7 @@
           "lon": 7.271135
         },
         {
-          "nome": "Pointe de Serrù ou de Maurin",
+          "nome": "Pointe de Serrù ou de Maurin – Versant NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30033,7 +30163,7 @@
           "lon": 6.995071
         },
         {
-          "nome": "Cime de la Valletta de Bardoney",
+          "nome": "Cime de la Valletta de Bardoney – Versant N par le Vallon d'Urtier",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30087,7 +30217,7 @@
           "lon": 7.245174
         },
         {
-          "nome": "Punta Giordani",
+          "nome": "Punta Giordani – Canale SE o canale del soldato",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30114,7 +30244,7 @@
           "lon": 7.860805
         },
         {
-          "nome": "Crête du Tuf",
+          "nome": "Crête du Tuf – Couloirs NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30168,7 +30298,7 @@
           "lon": 7.15608
         },
         {
-          "nome": "Col de Leppe",
+          "nome": "Col de Leppe – dal Vallone di Laures",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30222,7 +30352,7 @@
           "lon": 7.141512
         },
         {
-          "nome": "Col des Lacs",
+          "nome": "Col des Lacs – Couloir NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30249,7 +30379,7 @@
           "lon": 7.488252
         },
         {
-          "nome": "Col de l'Aouille",
+          "nome": "Col de l'Aouille – Par le versant Valsavarenche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30276,7 +30406,7 @@
           "lon": 7.151813
         },
         {
-          "nome": "Mont Cornet",
+          "nome": "Mont Cornet – Par le Vallon d'Orfeuille",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30330,7 +30460,7 @@
           "lon": 7.101772
         },
         {
-          "nome": "Col Colmet",
+          "nome": "Col Colmet – Par le vallon d'Arpy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30357,7 +30487,7 @@
           "lon": 6.991309
         },
         {
-          "nome": "Mont de Vertosan - Sommet S",
+          "nome": "Mont de Vertosan - Sommet S – Par le vallon de Verrogne",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30492,7 +30622,7 @@
           "lon": 7.256371
         },
         {
-          "nome": "Mont Laityre",
+          "nome": "Mont Laityre – Versant S - Couloir W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30546,7 +30676,7 @@
           "lon": 7.247885
         },
         {
-          "nome": "Grand Créton S",
+          "nome": "Grand Créton S – Par la voie normale versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30600,7 +30730,7 @@
           "lon": 7.026342
         },
         {
-          "nome": "Gran Becca du Mont",
+          "nome": "Gran Becca du Mont – Cresta N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30675,7 +30805,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.520297,
+          "lon": 7.215137
+        },
+        {
+          "nome": "Refuge Vittorio Emanuele II – par le Vallon du Grand Etret",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -30726,7 +30865,7 @@
           "lon": 7.224856
         },
         {
-          "nome": "Rifugio Benevolo",
+          "nome": "Rifugio Benevolo – dalla Val di Rhemes",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30780,7 +30919,7 @@
           "lon": 7.267185
         },
         {
-          "nome": "Pointe Fenilia",
+          "nome": "Pointe Fenilia – Versant NE depuis Lillaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30828,7 +30967,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.934113,
+          "lon": 7.751882
+        },
+        {
+          "nome": "Bivouac Rossi e Volante – Traversée Klein Matterhorn - Refuge Guide du Val d'Ayas",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": "F",
@@ -30879,7 +31027,7 @@
           "lon": 7.770608
         },
         {
-          "nome": "Tête du Gavio",
+          "nome": "Tête du Gavio – Par le versant NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -30960,7 +31108,7 @@
           "lon": 7.772683
         },
         {
-          "nome": "Mont Colmet Epaule NW",
+          "nome": "Mont Colmet Epaule NW – Par la combe NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31014,7 +31162,7 @@
           "lon": 7.637437
         },
         {
-          "nome": "Mont d'Arsy",
+          "nome": "Mont d'Arsy – Versant E - Descente couloir SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31041,7 +31189,7 @@
           "lon": 7.21652
         },
         {
-          "nome": "Mont Saron ",
+          "nome": "Mont Saron  – da Villa di Allein",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31203,7 +31351,7 @@
           "lon": 7.158857
         },
         {
-          "nome": "Alpage Tsomiöi / Tsomioy",
+          "nome": "Alpage Tsomiöi / Tsomioy – Par Brusoney retour par le ru de Verrayes",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31446,7 +31594,7 @@
           "lon": 7.558822
         },
         {
-          "nome": "Col Émile Rey",
+          "nome": "Col Émile Rey – Couloir E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31473,7 +31621,7 @@
           "lon": 6.868156
         },
         {
-          "nome": "Col Tessonet",
+          "nome": "Col Tessonet – per il vallone di Saint Marcel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31527,7 +31675,7 @@
           "lon": 7.578294
         },
         {
-          "nome": "Pointe Marcel Kurz",
+          "nome": "Pointe Marcel Kurz – En boucle depuis Prarayer",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31548,7 +31696,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.953895,
+          "lon": 7.52203
+        },
+        {
+          "nome": "Pointe Marcel Kurz – Dalla diga di Place Moulin",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -31572,7 +31729,7 @@
           "lon": 7.52203
         },
         {
-          "nome": "Mont Creya",
+          "nome": "Mont Creya – Par le vallon de Grauson",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31599,7 +31756,7 @@
           "lon": 7.398652
         },
         {
-          "nome": "Punta Basei",
+          "nome": "Punta Basei – dal Rifugio Benevolo per il Col Basei e la Cresta N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31680,7 +31837,7 @@
           "lon": 7.07484
         },
         {
-          "nome": "Col Saint Marcel / Coronas",
+          "nome": "Col Saint Marcel / Coronas – Par le Vallon de Saint Marcel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31707,7 +31864,7 @@
           "lon": 7.450875
         },
         {
-          "nome": "Torre Ponton",
+          "nome": "Torre Ponton – dal vallone di Clavalité",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31734,7 +31891,7 @@
           "lon": 7.494778
         },
         {
-          "nome": "Grand Rossa",
+          "nome": "Grand Rossa – Col ou sommet par Giasset - Dondena",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31788,7 +31945,7 @@
           "lon": 7.046992
         },
         {
-          "nome": "Pointe de la Traversière",
+          "nome": "Pointe de la Traversière – Traversée du Refuge M. Bezzi au Pont St-Charles",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31842,7 +31999,7 @@
           "lon": 7.386598
         },
         {
-          "nome": "Col Bassac Dere",
+          "nome": "Col Bassac Dere – Traversée E → W du Val de Rhêmes au Valgrisenche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -31950,7 +32107,7 @@
           "lon": 7.410044
         },
         {
-          "nome": "Mont Faroma",
+          "nome": "Mont Faroma – Couloir E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32009,24 +32166,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 500,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2850,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/594304",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Dal rifugio Mantova e discesa a Staffal",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -32040,6 +32179,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/582497",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.875985,
+          "lon": 7.837791
+        },
+        {
+          "nome": "Col Salza / Soalze – Da Gabiet",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2850,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/594304",
                   "siteName": null
                 }
               ]
@@ -32130,7 +32296,7 @@
           "lon": 7.659917
         },
         {
-          "nome": "Col de la Serra",
+          "nome": "Col de la Serra – Par le vallon de Leseney",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32211,7 +32377,7 @@
           "lon": 7.656441
         },
         {
-          "nome": "Col de la Brenva",
+          "nome": "Col de la Brenva – Face SE (ligne Tardivel 1988)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32238,7 +32404,7 @@
           "lon": 6.876626
         },
         {
-          "nome": "Grivola - Pointe Noire",
+          "nome": "Grivola - Pointe Noire – Par le vallon et le glacier de Trayo",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32270,24 +32436,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 2250,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4061,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/526696",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Par le glacier Laveciau (voie normale alternative)",
               "gradoObbligatorio": "PD-",
               "gradoMassimo": null,
@@ -32301,6 +32449,33 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/366137",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.519673,
+          "lon": 7.232486
+        },
+        {
+          "nome": "Grand Paradis – Face E retour par le col Montandayné",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4061,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/526696",
                   "siteName": null
                 }
               ]
@@ -32391,7 +32566,7 @@
           "lon": 7.509242
         },
         {
-          "nome": "Col  Miserino",
+          "nome": "Col  Miserino – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32472,7 +32647,7 @@
           "lon": 7.064455
         },
         {
-          "nome": "Mont Herban",
+          "nome": "Mont Herban – Par le Versant NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32493,7 +32668,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.59439,
+          "lon": 7.318281
+        },
+        {
+          "nome": "Mont Herban – Da Valnontey a Crétaz",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -32517,7 +32701,7 @@
           "lon": 7.318281
         },
         {
-          "nome": "Refuge Vittorio Sella",
+          "nome": "Refuge Vittorio Sella – Depuis Valnontey",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32733,7 +32917,7 @@
           "lon": 7.357714
         },
         {
-          "nome": "Col des Angroniettes",
+          "nome": "Col des Angroniettes – da Saint Rhemy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32787,7 +32971,7 @@
           "lon": 7.264525
         },
         {
-          "nome": "Grivola",
+          "nome": "Grivola – Face SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32841,7 +33025,7 @@
           "lon": 7.338284
         },
         {
-          "nome": "Créton du Midi",
+          "nome": "Créton du Midi – Couloir E \"Il sibilo del Cobra\"",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32895,7 +33079,7 @@
           "lon": 7.363052
         },
         {
-          "nome": "Tête Blanche de By",
+          "nome": "Tête Blanche de By – Versante S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -32922,7 +33106,7 @@
           "lon": 7.315419
         },
         {
-          "nome": "Grand Créton N",
+          "nome": "Grand Créton N – Par le vallon de Planaval",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33111,7 +33295,7 @@
           "lon": 7.75244
         },
         {
-          "nome": "Mont Portola",
+          "nome": "Mont Portola – par Pra de Bosc",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33192,7 +33376,7 @@
           "lon": 7.108841
         },
         {
-          "nome": "Mont Grand Pays",
+          "nome": "Mont Grand Pays – Par le vallon de Léché",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33219,7 +33403,7 @@
           "lon": 7.439303
         },
         {
-          "nome": "Mont Tout Blanc / Taou Blanc",
+          "nome": "Mont Tout Blanc / Taou Blanc – Par le glacier de l'Aouille",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33246,7 +33430,7 @@
           "lon": 7.174371
         },
         {
-          "nome": "Mont Crammont - Col  2637 m",
+          "nome": "Mont Crammont - Col  2637 m – Par Plan Praz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33273,7 +33457,7 @@
           "lon": 6.938012
         },
         {
-          "nome": "Pointe Fetita",
+          "nome": "Pointe Fetita – Par le vallon de Vertosan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33300,7 +33484,7 @@
           "lon": 7.106588
         },
         {
-          "nome": "Crête de Corleans col W 2658 m",
+          "nome": "Crête de Corleans col W 2658 m – Couloir N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33354,7 +33538,7 @@
           "lon": 7.070184
         },
         {
-          "nome": "Petit Golliat",
+          "nome": "Petit Golliat – Versant S de l' Épaule W 3130 m",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33381,7 +33565,7 @@
           "lon": 7.106337
         },
         {
-          "nome": "Petit Golliat",
+          "nome": "Petit Golliat – Couloir NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33402,7 +33586,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.837854,
+          "lon": 7.124533
+        },
+        {
+          "nome": "Petit Golliat – Canale Sud",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -33480,7 +33673,7 @@
           "lon": 7.459137
         },
         {
-          "nome": "Pointe Léchaud",
+          "nome": "Pointe Léchaud – dalla Val Veny",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33539,24 +33732,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 930,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4130,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/444267",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Versant NW (voie normale)",
               "gradoObbligatorio": "F",
               "gradoMassimo": null,
@@ -33573,7 +33748,43 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.907652,
+          "lon": 7.861732
+        },
+        {
+          "nome": "Piramide Vincent – Face NNE - en boucle da P. Indren",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 930,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4130,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/444267",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.907652,
+          "lon": 7.861732
+        },
+        {
+          "nome": "Piramide Vincent – Traversata da Staffal",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -33597,7 +33808,7 @@
           "lon": 7.861732
         },
         {
-          "nome": "Fenêtre de Ferret",
+          "nome": "Fenêtre de Ferret – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33651,7 +33862,7 @@
           "lon": 7.437019
         },
         {
-          "nome": "Herbetet",
+          "nome": "Herbetet – Versante N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33732,7 +33943,7 @@
           "lon": 7.547092
         },
         {
-          "nome": "Pointe du Drinc",
+          "nome": "Pointe du Drinc – Par le col de la Pierre",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33759,7 +33970,7 @@
           "lon": 7.300094
         },
         {
-          "nome": "Pointe du Trayo",
+          "nome": "Pointe du Trayo – Par le Vallon du Trayo",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33780,7 +33991,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.618769,
+          "lon": 7.270452
+        },
+        {
+          "nome": "Pointe du Trayo – Par le vallon de Nomenon",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -33858,7 +34078,7 @@
           "lon": 7.336114
         },
         {
-          "nome": "Rifugio Guide d'Ayas - Lambronecca",
+          "nome": "Rifugio Guide d'Ayas - Lambronecca – dal Plateau Rosa",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33885,7 +34105,7 @@
           "lon": 7.69907
         },
         {
-          "nome": "Rifugio Guide d'Ayas - Lambronecca",
+          "nome": "Rifugio Guide d'Ayas - Lambronecca – dalla Val d'Ayas",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -33993,7 +34213,7 @@
           "lon": 7.304425
         },
         {
-          "nome": "Bec di Falconetta Nanaz",
+          "nome": "Bec di Falconetta Nanaz – da SE per il canalino di Vascotchaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34014,7 +34234,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.849043,
+          "lon": 7.684546
+        },
+        {
+          "nome": "Bec di Falconetta Nanaz – Versante S - da Mandriou",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -34113,7 +34342,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.896501,
+          "lon": 7.066076
+        },
+        {
+          "nome": "Bivouac Cesare Fiorio – Dalla Val Ferret italiana",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud",
               "gradoObbligatorio": null,
@@ -34137,7 +34375,7 @@
           "lon": 7.066076
         },
         {
-          "nome": "Aiguille de Belle Combe",
+          "nome": "Aiguille de Belle Combe – Voie normale par le vallon de Belle Combe",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34164,7 +34402,7 @@
           "lon": 7.113782
         },
         {
-          "nome": "Fenêtre d'en Haut / Col de Fonteinte",
+          "nome": "Fenêtre d'en Haut / Col de Fonteinte – ou col de Fonteinte versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34191,7 +34429,7 @@
           "lon": 7.167451
         },
         {
-          "nome": "Monte Roisetta",
+          "nome": "Monte Roisetta – da Saint Jacques per il couloir ENE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34212,7 +34450,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.874306,
+          "lon": 7.705805
+        },
+        {
+          "nome": "Monte Roisetta – Face SE de Saint Jacques",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -34236,7 +34483,7 @@
           "lon": 7.705805
         },
         {
-          "nome": "Col des Orgères",
+          "nome": "Col des Orgères – Par le vallon des Orgères",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34263,7 +34510,7 @@
           "lon": 6.913616
         },
         {
-          "nome": "Petit Mont Blanc",
+          "nome": "Petit Mont Blanc – Couloir versant NE (Grassi - Marone - Stratta)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34290,7 +34537,7 @@
           "lon": 6.842444
         },
         {
-          "nome": "Corno Boussolaz",
+          "nome": "Corno Boussolaz – Traversée: S-N Estoul > Champoluc",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34317,7 +34564,7 @@
           "lon": 7.742141
         },
         {
-          "nome": "Colle Pousset ",
+          "nome": "Colle Pousset  – da Epinel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34398,7 +34645,7 @@
           "lon": 7.308971
         },
         {
-          "nome": "Pointe Noire (Urtier)",
+          "nome": "Pointe Noire (Urtier) – Par le vallon d'Urtier",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34479,7 +34726,7 @@
           "lon": 7.319848
         },
         {
-          "nome": "Punta Garin",
+          "nome": "Punta Garin – Tour da Gimillan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34506,7 +34753,7 @@
           "lon": 7.390384
         },
         {
-          "nome": "Pointe de Leppe",
+          "nome": "Pointe de Leppe – Par le vallon Grauson et le col Vallonet",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34587,7 +34834,7 @@
           "lon": 7.057396
         },
         {
-          "nome": "Mont Corquet",
+          "nome": "Mont Corquet – Versante N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34641,7 +34888,7 @@
           "lon": 7.851157
         },
         {
-          "nome": "Mont Fourchon",
+          "nome": "Mont Fourchon – da S.Rhèmy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34668,7 +34915,7 @@
           "lon": 7.158649
         },
         {
-          "nome": "Mont de Vertosan - Sommet N",
+          "nome": "Mont de Vertosan - Sommet N – Par le Col Fenêtre",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34722,7 +34969,7 @@
           "lon": 7.041058
         },
         {
-          "nome": "Punta Bocon Damon (o Giasset)",
+          "nome": "Punta Bocon Damon (o Giasset) – da Champorcher",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34803,7 +35050,7 @@
           "lon": 7.49775
         },
         {
-          "nome": "Col Tantané",
+          "nome": "Col Tantané – da Lignod",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34857,7 +35104,7 @@
           "lon": 6.908715
         },
         {
-          "nome": "Pointe Arpisson",
+          "nome": "Pointe Arpisson – Face SE par Tsaplana",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34884,7 +35131,7 @@
           "lon": 7.359326
         },
         {
-          "nome": "Tête Entre Deux Sauts",
+          "nome": "Tête Entre Deux Sauts – Boucle depuis Planpincieux → Tête Bernarde → Pas Entre Deux Sauts",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34911,7 +35158,7 @@
           "lon": 7.042103
         },
         {
-          "nome": "Crou de Bleintse",
+          "nome": "Crou de Bleintse – da Chatelair",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -34938,7 +35185,7 @@
           "lon": 7.264358
         },
         {
-          "nome": "Trouma des Boucs",
+          "nome": "Trouma des Boucs – da Ruz per Crête Sèche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35127,7 +35374,7 @@
           "lon": 7.30423
         },
         {
-          "nome": "Piatta di Grevon ",
+          "nome": "Piatta di Grevon  – Da Pila",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35154,7 +35401,7 @@
           "lon": 7.311701
         },
         {
-          "nome": "La Serra",
+          "nome": "La Serra – dal Vallone di Urtier",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35181,7 +35428,7 @@
           "lon": 7.448317
         },
         {
-          "nome": "Piccolo Paradiso",
+          "nome": "Piccolo Paradiso – Punta Frassy - Parete NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35262,7 +35509,7 @@
           "lon": 6.838942
         },
         {
-          "nome": "Pointe de  Rossin",
+          "nome": "Pointe de  Rossin – versant N par le lac de Loie",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35316,7 +35563,7 @@
           "lon": 7.355212
         },
         {
-          "nome": "Colle  Belleface",
+          "nome": "Colle  Belleface – da Vieyes o Sylvenoire",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35370,7 +35617,7 @@
           "lon": 7.335987
         },
         {
-          "nome": "Gran Becca Blanchen",
+          "nome": "Gran Becca Blanchen – da N per il Col de l'Eveque e il Glacier de Blanchen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35424,7 +35671,7 @@
           "lon": 7.025855
         },
         {
-          "nome": "Grand Golliat",
+          "nome": "Grand Golliat – Antécime E par le col des Angroniettes",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35505,7 +35752,7 @@
           "lon": 7.021958
         },
         {
-          "nome": "Mont  Valaisan",
+          "nome": "Mont  Valaisan – Versant E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35532,7 +35779,7 @@
           "lon": 6.914496
         },
         {
-          "nome": "Pointe Oilletta",
+          "nome": "Pointe Oilletta – Depuis Vétan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35559,7 +35806,7 @@
           "lon": 7.146559
         },
         {
-          "nome": "Mont de Vertosan - Sommet N",
+          "nome": "Mont de Vertosan - Sommet N – Par le vallon de Flassin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35613,7 +35860,7 @@
           "lon": 7.218318
         },
         {
-          "nome": "Mont Thuilette",
+          "nome": "Mont Thuilette – Par Parcet",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35667,7 +35914,7 @@
           "lon": 7.175697
         },
         {
-          "nome": "Becca di Nona",
+          "nome": "Becca di Nona – Da Saint Salö",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35742,7 +35989,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.731671,
+          "lon": 6.914167
+        },
+        {
+          "nome": "Mont Berrio Blanc – Traversée W → E",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Sud-est",
               "gradoObbligatorio": null,
@@ -35793,7 +36049,7 @@
           "lon": 6.981427
         },
         {
-          "nome": "Combe Varin",
+          "nome": "Combe Varin – Versant SE par les Orgères",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35820,7 +36076,7 @@
           "lon": 6.906531
         },
         {
-          "nome": "Croix du Folliet",
+          "nome": "Croix du Folliet – Par Lazey >> Bois Plan Rançon >> Couloir SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35874,7 +36130,7 @@
           "lon": 7.265614
         },
         {
-          "nome": "Aiguille de Belle Combe",
+          "nome": "Aiguille de Belle Combe – Couloir S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35901,7 +36157,7 @@
           "lon": 7.122414
         },
         {
-          "nome": "Grand Créton S",
+          "nome": "Grand Créton S – Face E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35928,7 +36184,7 @@
           "lon": 7.097671
         },
         {
-          "nome": "Tête du Ruitor",
+          "nome": "Tête du Ruitor – Voie normale italienne, dite \"sinistra\" (\"de gauche\")",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35955,7 +36211,7 @@
           "lon": 6.986686
         },
         {
-          "nome": "Aiguille Blanche de Peuterey",
+          "nome": "Aiguille Blanche de Peuterey – Face N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -35982,7 +36238,7 @@
           "lon": 6.88448
         },
         {
-          "nome": "Mont Percé",
+          "nome": "Mont Percé – Face N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36036,7 +36292,7 @@
           "lon": 7.853378
         },
         {
-          "nome": "Mont Berrio Blanc",
+          "nome": "Mont Berrio Blanc – Face SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36090,7 +36346,7 @@
           "lon": 7.239966
         },
         {
-          "nome": "Grivola - Pointe Noire",
+          "nome": "Grivola - Pointe Noire – Traversée de Valnontey à Cretaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36144,7 +36400,7 @@
           "lon": 7.31384
         },
         {
-          "nome": "Mont Velan",
+          "nome": "Mont Velan – Versante SE per il Gran couloir centrale",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36171,7 +36427,7 @@
           "lon": 7.278009
         },
         {
-          "nome": "Col de Bionnassay",
+          "nome": "Col de Bionnassay – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36198,7 +36454,7 @@
           "lon": 6.822967
         },
         {
-          "nome": "Cima Beccher",
+          "nome": "Cima Beccher – da Piamprato",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36225,7 +36481,7 @@
           "lon": 7.5465
         },
         {
-          "nome": "Tour Ponton",
+          "nome": "Tour Ponton – Depuis la Vallée de Champorcher",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36252,7 +36508,7 @@
           "lon": 7.515974
         },
         {
-          "nome": "Col Champillon",
+          "nome": "Col Champillon – da Posseille",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36279,7 +36535,7 @@
           "lon": 7.263145
         },
         {
-          "nome": "Colle 2874 m",
+          "nome": "Colle 2874 m – Canale Meridionale di Granus (Val d'Otro)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36306,7 +36562,7 @@
           "lon": 7.86411
         },
         {
-          "nome": "Mont Labiez",
+          "nome": "Mont Labiez – Voie normale",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36333,7 +36589,7 @@
           "lon": 7.207794
         },
         {
-          "nome": "Mont Crammont",
+          "nome": "Mont Crammont – Voie normale",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36381,7 +36637,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.836228,
+          "lon": 7.019875
+        },
+        {
+          "nome": "Tête Entre Deux Sauts – Couloir NNE de l'antécime N coté 2639 m",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord",
               "gradoObbligatorio": null,
@@ -36459,7 +36724,7 @@
           "lon": 7.845267
         },
         {
-          "nome": "Corno Nero",
+          "nome": "Corno Nero – Versant N (voie normale)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36513,7 +36778,7 @@
           "lon": 7.834935
         },
         {
-          "nome": "Pointe Louis Amédée",
+          "nome": "Pointe Louis Amédée – Par le Glacier du Brouillard >> col E. Rey",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36621,7 +36886,7 @@
           "lon": 6.813889
         },
         {
-          "nome": "Monte Pinter",
+          "nome": "Monte Pinter – da Chemonal per il colle del Pinter",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36756,7 +37021,7 @@
           "lon": 7.144835
         },
         {
-          "nome": "Pointe de la Louïe Blanche",
+          "nome": "Pointe de la Louïe Blanche – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36783,7 +37048,7 @@
           "lon": 6.922087
         },
         {
-          "nome": "Mont Belleface S",
+          "nome": "Mont Belleface S – Face SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36810,7 +37075,7 @@
           "lon": 6.929445
         },
         {
-          "nome": "Pointe de la Pierre",
+          "nome": "Pointe de la Pierre – Da Pila",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36864,7 +37129,7 @@
           "lon": 7.016634
         },
         {
-          "nome": "Tsaplana",
+          "nome": "Tsaplana – da Cretaz (o Gimillan)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -36891,7 +37156,7 @@
           "lon": 7.363131
         },
         {
-          "nome": "Crête  de Corleans col E 2750 m",
+          "nome": "Crête  de Corleans col E 2750 m – Couloir N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37017,7 +37282,7 @@
           "lon": 6.857475
         },
         {
-          "nome": "Bec de Montandayné",
+          "nome": "Bec de Montandayné – Versant NE (Voie normale depuis le bivouac Leonessa)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37092,7 +37357,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.847349,
+          "lon": 7.151188
+        },
+        {
+          "nome": "Aiguille des Sasses – Couloir NE - depuis St Rhémy",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -37110,7 +37384,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.847349,
+          "lon": 7.151188
+        },
+        {
+          "nome": "Aiguille des Sasses – Voie Normale - Versant SE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -37134,7 +37417,7 @@
           "lon": 7.151188
         },
         {
-          "nome": "Grivola - Pointe Rousse",
+          "nome": "Grivola - Pointe Rousse – Par le vallon de Vermiana",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37188,7 +37471,7 @@
           "lon": 7.509366
         },
         {
-          "nome": "Lyskamm / Liskamm E",
+          "nome": "Lyskamm / Liskamm E – Arête E (Voie normale du Lisjoch)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37215,7 +37498,7 @@
           "lon": 7.833075
         },
         {
-          "nome": "Col de Bellatsa",
+          "nome": "Col de Bellatsa – De Prarayer",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37242,7 +37525,7 @@
           "lon": 7.561169
         },
         {
-          "nome": "Pointe d'Oren E",
+          "nome": "Pointe d'Oren E – Boucle par le col Collon et le glacier d'Oren",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37269,7 +37552,7 @@
           "lon": 7.494756
         },
         {
-          "nome": "Mare Percia (Pertchaz)",
+          "nome": "Mare Percia (Pertchaz) – da Pont",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37323,7 +37606,7 @@
           "lon": 7.094298
         },
         {
-          "nome": "Chante Colmet",
+          "nome": "Chante Colmet – Par le vallon de Lantaney",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37377,7 +37660,7 @@
           "lon": 6.996286
         },
         {
-          "nome": "Mont Labiez",
+          "nome": "Mont Labiez – Hotel Jorasses",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37458,7 +37741,7 @@
           "lon": 7.823667
         },
         {
-          "nome": "Mont Fallère",
+          "nome": "Mont Fallère – da Thouraz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37485,7 +37768,7 @@
           "lon": 7.196101
         },
         {
-          "nome": "Colle del Trajo",
+          "nome": "Colle del Trajo – Epinel → Vieyes",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37512,7 +37795,7 @@
           "lon": 7.283391
         },
         {
-          "nome": "Tour de la Tsa",
+          "nome": "Tour de la Tsa – Da Chez Chenoux per il versante sud",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37620,7 +37903,7 @@
           "lon": 6.928017
         },
         {
-          "nome": "Col de Charbonnière",
+          "nome": "Col de Charbonnière – Par le vallon de Nomenon",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37647,7 +37930,7 @@
           "lon": 7.236404
         },
         {
-          "nome": "Becca d'Aran",
+          "nome": "Becca d'Aran – Voie normale",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37674,7 +37957,7 @@
           "lon": 7.652718
         },
         {
-          "nome": "Mont de la Tsa",
+          "nome": "Mont de la Tsa – Circuit Mont de la Tsa et pointe de Chaligne",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37728,7 +38011,7 @@
           "lon": 7.856686
         },
         {
-          "nome": "Pointe Helbronner",
+          "nome": "Pointe Helbronner – glacier de Toule",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37755,7 +38038,7 @@
           "lon": 6.92467
         },
         {
-          "nome": "Punta del Salero (quota 2887)",
+          "nome": "Punta del Salero (quota 2887) – da Gressoney La Trinitè 1624m",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37782,7 +38065,7 @@
           "lon": 7.804608
         },
         {
-          "nome": "Pointe de la Croix",
+          "nome": "Pointe de la Croix – Par le Vallon d'Arpy et le col de la Croix",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37809,7 +38092,7 @@
           "lon": 6.993895
         },
         {
-          "nome": "Pointe Oilletta",
+          "nome": "Pointe Oilletta – Depuis Vens - Descente versant W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37836,7 +38119,7 @@
           "lon": 7.140955
         },
         {
-          "nome": "Pointe Léchaud",
+          "nome": "Pointe Léchaud – Traversée du col du petit St Bernard à la ville des Glaciers par la pointe Léchaud.",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37863,7 +38146,7 @@
           "lon": 6.81815
         },
         {
-          "nome": "Mont Gelé",
+          "nome": "Mont Gelé – Versante E, per Crête Sèche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37890,7 +38173,7 @@
           "lon": 7.373876
         },
         {
-          "nome": "Ciarforon",
+          "nome": "Ciarforon – Parete N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37917,7 +38200,7 @@
           "lon": 7.225739
         },
         {
-          "nome": "Grivola - Pointe Rousse",
+          "nome": "Grivola - Pointe Rousse – depuis le refuge Vittorio Sella",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -37971,7 +38254,7 @@
           "lon": 7.235654
         },
         {
-          "nome": "Grand Paradis",
+          "nome": "Grand Paradis – Arête E du Roc par le Col de l'Abeille",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38025,7 +38308,7 @@
           "lon": 7.801727
         },
         {
-          "nome": "Col des Hirondelles",
+          "nome": "Col des Hirondelles – Versant E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38052,7 +38335,7 @@
           "lon": 7.002368
         },
         {
-          "nome": "Breithorn W",
+          "nome": "Breithorn W – Face S du Sommet Central et traversée au Sommet W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38079,7 +38362,7 @@
           "lon": 7.752752
         },
         {
-          "nome": "Pointe de Bazel / Calabre",
+          "nome": "Pointe de Bazel / Calabre – Voie normale par le col de Rhêmes Calabre",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38106,7 +38389,7 @@
           "lon": 7.057403
         },
         {
-          "nome": "Mont Blanc",
+          "nome": "Mont Blanc – Éperon de la Brenva",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38133,7 +38416,7 @@
           "lon": 6.881486
         },
         {
-          "nome": "Grand Paradis",
+          "nome": "Grand Paradis – Face N - Voie Bertolone",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38232,7 +38515,7 @@
           "lon": 7.771004
         },
         {
-          "nome": "Tsanteleina",
+          "nome": "Tsanteleina – Parete N - dal Rifugio Benevolo",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38583,7 +38866,7 @@
           "lon": 7.84557
         },
         {
-          "nome": "Grivola - Pointe Noire",
+          "nome": "Grivola - Pointe Noire – Traversée Valnontey → Epinel",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38718,7 +39001,7 @@
           "lon": 7.095854
         },
         {
-          "nome": "Mont Tapie",
+          "nome": "Mont Tapie – Par la combe des Merdeux",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38745,7 +39028,7 @@
           "lon": 7.10949
         },
         {
-          "nome": "Pyramide Vincent",
+          "nome": "Pyramide Vincent – de staffal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38772,7 +39055,7 @@
           "lon": 7.841261
         },
         {
-          "nome": "Cima Piure",
+          "nome": "Cima Piure – Canale N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38799,7 +39082,7 @@
           "lon": 7.729055
         },
         {
-          "nome": "Punta Valnera",
+          "nome": "Punta Valnera – da Estoul",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38826,7 +39109,7 @@
           "lon": 7.790594
         },
         {
-          "nome": "Tête Noire - Planaval",
+          "nome": "Tête Noire - Planaval – Couloir SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38853,7 +39136,7 @@
           "lon": 7.069701
         },
         {
-          "nome": "Aiguille d'Artanavaz",
+          "nome": "Aiguille d'Artanavaz – Da Planaval",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38907,7 +39190,7 @@
           "lon": 7.078233
         },
         {
-          "nome": "Pointe Palasina",
+          "nome": "Pointe Palasina – Par le vallon de Valfreda et les lacs Palasina",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38934,7 +39217,7 @@
           "lon": 7.76185
         },
         {
-          "nome": "Monte Bieteron",
+          "nome": "Monte Bieteron – Per la spalla SW - da Estoul",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -38988,7 +39271,7 @@
           "lon": 6.801771
         },
         {
-          "nome": "Aiguille Centrale SE de Tré la Tête",
+          "nome": "Aiguille Centrale SE de Tré la Tête – Traversata dal Petit Mont Blanc",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39015,7 +39298,7 @@
           "lon": 6.824934
         },
         {
-          "nome": "Grande Rochère",
+          "nome": "Grande Rochère – Da Planaval",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39069,7 +39352,7 @@
           "lon": 7.562034
         },
         {
-          "nome": "Pointe Helbronner",
+          "nome": "Pointe Helbronner – Descente par l'Entonnoir vers le Mont Fréty",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39117,7 +39400,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.555488,
+          "lon": 7.058846
+        },
+        {
+          "nome": "Bec de Giasson – Circuit par le refuge Mario Bezzi",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -39276,7 +39568,7 @@
           "lon": 6.849509
         },
         {
-          "nome": "Mont Fallère",
+          "nome": "Mont Fallère – Versante S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39303,7 +39595,7 @@
           "lon": 7.195956
         },
         {
-          "nome": "Grande Vaudala",
+          "nome": "Grande Vaudala – Par le versant NW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39357,7 +39649,7 @@
           "lon": 7.66563
         },
         {
-          "nome": "Col de Bonalex",
+          "nome": "Col de Bonalex – Da Planaval",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39384,7 +39676,7 @@
           "lon": 7.067837
         },
         {
-          "nome": "Monte Emilius",
+          "nome": "Monte Emilius – per il versante di Arbolle - da Pila",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39411,7 +39703,7 @@
           "lon": 7.385187
         },
         {
-          "nome": "Mont  Valaisan",
+          "nome": "Mont  Valaisan – In traversata da La Joux al Piccolo S. Bernardo",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39438,7 +39730,7 @@
           "lon": 6.931581
         },
         {
-          "nome": "Punta Bassac S",
+          "nome": "Punta Bassac S – dalla Valgrisenche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39465,7 +39757,7 @@
           "lon": 7.049094
         },
         {
-          "nome": "Pyramide Vincent",
+          "nome": "Pyramide Vincent – Traversée SE → NW par la Pointe Giordani",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39492,7 +39784,7 @@
           "lon": 7.845578
         },
         {
-          "nome": "Grand Serre",
+          "nome": "Grand Serre – Par le refuge Vittorio Sella - depuis Valnontey",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39519,7 +39811,7 @@
           "lon": 7.289786
         },
         {
-          "nome": "Cresta del Lauson",
+          "nome": "Cresta del Lauson – Per il vallone di Vermiana",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39546,7 +39838,7 @@
           "lon": 7.312745
         },
         {
-          "nome": "Bouquetins",
+          "nome": "Bouquetins – Couloir E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39573,7 +39865,7 @@
           "lon": 7.549543
         },
         {
-          "nome": "Testa della Nouva",
+          "nome": "Testa della Nouva – Dal vallone di Urtier",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39600,7 +39892,7 @@
           "lon": 7.486946
         },
         {
-          "nome": " Hospice du Grand Saint Bernard",
+          "nome": " Hospice du Grand Saint Bernard – Versante S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39627,7 +39919,7 @@
           "lon": 7.175252
         },
         {
-          "nome": "Breithorn E",
+          "nome": "Breithorn E – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39654,7 +39946,7 @@
           "lon": 7.763909
         },
         {
-          "nome": "Ludwigshöhe",
+          "nome": "Ludwigshöhe – Da Punta Indren",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39681,7 +39973,7 @@
           "lon": 7.863537
         },
         {
-          "nome": "Mont Maudit",
+          "nome": "Mont Maudit – Face E (voie diagonale)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39735,7 +40027,7 @@
           "lon": 6.858966
         },
         {
-          "nome": "Pointe Gnifetti",
+          "nome": "Pointe Gnifetti – Traversée refuge Gnifetti → refuge Monte Rosa",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39897,7 +40189,7 @@
           "lon": 7.780931
         },
         {
-          "nome": "Tour de la Tsa",
+          "nome": "Tour de la Tsa – Salita da Chamen",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39924,7 +40216,7 @@
           "lon": 7.425556
         },
         {
-          "nome": "Rosa dei Banchi",
+          "nome": "Rosa dei Banchi – De Dondena",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -39951,7 +40243,7 @@
           "lon": 7.548112
         },
         {
-          "nome": "Château des Dames",
+          "nome": "Château des Dames – Dalla Valtournenche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40005,7 +40297,7 @@
           "lon": 7.089988
         },
         {
-          "nome": "Becca di Trecarè",
+          "nome": "Becca di Trecarè – Anticima della becca da Cheneil",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40059,7 +40351,7 @@
           "lon": 7.091517
         },
         {
-          "nome": "Pian di Verra Superiore",
+          "nome": "Pian di Verra Superiore – Da St. Jacques",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40086,7 +40378,7 @@
           "lon": 7.745266
         },
         {
-          "nome": "Col du Bataillon d'Aoste",
+          "nome": "Col du Bataillon d'Aoste – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40113,7 +40405,7 @@
           "lon": 7.058313
         },
         {
-          "nome": "Tête Entre Deux Sauts",
+          "nome": "Tête Entre Deux Sauts – Traversata : vallon di Malatrà >> vallon di Armina - da Planpincieux",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40134,7 +40426,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.83464,
+          "lon": 7.021011
+        },
+        {
+          "nome": "Tête Entre Deux Sauts – Per il Vallone di Malatrà e il canale NE - da Planpincieux",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -40185,7 +40486,7 @@
           "lon": 7.104617
         },
         {
-          "nome": "Mont de la Tsa",
+          "nome": "Mont de la Tsa – Per la Val Clusella",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40206,7 +40507,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.775707,
+          "lon": 7.226222
+        },
+        {
+          "nome": "Mont de la Tsa – Per la Cresta Tardiva - da Buthier",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Est",
               "gradoObbligatorio": null,
@@ -40230,7 +40540,7 @@
           "lon": 7.226222
         },
         {
-          "nome": "Mont Paglietta",
+          "nome": "Mont Paglietta – Da Prailles",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40311,7 +40621,7 @@
           "lon": 7.840644
         },
         {
-          "nome": "Mont Rascias",
+          "nome": "Mont Rascias – Par Dondena",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40338,7 +40648,7 @@
           "lon": 7.569255
         },
         {
-          "nome": "Corno Rosso / Ròthòre (Gabiet)",
+          "nome": "Corno Rosso / Ròthòre (Gabiet) – Da Staffal ( Gressoney L.T. )",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40419,7 +40729,7 @@
           "lon": 7.404725
         },
         {
-          "nome": "Col de Teleccio",
+          "nome": "Col de Teleccio – Par le Vallon de Valeille",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40473,7 +40783,7 @@
           "lon": 7.242111
         },
         {
-          "nome": "Grand Serre",
+          "nome": "Grand Serre – Traversée Grand Serre - Bivouac Leonessa par le col S de l'Herbetet",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40500,7 +40810,7 @@
           "lon": 7.306966
         },
         {
-          "nome": "Tête du Ruitor",
+          "nome": "Tête du Ruitor – Versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40527,7 +40837,7 @@
           "lon": 7.016468
         },
         {
-          "nome": "Punta Plattes des Chamois",
+          "nome": "Punta Plattes des Chamois – Dalla Valgrisenche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40554,7 +40864,7 @@
           "lon": 7.020753
         },
         {
-          "nome": "Mont Colmet",
+          "nome": "Mont Colmet – Par le vallon d'Arpy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40581,7 +40891,7 @@
           "lon": 7.001415
         },
         {
-          "nome": "Pointe Gnifetti",
+          "nome": "Pointe Gnifetti – Par Gnifetti et traversée sur Quintino Sella",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40608,7 +40918,7 @@
           "lon": 7.844879
         },
         {
-          "nome": "Castor",
+          "nome": "Castor – Crête SE, descente sur Gressoney - depuis Quintino Sella",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40635,7 +40945,7 @@
           "lon": 7.799334
         },
         {
-          "nome": "Bec Vannetta",
+          "nome": "Bec Vannetta – Circuit par la combe d'Oren",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40716,7 +41026,7 @@
           "lon": 7.245664
         },
         {
-          "nome": "Pointe de Chaligne",
+          "nome": "Pointe de Chaligne – Versant NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40824,7 +41134,7 @@
           "lon": 7.032937
         },
         {
-          "nome": "Tête Bernarde",
+          "nome": "Tête Bernarde – Depuis Courmayeur",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40878,7 +41188,7 @@
           "lon": 7.783965
         },
         {
-          "nome": "Passo della Civera",
+          "nome": "Passo della Civera – Traversata Gabiet , val d'Otro",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40932,7 +41242,7 @@
           "lon": 7.108213
         },
         {
-          "nome": "Pointe de la Croix",
+          "nome": "Pointe de la Croix – Du col San Carlo / Saint Charles",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40959,7 +41269,7 @@
           "lon": 6.98735
         },
         {
-          "nome": "Aiguille de Leisasse",
+          "nome": "Aiguille de Leisasse – Traversata Bourg St Bernard >> St Rhémy",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -40986,7 +41296,7 @@
           "lon": 7.166168
         },
         {
-          "nome": "Pointe Oilletta",
+          "nome": "Pointe Oilletta – Boucle Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41013,7 +41323,7 @@
           "lon": 7.142706
         },
         {
-          "nome": "Mont Fourchon",
+          "nome": "Mont Fourchon – Couloir S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41040,7 +41350,7 @@
           "lon": 7.162741
         },
         {
-          "nome": "Gran Cima",
+          "nome": "Gran Cima – da Champoluc per il Vallone di Cuneaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41067,7 +41377,7 @@
           "lon": 7.752402
         },
         {
-          "nome": "Pointe Valletta",
+          "nome": "Pointe Valletta – Par le vallon de Citrin Descente couloir N de Clochotte",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41121,7 +41431,7 @@
           "lon": 7.045169
         },
         {
-          "nome": "Passo Zube",
+          "nome": "Passo Zube – Traversata Gabiet > Val d'Otro",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41142,7 +41452,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.86047,
+          "lon": 7.843605
+        },
+        {
+          "nome": "Passo Zube – Da Stafal",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -41166,7 +41485,7 @@
           "lon": 7.843605
         },
         {
-          "nome": "Mont Chénaille - Antécime S",
+          "nome": "Mont Chénaille - Antécime S – versante E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41247,7 +41566,7 @@
           "lon": 7.129285
         },
         {
-          "nome": "Seehorn (Gressoney)",
+          "nome": "Seehorn (Gressoney) – stazione di arrivo seggiovia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41301,7 +41620,7 @@
           "lon": 6.856714
         },
         {
-          "nome": "Col de l'Ape",
+          "nome": "Col de l'Ape – Versant N par le glacier de la Tribulation",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41409,7 +41728,7 @@
           "lon": 7.139842
         },
         {
-          "nome": "Pointe de la Galise",
+          "nome": "Pointe de la Galise – Traversée W → N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41436,7 +41755,7 @@
           "lon": 7.065793
         },
         {
-          "nome": "Pointe des Mines",
+          "nome": "Pointe des Mines – Traversée - Ref. Bezzi > Col des Mines > Chenal",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41463,7 +41782,7 @@
           "lon": 6.997268
         },
         {
-          "nome": "Roc de Bassagne",
+          "nome": "Roc de Bassagne – Traversée SW → N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41490,7 +41809,7 @@
           "lon": 7.059336
         },
         {
-          "nome": "Côte de Sereina",
+          "nome": "Côte de Sereina – Combe NE - Sommet S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41517,7 +41836,7 @@
           "lon": 7.11045
         },
         {
-          "nome": "Pointe de la Traversière",
+          "nome": "Pointe de la Traversière – Traversée refuge Benevolo → Refuge M. Bezzi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41544,7 +41863,7 @@
           "lon": 7.044513
         },
         {
-          "nome": "Mont Vélan",
+          "nome": "Mont Vélan – Traversée Bourg Saint Pierre → Étroubles",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41571,7 +41890,7 @@
           "lon": 7.247047
         },
         {
-          "nome": "Grande Tête de By",
+          "nome": "Grande Tête de By – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41625,7 +41944,7 @@
           "lon": 7.042267
         },
         {
-          "nome": "Tête du Grand Etret",
+          "nome": "Tête du Grand Etret – Depuis Pont",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41652,7 +41971,7 @@
           "lon": 7.224364
         },
         {
-          "nome": "Punta Giordani",
+          "nome": "Punta Giordani – da Punta Indren con discesa su Gressoney",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41679,7 +41998,7 @@
           "lon": 7.840233
         },
         {
-          "nome": "Mont Ouille",
+          "nome": "Mont Ouille – Versant SW ou Crête SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41706,7 +42025,7 @@
           "lon": 6.868176
         },
         {
-          "nome": "Aiguille d'Entrèves",
+          "nome": "Aiguille d'Entrèves – Face SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41733,7 +42052,7 @@
           "lon": 6.922975
         },
         {
-          "nome": "Refuge Quintino Sella al Felik",
+          "nome": "Refuge Quintino Sella al Felik – Collet côte 3302/3490",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41760,7 +42079,7 @@
           "lon": 7.802324
         },
         {
-          "nome": "Cime Piana",
+          "nome": "Cime Piana – Par le versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41787,7 +42106,7 @@
           "lon": 7.60445
         },
         {
-          "nome": "Col de la Tête des Hommes",
+          "nome": "Col de la Tête des Hommes – Per il Versante S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41868,7 +42187,7 @@
           "lon": 7.840953
         },
         {
-          "nome": "Pointe Falinère",
+          "nome": "Pointe Falinère – Par Cheneil",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41895,7 +42214,7 @@
           "lon": 7.656983
         },
         {
-          "nome": "Lancebranlette",
+          "nome": "Lancebranlette – Versant S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41949,7 +42268,7 @@
           "lon": 7.057438
         },
         {
-          "nome": "Truc Blanc",
+          "nome": "Truc Blanc – Traversée du Val de Rhêmes au Refuge Mario Bezzi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -41976,7 +42295,7 @@
           "lon": 7.06875
         },
         {
-          "nome": "Tête Carrée",
+          "nome": "Tête Carrée – Couloir E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42003,7 +42322,7 @@
           "lon": 6.827273
         },
         {
-          "nome": "Petit Mont Blanc",
+          "nome": "Petit Mont Blanc – Couloir NE (Bonatti)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42030,7 +42349,7 @@
           "lon": 6.836758
         },
         {
-          "nome": "Pointe d'Archeboc",
+          "nome": "Pointe d'Archeboc – Versant NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42057,7 +42376,7 @@
           "lon": 7.023201
         },
         {
-          "nome": "Passo Sup. del Rothorn",
+          "nome": "Passo Sup. del Rothorn – Dalla Valle del Lys",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42192,7 +42511,7 @@
           "lon": 7.532841
         },
         {
-          "nome": "Furggen",
+          "nome": "Furggen – Da Breuil Cervinia",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42219,7 +42538,7 @@
           "lon": 7.656052
         },
         {
-          "nome": "Tête du Grand Etret",
+          "nome": "Tête du Grand Etret – Par le refuge Vittorio Emanuele II",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42246,7 +42565,7 @@
           "lon": 7.217374
         },
         {
-          "nome": "Bec de Tos",
+          "nome": "Bec de Tos – Par le versant N",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42273,7 +42592,7 @@
           "lon": 7.105139
         },
         {
-          "nome": "Grande Vaudala",
+          "nome": "Grande Vaudala – Traversée Refuge Benevolo > Vallon de Grande Vaudala",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42300,7 +42619,7 @@
           "lon": 7.112391
         },
         {
-          "nome": "Pointe de la Galise",
+          "nome": "Pointe de la Galise – Versant N - Depuis Rhêmes Notre Dame",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42327,7 +42646,7 @@
           "lon": 7.101339
         },
         {
-          "nome": "Passo di Mascognaz",
+          "nome": "Passo di Mascognaz – Traversata Valle d'Ayas - Valle del Lys",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42408,7 +42727,7 @@
           "lon": 7.825081
         },
         {
-          "nome": "Tête Crévacol",
+          "nome": "Tête Crévacol – Par le versant SW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42462,7 +42781,7 @@
           "lon": 7.785929
         },
         {
-          "nome": "Lyskamm / Liskamm E",
+          "nome": "Lyskamm / Liskamm E – Face NNE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42516,7 +42835,7 @@
           "lon": 7.201757
         },
         {
-          "nome": "Aiguille de Bionnassay",
+          "nome": "Aiguille de Bionnassay – Col de Bionnassay → Glacier du Miage → Val Veny",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42651,7 +42970,7 @@
           "lon": 7.063677
         },
         {
-          "nome": "Pointe de Bazel / Calabre",
+          "nome": "Pointe de Bazel / Calabre – Versant N (Glacier de la Tsanteleina)",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42678,7 +42997,7 @@
           "lon": 7.055405
         },
         {
-          "nome": "Grivola - Pointe Rousse",
+          "nome": "Grivola - Pointe Rousse – Boucle par le Col de la Noire",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42705,7 +43024,7 @@
           "lon": 7.307804
         },
         {
-          "nome": "Grivola - Pointe Rousse",
+          "nome": "Grivola - Pointe Rousse – Du refuge Vittorio Sella descente sur Crétaz",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42732,7 +43051,7 @@
           "lon": 7.280866
         },
         {
-          "nome": "Pointe de l'Inferno",
+          "nome": "Pointe de l'Inferno – Depuis Valnontey",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42759,7 +43078,7 @@
           "lon": 7.293948
         },
         {
-          "nome": "Mont Morion",
+          "nome": "Mont Morion – Face S",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42867,7 +43186,7 @@
           "lon": 7.132439
         },
         {
-          "nome": "Pointe d'Oren E",
+          "nome": "Pointe d'Oren E – Traversée Vignettes → Glacier d'Arolla",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42888,7 +43207,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 45.957208,
+          "lon": 7.496785
+        },
+        {
+          "nome": "Pointe d'Oren E – Par le col Collon",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -42939,7 +43267,7 @@
           "lon": 7.635661
         },
         {
-          "nome": "Pointe de Drône",
+          "nome": "Pointe de Drône – Par le Col du Grand St-Bernard",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42966,7 +43294,7 @@
           "lon": 7.160886
         },
         {
-          "nome": "Mont Grand Pays",
+          "nome": "Mont Grand Pays – Par le vallon de Collet",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -42993,7 +43321,7 @@
           "lon": 7.459476
         },
         {
-          "nome": "Tête Cordellaz",
+          "nome": "Tête Cordellaz – Versante E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43020,7 +43348,7 @@
           "lon": 7.17914
         },
         {
-          "nome": "Côte de Champorcher",
+          "nome": "Côte de Champorcher – Da Lignan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43047,7 +43375,7 @@
           "lon": 7.479535
         },
         {
-          "nome": "Pointe Leysser",
+          "nome": "Pointe Leysser – Da Vetan",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43074,7 +43402,7 @@
           "lon": 7.165579
         },
         {
-          "nome": "Col de Valsorey",
+          "nome": "Col de Valsorey – Versant SE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43128,7 +43456,7 @@
           "lon": 7.15258
         },
         {
-          "nome": "Breithorn W",
+          "nome": "Breithorn W – Voie normale et descente du Schwartztor",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43236,7 +43564,7 @@
           "lon": 7.252431
         },
         {
-          "nome": "Roc de Bassagne",
+          "nome": "Roc de Bassagne – Par le Col du Fond depuis Rhêmes Notre Dame",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43344,7 +43672,7 @@
           "lon": 7.141232
         },
         {
-          "nome": "Mont Dolent",
+          "nome": "Mont Dolent – Versante S (via normale), da la Fouly",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43425,7 +43753,7 @@
           "lon": 7.346395
         },
         {
-          "nome": "Château des Dames",
+          "nome": "Château des Dames – Da Place Moulin",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43452,7 +43780,7 @@
           "lon": 7.552242
         },
         {
-          "nome": "Col  Sereina",
+          "nome": "Col  Sereina – Voie Normale vallon NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43479,7 +43807,7 @@
           "lon": 7.121177
         },
         {
-          "nome": "Mont Arp Vieille",
+          "nome": "Mont Arp Vieille – da Valgrisenche",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43506,7 +43834,7 @@
           "lon": 7.010827
         },
         {
-          "nome": "Pointe Valletta",
+          "nome": "Pointe Valletta – Da Cerisey",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43533,7 +43861,7 @@
           "lon": 7.157511
         },
         {
-          "nome": "Tête du Filon",
+          "nome": "Tête du Filon – Da Glacier",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43560,7 +43888,7 @@
           "lon": 7.322317
         },
         {
-          "nome": "Col de Malatra",
+          "nome": "Col de Malatra – Par la combe des Merdeux",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43587,7 +43915,7 @@
           "lon": 7.094293
         },
         {
-          "nome": "Pointe de Rabuigne",
+          "nome": "Pointe de Rabuigne – Par le versant NNW",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43722,7 +44050,7 @@
           "lon": 7.573564
         },
         {
-          "nome": "Pain de Sucre du Fourchon",
+          "nome": "Pain de Sucre du Fourchon – Versant E par Baou",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43749,7 +44077,7 @@
           "lon": 7.145937
         },
         {
-          "nome": "Mont Rouge de Vertosan",
+          "nome": "Mont Rouge de Vertosan – Voie normale versant E",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -43774,6 +44102,141 @@
           ],
           "lat": 45.767042,
           "lon": 7.16438
+        },
+        {
+          "nome": "Col de la pointe Rousse – Versant SE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2651,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/833236",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.700499,
+          "lon": 6.855436
+        },
+        {
+          "nome": "Testa Goilles – per il Vallone dell' Urtier",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2367,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/484500",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.585972,
+          "lon": 7.431178
+        },
+        {
+          "nome": "Mont Flassin – Per le baite di Montagna Flassin e il pendio W",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1412,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2772,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/45369",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.79145,
+          "lon": 7.18671
+        },
+        {
+          "nome": "Piton des Italiens – Aiguilles Grises et Glacier de Bionnassay",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 930,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4002,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/49498",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.83053,
+          "lon": 6.821909
+        },
+        {
+          "nome": "Mont Labiez – Il Bonsai della Cuccagna",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1280,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2632,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/119489",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.808022,
+          "lon": 7.205371
         }
       ],
       "lat": null,

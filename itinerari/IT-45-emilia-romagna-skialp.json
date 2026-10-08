@@ -1659,11 +1659,6 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/cusna-monte-da-febbio/",
                   "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/159440",
-                  "siteName": null
                 }
               ]
             },
@@ -1931,6 +1926,33 @@
           ],
           "lat": 44.248688,
           "lon": 10.466752
+        },
+        {
+          "nome": "Monte La Piella – da Febbio per il Fosso",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 925,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2077,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/159440",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.292387,
+          "lon": 10.419435
         }
       ],
       "lat": null,
@@ -2035,24 +2057,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 865,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1937,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1504058",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "Traversata Doganaccia - Libro Aperto - Abetone",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -2075,7 +2079,34 @@
           "lon": 10.711448
         },
         {
-          "nome": "Lago Santo parmese",
+          "nome": "Libro Aperto – Da Casulie di Fellicarolo per i Taburri ed il versante Nord.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 865,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1937,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1504058",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.158132,
+          "lon": 10.711448
+        },
+        {
+          "nome": "Lago Santo parmese – Monte Aquila",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2102,7 +2133,7 @@
           "lon": 10.007
         },
         {
-          "nome": "Valditacca",
+          "nome": "Valditacca – Monte Losanna e giro dei laghi",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2129,7 +2160,7 @@
           "lon": 10.099633
         },
         {
-          "nome": "Monte Montaganana",
+          "nome": "Monte Montaganana – Da Ravarano",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2156,7 +2187,7 @@
           "lon": 10.082964
         },
         {
-          "nome": "Monte Bocco",
+          "nome": "Monte Bocco – da Prato Spilla",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2183,7 +2214,7 @@
           "lon": 10.101015
         },
         {
-          "nome": "Monte Sillano",
+          "nome": "Monte Sillano – e Monte Asinara , da Ospitaletto",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2215,24 +2246,6 @@
           "esposizione": null,
           "itinerari": [
             {
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1166,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2121,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/955946",
-                  "siteName": null
-                }
-              ]
-            },
-            {
               "nome": "dallo Spallone NE di Prassordo",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
@@ -2255,7 +2268,34 @@
           "lon": 10.412191
         },
         {
-          "nome": "Monte Mongiardonda",
+          "nome": "Monte Cusna – Anello Monte la Piella > Sasso del Morto > Canale della Borra.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1166,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2121,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/955946",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.296933,
+          "lon": 10.412191
+        },
+        {
+          "nome": "Monte Mongiardonda – da Febbio Rescadore per il \"Ghiacciaio\"",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2282,7 +2322,7 @@
           "lon": 10.401594
         },
         {
-          "nome": "Monte Cavalbianco",
+          "nome": "Monte Cavalbianco – Versante NE",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2384,7 +2424,16 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ],
+          "lat": 44.404555,
+          "lon": 10.002785
+        },
+        {
+          "nome": "Monte Orsaro – da Lagdei",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "itinerari": [
             {
               "nome": "Nord-est",
               "gradoObbligatorio": null,
@@ -2435,7 +2484,7 @@
           "lon": 10.195472
         },
         {
-          "nome": "Monte Casarola",
+          "nome": "Monte Casarola – Casarola Appennino Tosco Emiliano",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2462,7 +2511,7 @@
           "lon": 10.2075
         },
         {
-          "nome": "Monte Cimone",
+          "nome": "Monte Cimone – Da Doccia per il versante W",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2489,7 +2538,7 @@
           "lon": 10.68535
         },
         {
-          "nome": "Monte Cusna",
+          "nome": "Monte Cusna – per Prati Sara",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2516,7 +2565,7 @@
           "lon": 10.406591
         },
         {
-          "nome": "Monte Bragalata",
+          "nome": "Monte Bragalata – Versante NE dal Lago Ballano",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2543,7 +2592,7 @@
           "lon": 10.080661
         },
         {
-          "nome": "Monte Giovo",
+          "nome": "Monte Giovo – Dal Lago Santo per il vallone delle Fontanacce",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2570,7 +2619,7 @@
           "lon": 10.5769
         },
         {
-          "nome": "Corno Alle Scale",
+          "nome": "Corno Alle Scale – Da Le Polle => Rifugio Malghe => Lago Scaffaiolo => Val di Gorgo",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
@@ -2624,7 +2673,7 @@
           "lon": 10.412403
         },
         {
-          "nome": "Monte Prado",
+          "nome": "Monte Prado – Da Febbio per il Passone e il Rif.Battisti",
           "disciplina": "skialp",
           "esposizione": null,
           "itinerari": [
