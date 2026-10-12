@@ -174,6 +174,76 @@
       "lon": null
     },
     {
+      "nome": "Andau (Monte)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Codula di Luna",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Into the Wine",
+              "gradoObbligatorio": "6c",
+              "gradoMassimo": "7a+",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 275.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/into-the-wine-monte-andau-codula-di-luna/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.18920541976989,
+          "lon": 9.57925475856273
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Su Mulone (Punta)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Aguglietta",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Direzione Nulla",
+              "gradoObbligatorio": "5b",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/aguglietta-di-baunei-direzione-nulla/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.03132969969538,
+          "lon": 9.703582268805189
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Baunei",
       "paese": "IT",
       "pareti": [
@@ -329,33 +399,6 @@
           ],
           "lat": 40.0317514,
           "lon": 9.663272099
-        },
-        {
-          "nome": "Andau (Monte), Codula di Luna",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "Into the Wine",
-              "gradoObbligatorio": "6c",
-              "gradoMassimo": "7a+",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 275.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/into-the-wine-monte-andau-codula-di-luna/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 40.18920541976989,
-          "lon": 9.57925475856273
         },
         {
           "nome": "Argennas (Punta)",
@@ -1386,33 +1429,6 @@
           ],
           "lat": 40.03109769532138,
           "lon": 9.70341682434082
-        },
-        {
-          "nome": "Su Mulone (Punta), Aguglietta",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "nome": "Direzione Nulla",
-              "gradoObbligatorio": "5b",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/aguglietta-di-baunei-direzione-nulla/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 40.03132969969538,
-          "lon": 9.703582268805189
         }
       ],
       "lat": null,
@@ -4216,6 +4232,68 @@
       "lon": null
     },
     {
+      "nome": "Uddé (Monte)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Parete Est",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Ti Rivedrò nei Campi Elisi",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/udde-monte-parete-est-ti-rivedro-nei-campi-elisi/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.27345024466487,
+          "lon": 9.493773245840996
+        },
+        {
+          "nome": "avancorpo",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Cuore Sardo",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/udde-monte-avancorpo-cuore-sardo/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 40.271610882997464,
+          "lon": 9.496314186976216
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Oliena",
       "paese": "IT",
       "pareti": [
@@ -4777,60 +4855,6 @@
           ],
           "lat": 40.26891286530108,
           "lon": 9.485043712037138
-        },
-        {
-          "nome": "Uddé (Monte), Parete Est",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "nome": "Ti Rivedrò nei Campi Elisi",
-              "gradoObbligatorio": "6a+",
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/udde-monte-parete-est-ti-rivedro-nei-campi-elisi/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 40.27345024466487,
-          "lon": 9.493773245840996
-        },
-        {
-          "nome": "Uddé (Monte), avancorpo",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "nome": "Cuore Sardo",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/udde-monte-avancorpo-cuore-sardo/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 40.271610882997464,
-          "lon": 9.496314186976216
         }
       ],
       "lat": null,

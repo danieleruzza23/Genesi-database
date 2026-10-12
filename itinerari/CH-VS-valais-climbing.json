@@ -661,11 +661,11 @@
       "lon": null
     },
     {
-      "nome": "Leuk",
+      "nome": "Gastlosen",
       "paese": "CH",
       "pareti": [
         {
-          "nome": "Gastlosen, Reservoir",
+          "nome": "Reservoir",
           "disciplina": "climbing",
           "esposizione": "nw",
           "itinerari": [
@@ -761,6 +761,225 @@
           ],
           "lat": 46.5614,
           "lon": 8.33758
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sans Nom (Aiguille)",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "promontoire dud",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Tajabone",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/sans-nom-aiguille-promontoire-sud-tajabone/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1027841",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Le dièdre des knobistes",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1937397",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Le vaisseau de pierre",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1937176",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Le tombeau des pharaons",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1935993",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "The Wall",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1785109",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Dorées les balades",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3274,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/544046",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.980835,
+          "lon": 7.037848
+        },
+        {
+          "nome": "promontoire sud- Dorées les Balades",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Sans Nom (Aiguille), promontoire sud- Dorées les Balades",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 280.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/sans-nom-aiguille-promontoire-dud-dorees-les-balades/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.982888,
+          "lon": 7.042665
+        },
+        {
+          "nome": "promontoire sud- Le Retour en Afrique",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Sans Nom (Aiguille), promontoire sud- Le Retour en Afrique",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "7a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 280.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/sans-nom-aiguille-promontoire-sud-le-retour-en-afrique/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.982797,
+          "lon": 7.043009
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Triolet (Monts Rouges de)",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Punta Nord",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Via Manera",
+              "gradoObbligatorio": "5b",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/triolet-aiguille-de-via-manera/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.909418,
+          "lon": 7.031419
         }
       ],
       "lat": null,
@@ -1010,209 +1229,6 @@
           ],
           "lat": 45.99791563,
           "lon": 7.066440582
-        },
-        {
-          "nome": "Sans Nom (Aiguille), promontoire dud",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "nome": "Tajabone",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/sans-nom-aiguille-promontoire-sud-tajabone/",
-                  "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1027841",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Le dièdre des knobistes",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1937397",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Le vaisseau de pierre",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1937176",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Le tombeau des pharaons",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1935993",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "The Wall",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1785109",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Dorées les balades",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3274,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/544046",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.980835,
-          "lon": 7.037848
-        },
-        {
-          "nome": "Sans Nom (Aiguille), promontoire sud- Dorées les Balades",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "nome": "Sans Nom (Aiguille), promontoire sud- Dorées les Balades",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 280.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/sans-nom-aiguille-promontoire-dud-dorees-les-balades/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.982888,
-          "lon": 7.042665
-        },
-        {
-          "nome": "Sans Nom (Aiguille), promontoire sud- Le Retour en Afrique",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "nome": "Sans Nom (Aiguille), promontoire sud- Le Retour en Afrique",
-              "gradoObbligatorio": "6a",
-              "gradoMassimo": "7a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 280.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/sans-nom-aiguille-promontoire-sud-le-retour-en-afrique/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.982797,
-          "lon": 7.043009
-        },
-        {
-          "nome": "Triolet (Monts Rouges de), Punta Nord",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "nome": "Via Manera",
-              "gradoObbligatorio": "5b",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/triolet-aiguille-de-via-manera/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.909418,
-          "lon": 7.031419
         }
       ],
       "lat": null,

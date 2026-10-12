@@ -12944,11 +12944,11 @@
       "lon": null
     },
     {
-      "nome": "Roßschläg",
+      "nome": "Gehrenspitze",
       "paese": "AT",
       "pareti": [
         {
-          "nome": "Gehrenspitze, Tannheimer Berge",
+          "nome": "Tannheimer Berge",
           "disciplina": "climbing",
           "esposizione": "nw",
           "itinerari": [
@@ -13049,6 +13049,41 @@
       "lon": null
     },
     {
+      "nome": "Östliche Karwendelspitze",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Ostwand",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Flotter Dreier",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "8",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2537.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/flotter-dreier/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.4388,
+          "lon": 11.4243
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Scharnitz",
       "paese": "AT",
       "pareti": [
@@ -13125,33 +13160,6 @@
                 {
                   "provider": "bergsteigen",
                   "url": "https://www.bergsteigen.com/touren/klettern/nie-nach-zehn/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.4388,
-          "lon": 11.4243
-        },
-        {
-          "nome": "Östliche Karwendelspitze, Ostwand",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "nome": "Flotter Dreier",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "8",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2537.0,
-              "links": [
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/flotter-dreier/",
                   "siteName": null
                 }
               ]

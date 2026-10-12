@@ -182,6 +182,41 @@
       "lon": null
     },
     {
+      "nome": "Bismantova (Pietra di)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastro del Pellegrino",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Via dei Montipò",
+              "gradoObbligatorio": "3",
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/bismantova-pietra-di-via-dei-montipo/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.433842,
+          "lon": 10.4006094
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Castelnovo ne' Monti",
       "paese": "IT",
       "pareti": [
@@ -727,33 +762,6 @@
           "lon": 10.41131829
         },
         {
-          "nome": "Bismantova (Pietra di), Pilastro del Pellegrino",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "nome": "Via dei Montipò",
-              "gradoObbligatorio": "3",
-              "gradoMassimo": "3",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 70.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/bismantova-pietra-di-via-dei-montipo/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.433842,
-          "lon": 10.4006094
-        },
-        {
           "nome": "Pietra di Bismantova",
           "disciplina": "climbing",
           "esposizione": "sw",
@@ -1129,11 +1137,11 @@
       "lon": null
     },
     {
-      "nome": "Vinadio",
+      "nome": "Nebius (Monte)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Nebius (Monte), contrafforte Est",
+          "nome": "contrafforte Est",
           "disciplina": "climbing",
           "esposizione": "e",
           "itinerari": [

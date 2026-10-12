@@ -15739,6 +15739,68 @@
       "lon": null
     },
     {
+      "nome": "Monte Rosa",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Cima di Jazzi",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "via Normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD, II/III",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3804.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Rosa-Jazzi-viaNormale/465/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.982697,
+          "lon": 7.82919
+        },
+        {
+          "nome": "Punta Gnifetti",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "via Cresta Est (Cresta Signal)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D, max IV-, misto",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 930.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4554.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Rosa-Gnifetti-crestaSignal/464/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.927132,
+          "lon": 7.876939
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Da Guido della Torre (non geolocalizzato su comune)",
       "paese": "CH",
       "pareti": [
@@ -15768,60 +15830,6 @@
           ],
           "lat": 45.919903,
           "lon": 7.871653
-        },
-        {
-          "nome": "Monte Rosa, Cima di Jazzi",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "nome": "via Normale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD, II/III",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 800.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3804.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Rosa-Jazzi-viaNormale/465/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.982697,
-          "lon": 7.82919
-        },
-        {
-          "nome": "Monte Rosa, Punta Gnifetti",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "nome": "via Cresta Est (Cresta Signal)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D, max IV-, misto",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 930.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4554.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Rosa-Gnifetti-crestaSignal/464/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.927132,
-          "lon": 7.876939
         },
         {
           "nome": "Breithorn Orientale",

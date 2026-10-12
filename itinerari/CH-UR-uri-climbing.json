@@ -147,6 +147,150 @@
       "lon": null
     },
     {
+      "nome": "Salbitschijen",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "2a Torre cresta Ovest",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Hammerbruch",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 360.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/salbit-seconda-torre-hammerbruch/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "GKB",
+              "gradoObbligatorio": "6b",
+              "gradoMassimo": "7a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 380.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/salbit-seconda-torre-di-gkb/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.68064,
+          "lon": 8.52307
+        },
+        {
+          "nome": "Zwillingsturm",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Clock und Stock",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/salbitchijen-clock-und-stock/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Niedermann",
+              "gradoObbligatorio": "5b",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/salbitchijen-niedermann/",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Salbitschijen-Zwillingsturm-viaNiedermann/689/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Villiger Pfeiler",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/zwillingsturm-villiger-pfeiler/",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Salbitschijen-Zwillingsturm-viaVilliger/525/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "nome": "Jimmy",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "6b+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/salbitschijen-zwillingsturm-jimmy/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.67946,
+          "lon": 8.52398
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Göschenen",
       "paese": "CH",
       "pareti": [
@@ -489,142 +633,6 @@
           "lon": 8.494045874
         },
         {
-          "nome": "Salbitschijen, 2a Torre cresta Ovest",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Hammerbruch",
-              "gradoObbligatorio": "6a+",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 360.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/salbit-seconda-torre-hammerbruch/",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "GKB",
-              "gradoObbligatorio": "6b",
-              "gradoMassimo": "7a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 380.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/salbit-seconda-torre-di-gkb/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.68064,
-          "lon": 8.52307
-        },
-        {
-          "nome": "Salbitschijen, Zwillingsturm",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Clock und Stock",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 600.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/salbitchijen-clock-und-stock/",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Niedermann",
-              "gradoObbligatorio": "5b",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 500.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/salbitchijen-niedermann/",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Salbitschijen-Zwillingsturm-viaNiedermann/689/",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Villiger Pfeiler",
-              "gradoObbligatorio": "6a",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 500.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/zwillingsturm-villiger-pfeiler/",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Salbitschijen-Zwillingsturm-viaVilliger/525/",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "nome": "Jimmy",
-              "gradoObbligatorio": "6a+",
-              "gradoMassimo": "6b+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 500.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/salbitschijen-zwillingsturm-jimmy/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.67946,
-          "lon": 8.52398
-        },
-        {
           "nome": "Sandbalm",
           "disciplina": "climbing",
           "esposizione": "s",
@@ -812,6 +820,113 @@
           ],
           "lat": 46.66894411500888,
           "lon": 8.581892923339849
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Winterstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "I turm",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Goldmarie",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/winterstock-so-turm-igoldmarie/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1032205",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.620176,
+          "lon": 8.454242
+        },
+        {
+          "nome": "Turm I",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Mangolyto",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 330.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/winterstock-ii-turm-mongolyto/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/452547",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.620176,
+          "lon": 8.454242
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Galenstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Galengrat Verschneidung",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Galenstock, Galengrat Verschneidung",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3586.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Galengrat-Verschneidung/303/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.60474409,
+          "lon": 8.415928153
         }
       ],
       "lat": null,
@@ -1659,70 +1774,6 @@
           "lon": 8.469874
         },
         {
-          "nome": "Winterstock, I turm",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Goldmarie",
-              "gradoObbligatorio": "6a",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/winterstock-so-turm-igoldmarie/",
-                  "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1032205",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.620176,
-          "lon": 8.454242
-        },
-        {
-          "nome": "Winterstock, Turm I",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "nome": "Mangolyto",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 330.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/winterstock-ii-turm-mongolyto/",
-                  "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/452547",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.620176,
-          "lon": 8.454242
-        },
-        {
           "nome": "Hannibalturm Furkapass",
           "disciplina": "climbing",
           "esposizione": "s",
@@ -1775,33 +1826,6 @@
           ],
           "lat": 46.62218638,
           "lon": 8.43162712
-        },
-        {
-          "nome": "Galenstock, Galengrat Verschneidung",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "nome": "Galenstock, Galengrat Verschneidung",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3586.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Galengrat-Verschneidung/303/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.60474409,
-          "lon": 8.415928153
         },
         {
           "nome": "Winterstock Turm I",
@@ -1905,6 +1929,41 @@
       "lon": null
     },
     {
+      "nome": "Wiss Stockli",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Parete Sud",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Margrithli",
+              "gradoObbligatorio": "6b",
+              "gradoMassimo": "6c+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/wiss-stockli-parete-s-margrithli/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.8436686,
+          "lon": 8.7678602
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Unterschächen",
       "paese": "CH",
       "pareti": [
@@ -1988,33 +2047,6 @@
           ],
           "lat": 46.81850538,
           "lon": 8.744516372
-        },
-        {
-          "nome": "Wiss Stockli, Parete Sud",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Margrithli",
-              "gradoObbligatorio": "6b",
-              "gradoMassimo": "6c+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/wiss-stockli-parete-s-margrithli/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.8436686,
-          "lon": 8.7678602
         }
       ],
       "lat": null,

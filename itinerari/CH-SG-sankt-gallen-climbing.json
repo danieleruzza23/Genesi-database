@@ -4,38 +4,11 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Alt Sankt Johann",
+      "nome": "Zuestoll",
       "paese": "CH",
       "pareti": [
         {
-          "nome": "Zuestoll",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Neue Sudwand",
-              "gradoObbligatorio": "6a+",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 340.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/zuestoll-neue-sudwand/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.15254437,
-          "lon": 9.284734725
-        },
-        {
-          "nome": "Zuestoll, 2235 m",
+          "nome": "2235 m",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -66,11 +39,46 @@
       "lon": null
     },
     {
-      "nome": "Ebnat-Kappel",
+      "nome": "Alt Sankt Johann",
       "paese": "CH",
       "pareti": [
         {
-          "nome": "Mattstock, placche centrali",
+          "nome": "Zuestoll",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Neue Sudwand",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 340.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/zuestoll-neue-sudwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.15254437,
+          "lon": 9.284734725
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mattstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "placche centrali",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [

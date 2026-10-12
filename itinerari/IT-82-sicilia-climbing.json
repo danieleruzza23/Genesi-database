@@ -74,11 +74,11 @@
       "lon": null
     },
     {
-      "nome": "Custonaci",
+      "nome": "Cofano (Monte)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Cofano (Monte), Torre Agave in fiore",
+          "nome": "Torre Agave in fiore",
           "disciplina": "climbing",
           "esposizione": "w",
           "itinerari": [
@@ -144,38 +144,11 @@
       "lon": null
     },
     {
-      "nome": "Palermo",
+      "nome": "Gallo (Monte)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Gallo (Monte) quota 280 m",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "Gli Infedeli",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 110.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/gallo-monte-quota-280-gli-infedeli/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.208188010098006,
-          "lon": 13.28680495022994
-        },
-        {
-          "nome": "Gallo (Monte), Quota 280",
+          "nome": "Quota 280",
           "disciplina": "climbing",
           "esposizione": "w",
           "itinerari": [
@@ -202,7 +175,7 @@
           "lon": 13.286953638778773
         },
         {
-          "nome": "Gallo (Monte), Santa Margherita",
+          "nome": "Santa Margherita",
           "disciplina": "climbing",
           "esposizione": "nw",
           "itinerari": [
@@ -245,9 +218,17 @@
           ],
           "lat": 38.2058292546897,
           "lon": 13.287201894040761
-        },
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pellegrino (Monte)",
+      "paese": "IT",
+      "pareti": [
         {
-          "nome": "Pellegrino (Monte), Antro della Perciata",
+          "nome": "Antro della Perciata",
           "disciplina": "climbing",
           "esposizione": "n",
           "itinerari": [
@@ -297,7 +278,7 @@
           "lon": 13.35416103
         },
         {
-          "nome": "Pellegrino (Monte), Parete Nord di Valdesi",
+          "nome": "Parete Nord di Valdesi",
           "disciplina": "climbing",
           "esposizione": "n",
           "itinerari": [
@@ -322,6 +303,41 @@
           ],
           "lat": 38.189201346189876,
           "lon": 13.334655135614462
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Palermo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Gallo (Monte) quota 280 m",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Gli Infedeli",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/gallo-monte-quota-280-gli-infedeli/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 38.208188010098006,
+          "lon": 13.28680495022994
         }
       ],
       "lat": null,
@@ -357,6 +373,41 @@
           ],
           "lat": 38.1750295,
           "lon": 12.73346219
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monaco (Monte)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastro Est",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "nome": "Fratelli Titt + Vento del Sud",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 460.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/monaco-monte-pilastro-est-fratelli-titt-vento-del-sud/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 38.15503995642401,
+          "lon": 12.763016507564155
         }
       ],
       "lat": null,
@@ -428,33 +479,6 @@
           ],
           "lat": 38.16918161,
           "lon": 12.75426864
-        },
-        {
-          "nome": "Monaco (Monte), Pilastro Est",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "nome": "Fratelli Titt + Vento del Sud",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 460.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/monaco-monte-pilastro-est-fratelli-titt-vento-del-sud/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.15503995642401,
-          "lon": 12.763016507564155
         }
       ],
       "lat": null,

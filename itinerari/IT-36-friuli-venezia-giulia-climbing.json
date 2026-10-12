@@ -198,11 +198,11 @@
       "lon": null
     },
     {
-      "nome": "Collina",
+      "nome": "Coglians (Monte)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Coglians (Monte), Torrione Spinotti",
+          "nome": "Torrione Spinotti",
           "disciplina": "climbing",
           "esposizione": "w",
           "itinerari": [
@@ -1587,6 +1587,41 @@
       "lon": null
     },
     {
+      "nome": "Korspitze",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima del Vallone, Trbiška Krniška špica",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Krobath-Metzger- Korspite Nordkante",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2368.0,
+              "links": [
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/krobath-metzger-korspite-nordkante/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.429974,
+          "lon": 13.513699
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Riofreddo / Kaltwasser",
       "paese": "IT",
       "pareti": [
@@ -1616,33 +1651,6 @@
           ],
           "lat": 46.43134,
           "lon": 13.517139
-        },
-        {
-          "nome": "Korspitze, Cima del Vallone, Trbiška Krniška špica",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "nome": "Krobath-Metzger- Korspite Nordkante",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": 600.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2368.0,
-              "links": [
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/krobath-metzger-korspite-nordkante/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.429974,
-          "lon": 13.513699
         }
       ],
       "lat": null,

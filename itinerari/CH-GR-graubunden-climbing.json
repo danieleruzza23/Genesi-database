@@ -4,6 +4,103 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
+      "nome": "Cengalo (Pizzo)",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Punta Angela",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Dalai Lama",
+              "gradoObbligatorio": "6b",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 14,
+              "sviluppo": 460.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/cengalo-pizzo-punta-angela-dalai-lama/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.29193257,
+          "lon": 9.602565765
+        },
+        {
+          "nome": "Punta Angela",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Morbegnesi ’62 + Carosello",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/angela-punta-e-pizzo-cengalo-morbegnesi-62-carosello/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.29265889,
+          "lon": 9.600951317
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzi Gemelli",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Ferro da Stiro - spigolo nord, nord ovest",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "via Frei-Weiss",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V",
+              "spittatura": null,
+              "tiri": 9,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2680.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bondasca-PizziGemelli-viaFreiWeiss/288/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.301881,
+          "lon": 9.608746
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Bregaglia",
       "paese": "CH",
       "pareti": [
@@ -345,60 +442,6 @@
           ],
           "lat": 46.32729066531531,
           "lon": 9.676628079090136
-        },
-        {
-          "nome": "Cengalo (Pizzo), Punta Angela",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "nome": "Dalai Lama",
-              "gradoObbligatorio": "6b",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 14,
-              "sviluppo": 460.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/cengalo-pizzo-punta-angela-dalai-lama/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.29193257,
-          "lon": 9.602565765
-        },
-        {
-          "nome": "Cengalo (Pizzo), Punta Angela",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "nome": "Morbegnesi ’62 + Carosello",
-              "gradoObbligatorio": "6a",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/angela-punta-e-pizzo-cengalo-morbegnesi-62-carosello/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.29265889,
-          "lon": 9.600951317
         },
         {
           "nome": "Frachiccio (Pizzo)",
@@ -1294,33 +1337,6 @@
           ],
           "lat": 46.338306015632334,
           "lon": 9.639687130923837
-        },
-        {
-          "nome": "Pizzi Gemelli, Ferro da Stiro - spigolo nord, nord ovest",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "nome": "via Frei-Weiss",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V",
-              "spittatura": null,
-              "tiri": 9,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2680.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bondasca-PizziGemelli-viaFreiWeiss/288/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.301881,
-          "lon": 9.608746
         }
       ],
       "lat": null,
@@ -1521,6 +1537,41 @@
       "lon": null
     },
     {
+      "nome": "Kirchlispitze",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "cima V",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Haldejohli",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/quinta-kirchlispitze-haldejohli/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 47.02017401,
+          "lon": 9.773025512
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Schiers",
       "paese": "CH",
       "pareti": [
@@ -1550,33 +1601,6 @@
           ],
           "lat": 47.01489486,
           "lon": 9.808895724
-        },
-        {
-          "nome": "Kirchlispitze, cima V",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Haldejohli",
-              "gradoObbligatorio": "6a",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/quinta-kirchlispitze-haldejohli/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.02017401,
-          "lon": 9.773025512
         }
       ],
       "lat": null,

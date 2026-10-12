@@ -15,6 +15,10 @@ una zona **e** una disciplina alla volta, e un file con dentro tutto darebbe a
 chi ha scelto l'arrampicata anche le gite con gli sci.
 
 Dentro, la gerarchia che l'import si aspetta: **luogo → parete → itinerari**.
+Su **arrampicata e ghiaccio-misto il luogo è la montagna**, non il comune, dove
+la fonte la dichiara ("Grigna Meridionale, Ago Teresita" → luogo *Grigna
+Meridionale*, parete *Ago Teresita*); valli, gruppi e falesie restano sotto il
+comune.
 Ogni itinerario ha i campi della tabella `Routes` — `nome`, `gradoMassimo`,
 `gradoObbligatorio`, `tiri`, `sviluppo`, `quotaMassima`, `link`.
 

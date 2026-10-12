@@ -4,11 +4,11 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Arquata del Tronto",
+      "nome": "Vettore (Monte)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Vettore (Monte), Piramide",
+          "nome": "Piramide",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -39,11 +39,11 @@
       "lon": null
     },
     {
-      "nome": "Cagli",
+      "nome": "Montiego (Monte)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Montiego (Monte), Balza della Penna",
+          "nome": "Balza della Penna",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -70,7 +70,7 @@
           "lon": 12.54677947
         },
         {
-          "nome": "Montiego (Monte), Balza della Penna",
+          "nome": "Balza della Penna",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -97,7 +97,7 @@
           "lon": 12.54477739
         },
         {
-          "nome": "Montiego (Monte), Balza della Penna",
+          "nome": "Balza della Penna",
           "disciplina": "climbing",
           "esposizione": "se",
           "itinerari": [
@@ -122,6 +122,149 @@
           ],
           "lat": 43.59758018,
           "lon": 12.54565715
+        },
+        {
+          "nome": "Balza della Penna",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Fantaghirò",
+              "gradoObbligatorio": "6b",
+              "gradoMassimo": "6b+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-fantaghiro/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.601944,
+          "lon": 12.523889
+        },
+        {
+          "nome": "Balza della Penna",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Segui l’Onda",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-segui-londa/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.60413797,
+          "lon": 12.5861174
+        },
+        {
+          "nome": "Balza della Penna",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Passaggio a Nord Est",
+              "gradoObbligatorio": "6b",
+              "gradoMassimo": "7c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/penna-balza-della-passaggio-a-nord-est/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.601944,
+          "lon": 12.523889
+        },
+        {
+          "nome": "Balza della Penna",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Via Castellani-Vampa",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 215.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-via-castellani-vampa/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.59504841257303,
+          "lon": 12.547703658752448
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Revellone (Monte)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Falcioni",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Megalodonte",
+              "gradoObbligatorio": "6c",
+              "gradoMassimo": "8a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/revellone-monte-falcioni-megalodonte/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.418083,
+          "lon": 12.994778
         }
       ],
       "lat": null,
@@ -157,68 +300,6 @@
           ],
           "lat": 43.411906392487545,
           "lon": 13.004379272460938
-        },
-        {
-          "nome": "Revellone (Monte), Falcioni",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "Megalodonte",
-              "gradoObbligatorio": "6c",
-              "gradoMassimo": "8a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/revellone-monte-falcioni-megalodonte/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 43.418083,
-          "lon": 12.994778
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
-      "nome": "Fano",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Montiego (Monte), Balza della Penna",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Fantaghirò",
-              "gradoObbligatorio": "6b",
-              "gradoMassimo": "6b+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-fantaghiro/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 43.601944,
-          "lon": 12.523889
         }
       ],
       "lat": null,
@@ -265,11 +346,11 @@
       "lon": null
     },
     {
-      "nome": "Genga",
+      "nome": "Frasassi (Monte)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Frasassi (Monte), Gola di Frasassi",
+          "nome": "Gola di Frasassi",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -294,7 +375,15 @@
           ],
           "lat": 43.40409444279568,
           "lon": 12.95114564680481
-        },
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Genga",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Revellone (Monte)",
           "disciplina": "climbing",
@@ -321,41 +410,6 @@
           ],
           "lat": 43.41924921,
           "lon": 12.98669914
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
-      "nome": "Naro",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Montiego (Monte), Balza della Penna",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "nome": "Segui l’Onda",
-              "gradoObbligatorio": "6a",
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 160.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-segui-londa/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 43.60413797,
-          "lon": 12.5861174
         }
       ],
       "lat": null,
@@ -472,33 +526,6 @@
           ],
           "lat": 43.588971,
           "lon": 12.5105864
-        },
-        {
-          "nome": "Montiego (Monte), Balza della Penna",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "nome": "Passaggio a Nord Est",
-              "gradoObbligatorio": "6b",
-              "gradoMassimo": "7c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/penna-balza-della-passaggio-a-nord-est/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 43.601944,
-          "lon": 12.523889
         }
       ],
       "lat": null,
@@ -596,41 +623,6 @@
           ],
           "lat": 43.42915724786133,
           "lon": 12.998757381266604
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
-      "nome": "Urbania",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Montiego (Monte), Balza della Penna",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Via Castellani-Vampa",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 215.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/montiego-monte-balza-della-penna-via-castellani-vampa/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 43.59504841257303,
-          "lon": 12.547703658752448
         }
       ],
       "lat": null,

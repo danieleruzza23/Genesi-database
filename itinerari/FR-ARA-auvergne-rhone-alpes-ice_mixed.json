@@ -929,6 +929,41 @@
       "lon": null
     },
     {
+      "nome": "Rochers des Barmes de l'Ours",
+      "paese": "FR",
+      "pareti": [
+        {
+          "nome": "sommet W",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "itinerari": [
+            {
+              "nome": "Arête W",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3147,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1589649",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.383869,
+          "lon": 6.930751
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Da Camptocamp (non geolocalizzato su comune)",
       "paese": "FR",
       "pareti": [
@@ -11038,33 +11073,6 @@
           ],
           "lat": 45.239341,
           "lon": 6.998904
-        },
-        {
-          "nome": "Rochers des Barmes de l'Ours, sommet W",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "nome": "Arête W",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3147,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1589649",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.383869,
-          "lon": 6.930751
         },
         {
           "nome": "Aiguille du Peigne",
@@ -45297,11 +45305,11 @@
       "lon": null
     },
     {
-      "nome": "Chamonix",
+      "nome": "Mont Blanc du Tacul",
       "paese": "FR",
       "pareti": [
         {
-          "nome": "Mont Blanc du Tacul, Parete Nord (Triangle du Tacul)",
+          "nome": "Parete Nord (Triangle du Tacul)",
           "disciplina": "ice_mixed",
           "esposizione": "n",
           "itinerari": [
@@ -45333,7 +45341,7 @@
           "lon": 6.8881708
         },
         {
-          "nome": "Mont Blanc du Tacul, Parete Nord (Triangle du Tacul)",
+          "nome": "Parete Nord (Triangle du Tacul)",
           "disciplina": "ice_mixed",
           "esposizione": "n",
           "itinerari": [

@@ -263,6 +263,68 @@
       "lon": null
     },
     {
+      "nome": "Rama (Monte)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cresta Sud al Castelletto del Rio Carbunea",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Via Naste-Lunasi",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "5a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/rama-monte-cresta-sud-al-castelletto-del-rio-carbunea-via-naste-lunasi/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.42950474,
+          "lon": 8.628780212
+        },
+        {
+          "nome": "Torre Saracena",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "La Porta Celata",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/rama-monte-torre-saracena-la-porta-celata/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.42953682,
+          "lon": 8.627971976
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Cogoleto",
       "paese": "IT",
       "pareti": [
@@ -531,71 +593,17 @@
           ],
           "lat": 44.42962726,
           "lon": 8.628730773
-        },
-        {
-          "nome": "Rama (Monte), Cresta Sud al Castelletto del Rio Carbunea",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Via Naste-Lunasi",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "5a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 140.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/rama-monte-cresta-sud-al-castelletto-del-rio-carbunea-via-naste-lunasi/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.42950474,
-          "lon": 8.628780212
-        },
-        {
-          "nome": "Rama (Monte), Torre Saracena",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "nome": "La Porta Celata",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 140.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/rama-monte-torre-saracena-la-porta-celata/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.42953682,
-          "lon": 8.627971976
         }
       ],
       "lat": null,
       "lon": null
     },
     {
-      "nome": "Crocefieschi",
+      "nome": "Reopasso (Rocche del)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Reopasso (Rocche del), Biurca",
+          "nome": "Biurca",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -622,7 +630,7 @@
           "lon": 9.014829397
         },
         {
-          "nome": "Reopasso (Rocche del), Biurca",
+          "nome": "Biurca",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -649,7 +657,7 @@
           "lon": 9.022132
         },
         {
-          "nome": "Reopasso (Rocche del), Biurca sud",
+          "nome": "Biurca sud",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -676,7 +684,7 @@
           "lon": 9.022865295
         },
         {
-          "nome": "Reopasso (Rocche del), Biurca sud",
+          "nome": "Biurca sud",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -703,7 +711,7 @@
           "lon": 9.024845599999999
         },
         {
-          "nome": "Reopasso (Rocche del), Biurca sud",
+          "nome": "Biurca sud",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -769,11 +777,11 @@
       "lon": null
     },
     {
-      "nome": "Finale Ligure",
+      "nome": "Carpanea (Rocca)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Carpanea (Rocca), Parete Dimenticata",
+          "nome": "Parete Dimenticata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -798,7 +806,112 @@
           ],
           "lat": 44.187497,
           "lon": 8.320255
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Perti (Rocca di)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "settore Placca Piotti",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Lavanda",
+              "gradoObbligatorio": "6b",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/rocca-di-perti-settore-placca-piottilavanda/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.19469759,
+          "lon": 8.312615007
         },
+        {
+          "nome": "settore centrale",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Nuovo Istanbul Hotel",
+              "gradoObbligatorio": "6a",
+              "gradoMassimo": "6b+",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 60.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/perti-rocca-di-settore-centrale-nuovo-istanbul-hotel/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.19398001157685,
+          "lon": 8.310605626073574
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Spaventaggi (Bric)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "settore Superpanza",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Lorebì",
+              "gradoObbligatorio": "6b",
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/superpanza-lorebi/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.20435833,
+          "lon": 8.330898284
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Finale Ligure",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Corno (Rocca di)",
           "disciplina": "climbing",
@@ -2390,60 +2503,6 @@
           "lon": 8.315318673
         },
         {
-          "nome": "Perti (Rocca di), settore Placca Piotti",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "Lavanda",
-              "gradoObbligatorio": "6b",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/rocca-di-perti-settore-placca-piottilavanda/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.19469759,
-          "lon": 8.312615007
-        },
-        {
-          "nome": "Perti (Rocca di), settore centrale",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Nuovo Istanbul Hotel",
-              "gradoObbligatorio": "6a",
-              "gradoMassimo": "6b+",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 60.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/perti-rocca-di-settore-centrale-nuovo-istanbul-hotel/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.19398001157685,
-          "lon": 8.310605626073574
-        },
-        {
           "nome": "Pianarella (Bric)",
           "disciplina": "climbing",
           "esposizione": "w",
@@ -3880,33 +3939,6 @@
           "lon": 8.330168724
         },
         {
-          "nome": "Spaventaggi (Bric), settore Superpanza",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "nome": "Lorebì",
-              "gradoObbligatorio": "6b",
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/superpanza-lorebi/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.20435833,
-          "lon": 8.330898284
-        },
-        {
           "nome": "Valle Pora, Rocce dell’Orera",
           "disciplina": "climbing",
           "esposizione": "nw",
@@ -4118,6 +4150,122 @@
       "lon": null
     },
     {
+      "nome": "Faggi o Fò (Rocca di)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Bastione orientale",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Via della Sentinella",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 195.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/faggi-fo-rocca-di-bastione-orientale-via-della-sentinella/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.44646042,
+          "lon": 8.697147734
+        },
+        {
+          "nome": "bastione occidentale",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Senza di Me",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/faggi-o-fo-rocca-di-bastione-occidentale-via-senzadime/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.44715439,
+          "lon": 8.695041503
+        },
+        {
+          "nome": "bastione occidentale",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Sopradime",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/faggi-o-fo-rocca-di-bastione-occidentale-via-sopradime/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.44646505,
+          "lon": 8.694805469
+        },
+        {
+          "nome": "bastione occidentale",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Dente del Folletto o Via del Civre",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/faggi-o-fo-rocca-di-bastione-occidentale-dente-del-folletto-o-via-del-civre/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.44841049,
+          "lon": 8.694075908
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Genova",
       "paese": "IT",
       "pareti": [
@@ -4284,114 +4432,6 @@
           "lon": 8.695581383364019
         },
         {
-          "nome": "Faggi o Fò (Rocca di), Bastione orientale",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "nome": "Via della Sentinella",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 195.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/faggi-fo-rocca-di-bastione-orientale-via-della-sentinella/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.44646042,
-          "lon": 8.697147734
-        },
-        {
-          "nome": "Faggi o Fò (Rocca di), bastione occidentale",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "nome": "Senza di Me",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 170.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/faggi-o-fo-rocca-di-bastione-occidentale-via-senzadime/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.44715439,
-          "lon": 8.695041503
-        },
-        {
-          "nome": "Faggi o Fò (Rocca di), bastione occidentale",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "nome": "Sopradime",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/faggi-o-fo-rocca-di-bastione-occidentale-via-sopradime/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.44646505,
-          "lon": 8.694805469
-        },
-        {
-          "nome": "Faggi o Fò (Rocca di), bastione occidentale",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "nome": "Dente del Folletto o Via del Civre",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/faggi-o-fo-rocca-di-bastione-occidentale-dente-del-folletto-o-via-del-civre/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.44841049,
-          "lon": 8.694075908
-        },
-        {
           "nome": "Prou Ballou (Rocche du)",
           "disciplina": "climbing",
           "esposizione": "e",
@@ -4479,6 +4519,41 @@
           ],
           "lat": 44.16970767,
           "lon": 8.216228485
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Aia (Rocca dell’)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Scoglio della Binella",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "nome": "Via Mauro Morris",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/aia-rocca-dell-scoglio-della-binella-via-mauro-morris/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.16650895117863,
+          "lon": 8.205214864702585
         }
       ],
       "lat": null,
@@ -4681,33 +4756,6 @@
           ],
           "lat": 44.16890732,
           "lon": 8.206272124
-        },
-        {
-          "nome": "Aia (Rocca dell’), Scoglio della Binella",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "nome": "Via Mauro Morris",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/aia-rocca-dell-scoglio-della-binella-via-mauro-morris/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.16650895117863,
-          "lon": 8.205214864702585
         },
         {
           "nome": "Avetta (Scoglio dell’)",
@@ -5053,6 +5101,41 @@
           ],
           "lat": 44.19645215464815,
           "lon": 8.425098928528806
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cucco (Monte)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "anfiteatro",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "Supervit",
+              "gradoObbligatorio": "6b+",
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/cucco-monte-anfiteatro-supervit/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.21232956969088,
+          "lon": 8.331740498542786
         }
       ],
       "lat": null,
@@ -5774,33 +5857,6 @@
           "lon": 8.332321014
         },
         {
-          "nome": "Cucco (Monte), anfiteatro",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "Supervit",
-              "gradoObbligatorio": "6b+",
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 110.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/cucco-monte-anfiteatro-supervit/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.21232956969088,
-          "lon": 8.331740498542786
-        },
-        {
           "nome": "Frate (Bric del)",
           "disciplina": "climbing",
           "esposizione": "e",
@@ -5886,11 +5942,11 @@
       "lon": null
     },
     {
-      "nome": "Pigna",
+      "nome": "Pietravecchia (Monte)",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Pietravecchia (Monte), contrafforte est",
+          "nome": "contrafforte est",
           "disciplina": "climbing",
           "esposizione": "se",
           "itinerari": [
@@ -5915,17 +5971,71 @@
           ],
           "lat": 43.9893616,
           "lon": 7.684018800000001
+        },
+        {
+          "nome": "parete S/SO",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "nome": "Aprite la Gabbia agli Uccellini",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "7a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/pietravecchia-monte-parete-s-so-via-aprite-la-gabbia-agli-uccellini/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.9930613,
+          "lon": 7.7652714
+        },
+        {
+          "nome": "parete sud del Gendarme",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Pelegrinos de la Virgen",
+              "gradoObbligatorio": "6b",
+              "gradoMassimo": "7b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/pietravecchia-monte-parete-s-del-gendarme-pelegrinos-de-la-virgen/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 43.993061,
+          "lon": 7.765271
         }
       ],
       "lat": null,
       "lon": null
     },
     {
-      "nome": "Porto Venere",
+      "nome": "Muzzerone",
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Muzzerone, Parete Striata (Settore)",
+          "nome": "Parete Striata (Settore)",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -5950,17 +6060,9 @@
           ],
           "lat": 44.05365226966935,
           "lon": 9.828300476074219
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
-      "nome": "Portovenere",
-      "paese": "IT",
-      "pareti": [
+        },
         {
-          "nome": "Muzzerone, Mandrakia",
+          "nome": "Mandrakia",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -5987,7 +6089,7 @@
           "lon": 9.829169511767706
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6014,7 +6116,7 @@
           "lon": 9.828407764080337
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -6041,7 +6143,7 @@
           "lon": 9.829031984069836
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6068,7 +6170,7 @@
           "lon": 9.828257559786614
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -6095,7 +6197,7 @@
           "lon": 9.828327164687737
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6122,7 +6224,7 @@
           "lon": 9.828515052489974
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6149,7 +6251,7 @@
           "lon": 9.828318052284226
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -6176,7 +6278,7 @@
           "lon": 9.828382100163585
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6203,7 +6305,7 @@
           "lon": 9.828450679424575
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6230,7 +6332,7 @@
           "lon": 9.82847379895019
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -6257,7 +6359,7 @@
           "lon": 9.828407763884014
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6284,7 +6386,7 @@
           "lon": 9.828515052752444
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6311,7 +6413,7 @@
           "lon": 9.8284721369658
         },
         {
-          "nome": "Muzzerone, Parete Striata",
+          "nome": "Parete Striata",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6338,7 +6440,7 @@
           "lon": 9.828141026489243
         },
         {
-          "nome": "Muzzerone, Parete delle Meraviglie",
+          "nome": "Parete delle Meraviglie",
           "disciplina": "climbing",
           "esposizione": "w",
           "itinerari": [
@@ -6365,7 +6467,7 @@
           "lon": 9.824761443130479
         },
         {
-          "nome": "Muzzerone, Parete delle Meraviglie",
+          "nome": "Parete delle Meraviglie",
           "disciplina": "climbing",
           "esposizione": "w",
           "itinerari": [
@@ -6392,7 +6494,7 @@
           "lon": 9.824830856246093
         },
         {
-          "nome": "Muzzerone, Parete delle Meraviglie",
+          "nome": "Parete delle Meraviglie",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -6419,7 +6521,7 @@
           "lon": 9.824761907318127
         },
         {
-          "nome": "Muzzerone, Pilastro Selvaggio",
+          "nome": "Pilastro Selvaggio",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6446,7 +6548,7 @@
           "lon": 9.829916887537937
         },
         {
-          "nome": "Muzzerone, Pilastro Selvaggio",
+          "nome": "Pilastro Selvaggio",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -6473,7 +6575,7 @@
           "lon": 9.82852308132537
         },
         {
-          "nome": "Muzzerone, Pilastro del Bunker",
+          "nome": "Pilastro del Bunker",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -6500,7 +6602,7 @@
           "lon": 9.82759237244017
         },
         {
-          "nome": "Muzzerone, Pilastro della Discordia",
+          "nome": "Pilastro della Discordia",
           "disciplina": "climbing",
           "esposizione": "s",
           "itinerari": [
@@ -6527,7 +6629,7 @@
           "lon": 9.829031519882188
         },
         {
-          "nome": "Muzzerone, Pilastro della Discordia",
+          "nome": "Pilastro della Discordia",
           "disciplina": "climbing",
           "esposizione": "sw",
           "itinerari": [
@@ -6593,6 +6695,41 @@
       "lon": null
     },
     {
+      "nome": "Penna (Monte)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "quota 1626 m",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "nome": "Spigolo Irena Sendler",
+              "gradoObbligatorio": "4",
+              "gradoMassimo": "5a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/quota-1626-spigolo-irena-sendler/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.4906889,
+          "lon": 9.499139785
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Santo Stefano d'Aveto",
       "paese": "IT",
       "pareti": [
@@ -6622,33 +6759,6 @@
           ],
           "lat": 44.54956103,
           "lon": 9.490728378
-        },
-        {
-          "nome": "Penna (Monte), quota 1626 m",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Spigolo Irena Sendler",
-              "gradoObbligatorio": "4",
-              "gradoMassimo": "5a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 130.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/quota-1626-spigolo-irena-sendler/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.4906889,
-          "lon": 9.499139785
         },
         {
           "nome": "Prete (Rocca del)",
@@ -7591,60 +7701,6 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/pietravecchia-monte-gendarme-sud/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 43.993061,
-          "lon": 7.765271
-        },
-        {
-          "nome": "Pietravecchia (Monte), parete S/SO",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "nome": "Aprite la Gabbia agli Uccellini",
-              "gradoObbligatorio": "6a+",
-              "gradoMassimo": "7a+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 140.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/pietravecchia-monte-parete-s-so-via-aprite-la-gabbia-agli-uccellini/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 43.9930613,
-          "lon": 7.7652714
-        },
-        {
-          "nome": "Pietravecchia (Monte), parete sud del Gendarme",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "nome": "Pelegrinos de la Virgen",
-              "gradoObbligatorio": "6b",
-              "gradoMassimo": "7b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/pietravecchia-monte-parete-s-del-gendarme-pelegrinos-de-la-virgen/",
                   "siteName": null
                 }
               ]
@@ -8670,6 +8726,176 @@
       "lon": null
     },
     {
+      "nome": "Monte Muzzerone",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Mandrakia",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "via Trident",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6c",
+              "spittatura": "S1",
+              "tiri": 7,
+              "sviluppo": 215.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-muzzerone-mandrakia-via-trident/917/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Parete Striata",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "via Kimera",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6b+",
+              "spittatura": "S1",
+              "tiri": 6,
+              "sviluppo": 205.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-muzzerone-parete-striata-via-kimera/918/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Parete striata",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "via Supernova",
+              "gradoObbligatorio": "6b e A1",
+              "gradoMassimo": "7a",
+              "spittatura": "S1",
+              "tiri": 7,
+              "sviluppo": 185.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Muzzerone-viaSupernova/724/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Pilastro del Bunker, parete Ovest",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "via Chi vuol esser lieto sia",
+              "gradoObbligatorio": "5c e A0",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 310.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Muzzerone-viaChiVuolEsser/209/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Pilastro della Discordia, parete Ovest",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "via Poseidon",
+              "gradoObbligatorio": "6a+ e A0",
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Muzzerone-viaPoseidon/108/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Pilastro della Discordia, parete Ovest",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "nome": "via Quattro passi nel fantastico",
+              "gradoObbligatorio": "6a+ e A0",
+              "gradoMassimo": "7a",
+              "spittatura": "S1",
+              "tiri": 9,
+              "sviluppo": 270.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Muzzerone-viaQuattroPassiNelFantastico/680/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Da Guido della Torre (non geolocalizzato su comune)",
       "paese": "IT",
       "pareti": [
@@ -8746,168 +8972,6 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Moneglia-viaSaltoNelBlu/210/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Muzzerone, Mandrakia",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "via Trident",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6c",
-              "spittatura": "S1",
-              "tiri": 7,
-              "sviluppo": 215.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-muzzerone-mandrakia-via-trident/917/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Muzzerone, Parete Striata",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "via Kimera",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6b+",
-              "spittatura": "S1",
-              "tiri": 6,
-              "sviluppo": 205.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-muzzerone-parete-striata-via-kimera/918/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Muzzerone, Parete striata",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "via Supernova",
-              "gradoObbligatorio": "6b e A1",
-              "gradoMassimo": "7a",
-              "spittatura": "S1",
-              "tiri": 7,
-              "sviluppo": 185.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Muzzerone-viaSupernova/724/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Muzzerone, Pilastro del Bunker, parete Ovest",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "via Chi vuol esser lieto sia",
-              "gradoObbligatorio": "5c e A0",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 310.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Muzzerone-viaChiVuolEsser/209/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Muzzerone, Pilastro della Discordia, parete Ovest",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "via Poseidon",
-              "gradoObbligatorio": "6a+ e A0",
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 260.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Muzzerone-viaPoseidon/108/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Muzzerone, Pilastro della Discordia, parete Ovest",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "nome": "via Quattro passi nel fantastico",
-              "gradoObbligatorio": "6a+ e A0",
-              "gradoMassimo": "7a",
-              "spittatura": "S1",
-              "tiri": 9,
-              "sviluppo": 270.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Muzzerone-viaQuattroPassiNelFantastico/680/",
                   "siteName": null
                 }
               ]

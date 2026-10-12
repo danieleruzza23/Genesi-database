@@ -6112,6 +6112,122 @@
       "lon": null
     },
     {
+      "nome": "Siula (Punta della)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "anfiteatro",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Gully del 90enario o Lacrime di Scozia",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "4+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/gully-del-90enario-o-lacrime-di-scozia/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.142389766500145,
+          "lon": 7.374808787858633
+        },
+        {
+          "nome": "anfiteatro",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Goulotte della Siula",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/siula-punta-goulotte-della/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.142532976237284,
+          "lon": 7.375388144702653
+        },
+        {
+          "nome": "anfiteatro",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "nome": "Gias della Siula (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "3+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/siula-punta-della-anfiteatro-gias-della-siula-cascata/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.144064185824256,
+          "lon": 7.3786178607910236
+        },
+        {
+          "nome": "anfiteatro",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "nome": "Spirito di Cristallo (Cascata)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/siula-anfiteatro-della-spirito-di-cristallo/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.14282862331354,
+          "lon": 7.374508380360596
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Entracque",
       "paese": "IT",
       "pareti": [
@@ -6654,114 +6770,6 @@
           ],
           "lat": 44.18115757,
           "lon": 7.344961166
-        },
-        {
-          "nome": "Siula (Punta della), anfiteatro",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "nome": "Gully del 90enario o Lacrime di Scozia",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "4+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/gully-del-90enario-o-lacrime-di-scozia/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.142389766500145,
-          "lon": 7.374808787858633
-        },
-        {
-          "nome": "Siula (Punta della), anfiteatro",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "nome": "Goulotte della Siula",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "3",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/siula-punta-goulotte-della/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.142532976237284,
-          "lon": 7.375388144702653
-        },
-        {
-          "nome": "Siula (Punta della), anfiteatro",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "nome": "Gias della Siula (Cascata)",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "3+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/siula-punta-della-anfiteatro-gias-della-siula-cascata/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.144064185824256,
-          "lon": 7.3786178607910236
-        },
-        {
-          "nome": "Siula (Punta della), anfiteatro",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "nome": "Spirito di Cristallo (Cascata)",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "3",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/siula-anfiteatro-della-spirito-di-cristallo/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.14282862331354,
-          "lon": 7.374508380360596
         },
         {
           "nome": "Vallone delle Rovine",
@@ -10951,6 +10959,41 @@
       "lon": null
     },
     {
+      "nome": "Ferra (Monte)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "contrafforte N/NE",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "nome": "Couloir Y",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "gulliver",
+                  "url": "https://www.gulliver.it/itinerari/ferra-monte-couloir-y/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.61021155748062,
+          "lon": 6.987154483195566
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
       "nome": "Pontechianale",
       "paese": "IT",
       "pareti": [
@@ -12213,33 +12256,6 @@
           ],
           "lat": 44.60647938,
           "lon": 6.98773384
-        },
-        {
-          "nome": "Ferra (Monte), contrafforte N/NE",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "nome": "Couloir Y",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "3",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "gulliver",
-                  "url": "https://www.gulliver.it/itinerari/ferra-monte-couloir-y/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.61021155748062,
-          "lon": 6.987154483195566
         },
         {
           "nome": "Fiutrusa (Gola di)",
