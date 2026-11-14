@@ -57424,6 +57424,62 @@
           ],
           "lat": 45.51772124716939,
           "lon": 7.734822025403414
+        },
+        {
+          "nome": "Concatenamento via Placche Nere, via Pig",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2634",
+              "nome": "via della Concordia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1000.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Traversella-viaPlaccheNerePigConcordia/278/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Concatenamento: via Diretta Placche Nere, via Placche Nere (seconda parte)",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2635",
+              "nome": "via Normale al Secondo Salto",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": null,
+              "tiri": 2,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1000.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Traversella-viaPlaccheNereNormaleSecondoSalto/277/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -68740,882 +68796,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Agaro, settore Pinnacle",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2620",
-              "nome": "via Specchio delle mie brame",
-              "gradoObbligatorio": "5c obb.",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1500.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Agaro-viaSpecchioDelleMieBrame/251/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Agaro, settore Mirror Lake",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2621",
-              "nome": "via Molte vite, molti maestri",
-              "gradoObbligatorio": "6a obb.",
-              "gradoMassimo": "6b+",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1561.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Agaro-viaMolteVite/250/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Asta Sottana",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2622",
-              "nome": "via Direttissima alla Torre Sud",
-              "gradoObbligatorio": "dal IV al V",
-              "gradoMassimo": "TD-",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 280.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2903.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/AstaSottana-viaDirettissimaTorreSud/252/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Corno Nero (o Sasso Negro) di Valbella",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2623",
-              "nome": "via Scisc",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V+",
-              "spittatura": null,
-              "tiri": 2,
-              "sviluppo": 80.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1407.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CornoNeroValbella-viaScisc/52/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Courmaon - Cresta Est",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2624",
-              "nome": "via Gervasutti",
-              "gradoObbligatorio": "V e A0",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3162.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Courmaon-viaGervasutti/254/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Monte Rosa, Tagliaferro",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2625",
-              "nome": "via Cresta Nord, Nord-Ovest",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-, max V-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 900.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2964.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Tagliaferro-crestaNordNordOvest/5/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "La Balma",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2626",
-              "nome": "via dei Picapere",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "A2e",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/la-balma-via-dei-picapere/937/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Oira",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2627",
-              "nome": "via Il cammino del sole",
-              "gradoObbligatorio": "5c obbligatorio",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": 12,
-              "sviluppo": 530.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Oira-viaIlCamminoDelSole/824/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Ossola, Val Cairasca, Parete di Santa Maria",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2628",
-              "nome": "Via delle Meteore",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 9,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/OssolaValCairasca-PareteDiSantaMaria-ViaDelleMeteore/856/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Parete Calva o di Mezzodì",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2629",
-              "nome": "via Margherita va da Dolcino",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b+ (6b obb.) RS1/II",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1426.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PareteCalva-viaMargheritaVaDaDolcino/37/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pizzo Tignaga",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2630",
-              "nome": "spigolo Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV+",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2653.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PizzoTignaga-spigoloSud/265/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.922367,
-          "lon": 8.057207
-        },
-        {
-          "nome": "Torre delle Giavine o di Boccioleto",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2631",
-              "nome": "Parete Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "A2 e 5a",
-              "spittatura": null,
-              "tiri": 2,
-              "sviluppo": 70.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1050.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-Giavine-pareteNord/276/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Torre delle Giavine o di Boccioleto",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2632",
-              "nome": "via Comune",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4c",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 90.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1050.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-Giavine-viaComune/275/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Torre delle Giavine o di Boccioleto",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2633",
-              "nome": "via Bertone (variante alla Esposito)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "A1/A2; 6a+ obb",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 110.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1050.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/TorreGiavine-viaBertone/30/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Traversella - Concatenamento via Placche Nere, via Pig",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2634",
-              "nome": "via della Concordia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4c",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 170.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1000.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Traversella-viaPlaccheNerePigConcordia/278/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Traversella - Concatenamento: via Diretta Placche Nere, via Placche Nere (seconda parte)",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2635",
-              "nome": "via Normale al Secondo Salto",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4c",
-              "spittatura": null,
-              "tiri": 2,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1000.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Traversella-viaPlaccheNereNormaleSecondoSalto/277/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Cairasca, Torre del 50° (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2636",
-              "nome": "via Degli Istruttori",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VII+(?) (VI+ e A1).",
-              "spittatura": "R3",
-              "tiri": 4,
-              "sviluppo": 125.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-cairasca-torre-del-50-toponimo-proposto-via-degli-istruttori/982/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Cairasca, Torre del 50° (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2637",
-              "nome": "via Elvio",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+.",
-              "spittatura": "R2",
-              "tiri": 4,
-              "sviluppo": 110.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-cairasca-torre-del-50-toponimo-proposto-via-elvio/979/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Cairasca, Torre del 50° (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2638",
-              "nome": "via Max Marazza",
-              "gradoObbligatorio": "VI+ e A1",
-              "gradoMassimo": "VII e A1",
-              "spittatura": "R3",
-              "tiri": 4,
-              "sviluppo": 115.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-cairasca-torre-del-50-toponimo-proposto-via-max-marazza/980/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Cairasca, Torre del 50° (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2639",
-              "nome": "via Penna Bianca",
-              "gradoObbligatorio": "VI+ e A0",
-              "gradoMassimo": "VII",
-              "spittatura": "R2",
-              "tiri": 4,
-              "sviluppo": 145.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-cairasca-torre-del-50-toponimo-proposto-via-penna-bianca/981/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Ossola, zona del Pilastro Corsini",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2640",
-              "nome": "via Churri ca chiove",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 260.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 600.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-ossola-zona-del-pilastro-corsini-m-600-via-churri-ca-chiove/935/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Ossola, zona del Pilastro Corsini",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2641",
-              "nome": "via Le Bionde Trecce",
-              "gradoObbligatorio": "6a obb.",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 600.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Pontemaglio-viaBiondeTrecce/267/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Sangone, Rocca Parei - via Bonino-Rolando, via Michelin-Battù",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2642",
-              "nome": "via Andruetto-Rolando",
-              "gradoObbligatorio": "VI e A0",
-              "gradoMassimo": "VII-",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1500.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValSangone-RoccaParei-viaBoninoMichelinAndruetto/839/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle dell'Orco, Caporal",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2643",
-              "nome": "via Diedro Nanchez",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+/VII-",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 170.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1400.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Caporal-viaDiedroNanchez/24/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle dell'Orco, Caporal",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2644",
-              "nome": "vie Itaca nel Sole e Tempi Moderni",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1400.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Caporal-viaItacaSoleTempiModerni/638/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle dell'Orco, Caporal",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2645",
-              "nome": "vie Orecchio del Pachiderma e Rattle Snake",
-              "gradoObbligatorio": "VI+ e A1",
-              "gradoMassimo": "VIII-",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1400.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Caporal-PachidermaRattleSnake/422/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle dell'Orco, Scoglio di Mroz (Punta del Fendù), Parete Est",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2646",
-              "nome": "via Gogna o della Torre Staccata",
-              "gradoObbligatorio": "VI e A0",
-              "gradoMassimo": "VII-",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1900.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Mroz-viaGogna/261/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle dell'Orco, Scoglio di Mroz (Punta del Fendù), Parete Est",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2647",
-              "nome": "via Grassi",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 165.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1900.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Mroz-viaGrassi/865/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle dell'Orco, Scoglio di Mroz (Punta del Fendù), Parete Est",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2648",
-              "nome": "via Impressioni di Settembre",
-              "gradoObbligatorio": "6a/6a+ obb.",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 160.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1900.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Mroz-viaImpressioniSettembre/262/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle dell'Orco, Sergent",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2649",
-              "nome": "via Diedro Locatelli con variante Grassi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI/VI+ e A0",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 230.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1400.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Sergent-viaDiedroLocatelli/497/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Vallone del Bourcet, Parete della Vecchia",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-climbing:2650",
-              "nome": "via Sperone dei corvi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b e A0",
-              "spittatura": "S1",
-              "tiri": 10,
-              "sviluppo": 310.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/vallone-del-bourcet-parete-della-vecchia-via-sperone-dei-corvi/1039/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Trono de Osiride",
       "paese": "IT",
       "pareti": [
@@ -74056,6 +73236,864 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Agaro",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "settore Pinnacle",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2620",
+              "nome": "via Specchio delle mie brame",
+              "gradoObbligatorio": "5c obb.",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1500.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Agaro-viaSpecchioDelleMieBrame/251/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "settore Mirror Lake",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2621",
+              "nome": "via Molte vite, molti maestri",
+              "gradoObbligatorio": "6a obb.",
+              "gradoMassimo": "6b+",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1561.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Agaro-viaMolteVite/250/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Asta Sottana",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Asta Sottana",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2622",
+              "nome": "via Direttissima alla Torre Sud",
+              "gradoObbligatorio": "dal IV al V",
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 280.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2903.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/AstaSottana-viaDirettissimaTorreSud/252/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Corno Nero (o Sasso Negro) di Valbella",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Corno Nero (o Sasso Negro) di Valbella",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2623",
+              "nome": "via Scisc",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V+",
+              "spittatura": null,
+              "tiri": 2,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1407.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CornoNeroValbella-viaScisc/52/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Courmaon",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cresta Est",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2624",
+              "nome": "via Gervasutti",
+              "gradoObbligatorio": "V e A0",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3162.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Courmaon-viaGervasutti/254/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo del Monte Rosa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Tagliaferro",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2625",
+              "nome": "via Cresta Nord, Nord-Ovest",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-, max V-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2964.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Tagliaferro-crestaNordNordOvest/5/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "La Balma",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "La Balma",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2626",
+              "nome": "via dei Picapere",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "A2e",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/la-balma-via-dei-picapere/937/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Oira",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Oira",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2627",
+              "nome": "via Il cammino del sole",
+              "gradoObbligatorio": "5c obbligatorio",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 12,
+              "sviluppo": 530.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Oira-viaIlCamminoDelSole/824/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ossola",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Val Cairasca, Parete di Santa Maria",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2628",
+              "nome": "Via delle Meteore",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 9,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/OssolaValCairasca-PareteDiSantaMaria-ViaDelleMeteore/856/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Parete Calva o di Mezzodì",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Parete Calva o di Mezzodì",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2629",
+              "nome": "via Margherita va da Dolcino",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+ (6b obb.) RS1/II",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1426.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PareteCalva-viaMargheritaVaDaDolcino/37/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Tignaga",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo Tignaga",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2630",
+              "nome": "spigolo Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV+",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2653.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PizzoTignaga-spigoloSud/265/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.922367,
+          "lon": 8.057207
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torre delle Giavine o di Boccioleto",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre delle Giavine o di Boccioleto",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2631",
+              "nome": "Parete Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "A2 e 5a",
+              "spittatura": null,
+              "tiri": 2,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-Giavine-pareteNord/276/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2632",
+              "nome": "via Comune",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-Giavine-viaComune/275/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2633",
+              "nome": "via Bertone (variante alla Esposito)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "A1/A2; 6a+ obb",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/TorreGiavine-viaBertone/30/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torre del 50° (toponimo proposto)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre del 50° (toponimo proposto)",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2636",
+              "nome": "via Degli Istruttori",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VII+(?) (VI+ e A1).",
+              "spittatura": "R3",
+              "tiri": 4,
+              "sviluppo": 125.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-cairasca-torre-del-50-toponimo-proposto-via-degli-istruttori/982/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2637",
+              "nome": "via Elvio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+.",
+              "spittatura": "R2",
+              "tiri": 4,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-cairasca-torre-del-50-toponimo-proposto-via-elvio/979/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2638",
+              "nome": "via Max Marazza",
+              "gradoObbligatorio": "VI+ e A1",
+              "gradoMassimo": "VII e A1",
+              "spittatura": "R3",
+              "tiri": 4,
+              "sviluppo": 115.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-cairasca-torre-del-50-toponimo-proposto-via-max-marazza/980/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2639",
+              "nome": "via Penna Bianca",
+              "gradoObbligatorio": "VI+ e A0",
+              "gradoMassimo": "VII",
+              "spittatura": "R2",
+              "tiri": 4,
+              "sviluppo": 145.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-cairasca-torre-del-50-toponimo-proposto-via-penna-bianca/981/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val d'Ossola",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "zona del Pilastro Corsini",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2640",
+              "nome": "via Churri ca chiove",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 600.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-ossola-zona-del-pilastro-corsini-m-600-via-churri-ca-chiove/935/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2641",
+              "nome": "via Le Bionde Trecce",
+              "gradoObbligatorio": "6a obb.",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 600.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Pontemaglio-viaBiondeTrecce/267/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rocca Parei",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "via Bonino-Rolando, via Michelin-Battù",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2642",
+              "nome": "via Andruetto-Rolando",
+              "gradoObbligatorio": "VI e A0",
+              "gradoMassimo": "VII-",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1500.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValSangone-RoccaParei-viaBoninoMichelinAndruetto/839/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle dell'Orco",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Caporal",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2643",
+              "nome": "via Diedro Nanchez",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+/VII-",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Caporal-viaDiedroNanchez/24/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2644",
+              "nome": "vie Itaca nel Sole e Tempi Moderni",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Caporal-viaItacaSoleTempiModerni/638/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2645",
+              "nome": "vie Orecchio del Pachiderma e Rattle Snake",
+              "gradoObbligatorio": "VI+ e A1",
+              "gradoMassimo": "VIII-",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Caporal-PachidermaRattleSnake/422/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Sergent",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2649",
+              "nome": "via Diedro Locatelli con variante Grassi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI/VI+ e A0",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 230.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Sergent-viaDiedroLocatelli/497/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Scoglio di Mroz (Punta del Fendù)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Parete Est",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2646",
+              "nome": "via Gogna o della Torre Staccata",
+              "gradoObbligatorio": "VI e A0",
+              "gradoMassimo": "VII-",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1900.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Mroz-viaGogna/261/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2647",
+              "nome": "via Grassi",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 165.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1900.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Mroz-viaGrassi/865/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-climbing:2648",
+              "nome": "via Impressioni di Settembre",
+              "gradoObbligatorio": "6a/6a+ obb.",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1900.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orco-Mroz-viaImpressioniSettembre/262/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vallone del Bourcet",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Parete della Vecchia",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-climbing:2650",
+              "nome": "via Sperone dei corvi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b e A0",
+              "spittatura": "S1",
+              "tiri": 10,
+              "sviluppo": 310.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/vallone-del-bourcet-parete-della-vecchia-via-sperone-dei-corvi/1039/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

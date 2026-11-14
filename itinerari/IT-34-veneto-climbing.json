@@ -622,6 +622,34 @@
           ],
           "lat": 46.58541188,
           "lon": 12.26039886
+        },
+        {
+          "nome": "Punta Col de Varda",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0555",
+              "nome": "via Comici (fessura nord ovest)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 230.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2504.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cadini-PuntaColDeVarda-viaComici/309/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -5413,6 +5441,34 @@
           ],
           "lat": 46.5293961,
           "lon": 12.0057976
+        },
+        {
+          "nome": "via del buco",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0557",
+              "nome": "Parete Sud Ovest",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV+",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2778.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lagazuoi-viaDelBuco/316/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -8552,6 +8608,34 @@
           ],
           "lat": 45.742837226378036,
           "lon": 11.179125183628837
+        },
+        {
+          "nome": "Sengio Alto",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0563",
+              "nome": "via Pilastro Soldà",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": "R3",
+              "tiri": 7,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1783.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Baffelan-SengioAlto-viaPilastroSolda/656/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -14089,1134 +14173,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Dolomiti Orientali, Cadini di Misurina, Punta Col de Varda",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0555",
-              "nome": "via Comici (fessura nord ovest)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 230.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2504.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cadini-PuntaColDeVarda-viaComici/309/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Dolomiti Orientali, Gruppo del Nuvolau, Gusela",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0556",
-              "nome": "Parete Sud Ovest",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 270.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2595.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Gusela-pareteSudOvest/314/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Dolomiti Orientali, Gruppo di Fanis, Lagazuoi Piccolo - via del buco",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0557",
-              "nome": "Parete Sud Ovest",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV+",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2778.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lagazuoi-viaDelBuco/316/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Dolomiti Orientali, Gruppo Nuvolau, Averau",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0558",
-              "nome": "via Alverà (parete sud-ovest)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV+",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2647.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Averau-viaAlvera/307/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo Croda da Lago, Lastoni di Formin",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0559",
-              "nome": "via Bonetti-Mezzacasa (o dei Bolognesi)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV+",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2585.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/LastoniFormin-viaBonettiMezzacasa/317/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.478806,
-          "lon": 12.081561
-        },
-        {
-          "nome": "Gruppo dei Cadini di Misurina, Torre Wundt",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0560",
-              "nome": "via Mazzorana",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV-",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2517.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cadini-TorreWundt-viaMazzorana/310/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo di Fanis, Piccolo Lagazuoi",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0561",
-              "nome": "via A. Ardizzon",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "III, IV/IV+",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 280.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lagazuoi-viaArdizzon/315/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Piccole Dolomiti, Baffelan - via Carlesso",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0562",
-              "nome": "parete Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1783.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Baffelan-viaCarlesso/308/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Piccole Dolomiti, Baffelan, Sengio Alto",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0563",
-              "nome": "via Pilastro Soldà",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": "R3",
-              "tiri": 7,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1783.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Baffelan-SengioAlto-viaPilastroSolda/656/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Piccole Dolomiti, Fraton",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0564",
-              "nome": "via El Duro del Fraton",
-              "gradoObbligatorio": "VI+ e A0",
-              "gradoMassimo": "VII",
-              "spittatura": "R3",
-              "tiri": 8,
-              "sviluppo": 320.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1650.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PiccoleDolomiti-Fraton-viaElDuro/657/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Piccole Dolomiti, Primo Apostolo",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0565",
-              "nome": "via Spigolo Faccio o dell'Apostolo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 170.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1738.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PiccoleDolomiti-PrimoApostolo-viaSpigoloFaccio/327/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pilastro della Tofana di Rozes",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0566",
-              "nome": "via Costantini-Ghedina (spigolo SW)",
-              "gradoObbligatorio": "V+/A0",
-              "gradoMassimo": "V+/VI",
-              "spittatura": null,
-              "tiri": 19,
-              "sviluppo": 500.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2820.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Tofana-viaCostantiniGhedina/329/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Prealpi vicentine, Monte Cimoncello",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0567",
-              "nome": "via El Tùnel de Sivori",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+",
-              "spittatura": "R2",
-              "tiri": 8,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PrealpiVicentine-Cimoncello-viaElTunelDeSivori/714/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Prealpi vicentine, Sojo Bostel",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0568",
-              "nome": "via Il richiamo di Penna Bianca",
-              "gradoObbligatorio": "obbl. 5c e A0, A1",
-              "gradoMassimo": "6b e A0, A1",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 280.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PrealpiVicentine-SojoBostel-viaIlRichiamoDiPennaBianca/797/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Rocchetta Alta di Bosconero - Parete Sud",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0569",
-              "nome": "via Goedeke",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV+",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2412.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/RocchettaAltaDiBosconero-viaGoedeke/328/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Spalti di Capitel d'Orsa",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0570",
-              "nome": "via del Luce",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6a+",
-              "spittatura": "S2",
-              "tiri": 6,
-              "sviluppo": 215.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/spalti-di-capitel-d-orsa-via-del-luce/1018/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Spalti di Capitel d'Orsa",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0571",
-              "nome": "via Pirata Samu",
-              "gradoObbligatorio": "6a+ e A0",
-              "gradoMassimo": "6b+",
-              "spittatura": "S1",
-              "tiri": 7,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/spalti-di-capitel-d-orsa-via-pirata-samu/1009/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Torre Venezia - Parete Sud",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0572",
-              "nome": "via Tissi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V+/VI",
-              "spittatura": null,
-              "tiri": 13,
-              "sviluppo": 600.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2337.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/TorreVenezia-viaTissi/332/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val D'Adige, Bastionate di Tessari",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0573",
-              "nome": "via Del Rientro",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6b, un passo 6b+",
-              "spittatura": "S1",
-              "tiri": 6,
-              "sviluppo": 210.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-del-rientro/1073/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val D'Adige, Bastionate di Tessari",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0574",
-              "nome": "via Il Leone di Nemea",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b (6a e A0).",
-              "spittatura": "S1",
-              "tiri": 10,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-il-leone-di-nemea/1013/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Bastionate di Tessari",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0575",
-              "nome": "via Le Nebbie di Avalon",
-              "gradoObbligatorio": "6a+/6b e A0",
-              "gradoMassimo": "6b+",
-              "spittatura": "S1",
-              "tiri": 10,
-              "sviluppo": 360.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-le-nebbie-di-avalon/902/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val D'Adige, Bastionate di Tessari",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0576",
-              "nome": "via Morgana",
-              "gradoObbligatorio": "6b e A0/A1",
-              "gradoMassimo": "6c",
-              "spittatura": "S2",
-              "tiri": 7,
-              "sviluppo": 165.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-morgana/1071/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Bastionate di Tessari",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0577",
-              "nome": "via New Age",
-              "gradoObbligatorio": "5c/6a e A0",
-              "gradoMassimo": "6a+",
-              "spittatura": "S1",
-              "tiri": 5,
-              "sviluppo": 215.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-new-age/927/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Bastionate di Tessari",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0578",
-              "nome": "via Pace senza confini",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "S1",
-              "tiri": 10,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-pace-senza-confini/946/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val D'Adige, Bastionate di Tessari",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0579",
-              "nome": "via Rosso Kora",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6b",
-              "spittatura": "S1",
-              "tiri": 9,
-              "sviluppo": 370.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-rosso-kora/1010/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Bastionate di Tessari",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0580",
-              "nome": "via Winter Blues",
-              "gradoObbligatorio": "6a+ e A0",
-              "gradoMassimo": "6c",
-              "spittatura": "S1",
-              "tiri": 6,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-winter-blues/944/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Ceraino",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0581",
-              "nome": "via Dedicata a Narcisa",
-              "gradoObbligatorio": "6a/6a+ e A0",
-              "gradoMassimo": "6b",
-              "spittatura": "S1",
-              "tiri": 5,
-              "sviluppo": 135.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-ceraino-via-dedicata-a-narcisa/933/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Ceraino",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0582",
-              "nome": "via Deja vu",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-ceraino-via-deja-vu/905/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Ceraino",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0583",
-              "nome": "via Grillo Brontolone",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-ceraino-via-grillo-brontolone/891/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Ceraino",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0584",
-              "nome": "via Una razza una faccia",
-              "gradoObbligatorio": "6a/6a+ e A0",
-              "gradoMassimo": "6b+",
-              "spittatura": "S1",
-              "tiri": 6,
-              "sviluppo": 155.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-ceraino-via-una-razza-una-faccia/931/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Ceraino, La Prua",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0585",
-              "nome": "via degli Spazzacamini",
-              "gradoObbligatorio": "6a+ e A0",
-              "gradoMassimo": "6b",
-              "spittatura": "S1",
-              "tiri": 7,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ceraino-LaPrua-viaDegliSpazzacamini/770/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Gruppo del Corno D'Aquilio",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0586",
-              "nome": "Parete Bahador (toponimo proposto) - vie I Confini del Pensiero, Oltre i Confini del Pensiero",
-              "gradoObbligatorio": "7a+); 6c e A2 (7b",
-              "gradoMassimo": "6a+ e A2",
-              "spittatura": "S1-",
-              "tiri": 8,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAdige-CornoAquilio-viaIConfiniDelPensiero/852/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Gruppo del Corno D'Aquilio, Parete dei Lavoratori (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0587",
-              "nome": "via Cotechino e pearà",
-              "gradoObbligatorio": "VI+ e A0",
-              "gradoMassimo": "VIII",
-              "spittatura": "R2",
-              "tiri": 5,
-              "sviluppo": 165.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-gruppo-del-corno-d-aquilio-parete-dei-lavoratori-toponimo-proposto-via-cotechino-e-peara/954/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Gruppo del Corno D'Aquilio, Torre senza nome (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0588",
-              "nome": "via Fessur-INA",
-              "gradoObbligatorio": "VI+ e A0",
-              "gradoMassimo": "VII+",
-              "spittatura": "R1",
-              "tiri": 3,
-              "sviluppo": 70.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-gruppo-del-corno-d-aquilio-torre-senza-nome-toponimo-proposto-via-fessur-ina/1019/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Gruppo del Corno D'Aquilio, Torre senza nome (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0589",
-              "nome": "via Lessinia Crack",
-              "gradoObbligatorio": "VI+ e A0/A1",
-              "gradoMassimo": "VII+",
-              "spittatura": "R1",
-              "tiri": 4,
-              "sviluppo": 75.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-gruppo-del-corno-d-aquilio-torre-senza-nome-toponimo-proposto-via-lessinia-crack/1020/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Gruppo del Corno D'Aquilio, Torre senza nome (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0590",
-              "nome": "via Tastasal",
-              "gradoObbligatorio": "VI+ e A0/A1",
-              "gradoMassimo": "VIII",
-              "spittatura": "R2",
-              "tiri": 4,
-              "sviluppo": 70.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-gruppo-del-corno-d-aquilio-torre-senza-nome-toponimo-proposto-via-tastasal/1021/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Salto del faraone",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0591",
-              "nome": "via Balla sui buchi",
-              "gradoObbligatorio": "5c e A0",
-              "gradoMassimo": "6a",
-              "spittatura": "S1",
-              "tiri": 6,
-              "sviluppo": 175.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-salto-del-faraone-via-balla-sui-buchi/945/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Pramper, Palon del Felize, parete sud ovest",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0592",
-              "nome": "via Siavash",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-pramper-palon-del-felize-parete-sud-ovest-via-siavash/1052/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Pramper, Spigolo del Palon del Felize, avancorpo sinistro, parete sud",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0593",
-              "nome": "via Nika",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV+",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 245.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2205.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-pramper-spigolo-del-palon-del-felize-avancorpo-sinistro-parete-sud-m-2205-via-nika/1051/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle del Rio Freddo, Monte Tormeno",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-climbing:0594",
-              "nome": "via Psychiatric Circus",
-              "gradoObbligatorio": "VI e A0",
-              "gradoMassimo": "VIII+",
-              "spittatura": "R1-",
-              "tiri": 10,
-              "sviluppo": 260.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleRioFreddo-MonteTormeno-viaPsychiatricCircus/709/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Paracarro",
       "paese": "IT",
       "pareti": [
@@ -16656,6 +15612,34 @@
               ]
             }
           ]
+        },
+        {
+          "nome": "Parete Sud",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0572",
+              "nome": "via Tissi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V+/VI",
+              "spittatura": null,
+              "tiri": 13,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2337.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/TorreVenezia-viaTissi/332/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -16908,6 +15892,34 @@
               ]
             }
           ]
+        },
+        {
+          "nome": "Parete Sud",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0569",
+              "nome": "via Goedeke",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV+",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2412.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/RocchettaAltaDiBosconero-viaGoedeke/328/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -17088,6 +16100,990 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Dolomiti Orientali",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Gruppo del Nuvolau, Gusela",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0556",
+              "nome": "Parete Sud Ovest",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 270.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2595.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Gusela-pareteSudOvest/314/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Gruppo Nuvolau, Averau",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0558",
+              "nome": "via Alverà (parete sud-ovest)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV+",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2647.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Averau-viaAlvera/307/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo Croda da Lago",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Lastoni di Formin",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0559",
+              "nome": "via Bonetti-Mezzacasa (o dei Bolognesi)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV+",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2585.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/LastoniFormin-viaBonettiMezzacasa/317/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.478806,
+          "lon": 12.081561
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torre Wundt",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre Wundt",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0560",
+              "nome": "via Mazzorana",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV-",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2517.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cadini-TorreWundt-viaMazzorana/310/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo di Fanis",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Piccolo Lagazuoi",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0561",
+              "nome": "via A. Ardizzon",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "III, IV/IV+",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 280.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lagazuoi-viaArdizzon/315/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piccole Dolomiti",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Baffelan - via Carlesso",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0562",
+              "nome": "parete Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1783.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Baffelan-viaCarlesso/308/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Fraton",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0564",
+              "nome": "via El Duro del Fraton",
+              "gradoObbligatorio": "VI+ e A0",
+              "gradoMassimo": "VII",
+              "spittatura": "R3",
+              "tiri": 8,
+              "sviluppo": 320.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1650.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PiccoleDolomiti-Fraton-viaElDuro/657/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Primo Apostolo",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0565",
+              "nome": "via Spigolo Faccio o dell'Apostolo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1738.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PiccoleDolomiti-PrimoApostolo-viaSpigoloFaccio/327/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pilastro della Tofana di Rozes",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastro della Tofana di Rozes",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0566",
+              "nome": "via Costantini-Ghedina (spigolo SW)",
+              "gradoObbligatorio": "V+/A0",
+              "gradoMassimo": "V+/VI",
+              "spittatura": null,
+              "tiri": 19,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2820.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Tofana-viaCostantiniGhedina/329/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Cimoncello",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Cimoncello",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0567",
+              "nome": "via El Tùnel de Sivori",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+",
+              "spittatura": "R2",
+              "tiri": 8,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PrealpiVicentine-Cimoncello-viaElTunelDeSivori/714/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sojo Bostel",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sojo Bostel",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0568",
+              "nome": "via Il richiamo di Penna Bianca",
+              "gradoObbligatorio": "obbl. 5c e A0, A1",
+              "gradoMassimo": "6b e A0, A1",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 280.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PrealpiVicentine-SojoBostel-viaIlRichiamoDiPennaBianca/797/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Spalti di Capitel d'Orsa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Spalti di Capitel d'Orsa",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0570",
+              "nome": "via del Luce",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6a+",
+              "spittatura": "S2",
+              "tiri": 6,
+              "sviluppo": 215.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/spalti-di-capitel-d-orsa-via-del-luce/1018/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0571",
+              "nome": "via Pirata Samu",
+              "gradoObbligatorio": "6a+ e A0",
+              "gradoMassimo": "6b+",
+              "spittatura": "S1",
+              "tiri": 7,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/spalti-di-capitel-d-orsa-via-pirata-samu/1009/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val D'Adige",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Bastionate di Tessari",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0573",
+              "nome": "via Del Rientro",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6b, un passo 6b+",
+              "spittatura": "S1",
+              "tiri": 6,
+              "sviluppo": 210.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-del-rientro/1073/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0574",
+              "nome": "via Il Leone di Nemea",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b (6a e A0).",
+              "spittatura": "S1",
+              "tiri": 10,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-il-leone-di-nemea/1013/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0576",
+              "nome": "via Morgana",
+              "gradoObbligatorio": "6b e A0/A1",
+              "gradoMassimo": "6c",
+              "spittatura": "S2",
+              "tiri": 7,
+              "sviluppo": 165.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-morgana/1071/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0579",
+              "nome": "via Rosso Kora",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6b",
+              "spittatura": "S1",
+              "tiri": 9,
+              "sviluppo": 370.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-rosso-kora/1010/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val d'Adige",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Bastionate di Tessari",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0575",
+              "nome": "via Le Nebbie di Avalon",
+              "gradoObbligatorio": "6a+/6b e A0",
+              "gradoMassimo": "6b+",
+              "spittatura": "S1",
+              "tiri": 10,
+              "sviluppo": 360.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-le-nebbie-di-avalon/902/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0577",
+              "nome": "via New Age",
+              "gradoObbligatorio": "5c/6a e A0",
+              "gradoMassimo": "6a+",
+              "spittatura": "S1",
+              "tiri": 5,
+              "sviluppo": 215.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-new-age/927/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0578",
+              "nome": "via Pace senza confini",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "S1",
+              "tiri": 10,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-pace-senza-confini/946/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0580",
+              "nome": "via Winter Blues",
+              "gradoObbligatorio": "6a+ e A0",
+              "gradoMassimo": "6c",
+              "spittatura": "S1",
+              "tiri": 6,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-bastionate-di-tessari-via-winter-blues/944/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Ceraino",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0581",
+              "nome": "via Dedicata a Narcisa",
+              "gradoObbligatorio": "6a/6a+ e A0",
+              "gradoMassimo": "6b",
+              "spittatura": "S1",
+              "tiri": 5,
+              "sviluppo": 135.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-ceraino-via-dedicata-a-narcisa/933/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0582",
+              "nome": "via Deja vu",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-ceraino-via-deja-vu/905/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0583",
+              "nome": "via Grillo Brontolone",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-ceraino-via-grillo-brontolone/891/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0584",
+              "nome": "via Una razza una faccia",
+              "gradoObbligatorio": "6a/6a+ e A0",
+              "gradoMassimo": "6b+",
+              "spittatura": "S1",
+              "tiri": 6,
+              "sviluppo": 155.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-ceraino-via-una-razza-una-faccia/931/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Ceraino, La Prua",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0585",
+              "nome": "via degli Spazzacamini",
+              "gradoObbligatorio": "6a+ e A0",
+              "gradoMassimo": "6b",
+              "spittatura": "S1",
+              "tiri": 7,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ceraino-LaPrua-viaDegliSpazzacamini/770/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Gruppo del Corno D'Aquilio",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0586",
+              "nome": "Parete Bahador (toponimo proposto) - vie I Confini del Pensiero, Oltre i Confini del Pensiero",
+              "gradoObbligatorio": "7a+); 6c e A2 (7b",
+              "gradoMassimo": "6a+ e A2",
+              "spittatura": "S1-",
+              "tiri": 8,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAdige-CornoAquilio-viaIConfiniDelPensiero/852/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Gruppo del Corno D'Aquilio, Parete dei Lavoratori (toponimo proposto)",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0587",
+              "nome": "via Cotechino e pearà",
+              "gradoObbligatorio": "VI+ e A0",
+              "gradoMassimo": "VIII",
+              "spittatura": "R2",
+              "tiri": 5,
+              "sviluppo": 165.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-gruppo-del-corno-d-aquilio-parete-dei-lavoratori-toponimo-proposto-via-cotechino-e-peara/954/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Salto del faraone",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0591",
+              "nome": "via Balla sui buchi",
+              "gradoObbligatorio": "5c e A0",
+              "gradoMassimo": "6a",
+              "spittatura": "S1",
+              "tiri": 6,
+              "sviluppo": 175.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-salto-del-faraone-via-balla-sui-buchi/945/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torre senza nome (toponimo proposto)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre senza nome (toponimo proposto)",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0588",
+              "nome": "via Fessur-INA",
+              "gradoObbligatorio": "VI+ e A0",
+              "gradoMassimo": "VII+",
+              "spittatura": "R1",
+              "tiri": 3,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-gruppo-del-corno-d-aquilio-torre-senza-nome-toponimo-proposto-via-fessur-ina/1019/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0589",
+              "nome": "via Lessinia Crack",
+              "gradoObbligatorio": "VI+ e A0/A1",
+              "gradoMassimo": "VII+",
+              "spittatura": "R1",
+              "tiri": 4,
+              "sviluppo": 75.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-gruppo-del-corno-d-aquilio-torre-senza-nome-toponimo-proposto-via-lessinia-crack/1020/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0590",
+              "nome": "via Tastasal",
+              "gradoObbligatorio": "VI+ e A0/A1",
+              "gradoMassimo": "VIII",
+              "spittatura": "R2",
+              "tiri": 4,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-adige-gruppo-del-corno-d-aquilio-torre-senza-nome-toponimo-proposto-via-tastasal/1021/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val Pramper",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Palon del Felize, parete sud ovest",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0592",
+              "nome": "via Siavash",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-pramper-palon-del-felize-parete-sud-ovest-via-siavash/1052/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Spigolo del Palon del Felize, avancorpo sinistro, parete sud",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0593",
+              "nome": "via Nika",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV+",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 245.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2205.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-pramper-spigolo-del-palon-del-felize-avancorpo-sinistro-parete-sud-m-2205-via-nika/1051/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Tormeno",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Tormeno",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0594",
+              "nome": "via Psychiatric Circus",
+              "gradoObbligatorio": "VI e A0",
+              "gradoMassimo": "VIII+",
+              "spittatura": "R1-",
+              "tiri": 10,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleRioFreddo-MonteTormeno-viaPsychiatricCircus/709/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

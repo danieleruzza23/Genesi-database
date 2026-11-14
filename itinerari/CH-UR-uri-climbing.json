@@ -2352,98 +2352,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "CH",
-      "pareti": [
-        {
-          "nome": "Gandschijen",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-climbing:0171",
-              "nome": "Südpfeiler (via classica)",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "5c+",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2388.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Gandschijen-Sudpfeiler/294/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.657247,
-          "lon": 8.515337
-        },
-        {
-          "nome": "Hochschijen",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-climbing:0172",
-              "nome": "via Cresta Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4b",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2634.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Hochschijen-crestaSud/295/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.656796,
-          "lon": 8.493185
-        },
-        {
-          "nome": "Trotzigplanggstock",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-climbing:0173",
-              "nome": "via Cresta Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4b",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2954.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Trotzigplanggstock-crestaSud/301/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.763836,
-          "lon": 8.474075
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Chli Glatten",
       "paese": "CH",
       "pareti": [
@@ -4403,6 +4311,25 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-UR:routes:routes-climbing:0171",
+              "nome": "Südpfeiler (via classica)",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "5c+",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2388.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Gandschijen-Sudpfeiler/294/",
+                  "siteName": null
+                }
+              ]
             }
           ]
         }
@@ -4532,6 +4459,78 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hochschijen",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Hochschijen",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-climbing:0172",
+              "nome": "via Cresta Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2634.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Hochschijen-crestaSud/295/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.656796,
+          "lon": 8.493185
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Trotzigplanggstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Trotzigplanggstock",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-climbing:0173",
+              "nome": "via Cresta Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2954.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Trotzigplanggstock-crestaSud/301/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.763836,
+          "lon": 8.474075
         }
       ],
       "lat": null,

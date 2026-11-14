@@ -4256,6 +4256,34 @@
           ],
           "lat": 44.19497,
           "lon": 8.3103
+        },
+        {
+          "nome": "Parete Dimenticata, Grotta dell'Edera",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-42:routes:routes-climbing:0326",
+              "nome": "via Capriccio Diagonale",
+              "gradoObbligatorio": "5c e A0",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 75.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 270.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Finale-PareteDimenticata-GrottaEdera-viaCapriccioDiagonale/847/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -8581,98 +8609,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Finale Ligure, Parete Dimenticata, Grotta dell'Edera",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-42:routes:routes-climbing:0326",
-              "nome": "via Capriccio Diagonale",
-              "gradoObbligatorio": "5c e A0",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 75.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 270.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Finale-PareteDimenticata-GrottaEdera-viaCapriccioDiagonale/847/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Finale Ligure, Rocca degli uccelli Spigolo Nord-Est",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-42:routes:routes-climbing:0327",
-              "nome": "Finale Ligure, Rocca degli uccelli Spigolo Nord-Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 130.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Finale-RoccaUccelli-SpigoloNordEst/796/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Moneglia (m.10)",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-42:routes:routes-climbing:0328",
-              "nome": "via Salto nel Blu",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V-",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 10.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Moneglia-viaSaltoNelBlu/210/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Provincia di Savona",
       "paese": "IT",
       "pareti": [
@@ -9071,6 +9007,78 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rocca degli uccelli Spigolo Nord-Est",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Rocca degli uccelli Spigolo Nord-Est",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-42:routes:routes-climbing:0327",
+              "nome": "Finale Ligure, Rocca degli uccelli Spigolo Nord-Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Finale-RoccaUccelli-SpigoloNordEst/796/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Moneglia (m.10)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Moneglia (m.10)",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-42:routes:routes-climbing:0328",
+              "nome": "via Salto nel Blu",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V-",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 10.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Moneglia-viaSaltoNelBlu/210/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

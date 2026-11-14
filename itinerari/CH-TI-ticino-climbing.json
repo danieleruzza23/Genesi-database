@@ -2134,42 +2134,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "CH",
-      "pareti": [
-        {
-          "nome": "Piz Prevat",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0144",
-              "nome": "spigolo nord-est",
-              "gradoObbligatorio": "4c obb.",
-              "gradoMassimo": "5b",
-              "spittatura": null,
-              "tiri": 9,
-              "sviluppo": 260.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2588.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PizPrevat-spigoloNordEst/297/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.474797,
-          "lon": 8.721677
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Ticino",
       "paese": "CH",
       "pareti": [
@@ -3619,6 +3583,42 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Prevat",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Piz Prevat",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0144",
+              "nome": "spigolo nord-est",
+              "gradoObbligatorio": "4c obb.",
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": 9,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2588.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PizPrevat-spigoloNordEst/297/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.474797,
+          "lon": 8.721677
         }
       ],
       "lat": null,

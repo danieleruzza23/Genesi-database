@@ -19182,1190 +19182,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Monte Viso",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0755",
-              "nome": "Parete Nord - Canalone Coolidge",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D, max 70",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3841.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Monviso-CanaloneCoolidge/453/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Punta Giordani",
-          "disciplina": "ice_mixed",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0756",
-              "nome": "via Cresta del Soldato",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD+, un passo di IV-, misto",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4046.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Rosa-Giordani-crestaSoldato/463/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.905694,
-          "lon": 7.868095
-        },
-        {
-          "nome": "Ciarforon",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0757",
-              "nome": "Parete Nord-Ovest",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+, 40",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3642.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GranParadiso-Ciarforon-pareteNord/446/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.492942,
-          "lon": 7.246943
-        },
-        {
-          "nome": "Agaro",
-          "disciplina": "ice_mixed",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0758",
-              "nome": "via Sinfonia dei giocattoli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV/WI5+/M",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 160.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Agaro-viaSinfoniaDeiGiocattoli/837/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Ossola",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0759",
-              "nome": "cascata 'Free' (ramo destro di 'Excalibur') (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 280.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1350.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataFree/524/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Ossola",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0760",
-              "nome": "cascata del rio Steiba (via 'Capitano Nemo') (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1350.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataCapitanoNemo/523/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Ossola",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0761",
-              "nome": "seconda cascata sul torrente Anza (via 'Burchi 2') (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D/TD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1380.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataBurchi2/522/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Ossola",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0762",
-              "nome": "La palestrina (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "Varie",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 50.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataPalestrina/528/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Formazza",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0763",
-              "nome": "cascata Il Diedro",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4+/III",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1300.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataDiedro/527/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Rosazza",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0764",
-              "nome": "Catabolik Couloir",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4/IV",
-              "spittatura": null,
-              "tiri": 13,
-              "sviluppo": 650.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1450.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValRosazza-cascataCatabolikCouloir/529/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Rosazza",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0765",
-              "nome": "Matabolik Couloir",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4/IV",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 600.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1460.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValRosazza-cascataMetabolikCouloir/530/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0766",
-              "nome": "cascata d'Otro (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "da PD a TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 35.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1150.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataOtro/550/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0767",
-              "nome": "cascata Caldaia d'Otro 'Il cancello di moria' (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 140.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1400.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataCaldaiaOtro/545/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0768",
-              "nome": "cascatone di Dsender: Roussian Roulette (*)",
-              "gradoObbligatorio": "4+/III",
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1630.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataDsenderRoussianRoulette/548/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0769",
-              "nome": "cascatone di Dsender: Seelaballgen (La finestra dell'anima) (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1630.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataDsenderSeelaballgen/549/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0770",
-              "nome": "cascatone di Dsender: Anduril (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 30.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1700.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataDsenderAnduril/547/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0771",
-              "nome": "cascata Saccu Bodu (*)",
-              "gradoObbligatorio": "4/III",
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 140.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1750.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataSaccuBodu/551/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0772",
-              "nome": "cascata Saccu Rittu (ramo destro di Saccu Bodu) (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD sostenuto",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1750.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataSaccuRittu/552/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0773",
-              "nome": "cascata Silenzio Walser (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1850.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataSilenzioWalser/554/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0774",
-              "nome": "cascata Trasudiciokk (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 50.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1950.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataTrasudiciokk/553/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val d'Otro",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0775",
-              "nome": "cascata Die Wilte Mandje (l'uomo selvatico) (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 50.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2200.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataDieWilteMandje/546/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0776",
-              "nome": "couloir dell'Alzarella (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1050.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataAlzarella/534/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0777",
-              "nome": "couloir del Cengio Alto (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 230.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1080.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataCengio/536/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0778",
-              "nome": "couloir del Selletto (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1100.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataSelletto/538/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0779",
-              "nome": "couloir dell'Otgnoso (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1100.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataOtgnoso/540/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0780",
-              "nome": "cascata di Damocle (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1250.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataDamocle/537/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0781",
-              "nome": "cascata Pretty Woman (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 140.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1250.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataPrettyWoman/542/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0782",
-              "nome": "cascata del Larice Sospeso (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1450.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataLarice/539/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0783",
-              "nome": "cascata del Wold (o dell'Alpe Campo) (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1580.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataWold/544/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0784",
-              "nome": "cascata del Pastore (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1625.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataPastore/541/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0785",
-              "nome": "cascata dell'Alpe Blatte (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1700.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataBlatte/535/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0786",
-              "nome": "cascata Solstizio d'Inverno (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1850.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataSolstizio/543/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Vogna",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0787",
-              "nome": "cascata Sentiero d'Argento (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1200.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValVogna-cascataSentieroArgento/559/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Vogna",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0788",
-              "nome": "cascata Battesimo della Burba (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 90.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1300.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValVogna-cascataBattesimoBurba/561/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Val Vogna",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0789",
-              "nome": "cascata Il gioco vale la candela (cascata dell'Alpe Larecchio) (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2000.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValVogna-cascataLarecchio/560/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Valle di Bors",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0790",
-              "nome": "cascata Zanna di Tigre (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 130.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1950.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValleBors-cascataZannaTigre/531/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Valle di Bors",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0791",
-              "nome": "cascata di destra delle Pisse (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2100.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValleBors-cascataPisseDestra/533/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Valle di Bors",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0792",
-              "nome": "cascata centrale delle Pisse (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2200.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValleBors-cascataPisseCentrale/532/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Valli Sermenza e d'Egua",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0793",
-              "nome": "cascata Moncucco Gully (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1330.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValSermenzaEgua-cascataMoncuccoGully/557/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Valli Sermenza e d'Egua",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0794",
-              "nome": "cascata Diamante (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 90.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1350.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValSermenzaEgua-cascataDiamante/556/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Valli Sermenza e d'Egua",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0795",
-              "nome": "couloir delle Pietre Marce (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1350.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValSermenzaEgua-cascataPietreMarce/558/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsesia, Valli Sermenza e d'Egua",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-21:routes:routes-ice_mixed:0796",
-              "nome": "couloir della Consolazione (*)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1550.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValSermenzaEgua-cascataConsolazione/555/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Uia di Ciamarella",
       "paese": "IT",
       "pareti": [
@@ -21306,6 +20122,25 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1231068",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0757",
+              "nome": "Parete Nord-Ovest",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+, 40",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3642.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GranParadiso-Ciarforon-pareteNord/446/",
                   "siteName": null
                 }
               ]
@@ -23286,6 +22121,34 @@
               ]
             }
           ]
+        },
+        {
+          "nome": "Punta Giordani",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0756",
+              "nome": "via Cresta del Soldato",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+, un passo di IV-, misto",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4046.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Rosa-Giordani-crestaSoldato/463/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.905694,
+          "lon": 7.868095
         }
       ],
       "lat": null,
@@ -23322,6 +22185,904 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Viso",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Viso",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0755",
+              "nome": "Parete Nord - Canalone Coolidge",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D, max 70",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3841.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Monviso-CanaloneCoolidge/453/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Agaro",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Agaro",
+          "disciplina": "ice_mixed",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0758",
+              "nome": "via Sinfonia dei giocattoli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV/WI5+/M",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Agaro-viaSinfoniaDeiGiocattoli/837/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ossola",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Ossola",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0759",
+              "nome": "cascata 'Free' (ramo destro di 'Excalibur') (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 280.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataFree/524/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0760",
+              "nome": "cascata del rio Steiba (via 'Capitano Nemo') (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataCapitanoNemo/523/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0761",
+              "nome": "seconda cascata sul torrente Anza (via 'Burchi 2') (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D/TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1380.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataBurchi2/522/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0762",
+              "nome": "La palestrina (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "Varie",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 50.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataPalestrina/528/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val Formazza",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Val Formazza",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0763",
+              "nome": "cascata Il Diedro",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4+/III",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1300.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Ossola-cascataDiedro/527/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle di Rosazza",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Valle di Rosazza",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0764",
+              "nome": "Catabolik Couloir",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4/IV",
+              "spittatura": null,
+              "tiri": 13,
+              "sviluppo": 650.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1450.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValRosazza-cascataCatabolikCouloir/529/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0765",
+              "nome": "Matabolik Couloir",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4/IV",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1460.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValRosazza-cascataMetabolikCouloir/530/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valsesia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Val d'Otro",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0766",
+              "nome": "cascata d'Otro (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "da PD a TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 35.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1150.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataOtro/550/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0767",
+              "nome": "cascata Caldaia d'Otro 'Il cancello di moria' (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataCaldaiaOtro/545/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0768",
+              "nome": "cascatone di Dsender: Roussian Roulette (*)",
+              "gradoObbligatorio": "4+/III",
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1630.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataDsenderRoussianRoulette/548/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0769",
+              "nome": "cascatone di Dsender: Seelaballgen (La finestra dell'anima) (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1630.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataDsenderSeelaballgen/549/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0770",
+              "nome": "cascatone di Dsender: Anduril (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 30.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1700.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataDsenderAnduril/547/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0771",
+              "nome": "cascata Saccu Bodu (*)",
+              "gradoObbligatorio": "4/III",
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1750.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataSaccuBodu/551/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0772",
+              "nome": "cascata Saccu Rittu (ramo destro di Saccu Bodu) (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD sostenuto",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1750.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataSaccuRittu/552/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0773",
+              "nome": "cascata Silenzio Walser (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataSilenzioWalser/554/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0774",
+              "nome": "cascata Trasudiciokk (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 50.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataTrasudiciokk/553/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0775",
+              "nome": "cascata Die Wilte Mandje (l'uomo selvatico) (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 50.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2200.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValOtro-cascataDieWilteMandje/546/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Val Grande",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0776",
+              "nome": "couloir dell'Alzarella (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1050.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataAlzarella/534/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0777",
+              "nome": "couloir del Cengio Alto (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 230.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1080.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataCengio/536/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0778",
+              "nome": "couloir del Selletto (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1100.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataSelletto/538/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0779",
+              "nome": "couloir dell'Otgnoso (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1100.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataOtgnoso/540/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0780",
+              "nome": "cascata di Damocle (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1250.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataDamocle/537/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0781",
+              "nome": "cascata Pretty Woman (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1250.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataPrettyWoman/542/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0782",
+              "nome": "cascata del Larice Sospeso (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1450.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataLarice/539/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0783",
+              "nome": "cascata del Wold (o dell'Alpe Campo) (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1580.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataWold/544/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0784",
+              "nome": "cascata del Pastore (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1625.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataPastore/541/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0785",
+              "nome": "cascata dell'Alpe Blatte (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1700.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataBlatte/535/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0786",
+              "nome": "cascata Solstizio d'Inverno (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValGrande-cascataSolstizio/543/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Val Vogna",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0787",
+              "nome": "cascata Sentiero d'Argento (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1200.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValVogna-cascataSentieroArgento/559/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0788",
+              "nome": "cascata Battesimo della Burba (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1300.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValVogna-cascataBattesimoBurba/561/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0789",
+              "nome": "cascata Il gioco vale la candela (cascata dell'Alpe Larecchio) (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2000.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValVogna-cascataLarecchio/560/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Valle di Bors",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0790",
+              "nome": "cascata Zanna di Tigre (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValleBors-cascataZannaTigre/531/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0791",
+              "nome": "cascata di destra delle Pisse (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValleBors-cascataPisseDestra/533/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0792",
+              "nome": "cascata centrale delle Pisse (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2200.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValleBors-cascataPisseCentrale/532/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Valli Sermenza e d'Egua",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0793",
+              "nome": "cascata Moncucco Gully (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1330.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValSermenzaEgua-cascataMoncuccoGully/557/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0794",
+              "nome": "cascata Diamante (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValSermenzaEgua-cascataDiamante/556/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0795",
+              "nome": "couloir delle Pietre Marce (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValSermenzaEgua-cascataPietreMarce/558/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-21:routes:routes-ice_mixed:0796",
+              "nome": "couloir della Consolazione (*)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1550.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsesia-ValSermenzaEgua-cascataConsolazione/555/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

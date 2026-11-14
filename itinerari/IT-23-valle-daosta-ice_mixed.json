@@ -11535,546 +11535,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Cervino",
-          "disciplina": "ice_mixed",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0623",
-              "nome": "Cresta del LeoneTraversata delle creste con discesa sulla Hörnli (via Normale svizzera)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 650.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4478.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cervino-crestaLeone/441/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Dent d’Herens",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0624",
-              "nome": "Cresta Tiefenmatten",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD, III, neve 45°",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 720.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4173.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/dent-d-herens-m-4173-cresta-tiefenmatten/875/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Gran Paradiso, Becca di Monciair",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0625",
-              "nome": "parete Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+, 40",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3544.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GranParadiso-Monciair-pareteNord/447/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.508588,
-          "lon": 7.221968
-        },
-        {
-          "nome": "Gruppo del Gran Paradiso, Gran Sertz (o Gran Serra)",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0626",
-              "nome": "via Normale da Valnontey",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F+, I-II",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3552.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GranParadiso-GranSertz-viaNormaleDaValnontey/732/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Gran Paradiso, Torre di S. Orso",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0627",
-              "nome": "via normale da Valnontey",
-              "gradoObbligatorio": "40° neve/ghiaccio, II su roccia",
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 800.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3618.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GranParadiso-TorreSOrso-viaNormaleDaValnontey/730/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Monte Rosa, Lyskamm Orientale",
-          "disciplina": "ice_mixed",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0628",
-              "nome": "via Cresta Sud (Cresta Sella)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4527.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Rosa-Lyskamm-crestaSella/466/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Bianco",
-          "disciplina": "ice_mixed",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0629",
-              "nome": "Cresta dell'Innominata",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+ (55",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4807.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bianco-crestaInnominata/430/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Ayas",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0630",
-              "nome": "cascata Legolas",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "WI 3+, II",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-ayas-cascata-legolas/1002/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Ayas, Alpe Cortoz",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0631",
-              "nome": "cascata Sbregoretex",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "3+/IV",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2200.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAyas-AlpeCortoz-cascataSbregoretex/2/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valeille (quota m.2080)",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0632",
-              "nome": "cascata Ecknaton",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valeille-cascataEcknaton/517/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Champorcher, Valle della Legna",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0633",
-              "nome": "cascata Il Giardino dei Fiori di Ghiaccio",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "3+/II",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 140.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1350.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Camporcher-cascataGiardinoFiori/509/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Champorcher, Vallone di Champdepraz",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0634",
-              "nome": "cascata del Castello Incantato",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "II, 3+/4",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1318.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Camporcher-cascataCastelloIncantato/510/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Cogne",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0635",
-              "nome": "cascata Parto Gemellare",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4/III",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1350.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleCogne-cascataPartoGemellare/402/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Gressoney",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0636",
-              "nome": "cascata Alpenzù",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "3/II",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1400.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleGressoney-cascataAlpenzu/513/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Gressoney",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0637",
-              "nome": "cascata Chandelle Mireille",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5/III",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1650.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleGressoney-cascataChandelleMireille/514/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Gressoney",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0638",
-              "nome": "cascata Opinioni di un clown",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5/5+/II",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1650.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleGressoney-cascataOpinioniClown/515/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Gressoney, Vallone di Necho",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0639",
-              "nome": "cascata Echi Liquidi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4+/II",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/valle-di-gressoney-vallone-di-necho-cascata-echi-liquidi/998/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle di Rhemes",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0640",
-              "nome": "cascata Quaranta",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4/II/M5",
-              "spittatura": null,
-              "tiri": 2,
-              "sviluppo": 80.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2100.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleRhemes-cascataQuaranta/280/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valsavaranche",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-ice_mixed:0641",
-              "nome": "cascata di Rovenaud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4/II",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1600.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsavaranche-cascataRovenaud/520/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Alta Savoia / Valle d'Aosta",
       "paese": "IT",
       "pareti": [
@@ -12815,6 +12275,34 @@
               ]
             }
           ]
+        },
+        {
+          "nome": "Monte Bianco",
+          "disciplina": "ice_mixed",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0629",
+              "nome": "Cresta dell'Innominata",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+ (55",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4807.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bianco-crestaInnominata/430/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -13577,6 +13065,34 @@
               ]
             }
           ]
+        },
+        {
+          "nome": "Cervino",
+          "disciplina": "ice_mixed",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0623",
+              "nome": "Cresta del LeoneTraversata delle creste con discesa sulla Hörnli (via Normale svizzera)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4478.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cervino-crestaLeone/441/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -16090,6 +15606,25 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0625",
+              "nome": "parete Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+, 40",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3544.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GranParadiso-Monciair-pareteNord/447/",
+                  "siteName": null
+                }
+              ]
             }
           ]
         },
@@ -17981,6 +17516,524 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Dent d’Herens",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Dent d’Herens",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0624",
+              "nome": "Cresta Tiefenmatten",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD, III, neve 45°",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 720.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4173.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/dent-d-herens-m-4173-cresta-tiefenmatten/875/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo del Gran Paradiso",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Gran Sertz (o Gran Serra)",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0626",
+              "nome": "via Normale da Valnontey",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+, I-II",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3552.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GranParadiso-GranSertz-viaNormaleDaValnontey/732/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torre di S. Orso",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre di S. Orso",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0627",
+              "nome": "via normale da Valnontey",
+              "gradoObbligatorio": "40° neve/ghiaccio, II su roccia",
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3618.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GranParadiso-TorreSOrso-viaNormaleDaValnontey/730/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo del Monte Rosa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Lyskamm Orientale",
+          "disciplina": "ice_mixed",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0628",
+              "nome": "via Cresta Sud (Cresta Sella)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4527.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Rosa-Lyskamm-crestaSella/466/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val d'Ayas",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Val d'Ayas",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0630",
+              "nome": "cascata Legolas",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "WI 3+, II",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-d-ayas-cascata-legolas/1002/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Alpe Cortoz",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0631",
+              "nome": "cascata Sbregoretex",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3+/IV",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2200.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAyas-AlpeCortoz-cascataSbregoretex/2/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valeille (quota m.2080)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Valeille (quota m.2080)",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0632",
+              "nome": "cascata Ecknaton",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valeille-cascataEcknaton/517/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle di Champorcher",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Valle della Legna",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0633",
+              "nome": "cascata Il Giardino dei Fiori di Ghiaccio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3+/II",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 140.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Camporcher-cascataGiardinoFiori/509/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Vallone di Champdepraz",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0634",
+              "nome": "cascata del Castello Incantato",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "II, 3+/4",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1318.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Camporcher-cascataCastelloIncantato/510/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle di Cogne",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Valle di Cogne",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0635",
+              "nome": "cascata Parto Gemellare",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4/III",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleCogne-cascataPartoGemellare/402/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle di Gressoney",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Valle di Gressoney",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0636",
+              "nome": "cascata Alpenzù",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3/II",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleGressoney-cascataAlpenzu/513/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0637",
+              "nome": "cascata Chandelle Mireille",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5/III",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1650.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleGressoney-cascataChandelleMireille/514/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0638",
+              "nome": "cascata Opinioni di un clown",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5/5+/II",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1650.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleGressoney-cascataOpinioniClown/515/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Vallone di Necho",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0639",
+              "nome": "cascata Echi Liquidi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4+/II",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/valle-di-gressoney-vallone-di-necho-cascata-echi-liquidi/998/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle di Rhemes",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Valle di Rhemes",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0640",
+              "nome": "cascata Quaranta",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4/II/M5",
+              "spittatura": null,
+              "tiri": 2,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleRhemes-cascataQuaranta/280/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valsavaranche",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Valsavaranche",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-ice_mixed:0641",
+              "nome": "cascata di Rovenaud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4/II",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Valsavaranche-cascataRovenaud/520/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

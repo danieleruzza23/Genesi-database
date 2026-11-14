@@ -2032,42 +2032,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "CH",
-      "pareti": [
-        {
-          "nome": "Pizzo Cengalo",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "CH-GR:routes:routes-climbing:0106",
-              "nome": "via Gaiser-Lehmann (spigolo Nord Ovest)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 17,
-              "sviluppo": 1100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3367.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cengalo-viaGaiserLehmann/289/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.310116,
-          "lon": 9.597194
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Piz Cavardiras",
       "paese": "CH",
       "pareti": [
@@ -3038,6 +3002,42 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Cengalo",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Pizzo Cengalo",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "CH-GR:routes:routes-climbing:0106",
+              "nome": "via Gaiser-Lehmann (spigolo Nord Ovest)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 17,
+              "sviluppo": 1100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3367.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cengalo-viaGaiserLehmann/289/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.310116,
+          "lon": 9.597194
         }
       ],
       "lat": null,

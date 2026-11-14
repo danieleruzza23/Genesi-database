@@ -30416,6 +30416,34 @@
           ],
           "lat": null,
           "lon": null
+        },
+        {
+          "nome": "Sasso della Croce",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1165",
+              "nome": "via Grande Muro (via Messner)",
+              "gradoObbligatorio": "VI+ e A0",
+              "gradoMassimo": "VII",
+              "spittatura": null,
+              "tiri": 9,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2825.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoCroce-viaGrandeMuro/400/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -30473,6 +30501,34 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Tognazza-viaRothko/754/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.29794,
+          "lon": 11.78863
+        },
+        {
+          "nome": "Tognazza",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1167",
+              "nome": "via Andrea Mancin",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 240.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2209.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/tognazza-m-2209-via-andrea-mancin/1030/",
                   "siteName": null
                 }
               ]
@@ -30540,6 +30596,25 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "IT-32:routes:routes-climbing:1169",
+              "nome": "via Comici (parete N)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI e A0",
+              "spittatura": null,
+              "tiri": 15,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2998.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lavaredo-CimaGrande-viaComici/342/",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": null,
@@ -30600,6 +30675,34 @@
           ],
           "lat": null,
           "lon": null
+        },
+        {
+          "nome": "Cima Grande, parete Nord",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1170",
+              "nome": "via Hasse-Brandler",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": 21,
+              "sviluppo": 740.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2998.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lavaredo-CimaGrande-viaHasseBrandler/624/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -30636,1134 +30739,6 @@
           ],
           "lat": 46.307171,
           "lon": 11.810365
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Corno di Lago Scuro",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1140",
-              "nome": "via Faustinelli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3166.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lagoscuro-viaFaustinelli/597/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.231311,
-          "lon": 10.568459
-        },
-        {
-          "nome": "Croz dell'Altissimo",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1141",
-              "nome": "via Dibona",
-              "gradoObbligatorio": "V+ e A0",
-              "gradoMassimo": "VI+",
-              "spittatura": null,
-              "tiri": 26,
-              "sviluppo": 1000.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2339.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Brenta-CrozAltissimo-viaDibona/336/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.169457,
-          "lon": 10.941456
-        },
-        {
-          "nome": "Daint de Mesdì",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1142",
-              "nome": "via Rizzi-Thomasson (parete sud)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "III e IV",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 360.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2881.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/DaintMesdi-viaRizziThomasson/339/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Dolomiti di Brenta, Brenta Alta - Parete Nord-Est",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1143",
-              "nome": "via Detassis",
-              "gradoObbligatorio": "VI obb.",
-              "gradoMassimo": "VI+",
-              "spittatura": null,
-              "tiri": 17,
-              "sviluppo": 550.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2960.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Brenta-BrentaAlta-viaDetassis/334/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gola del Limarò, Parete Crispino Salvaterra",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1144",
-              "nome": "via Calypso",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Limaro-viaCalypso/863/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gola del Limarò, Parete Crispino Salvaterra",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1145",
-              "nome": "via The Passenger",
-              "gradoObbligatorio": "5c/6a e A0",
-              "gradoMassimo": "6b+",
-              "spittatura": "S1",
-              "tiri": 7,
-              "sviluppo": 185.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/gola-del-limaro-parete-crispino-salvaterra-via-the-passenger/864/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Catinaccio, Torri del Vajolet, Torre Delago",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1146",
-              "nome": "via Preuss",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V+",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2790.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Vajolet-TorreDelago-viaPreuss/409/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Catinaccio, Torri del Vajolet, Torre Delago",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1147",
-              "nome": "via Schrott-Hasse",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+ e A0, A1",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 485.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2790.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Vajolet-TorreDelago-viaSchrott-Hasse/644/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Sassolungo, Pollice",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1148",
-              "nome": "via Spigolo nord (spigolo del Pollice)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "III, IV",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2953.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Pollice-viaSpigoloNord/353/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Sassolungo, Prima Torre del Sassopiatto, parete nord-est",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1149",
-              "nome": "via Soldà",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": "R3",
-              "tiri": 12,
-              "sviluppo": 550.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2691.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sassolungo-Sassopiatto-viaSolda/722/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.51296,
-          "lon": 11.738102
-        },
-        {
-          "nome": "Gruppo del Sassolungo, Punta Grohmann, parete sud",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1150",
-              "nome": "via Dimai",
-              "gradoObbligatorio": "III, IV",
-              "gradoMassimo": "AD+",
-              "spittatura": null,
-              "tiri": 13,
-              "sviluppo": 500.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3216.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Grohmann-viaDimai/341/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo della Vallaccia, Piramide Delmonego",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1151",
-              "nome": "via Pilastro Bello",
-              "gradoObbligatorio": "VI+ obb.",
-              "gradoMassimo": "VII",
-              "spittatura": "R3",
-              "tiri": 13,
-              "sviluppo": 470.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Vallaccia-PiramideDelmonego-viaPilastroBello/745/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo della Vallaccia, Zoccol",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1152",
-              "nome": "via dei Tre Settori",
-              "gradoObbligatorio": "VII",
-              "gradoMassimo": "VII- e A0",
-              "spittatura": "R3",
-              "tiri": 15,
-              "sviluppo": 530.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2661.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/gruppo-della-vallaccia-zoccol-m-2661-via-dei-tre-settori/874/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo delle Cunturines, Sasso delle Dieci, parete NW della torre 2400m, Torre Prosser (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1153",
-              "nome": "via Delirio Giallo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED, VII- e A3",
-              "spittatura": null,
-              "tiri": 12,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoDieci-TorreProsser-viaDelirioGiallo/594/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo delle Cunturines, Sasso delle Dieci, Parete NW, PIRAMIDE LADINA (toponimo proposto), anticima (circa m.2250)",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1154",
-              "nome": "via GODÜDA",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "III, IV, tratti di V",
-              "spittatura": "R3",
-              "tiri": 8,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/cunturines-sasso-dieci-parete-nw-piramide-ladina-anticima-m-2250-via-goduda/913/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo delle Cunturines, Sasso delle Dieci, Punta 2400 della Parete NW, Pilastro di Spescia (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1155",
-              "nome": "via Sogno Infinito",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+, VI e A1",
-              "spittatura": null,
-              "tiri": 21,
-              "sviluppo": 730.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoDieci-PilastroSpescia-viaSognoInfinito/401/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo delle Odle, Furchetta- via Solleder (parete N)",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1156",
-              "nome": "Gruppo delle Odle, Furchetta- via Solleder (parete N)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 20,
-              "sviluppo": 900.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3030.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Furchetta-viaSolleder/340/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Mur de Pissadù Orientale",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1157",
-              "nome": "via Dalla Chiesa (sperone Nord-Est)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "III e IV",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 450.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2530.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Pissadu-viaDallaChiesa/347/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pala di Socorda - spigolo Sud",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1158",
-              "nome": "spigolo Shubert-Werner",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 13,
-              "sviluppo": 500.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2440.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PalaSocorda-viaShubertWerner/345/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pala di Socorda",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1159",
-              "nome": "via Il Maleducato",
-              "gradoObbligatorio": "VI+ e A0",
-              "gradoMassimo": "VII",
-              "spittatura": "R2",
-              "tiri": 18,
-              "sviluppo": 575.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2440.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/pala-di-socorda-m-2440-via-il-maleducato/925/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pale di San Martino, Cima dei Lastei, parete sud",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1160",
-              "nome": "via Perla Nera",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 16,
-              "sviluppo": 770.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2846.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PaleSanMartino-Lastei-viaPerlaNera/626/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pale di San Martino, Sass d'Ortiga",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1161",
-              "nome": "via Scalet-Bettega",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+",
-              "spittatura": "R3",
-              "tiri": 9,
-              "sviluppo": 500.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2634.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/pale-di-san-martino-sass-d-ortiga-m-2634-via-scalet-bettega/920/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.23276,
-          "lon": 11.903374
-        },
-        {
-          "nome": "Parete del Limarò",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1162",
-              "nome": "via Pralaya",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VII e A0",
-              "spittatura": "R2",
-              "tiri": 10,
-              "sviluppo": 260.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Limaro-viaPralaya/861/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Piccolo Sass dla Luesa - combinazione diretta, vie Bernardi - Walde",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1163",
-              "nome": "Messner",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+",
-              "spittatura": "R3",
-              "tiri": 15,
-              "sviluppo": 520.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/piccolo-sass-dla-luesa-combinazione-diretta-vie-bernardi-walde-messner/922/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Sass dals Nü",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1164",
-              "nome": "via Goedeke",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV e V",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2904.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassDalsNu-viaGoedeke/398/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Sasso della Croce",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1165",
-              "nome": "via Grande Muro (via Messner)",
-              "gradoObbligatorio": "VI+ e A0",
-              "gradoMassimo": "VII",
-              "spittatura": null,
-              "tiri": 9,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2825.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoCroce-viaGrandeMuro/400/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Sottogruppo della Roda de Vaèl, Roda de Vaèl",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1166",
-              "nome": "via Rizzi (diretta parete Est)",
-              "gradoObbligatorio": "max V+",
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 380.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/RodaDeVael-viaDirettaRizzi/355/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Tognazza",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1167",
-              "nome": "via Andrea Mancin",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 240.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2209.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/tognazza-m-2209-via-andrea-mancin/1030/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.29794,
-          "lon": 11.78863
-        },
-        {
-          "nome": "Torre Innominata di Cima Capi",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1168",
-              "nome": "via Dei Rinneganti (o via Pandemia)",
-              "gradoObbligatorio": "VI e A0",
-              "gradoMassimo": "VII-",
-              "spittatura": "R2-",
-              "tiri": 7,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/torre-innominata-di-cima-capi-via-dei-rinneganti-o-via-pandemia/994/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Tre Cime di Lavaredo - Cima Grande",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1169",
-              "nome": "via Comici (parete N)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI e A0",
-              "spittatura": null,
-              "tiri": 15,
-              "sviluppo": 550.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2998.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lavaredo-CimaGrande-viaComici/342/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Tre Cime di Lavaredo - Cima Grande, parete Nord",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1170",
-              "nome": "via Hasse-Brandler",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": 21,
-              "sviluppo": 740.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2998.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lavaredo-CimaGrande-viaHasseBrandler/624/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Monte Cola, Corno Gallina",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1171",
-              "nome": "via Oldies but Goldies",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+ e A1",
-              "spittatura": "R2-",
-              "tiri": 30,
-              "sviluppo": 725.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/valAdige-MonteCola-CornoGallina-viaOldiesButGoldies/791/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Monte Vignola, Pilastro Tonina",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1172",
-              "nome": "via Iris",
-              "gradoObbligatorio": "VI e A0",
-              "gradoMassimo": "VIII+",
-              "spittatura": "R2",
-              "tiri": 9,
-              "sviluppo": 270.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1607.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAdige-MonteVignola-PilastroTonina-viaIris/677/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Punta Piagù, Pilastro della paura (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1173",
-              "nome": "Via Psycho (Dedicata a Chiara Beltrame e Rafael De Miguel)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": "R3",
-              "tiri": 9,
-              "sviluppo": 285.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1094.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAdige-PuntaPiagu-PilastroPaura-viaPsyco/706/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val d'Adige, Sengia Rossa",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1174",
-              "nome": "via Camera con vista",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+ e A0/A1.",
-              "spittatura": "R3",
-              "tiri": 8,
-              "sviluppo": 240.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAdige-SengiaRossa-viaCameraConVista/704/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle del Sarca - Monte Casale, Pilastro Giusti, I° Pilastro",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1175",
-              "nome": "via del Missile",
-              "gradoObbligatorio": "VI/A0",
-              "gradoMassimo": "VII-/VII",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Casale-viaDelMissile/362/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle del Sarca - Pian della Paia (Piccolo Dain di Pietramurata)",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1176",
-              "nome": "via Emanuele Zenatti",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaZenatti/392/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle del Sarca - Pian della Paia (Piccolo Dain di Pietramurata)",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1177",
-              "nome": "via Il karma grave",
-              "gradoObbligatorio": "VII+/VIII-",
-              "gradoMassimo": "VI+ e A0",
-              "spittatura": "R3",
-              "tiri": 11,
-              "sviluppo": 320.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaKarmaGrave/814/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle del Sarca - Pian della Paia (Piccolo Dain di Pietramurata)",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1178",
-              "nome": "via Siebenschlafer (Ghiro)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaGhiro/388/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle del Sarca - Piccolo Dain di Pietramurata (o Pala del Pian della Paia)",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-climbing:1179",
-              "nome": "via Cesare Levis (Diedro Manolo)",
-              "gradoObbligatorio": "VI e A0",
-              "gradoMassimo": "VI+",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 400.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaCesareLevis/385/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
         }
       ],
       "lat": null,
@@ -33953,6 +32928,1178 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Corno di Lago Scuro",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Corno di Lago Scuro",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1140",
+              "nome": "via Faustinelli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3166.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lagoscuro-viaFaustinelli/597/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.231311,
+          "lon": 10.568459
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Croz dell'Altissimo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Croz dell'Altissimo",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1141",
+              "nome": "via Dibona",
+              "gradoObbligatorio": "V+ e A0",
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": 26,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2339.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Brenta-CrozAltissimo-viaDibona/336/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.169457,
+          "lon": 10.941456
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Daint de Mesdì",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Daint de Mesdì",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1142",
+              "nome": "via Rizzi-Thomasson (parete sud)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "III e IV",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 360.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2881.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/DaintMesdi-viaRizziThomasson/339/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Dolomiti di Brenta",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Brenta Alta - Parete Nord-Est",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1143",
+              "nome": "via Detassis",
+              "gradoObbligatorio": "VI obb.",
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": 17,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2960.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Brenta-BrentaAlta-viaDetassis/334/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gola del Limarò",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Parete Crispino Salvaterra",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1144",
+              "nome": "via Calypso",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Limaro-viaCalypso/863/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-climbing:1145",
+              "nome": "via The Passenger",
+              "gradoObbligatorio": "5c/6a e A0",
+              "gradoMassimo": "6b+",
+              "spittatura": "S1",
+              "tiri": 7,
+              "sviluppo": 185.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/gola-del-limaro-parete-crispino-salvaterra-via-the-passenger/864/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torri del Vajolet",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre Delago",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1146",
+              "nome": "via Preuss",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V+",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2790.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Vajolet-TorreDelago-viaPreuss/409/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-climbing:1147",
+              "nome": "via Schrott-Hasse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+ e A0, A1",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 485.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2790.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Vajolet-TorreDelago-viaSchrott-Hasse/644/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo del Sassolungo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pollice",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1148",
+              "nome": "via Spigolo nord (spigolo del Pollice)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "III, IV",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2953.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Pollice-viaSpigoloNord/353/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Prima Torre del Sassopiatto, parete nord-est",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1149",
+              "nome": "via Soldà",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": "R3",
+              "tiri": 12,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2691.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sassolungo-Sassopiatto-viaSolda/722/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.51296,
+          "lon": 11.738102
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Grohmann",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "parete sud",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1150",
+              "nome": "via Dimai",
+              "gradoObbligatorio": "III, IV",
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": 13,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3216.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Grohmann-viaDimai/341/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo della Vallaccia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Piramide Delmonego",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1151",
+              "nome": "via Pilastro Bello",
+              "gradoObbligatorio": "VI+ obb.",
+              "gradoMassimo": "VII",
+              "spittatura": "R3",
+              "tiri": 13,
+              "sviluppo": 470.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Vallaccia-PiramideDelmonego-viaPilastroBello/745/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Zoccol",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1152",
+              "nome": "via dei Tre Settori",
+              "gradoObbligatorio": "VII",
+              "gradoMassimo": "VII- e A0",
+              "spittatura": "R3",
+              "tiri": 15,
+              "sviluppo": 530.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2661.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/gruppo-della-vallaccia-zoccol-m-2661-via-dei-tre-settori/874/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sasso delle Dieci",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "parete NW della torre 2400m, Torre Prosser (toponimo proposto)",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1153",
+              "nome": "via Delirio Giallo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED, VII- e A3",
+              "spittatura": null,
+              "tiri": 12,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoDieci-TorreProsser-viaDelirioGiallo/594/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Parete NW, PIRAMIDE LADINA (toponimo proposto), anticima (circa m.2250)",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1154",
+              "nome": "via GODÜDA",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "III, IV, tratti di V",
+              "spittatura": "R3",
+              "tiri": 8,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/cunturines-sasso-dieci-parete-nw-piramide-ladina-anticima-m-2250-via-goduda/913/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Punta 2400 della Parete NW, Pilastro di Spescia (toponimo proposto)",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1155",
+              "nome": "via Sogno Infinito",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+, VI e A1",
+              "spittatura": null,
+              "tiri": 21,
+              "sviluppo": 730.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoDieci-PilastroSpescia-viaSognoInfinito/401/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo delle Odle",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Furchetta- via Solleder (parete N)",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1156",
+              "nome": "Gruppo delle Odle, Furchetta- via Solleder (parete N)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 20,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3030.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Furchetta-viaSolleder/340/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mur de Pissadù Orientale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Mur de Pissadù Orientale",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1157",
+              "nome": "via Dalla Chiesa (sperone Nord-Est)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "III e IV",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2530.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Pissadu-viaDallaChiesa/347/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pala di Socorda",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "spigolo Sud",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1158",
+              "nome": "spigolo Shubert-Werner",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 13,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2440.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PalaSocorda-viaShubertWerner/345/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Pala di Socorda",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1159",
+              "nome": "via Il Maleducato",
+              "gradoObbligatorio": "VI+ e A0",
+              "gradoMassimo": "VII",
+              "spittatura": "R2",
+              "tiri": 18,
+              "sviluppo": 575.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2440.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/pala-di-socorda-m-2440-via-il-maleducato/925/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima dei Lastei",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "parete sud",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1160",
+              "nome": "via Perla Nera",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 16,
+              "sviluppo": 770.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2846.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PaleSanMartino-Lastei-viaPerlaNera/626/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sass d'Ortiga",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sass d'Ortiga",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1161",
+              "nome": "via Scalet-Bettega",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+",
+              "spittatura": "R3",
+              "tiri": 9,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2634.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/pale-di-san-martino-sass-d-ortiga-m-2634-via-scalet-bettega/920/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.23276,
+          "lon": 11.903374
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Parete del Limarò",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Parete del Limarò",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1162",
+              "nome": "via Pralaya",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VII e A0",
+              "spittatura": "R2",
+              "tiri": 10,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Limaro-viaPralaya/861/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piccolo Sass dla Luesa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "combinazione diretta, vie Bernardi - Walde",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1163",
+              "nome": "Messner",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+",
+              "spittatura": "R3",
+              "tiri": 15,
+              "sviluppo": 520.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/piccolo-sass-dla-luesa-combinazione-diretta-vie-bernardi-walde-messner/922/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sass dals Nü",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sass dals Nü",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1164",
+              "nome": "via Goedeke",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV e V",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2904.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassDalsNu-viaGoedeke/398/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sottogruppo della Roda de Vaèl",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Roda de Vaèl",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1166",
+              "nome": "via Rizzi (diretta parete Est)",
+              "gradoObbligatorio": "max V+",
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 380.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/RodaDeVael-viaDirettaRizzi/355/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torre Innominata di Cima Capi",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre Innominata di Cima Capi",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1168",
+              "nome": "via Dei Rinneganti (o via Pandemia)",
+              "gradoObbligatorio": "VI e A0",
+              "gradoMassimo": "VII-",
+              "spittatura": "R2-",
+              "tiri": 7,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/torre-innominata-di-cima-capi-via-dei-rinneganti-o-via-pandemia/994/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Cola",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Corno Gallina",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1171",
+              "nome": "via Oldies but Goldies",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+ e A1",
+              "spittatura": "R2-",
+              "tiri": 30,
+              "sviluppo": 725.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/valAdige-MonteCola-CornoGallina-viaOldiesButGoldies/791/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Vignola",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastro Tonina",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1172",
+              "nome": "via Iris",
+              "gradoObbligatorio": "VI e A0",
+              "gradoMassimo": "VIII+",
+              "spittatura": "R2",
+              "tiri": 9,
+              "sviluppo": 270.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1607.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAdige-MonteVignola-PilastroTonina-viaIris/677/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Piagù",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastro della paura (toponimo proposto)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1173",
+              "nome": "Via Psycho (Dedicata a Chiara Beltrame e Rafael De Miguel)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": "R3",
+              "tiri": 9,
+              "sviluppo": 285.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1094.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAdige-PuntaPiagu-PilastroPaura-viaPsyco/706/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val d'Adige",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sengia Rossa",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1174",
+              "nome": "via Camera con vista",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+ e A0/A1.",
+              "spittatura": "R3",
+              "tiri": 8,
+              "sviluppo": 240.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValAdige-SengiaRossa-viaCameraConVista/704/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle del Sarca",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Casale, Pilastro Giusti, I° Pilastro",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1175",
+              "nome": "via del Missile",
+              "gradoObbligatorio": "VI/A0",
+              "gradoMassimo": "VII-/VII",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Casale-viaDelMissile/362/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Pian della Paia (Piccolo Dain di Pietramurata)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1176",
+              "nome": "via Emanuele Zenatti",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaZenatti/392/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-climbing:1177",
+              "nome": "via Il karma grave",
+              "gradoObbligatorio": "VII+/VIII-",
+              "gradoMassimo": "VI+ e A0",
+              "spittatura": "R3",
+              "tiri": 11,
+              "sviluppo": 320.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaKarmaGrave/814/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-climbing:1178",
+              "nome": "via Siebenschlafer (Ghiro)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaGhiro/388/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Piccolo Dain di Pietramurata (o Pala del Pian della Paia)",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-climbing:1179",
+              "nome": "via Cesare Levis (Diedro Manolo)",
+              "gradoObbligatorio": "VI e A0",
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 400.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarca-Paia-viaCesareLevis/385/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

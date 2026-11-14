@@ -1732,70 +1732,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Gruppo del Carega, Cima Mosca",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-ice_mixed:0068",
-              "nome": "Vajo Interrotto",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "Neve 60°, misto M3, roccia IV",
-              "spittatura": "R3-",
-              "tiri": 4,
-              "sviluppo": 700.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2141.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Carega-CimaMosca-VajoInterrotto/789/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Carega, Cima Mosca",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-ice_mixed:0069",
-              "nome": "Vajo Supermosca",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "M6, neve 30°-70°",
-              "spittatura": "R2",
-              "tiri": 6,
-              "sviluppo": 700.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2141.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Carega-CimaMosca-VajoSupermosca/723/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Civetta",
       "paese": "IT",
       "pareti": [
@@ -1990,6 +1926,61 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Mosca",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Mosca",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-ice_mixed:0068",
+              "nome": "Vajo Interrotto",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "Neve 60°, misto M3, roccia IV",
+              "spittatura": "R3-",
+              "tiri": 4,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2141.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Carega-CimaMosca-VajoInterrotto/789/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-ice_mixed:0069",
+              "nome": "Vajo Supermosca",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M6, neve 30°-70°",
+              "spittatura": "R2",
+              "tiri": 6,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2141.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Carega-CimaMosca-VajoSupermosca/723/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

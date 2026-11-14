@@ -8300,6 +8300,63 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0951",
+              "nome": "via Buon Compleanno",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VII- (VI+ e A0).",
+              "spittatura": "R2-",
+              "tiri": 4,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2427.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/presolana-del-prato-m-2427-via-buon-compleanno/1026/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0952",
+              "nome": "via dei Refrattari",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": "R3",
+              "tiri": 5,
+              "sviluppo": 175.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2427.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaPrato-viaDeiRefrattari/843/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0953",
+              "nome": "via L'ira di Milio",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6b",
+              "spittatura": "S1",
+              "tiri": 5,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2427.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/presolana-del-prato-m-2427-via-l-ira-di-milio/1031/",
+                  "siteName": null
+                }
+              ]
             }
           ]
         }
@@ -23532,6 +23589,53 @@
           ],
           "lat": null,
           "lon": null
+        },
+        {
+          "nome": "Presolana Occidentale",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0954",
+              "nome": "spigolo Castiglioni",
+              "gradoObbligatorio": "V e A0",
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 240.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2521.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaOccidentale-viaSpigoloCastiglioni/1/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0955",
+              "nome": "via Bosio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+/VII, A0-A1",
+              "spittatura": null,
+              "tiri": 12,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2521.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaOccidentale-viaBosio/168/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -23589,1442 +23693,6 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaNord-viaUnGiardinoPerGianmario/769/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Anticima Pizzo Arera",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0928",
-              "nome": "via dei Cugini",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "S1",
-              "tiri": 8,
-              "sviluppo": 225.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2300.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/anticima-pizzo-arera-m-2300-circa-via-dei-cugini/1032/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Cima Orientale Piazzotti",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0929",
-              "nome": "via Francesca",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI-",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2179.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CimaOrientalePiazzotti-viaFrancesca/719/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Cimone della Bagozza",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0930",
-              "nome": "via Cassin",
-              "gradoObbligatorio": "VI e A0",
-              "gradoMassimo": "VI+",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2409.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CimoneBagozza-viaCassin/80/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.014065,
-          "lon": 10.200054
-        },
-        {
-          "nome": "Grande Dalle",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0931",
-              "nome": "Via Sapori d'inverno",
-              "gradoObbligatorio": "6b e A0",
-              "gradoMassimo": "6b+",
-              "spittatura": "S1",
-              "tiri": 6,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1375.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GrandeDalle-viaSaporiInverno/776/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Lecco, Bastionata del Lago, Punta Todeschini",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0932",
-              "nome": "via Z di ZARRO",
-              "gradoObbligatorio": "VII+",
-              "gradoMassimo": "VI+ e A1",
-              "spittatura": "R3",
-              "tiri": 8,
-              "sviluppo": 255.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/lecco-bastionata-del-lago-punta-todeschini-via-z-di-zarro/895/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Orobie, Falso Pizzo di Trona, Gran diedro N.O.",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0933",
-              "nome": "via del Crapun",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-, max IV+",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/FalsoPizzoTrona-viaCrapun/75/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pilastri del Moregallo",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0934",
-              "nome": "via Il Grissino",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 850.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Moregallo-viaIlGrissino/157/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pilastri del Moregallo, Pilastro Gabriele Comi",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0935",
-              "nome": "via Bibì Bibò e Capitan Cocoricò",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI e A0",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 850.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Moregallo-viaBibiBobo/156/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pilastri del Moregallo, Torre Piero Piacco",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0936",
-              "nome": "via Lo Spirito del Barba",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 155.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 850.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Moregallo-viaSpiritoBarba/158/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pilastri di S.Valentino, Pilastro dell'Ago",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0937",
-              "nome": "via I Babbi di Natale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V+",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 170.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PilastriValentino-PilastroAgo-viaIBabbiDiNatale/566/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pinnacolo di Maslana via Pegaso machine",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0938",
-              "nome": "Pinnacolo di Maslana via Pegaso machine",
-              "gradoObbligatorio": "VI+ e A2",
-              "gradoMassimo": "VIII",
-              "spittatura": "R2",
-              "tiri": 6,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1857.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PinnacoloMaslana-viaPegasoMachine/691/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pizzo d'Eghen",
-          "disciplina": "climbing",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0939",
-              "nome": "via Camino Cassin o Filippo Corridoni con uscita Soffiando nel vento",
-              "gradoObbligatorio": "Cassin), 6a+, A1 (o 7a+)(Soffiando",
-              "gradoMassimo": "VI+, A0, A1",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 580.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1832.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Grignone-Eghen-viaCassin/142/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.975272,
-          "lon": 9.384062
-        },
-        {
-          "nome": "Placchette del San Martino, I Bagai de Lecch",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0940",
-              "nome": "Via De Sfross e Via-Kal",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "max VI+",
-              "spittatura": null,
-              "tiri": 2,
-              "sviluppo": 70.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/placchette-del-san-martino-i-bagai-de-lecch-via-de-sfross-e-via-kal/878/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Precipizio di Strem, La ragnatela",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0941",
-              "nome": "via La ragnatela (ex Galassie in movimento)",
-              "gradoObbligatorio": "6a/6a+ e A0",
-              "gradoMassimo": "6b+",
-              "spittatura": "S2",
-              "tiri": 9,
-              "sviluppo": 330.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Strem-Ragnatela-viaLaRagnatela/741/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0942",
-              "nome": "via Bramani (spigolo SSO)",
-              "gradoObbligatorio": "V+ e A0 obb.",
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 270.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2517.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaBramani/162/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0943",
-              "nome": "via Echi Verticali con uscita in vetta (parete S)",
-              "gradoObbligatorio": "6a obb.",
-              "gradoMassimo": "6a+/6b",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2517.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaEchiVerticali/163/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0944",
-              "nome": "via Ester (Parete S)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V+/VI",
-              "spittatura": null,
-              "tiri": 9,
-              "sviluppo": 240.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2517.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaEster/563/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0945",
-              "nome": "via Gian-Mauri",
-              "gradoObbligatorio": "6a+ e A0",
-              "gradoMassimo": "6b+",
-              "spittatura": "S1",
-              "tiri": 5,
-              "sviluppo": 160.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2517.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaGianMauri/682/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0946",
-              "nome": "via Sa.Vi.An",
-              "gradoObbligatorio": "VI obb.",
-              "gradoMassimo": "VI+ e A0",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 250.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2517.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaSavian/164/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0947",
-              "nome": "via Spigolando (parete S)",
-              "gradoObbligatorio": "6a obb.",
-              "gradoMassimo": "6a+/6b",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 190.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2517.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaSpigolando/165/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0948",
-              "nome": "spigolo Longo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "V-",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2517.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaSpigoloLongo/166/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0949",
-              "nome": "via Panico e salamico",
-              "gradoObbligatorio": "6b+ obb.",
-              "gradoMassimo": "7a",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 135.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaPanicoSalamico/829/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0950",
-              "nome": "via Yook Yook",
-              "gradoObbligatorio": "6b+ obb.",
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 175.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaYookYook/830/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana del Prato",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0951",
-              "nome": "via Buon Compleanno",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VII- (VI+ e A0).",
-              "spittatura": "R2-",
-              "tiri": 4,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2427.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/presolana-del-prato-m-2427-via-buon-compleanno/1026/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.94543,
-          "lon": 10.075049
-        },
-        {
-          "nome": "Presolana del Prato",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0952",
-              "nome": "via dei Refrattari",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": "R3",
-              "tiri": 5,
-              "sviluppo": 175.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2427.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaPrato-viaDeiRefrattari/843/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.94543,
-          "lon": 10.075049
-        },
-        {
-          "nome": "Presolana del Prato",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0953",
-              "nome": "via L'ira di Milio",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6b",
-              "spittatura": "S1",
-              "tiri": 5,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2427.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/presolana-del-prato-m-2427-via-l-ira-di-milio/1031/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.94543,
-          "lon": 10.075049
-        },
-        {
-          "nome": "Presolana Occidentale",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0954",
-              "nome": "spigolo Castiglioni",
-              "gradoObbligatorio": "V e A0",
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 240.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2521.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaOccidentale-viaSpigoloCastiglioni/1/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Occidentale",
-          "disciplina": "climbing",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0955",
-              "nome": "via Bosio",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+/VII, A0-A1",
-              "spittatura": null,
-              "tiri": 12,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2521.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaOccidentale-viaBosio/168/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Presolana Orientale",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0956",
-              "nome": "via Hard Rock con uscita Pellicioli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VII-",
-              "spittatura": "R2",
-              "tiri": 5,
-              "sviluppo": 245.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2490.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaOrientale-viaHardRockUscitaPellicioli/729/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Punta Angela al Cengalo – Spigolo Sud-Sud-Ovest",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0957",
-              "nome": "via Vinci",
-              "gradoObbligatorio": "max VI+",
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": 12,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3215.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cengalo-spigoloVinci/34/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Punta Salotto (m.10)",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0958",
-              "nome": "via normale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "E",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 45.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 10.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/punta-salotto-m-10-via-normale/728/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Punta Torelli - Spigolo Sud",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0959",
-              "nome": "via Mauri-Fiorelli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD (passaggi fino al V+).",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3137.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PuntaTorelli-viaSpigoloSud/171/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Sasso dei Carbonari",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0960",
-              "nome": "via Moss Ruggiero con uscita Gatti",
-              "gradoObbligatorio": "VI e A0",
-              "gradoMassimo": "VI+",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 550.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2160.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoCarbonari-viaMossRuggieroUscitaGatti/640/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.951001,
-          "lon": 9.360164
-        },
-        {
-          "nome": "Sasso di Sengg",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0961",
-              "nome": "via Ginsengg",
-              "gradoObbligatorio": "6a+ e A0",
-              "gradoMassimo": "6b",
-              "spittatura": "S2",
-              "tiri": 8,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1900.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoSengg-viaGinsengg/683/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Sasso di Sengg",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0962",
-              "nome": "via Imelde",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VII-",
-              "spittatura": "R3",
-              "tiri": 7,
-              "sviluppo": 275.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1900.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoSengg-viaImelde/725/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Camonica, Corna Clem",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0963",
-              "nome": "via No Ponte no Party",
-              "gradoObbligatorio": "VIII-",
-              "gradoMassimo": "VI+ e A1",
-              "spittatura": null,
-              "tiri": 12,
-              "sviluppo": 430.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1200.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValCamonica-CornaClem-viaNoPonteNoParty/578/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Camonica, Pilastro San Valentino",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0964",
-              "nome": "via Baccobaleno",
-              "gradoObbligatorio": "VI e A0",
-              "gradoMassimo": "VII-",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1000.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-camonica-pilastro-san-valentino-m-1000-via-baccobaleno/950/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Gerola, Torrione di Mezzaluna",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0965",
-              "nome": "via Coito ergo sum",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2200.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-gerola-torrione-di-mezzaluna-m-2200-via-coito-ergo-sum/990/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.03085,
-          "lon": 9.563025
-        },
-        {
-          "nome": "Valle Bova, Falesia del Tramonto",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0966",
-              "nome": "via Amon-ra",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 70.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 700.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleBova-FalesiaTramonto-viaAmon-ra/20/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle Bova, Falesia del Tramonto",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0967",
-              "nome": "via Diedro del Mistero",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4c",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 55.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 700.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleBova-FalesiaTramonto-viaDiedroMistero/21/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle Bova, Falesia del Tramonto",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0968",
-              "nome": "via Silver Surfer",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 55.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 700.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleBova-FalesiaTramonto-viaSilverSurfer/699/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle dei Bagni, settore El Schenun",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0969",
-              "nome": "via La coda del Dinosauro",
-              "gradoObbligatorio": "5c e A0",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1000.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bagni-viaCodaDinosauro/135/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle dei Bagni, settore El Schenun",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0970",
-              "nome": "via Vietato Vietare",
-              "gradoObbligatorio": "5c e A0",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1000.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/valle-dei-bagni-settore-el-schenun-m-1000-circa-via-vietato-vietare/1025/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Zucco dell'Angelone",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0971",
-              "nome": "via Anabasi",
-              "gradoObbligatorio": "5c",
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 280.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1165.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaAnabasi/188/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Zucco dell'Angelone",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0972",
-              "nome": "via Canna Primordiale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 5,
-              "sviluppo": 110.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1165.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaCannaPromordiale/189/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Zucco dell'Angelone",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0973",
-              "nome": "via Condorpass",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1165.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaCondorpass/190/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Zucco dell'Angelone",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0974",
-              "nome": "via Foto di gruppo con signorine",
-              "gradoObbligatorio": "6a+",
-              "gradoMassimo": "5c e A0",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 90.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1165.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaFotoGruppo/191/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Zucco dell'Angelone",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0975",
-              "nome": "via Gli schiavi della pietra",
-              "gradoObbligatorio": "5a",
-              "gradoMassimo": "5b",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 150.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1165.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaSchiaviPietra/194/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Zucco dell'Angelone",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0976",
-              "nome": "via Karol Wojtyla",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 80.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1165.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaKarolWojtyla/192/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Zucco dell'Angelone",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0977",
-              "nome": "via La Striscia della Citrosodina",
-              "gradoObbligatorio": "6a e A0",
-              "gradoMassimo": "6b+",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 145.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1165.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaStrisciaCitrosodina/195/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Zucco dell'Angelone",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0978",
-              "nome": "via Ortofresco",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 110.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1165.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaOrtofresco/193/",
                   "siteName": null
                 }
               ]
@@ -26795,6 +25463,25 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0960",
+              "nome": "via Moss Ruggiero con uscita Gatti",
+              "gradoObbligatorio": "VI e A0",
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2160.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoCarbonari-viaMossRuggieroUscitaGatti/640/",
+                  "siteName": null
+                }
+              ]
             }
           ]
         }
@@ -27967,6 +26654,1295 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Anticima Pizzo Arera",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Anticima Pizzo Arera",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0928",
+              "nome": "via dei Cugini",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "S1",
+              "tiri": 8,
+              "sviluppo": 225.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2300.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/anticima-pizzo-arera-m-2300-circa-via-dei-cugini/1032/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Orientale Piazzotti",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Orientale Piazzotti",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0929",
+              "nome": "via Francesca",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI-",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2179.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CimaOrientalePiazzotti-viaFrancesca/719/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cimone della Bagozza",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cimone della Bagozza",
+          "disciplina": "climbing",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0930",
+              "nome": "via Cassin",
+              "gradoObbligatorio": "VI e A0",
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2409.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CimoneBagozza-viaCassin/80/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.014065,
+          "lon": 10.200054
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grande Dalle",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grande Dalle",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0931",
+              "nome": "Via Sapori d'inverno",
+              "gradoObbligatorio": "6b e A0",
+              "gradoMassimo": "6b+",
+              "spittatura": "S1",
+              "tiri": 6,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1375.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GrandeDalle-viaSaporiInverno/776/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Todeschini",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Punta Todeschini",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0932",
+              "nome": "via Z di ZARRO",
+              "gradoObbligatorio": "VII+",
+              "gradoMassimo": "VI+ e A1",
+              "spittatura": "R3",
+              "tiri": 8,
+              "sviluppo": 255.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/lecco-bastionata-del-lago-punta-todeschini-via-z-di-zarro/895/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Orobie",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Falso Pizzo di Trona, Gran diedro N.O.",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0933",
+              "nome": "via del Crapun",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-, max IV+",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/FalsoPizzoTrona-viaCrapun/75/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pilastri del Moregallo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastri del Moregallo",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0934",
+              "nome": "via Il Grissino",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 850.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Moregallo-viaIlGrissino/157/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Pilastro Gabriele Comi",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0935",
+              "nome": "via Bibì Bibò e Capitan Cocoricò",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI e A0",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 850.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Moregallo-viaBibiBobo/156/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torre Piero Piacco",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre Piero Piacco",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0936",
+              "nome": "via Lo Spirito del Barba",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 155.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 850.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Moregallo-viaSpiritoBarba/158/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pilastri di S.Valentino",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastro dell'Ago",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0937",
+              "nome": "via I Babbi di Natale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V+",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PilastriValentino-PilastroAgo-viaIBabbiDiNatale/566/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pinnacolo di Maslana via Pegaso machine",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pinnacolo di Maslana via Pegaso machine",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0938",
+              "nome": "Pinnacolo di Maslana via Pegaso machine",
+              "gradoObbligatorio": "VI+ e A2",
+              "gradoMassimo": "VIII",
+              "spittatura": "R2",
+              "tiri": 6,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1857.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PinnacoloMaslana-viaPegasoMachine/691/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo d'Eghen",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo d'Eghen",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0939",
+              "nome": "via Camino Cassin o Filippo Corridoni con uscita Soffiando nel vento",
+              "gradoObbligatorio": "Cassin), 6a+, A1 (o 7a+)(Soffiando",
+              "gradoMassimo": "VI+, A0, A1",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 580.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1832.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Grignone-Eghen-viaCassin/142/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.975272,
+          "lon": 9.384062
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Placchette del San Martino",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "I Bagai de Lecch",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0940",
+              "nome": "Via De Sfross e Via-Kal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "max VI+",
+              "spittatura": null,
+              "tiri": 2,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/placchette-del-san-martino-i-bagai-de-lecch-via-de-sfross-e-via-kal/878/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Precipizio di Strem",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "La ragnatela",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0941",
+              "nome": "via La ragnatela (ex Galassie in movimento)",
+              "gradoObbligatorio": "6a/6a+ e A0",
+              "gradoMassimo": "6b+",
+              "spittatura": "S2",
+              "tiri": 9,
+              "sviluppo": 330.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Strem-Ragnatela-viaLaRagnatela/741/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Presolana Centrale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Presolana Centrale",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0942",
+              "nome": "via Bramani (spigolo SSO)",
+              "gradoObbligatorio": "V+ e A0 obb.",
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 270.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2517.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaBramani/162/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0943",
+              "nome": "via Echi Verticali con uscita in vetta (parete S)",
+              "gradoObbligatorio": "6a obb.",
+              "gradoMassimo": "6a+/6b",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2517.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaEchiVerticali/163/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0944",
+              "nome": "via Ester (Parete S)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V+/VI",
+              "spittatura": null,
+              "tiri": 9,
+              "sviluppo": 240.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2517.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaEster/563/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0945",
+              "nome": "via Gian-Mauri",
+              "gradoObbligatorio": "6a+ e A0",
+              "gradoMassimo": "6b+",
+              "spittatura": "S1",
+              "tiri": 5,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2517.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaGianMauri/682/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0946",
+              "nome": "via Sa.Vi.An",
+              "gradoObbligatorio": "VI obb.",
+              "gradoMassimo": "VI+ e A0",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2517.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaSavian/164/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0947",
+              "nome": "via Spigolando (parete S)",
+              "gradoObbligatorio": "6a obb.",
+              "gradoMassimo": "6a+/6b",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 190.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2517.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaSpigolando/165/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0948",
+              "nome": "spigolo Longo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "V-",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2517.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaSpigoloLongo/166/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0949",
+              "nome": "via Panico e salamico",
+              "gradoObbligatorio": "6b+ obb.",
+              "gradoMassimo": "7a",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 135.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaPanicoSalamico/829/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0950",
+              "nome": "via Yook Yook",
+              "gradoObbligatorio": "6b+ obb.",
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 175.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaCentrale-viaYookYook/830/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Presolana Orientale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Presolana Orientale",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0956",
+              "nome": "via Hard Rock con uscita Pellicioli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VII-",
+              "spittatura": "R2",
+              "tiri": 5,
+              "sviluppo": 245.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2490.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PresolanaOrientale-viaHardRockUscitaPellicioli/729/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Angela al Cengalo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Spigolo Sud-Sud-Ovest",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0957",
+              "nome": "via Vinci",
+              "gradoObbligatorio": "max VI+",
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": 12,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3215.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Cengalo-spigoloVinci/34/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Salotto (m.10)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Punta Salotto (m.10)",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0958",
+              "nome": "via normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "E",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 45.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 10.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/punta-salotto-m-10-via-normale/728/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Torelli",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Spigolo Sud",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0959",
+              "nome": "via Mauri-Fiorelli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD (passaggi fino al V+).",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3137.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PuntaTorelli-viaSpigoloSud/171/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sasso di Sengg",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sasso di Sengg",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0961",
+              "nome": "via Ginsengg",
+              "gradoObbligatorio": "6a+ e A0",
+              "gradoMassimo": "6b",
+              "spittatura": "S2",
+              "tiri": 8,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1900.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoSengg-viaGinsengg/683/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0962",
+              "nome": "via Imelde",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VII-",
+              "spittatura": "R3",
+              "tiri": 7,
+              "sviluppo": 275.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1900.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/SassoSengg-viaImelde/725/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Corna Clem",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Corna Clem",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0963",
+              "nome": "via No Ponte no Party",
+              "gradoObbligatorio": "VIII-",
+              "gradoMassimo": "VI+ e A1",
+              "spittatura": null,
+              "tiri": 12,
+              "sviluppo": 430.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1200.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValCamonica-CornaClem-viaNoPonteNoParty/578/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val Camonica",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastro San Valentino",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0964",
+              "nome": "via Baccobaleno",
+              "gradoObbligatorio": "VI e A0",
+              "gradoMassimo": "VII-",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1000.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-camonica-pilastro-san-valentino-m-1000-via-baccobaleno/950/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torrione di Mezzaluna",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torrione di Mezzaluna",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0965",
+              "nome": "via Coito ergo sum",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2200.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-gerola-torrione-di-mezzaluna-m-2200-via-coito-ergo-sum/990/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 46.03085,
+          "lon": 9.563025
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle Bova",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Falesia del Tramonto",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0966",
+              "nome": "via Amon-ra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 700.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleBova-FalesiaTramonto-viaAmon-ra/20/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0967",
+              "nome": "via Diedro del Mistero",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 55.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 700.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleBova-FalesiaTramonto-viaDiedroMistero/21/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0968",
+              "nome": "via Silver Surfer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 55.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 700.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleBova-FalesiaTramonto-viaSilverSurfer/699/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle dei Bagni",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "settore El Schenun",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0969",
+              "nome": "via La coda del Dinosauro",
+              "gradoObbligatorio": "5c e A0",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1000.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bagni-viaCodaDinosauro/135/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0970",
+              "nome": "via Vietato Vietare",
+              "gradoObbligatorio": "5c e A0",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1000.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/valle-dei-bagni-settore-el-schenun-m-1000-circa-via-vietato-vietare/1025/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Zucco dell'Angelone",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Zucco dell'Angelone",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0971",
+              "nome": "via Anabasi",
+              "gradoObbligatorio": "5c",
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 280.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1165.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaAnabasi/188/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0972",
+              "nome": "via Canna Primordiale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 5,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1165.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaCannaPromordiale/189/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0973",
+              "nome": "via Condorpass",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1165.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaCondorpass/190/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0974",
+              "nome": "via Foto di gruppo con signorine",
+              "gradoObbligatorio": "6a+",
+              "gradoMassimo": "5c e A0",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1165.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaFotoGruppo/191/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0975",
+              "nome": "via Gli schiavi della pietra",
+              "gradoObbligatorio": "5a",
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1165.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaSchiaviPietra/194/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0976",
+              "nome": "via Karol Wojtyla",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1165.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaKarolWojtyla/192/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0977",
+              "nome": "via La Striscia della Citrosodina",
+              "gradoObbligatorio": "6a e A0",
+              "gradoMassimo": "6b+",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 145.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1165.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaStrisciaCitrosodina/195/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0978",
+              "nome": "via Ortofresco",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1165.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ZuccoAngelone-viaOrtofresco/193/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

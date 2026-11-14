@@ -5997,70 +5997,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Sardegna, Aguglia di Goloritzè, Parete Nord-Est",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-88:routes:routes-climbing:0302",
-              "nome": "via Sole Incantatore",
-              "gradoObbligatorio": "6b obb.",
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 143.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sardegna-Goloritze-viaSoleIncantatore/414/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Sardegna, Parete della Luna (Valle della Luna)",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-88:routes:routes-climbing:0303",
-              "nome": "via Cammino del Capo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV+/R2+",
-              "spittatura": "R2",
-              "tiri": 3,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/sardegna-parete-della-luna-valle-della-luna-via-cammino-del-capo/1006/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Provincia di Nuoro",
       "paese": "IT",
       "pareti": [
@@ -7913,6 +7849,70 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sardegna",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Aguglia di Goloritzè, Parete Nord-Est",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-88:routes:routes-climbing:0302",
+              "nome": "via Sole Incantatore",
+              "gradoObbligatorio": "6b obb.",
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 143.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sardegna-Goloritze-viaSoleIncantatore/414/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Parete della Luna (Valle della Luna)",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-88:routes:routes-climbing:0303",
+              "nome": "via Cammino del Capo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV+/R2+",
+              "spittatura": "R2",
+              "tiri": 3,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/sardegna-parete-della-luna-valle-della-luna-via-cammino-del-capo/1006/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

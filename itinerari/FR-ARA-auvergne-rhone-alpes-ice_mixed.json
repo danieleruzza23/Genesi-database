@@ -1069,131 +1069,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "FR",
-      "pareti": [
-        {
-          "nome": "Aiguille de Chardonnet",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "FR-ARA:routes:routes-ice_mixed:1816",
-              "nome": "via Goulotte Escarra",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "4",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3824.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Chardonnet-GoulotteEscarra/443/",
-                  "siteName": null
-                },
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/54300",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.971169,
-          "lon": 6.999618
-        },
-        {
-          "nome": "Aiguille de Chardonnet",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "FR-ARA:routes:routes-ice_mixed:1817",
-              "nome": "via Sperone Migot",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 600.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3824.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Chardonnet-speroneMigot/444/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.971169,
-          "lon": 6.999618
-        },
-        {
-          "nome": "Aiguille Verte",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "FR-ARA:routes:routes-ice_mixed:1818",
-              "nome": "via Couloir Couturier",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4122.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bianco-AiguilleVerte-CouloirCouturier/425/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.935305,
-          "lon": 6.956909
-        },
-        {
-          "nome": "Mont Maudit",
-          "disciplina": "ice_mixed",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "FR-ARA:routes:routes-ice_mixed:1819",
-              "nome": "via Cresta sud-est e nord-est (Cresta Kuffner)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 800.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 4465.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bianco-Maudit-crestaKuffner/431/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.851142,
-          "lon": 6.886064
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Mont Blanc du Tacul",
       "paese": "FR",
       "pareti": [
@@ -13084,6 +12959,25 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "FR-ARA:routes:routes-ice_mixed:1819",
+              "nome": "via Cresta sud-est e nord-est (Cresta Kuffner)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4465.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bianco-Maudit-crestaKuffner/431/",
+                  "siteName": null
+                }
+              ]
             }
           ]
         }
@@ -14864,6 +14758,25 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/54984",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "FR-ARA:routes:routes-ice_mixed:1818",
+              "nome": "via Couloir Couturier",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 4122.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Bianco-AiguilleVerte-CouloirCouturier/425/",
                   "siteName": null
                 }
               ]
@@ -47694,6 +47607,66 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Aiguille de Chardonnet",
+      "paese": "FR",
+      "pareti": [
+        {
+          "nome": "Aiguille de Chardonnet",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "FR-ARA:routes:routes-ice_mixed:1816",
+              "nome": "via Goulotte Escarra",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3824.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Chardonnet-GoulotteEscarra/443/",
+                  "siteName": null
+                },
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54300",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "FR-ARA:routes:routes-ice_mixed:1817",
+              "nome": "via Sperone Migot",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3824.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Chardonnet-speroneMigot/444/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 45.971169,
+          "lon": 6.999618
         }
       ],
       "lat": null,

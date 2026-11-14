@@ -4698,6 +4698,186 @@
           ],
           "lat": 45.61959811464801,
           "lon": 7.748773097991943
+        },
+        {
+          "nome": "Monte Coudrey",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-climbing:0664",
+              "nome": "via Doctor Jimmy",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5+ e A0",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1298.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaDoctorJimmy/242/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0665",
+              "nome": "via Fragile",
+              "gradoObbligatorio": "5b e A0",
+              "gradoMassimo": "6a",
+              "spittatura": "S1",
+              "tiri": 6,
+              "sviluppo": 95.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1298.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-coudrey-m-1298-via-fragile/888/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0666",
+              "nome": "via Gatto-Nando",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 210.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1298.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-coudrey-m-1298-via-gatto-nando/986/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0667",
+              "nome": "via I Love you Sylvie",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 14,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1298.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaILoveYouSylvie/243/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0668",
+              "nome": "via Le Dita dal Naso",
+              "gradoObbligatorio": "5a obb.",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 11,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1298.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaLeDita/244/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0669",
+              "nome": "via Mani Gemelle",
+              "gradoObbligatorio": "5c e A0",
+              "gradoMassimo": "6a+",
+              "spittatura": "S1",
+              "tiri": 5,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1298.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-coudrey-m-1298-via-mani-gemelle/892/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0670",
+              "nome": "via Olympic Spirit",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1298.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaOlympicSpirit/245/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0671",
+              "nome": "via Pa Raumer e i suoi Pargoli",
+              "gradoObbligatorio": "4a obb.",
+              "gradoMassimo": "5b",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1298.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaPaRaumer/246/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0672",
+              "nome": "via T. Rex",
+              "gradoObbligatorio": "5+ obb.",
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": 9,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1298.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaTRex/247/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -13778,6 +13958,34 @@
           ],
           "lat": 45.721002396232336,
           "lon": 7.660823376158596
+        },
+        {
+          "nome": "Montjovet",
+          "disciplina": "climbing",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-climbing:0673",
+              "nome": "via Forza vecchio cuore granata",
+              "gradoObbligatorio": "5b obb.",
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Montjovet-viaForzaVecchioCuoreGranata/842/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -16098,602 +16306,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Granta Parey",
-          "disciplina": "climbing",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0662",
-              "nome": "Cresta NE",
-              "gradoObbligatorio": "max III",
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1550.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3387.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GrantaParey-crestaNE/794/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Monte Rosa - Monte Sarezza",
-          "disciplina": "climbing",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0663",
-              "nome": "spigolo nord ovest",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "IV",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2820.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarezza-spigoloNordOvest/249/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Coudrey",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0664",
-              "nome": "via Doctor Jimmy",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5+ e A0",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1298.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaDoctorJimmy/242/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Coudrey",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0665",
-              "nome": "via Fragile",
-              "gradoObbligatorio": "5b e A0",
-              "gradoMassimo": "6a",
-              "spittatura": "S1",
-              "tiri": 6,
-              "sviluppo": 95.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1298.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-coudrey-m-1298-via-fragile/888/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Coudrey",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0666",
-              "nome": "via Gatto-Nando",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 210.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1298.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-coudrey-m-1298-via-gatto-nando/986/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Coudrey",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0667",
-              "nome": "via I Love you Sylvie",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 14,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1298.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaILoveYouSylvie/243/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Coudrey",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0668",
-              "nome": "via Le Dita dal Naso",
-              "gradoObbligatorio": "5a obb.",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 11,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1298.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaLeDita/244/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Coudrey",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0669",
-              "nome": "via Mani Gemelle",
-              "gradoObbligatorio": "5c e A0",
-              "gradoMassimo": "6a+",
-              "spittatura": "S1",
-              "tiri": 5,
-              "sviluppo": 130.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1298.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-coudrey-m-1298-via-mani-gemelle/892/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Coudrey",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0670",
-              "nome": "via Olympic Spirit",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1298.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaOlympicSpirit/245/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Coudrey",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0671",
-              "nome": "via Pa Raumer e i suoi Pargoli",
-              "gradoObbligatorio": "4a obb.",
-              "gradoMassimo": "5b",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1298.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaPaRaumer/246/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Coudrey",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0672",
-              "nome": "via T. Rex",
-              "gradoObbligatorio": "5+ obb.",
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": 9,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1298.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/MonteCoudrey-viaTRex/247/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Montjovet",
-          "disciplina": "climbing",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0673",
-              "nome": "via Forza vecchio cuore granata",
-              "gradoObbligatorio": "5b obb.",
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Montjovet-viaForzaVecchioCuoreGranata/842/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pilastro Lomasti",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0674",
-              "nome": "via Control... e vai tranquillo",
-              "gradoObbligatorio": "6b obb.",
-              "gradoMassimo": "6c+",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 950.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lomasti-viaControl/225/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pilastro Lomasti",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0675",
-              "nome": "via del 94esimo (o via Lomasti)",
-              "gradoObbligatorio": "6a obbl.",
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 220.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 950.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lomasti-via94/598/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pilastro Lomasti",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0676",
-              "nome": "via La Rossa e il Vampirla",
-              "gradoObbligatorio": "6a obb.",
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 950.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lomasti-viaLaRossaEIlVampirla/226/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Pilastro Lomasti",
-          "disciplina": "climbing",
-          "esposizione": "sw",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0677",
-              "nome": "via Sylvie",
-              "gradoObbligatorio": "6c+",
-              "gradoMassimo": "6b e A0",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 950.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/pilastro-lomasti-m-950-circa-via-sylvie/910/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Scalaro, Parete delle Stelle",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0678",
-              "nome": "via Attraverso il buco",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "S1-",
-              "tiri": 4,
-              "sviluppo": 120.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2000.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/scalaro-parete-delle-stelle-m-2000-circa-via-attraverso-il-buco/1035/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Scalaro, Parete delle Stelle",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0679",
-              "nome": "via Del Tetto",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "S1-",
-              "tiri": 3,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2000.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/scalaro-parete-delle-stelle-m-2000-circa-via-del-tetto/1036/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle del Lys (Valle di Gressoney), Parete del Silenzio (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0680",
-              "nome": "via Carlito's Way",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+ e A1",
-              "spittatura": null,
-              "tiri": 9,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1850.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lys-PareteSilenzio-viaCarlitosWay/585/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle del Lys (Valle di Gressoney), Parete del Silenzio (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0681",
-              "nome": "via Carlo davanti, dietro tutti quanti",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 280.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1850.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lys-PareteSilenzio-viaCarloDavanti/587/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valle del Lys (Valle di Gressoney), Parete del Silenzio (toponimo proposto)",
-          "disciplina": "climbing",
-          "esposizione": "se",
-          "itinerari": [
-            {
-              "id": "IT-23:routes:routes-climbing:0682",
-              "nome": "via La memoria del chiodo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "VI+ e A1",
-              "spittatura": null,
-              "tiri": 10,
-              "sviluppo": 280.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1850.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lys-PareteSilenzio-viaLaMemoriaDelChiodo/588/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Valle d'Aosta",
       "paese": "IT",
       "pareti": [
@@ -18925,6 +18537,300 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Granta Parey",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Granta Parey",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-climbing:0662",
+              "nome": "Cresta NE",
+              "gradoObbligatorio": "max III",
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3387.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/GrantaParey-crestaNE/794/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo del Monte Rosa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Sarezza",
+          "disciplina": "climbing",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-climbing:0663",
+              "nome": "spigolo nord ovest",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "IV",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2820.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sarezza-spigoloNordOvest/249/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pilastro Lomasti",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastro Lomasti",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-climbing:0674",
+              "nome": "via Control... e vai tranquillo",
+              "gradoObbligatorio": "6b obb.",
+              "gradoMassimo": "6c+",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 950.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lomasti-viaControl/225/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0675",
+              "nome": "via del 94esimo (o via Lomasti)",
+              "gradoObbligatorio": "6a obbl.",
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 220.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 950.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lomasti-via94/598/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0676",
+              "nome": "via La Rossa e il Vampirla",
+              "gradoObbligatorio": "6a obb.",
+              "gradoMassimo": "6b",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 950.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lomasti-viaLaRossaEIlVampirla/226/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0677",
+              "nome": "via Sylvie",
+              "gradoObbligatorio": "6c+",
+              "gradoMassimo": "6b e A0",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 950.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/pilastro-lomasti-m-950-circa-via-sylvie/910/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Scalaro",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Parete delle Stelle",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-climbing:0678",
+              "nome": "via Attraverso il buco",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "S1-",
+              "tiri": 4,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2000.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/scalaro-parete-delle-stelle-m-2000-circa-via-attraverso-il-buco/1035/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0679",
+              "nome": "via Del Tetto",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "S1-",
+              "tiri": 3,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2000.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/scalaro-parete-delle-stelle-m-2000-circa-via-del-tetto/1036/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Valle del Lys (Valle di Gressoney)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Parete del Silenzio (toponimo proposto)",
+          "disciplina": "climbing",
+          "esposizione": "se",
+          "itinerari": [
+            {
+              "id": "IT-23:routes:routes-climbing:0680",
+              "nome": "via Carlito's Way",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+ e A1",
+              "spittatura": null,
+              "tiri": 9,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lys-PareteSilenzio-viaCarlitosWay/585/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0681",
+              "nome": "via Carlo davanti, dietro tutti quanti",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 280.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lys-PareteSilenzio-viaCarloDavanti/587/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-23:routes:routes-climbing:0682",
+              "nome": "via La memoria del chiodo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "VI+ e A1",
+              "spittatura": null,
+              "tiri": 10,
+              "sviluppo": 280.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1850.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Lys-PareteSilenzio-viaLaMemoriaDelChiodo/588/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

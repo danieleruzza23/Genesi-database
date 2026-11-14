@@ -8537,126 +8537,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Coronelle",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0356",
-              "nome": "Cascata dei Pollici",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4+/II",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 115.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/coronelle-cascata-dei-pollici/942/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Gruppo del Sella",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0357",
-              "nome": "cascata Lujanta",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4/II",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 100.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1750.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sella-cascataLujanta/575/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Daone",
-          "disciplina": "ice_mixed",
-          "esposizione": "e",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0358",
-              "nome": "cascata Sogno del Gran Scozzese",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5/III",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1300.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Daone-cascataSognoGranScozzese/502/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val di Fassa (Campitello)",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0359",
-              "nome": "cascata Rio Pelous (Cascata di Campitello)",
-              "gradoObbligatorio": "talvolta M3 in L2",
-              "gradoMassimo": "4+/II",
-              "spittatura": null,
-              "tiri": 6,
-              "sviluppo": 200.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-di-fassa-campitello-cascata-rio-pelous-cascata-di-campitello/943/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Cima Brenta",
       "paese": "IT",
       "pareti": [
@@ -10312,6 +10192,150 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Coronelle",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Coronelle",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0356",
+              "nome": "Cascata dei Pollici",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4+/II",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 115.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/coronelle-cascata-dei-pollici/942/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gruppo del Sella",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Gruppo del Sella",
+          "disciplina": "ice_mixed",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0357",
+              "nome": "cascata Lujanta",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4/II",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1750.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Sella-cascataLujanta/575/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val Daone",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Val Daone",
+          "disciplina": "ice_mixed",
+          "esposizione": "e",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0358",
+              "nome": "cascata Sogno del Gran Scozzese",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5/III",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1300.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Daone-cascataSognoGranScozzese/502/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val di Fassa (Campitello)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Val di Fassa (Campitello)",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0359",
+              "nome": "cascata Rio Pelous (Cascata di Campitello)",
+              "gradoObbligatorio": "talvolta M3 in L2",
+              "gradoMassimo": "4+/II",
+              "spittatura": null,
+              "tiri": 6,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/val-di-fassa-campitello-cascata-rio-pelous-cascata-di-campitello/943/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

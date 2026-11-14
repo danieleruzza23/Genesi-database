@@ -34576,42 +34576,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "FR",
-      "pareti": [
-        {
-          "nome": "Tete d'Aval de Montbrison",
-          "disciplina": "climbing",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "FR-PAC:routes:routes-climbing:4331",
-              "nome": "Parete Sud - Pilier Rouge Hemdo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c e A0",
-              "spittatura": null,
-              "tiri": 13,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2600.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/TeteAval-viaPilierRougeHemdo/221/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.84819,
-          "lon": 6.53291
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Alte Alpi",
       "paese": "FR",
       "pareti": [
@@ -86099,6 +86063,42 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Tete d'Aval de Montbrison",
+      "paese": "FR",
+      "pareti": [
+        {
+          "nome": "Tete d'Aval de Montbrison",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "FR-PAC:routes:routes-climbing:4331",
+              "nome": "Parete Sud - Pilier Rouge Hemdo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c e A0",
+              "spittatura": null,
+              "tiri": 13,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/TeteAval-viaPilierRougeHemdo/221/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": 44.84819,
+          "lon": 6.53291
         }
       ],
       "lat": null,

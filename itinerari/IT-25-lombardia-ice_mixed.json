@@ -4136,6 +4136,63 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0307",
+              "nome": "cascata Supermedarola",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5/III",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1200.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Masino-cascataSupermerdarola/506/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0308",
+              "nome": "cascata Ghiaccio Bollente",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3+/II",
+              "spittatura": null,
+              "tiri": 4,
+              "sviluppo": 230.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1300.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Masino-cascataGhiaccioBollente/503/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0309",
+              "nome": "cascata Merdarola",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4/III",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1300.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Masino-cascataMerdarola/504/",
+                  "siteName": null
+                }
+              ]
             }
           ],
           "lat": 46.26406197409991,
@@ -5696,294 +5753,6 @@
       "lon": null
     },
     {
-      "nome": "Da Guido della Torre (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Cima di Crap",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0300",
-              "nome": "via W il ciuffetto magico (con varianti)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "M4+",
-              "spittatura": null,
-              "tiri": 9,
-              "sviluppo": 600.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2204.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CimaCrap-viaWIlCiuffettoMagico/696/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Monte Legnone",
-          "disciplina": "ice_mixed",
-          "esposizione": "w",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0301",
-              "nome": "via Amori incerti",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "85°-90° su ghiaccio, neve max 70°, possibile misto M4.",
-              "spittatura": null,
-              "tiri": 8,
-              "sviluppo": 550.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2609.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Legnone-viaAmoriIncerti/763/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.095808,
-          "lon": 9.382359
-        },
-        {
-          "nome": "Orobie, Monte Grabiasca",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0302",
-              "nome": "via Canale Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "neve a 45",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2705.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orobie-Grabiasca-viaCanaleNord/567/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Orobie, Pizzo Recastello",
-          "disciplina": "ice_mixed",
-          "esposizione": "n",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0303",
-              "nome": "Canale Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 400.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2886.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orobie-PizzoRecastello-CanaleNord/625/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.051474,
-          "lon": 10.043998
-        },
-        {
-          "nome": "Orobie, Pizzo Recastello",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0304",
-              "nome": "Couloir dei Ratti",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-, M3/M4 max, neve 60/65°, ghiaccio WI2",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 300.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2886.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orobie-PizzoRecastello-couloirDeiRatti/849/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.051474,
-          "lon": 10.043998
-        },
-        {
-          "nome": "Val Bodengo, Pizzo Cavregasco",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0305",
-              "nome": "parete Ovest",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AI3+/M4/IV",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 600.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2535.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValBodengo-PizzoCavregasco-PareteOvest/840/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Valcamonica, Monte Tredenus",
-          "disciplina": "ice_mixed",
-          "esposizione": "nw",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0306",
-              "nome": "via Fantasmi della mente",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4+/IV M5",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2780.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Tredenus-fantasmiMente/472/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Masino",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0307",
-              "nome": "cascata Supermedarola",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5/III",
-              "spittatura": null,
-              "tiri": 3,
-              "sviluppo": 180.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1200.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Masino-cascataSupermerdarola/506/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Masino",
-          "disciplina": "ice_mixed",
-          "esposizione": "s",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0308",
-              "nome": "cascata Ghiaccio Bollente",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "3+/II",
-              "spittatura": null,
-              "tiri": 4,
-              "sviluppo": 230.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1300.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Masino-cascataGhiaccioBollente/503/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        },
-        {
-          "nome": "Val Masino",
-          "disciplina": "ice_mixed",
-          "esposizione": "ne",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-ice_mixed:0309",
-              "nome": "cascata Merdarola",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4/III",
-              "spittatura": null,
-              "tiri": 7,
-              "sviluppo": 350.0,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1300.0,
-              "links": [
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Masino-cascataMerdarola/504/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": null,
-          "lon": null
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Monte Alben",
       "paese": "IT",
       "pareti": [
@@ -7375,6 +7144,25 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0301",
+              "nome": "via Amori incerti",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "85°-90° su ghiaccio, neve max 70°, possibile misto M4.",
+              "spittatura": null,
+              "tiri": 8,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2609.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Legnone-viaAmoriIncerti/763/",
+                  "siteName": null
+                }
+              ]
             }
           ]
         }
@@ -7956,6 +7744,44 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/56584",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0303",
+              "nome": "Canale Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2886.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orobie-PizzoRecastello-CanaleNord/625/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0304",
+              "nome": "Couloir dei Ratti",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-, M3/M4 max, neve 60/65°, ghiaccio WI2",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2886.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orobie-PizzoRecastello-couloirDeiRatti/849/",
                   "siteName": null
                 }
               ]
@@ -9388,6 +9214,150 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima di Crap",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima di Crap",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0300",
+              "nome": "via W il ciuffetto magico (con varianti)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "M4+",
+              "spittatura": null,
+              "tiri": 9,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2204.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CimaCrap-viaWIlCiuffettoMagico/696/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Grabiasca",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Grabiasca",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0302",
+              "nome": "via Canale Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "neve a 45",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2705.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Orobie-Grabiasca-viaCanaleNord/567/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Cavregasco",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo Cavregasco",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0305",
+              "nome": "parete Ovest",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AI3+/M4/IV",
+              "spittatura": null,
+              "tiri": 3,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2535.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/ValBodengo-PizzoCavregasco-PareteOvest/840/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Tredenus",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Tredenus",
+          "disciplina": "ice_mixed",
+          "esposizione": "nw",
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-ice_mixed:0306",
+              "nome": "via Fantasmi della mente",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4+/IV M5",
+              "spittatura": null,
+              "tiri": 7,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2780.0,
+              "links": [
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Tredenus-fantasmiMente/472/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
