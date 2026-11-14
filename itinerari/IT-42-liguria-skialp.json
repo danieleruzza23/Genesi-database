@@ -1744,13 +1744,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Garlenda",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Garlenda – Par Monesi di Triora",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.069349,
+          "lon": 7.751667,
           "itinerari": [
             {
               "id": "IT-42:routes:routes-skialp:0056",
@@ -1771,14 +1773,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.069349,
-          "lon": 7.751667
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Reixa (Reisa)",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Reixa (Reisa) – dal colle del Faiallo",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.450861,
+          "lon": 8.666992,
           "itinerari": [
             {
               "id": "IT-42:routes:routes-skialp:0057",
@@ -1799,9 +1809,7 @@
                 }
               ]
             }
-          ],
-          "lat": 44.450861,
-          "lon": 8.666992
+          ]
         }
       ],
       "lat": null,

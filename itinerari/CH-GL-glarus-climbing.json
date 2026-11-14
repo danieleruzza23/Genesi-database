@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Brüggler",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Brüggler",
           "disciplina": "climbing",
           "esposizione": "S",
+          "lat": 47.117497,
+          "lon": 8.983789,
           "itinerari": [
             {
               "id": "CH-GL:routes:routes-climbing:0001",
@@ -19,7 +21,7 @@
               "gradoMassimo": "D-",
               "spittatura": "P1+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1777,
@@ -30,16 +32,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 47.117497,
-          "lon": 8.983789
-        },
-        {
-          "nome": "Brüggler",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
+            },
             {
               "id": "CH-GL:routes:routes-climbing:0002",
               "nome": "Sonntagsweg",
@@ -47,7 +40,7 @@
               "gradoMassimo": "6a",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1777,
@@ -58,16 +51,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 47.121514,
-          "lon": 9.00187
-        },
-        {
-          "nome": "Brüggler",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
+            },
             {
               "id": "CH-GL:routes:routes-climbing:0003",
               "nome": "Direkte Plattenwand",
@@ -75,7 +59,7 @@
               "gradoMassimo": "D",
               "spittatura": "P1+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1777,
@@ -86,16 +70,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 47.1116,
-          "lon": 9.0003
-        },
-        {
-          "nome": "Brüggler",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
+            },
             {
               "id": "CH-GL:routes:routes-climbing:0004",
               "nome": "Die Namenlose",
@@ -103,7 +78,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1777,
@@ -114,16 +89,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 47.1116,
-          "lon": 9.0003
-        },
-        {
-          "nome": "Brüggler",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
+            },
             {
               "id": "CH-GL:routes:routes-climbing:0005",
               "nome": "Tante Ju",
@@ -131,7 +97,7 @@
               "gradoMassimo": "D",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1777,
@@ -142,16 +108,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 47.1116,
-          "lon": 9.0003
-        },
-        {
-          "nome": "Brüggler",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
+            },
             {
               "id": "CH-GL:routes:routes-climbing:0006",
               "nome": "Sylvester",
@@ -159,7 +116,7 @@
               "gradoMassimo": "AD",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1777,
@@ -171,9 +128,7 @@
                 }
               ]
             }
-          ],
-          "lat": 47.1116,
-          "lon": 9.0003
+          ]
         }
       ],
       "lat": null,

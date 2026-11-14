@@ -332,13 +332,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Tiarfin",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Tiarfin – Tiarfin ovest ed est da Casera Razzo",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.465957,
+          "lon": 12.591709,
           "itinerari": [
             {
               "id": "IT-36:routes:routes-mountaineering:0011",
@@ -359,14 +361,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.465957,
-          "lon": 12.591709
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Jôf di Montasio",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Montaž – Diretta Kugy",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.439885,
+          "lon": 13.439267,
           "itinerari": [
             {
               "id": "IT-36:routes:routes-mountaineering:0012",
@@ -387,210 +397,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.439885,
-          "lon": 13.439267
-        },
-        {
-          "nome": "Sedelce (Remšendolska škrbina) – z Remšendola",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-mountaineering:0013",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1177,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2031,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1671802",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.443366,
-          "lon": 13.630958
-        },
-        {
-          "nome": "Punta Pia – dal Rifugio Pordenone",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-mountaineering:0014",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1300,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2347,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1470415",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.38137,
-          "lon": 12.4899
-        },
-        {
-          "nome": "Monfalcon di Forni – da Rifugio Padova",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-mountaineering:0015",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2453,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1358461",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.414382,
-          "lon": 12.498063
-        },
-        {
-          "nome": "Mali Koritniški Mangart – Dièdre Cozzolino",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-mountaineering:0016",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2370,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1264247",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.443072,
-          "lon": 13.676356
-        },
-        {
-          "nome": "Picco di Mezzodi / Poldnik (Kopa) – par Val Romana",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-mountaineering:0017",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2063,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1021066",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.456648,
-          "lon": 13.618514
-        },
-        {
-          "nome": "Campanile di Val Montanaia – Via Von Glanvell - Von Saar",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-mountaineering:0018",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2173,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/919752",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.388278,
-          "lon": 12.48518
-        },
-        {
-          "nome": "Torre delle Madri dei Camosci / Gamsmutterturm – Arête N (Peters - Deye)",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-mountaineering:0019",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1703,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2503,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/807931",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.432483,
-          "lon": 13.499221
+          ]
         },
         {
           "nome": "Jôf di Montasio",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.437352,
+          "lon": 13.420299,
           "itinerari": [
             {
               "id": "IT-36:routes:routes-mountaineering:0020",
@@ -611,14 +425,274 @@
                 }
               ]
             }
-          ],
-          "lat": 46.437352,
-          "lon": 13.420299
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Udine",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sedelce (Remšendolska škrbina) – z Remšendola",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.443366,
+          "lon": 13.630958,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-mountaineering:0013",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1177,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2031,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1671802",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Pia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Punta Pia – dal Rifugio Pordenone",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.38137,
+          "lon": 12.4899,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-mountaineering:0014",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2347,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1470415",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monfalcon di Forni",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monfalcon di Forni – da Rifugio Padova",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.414382,
+          "lon": 12.498063,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-mountaineering:0015",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2453,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1358461",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piccolo Mangart di Coritenza",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Mali Koritniški Mangart – Dièdre Cozzolino",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.443072,
+          "lon": 13.676356,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-mountaineering:0016",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2370,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1264247",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Picco di Mezzodi",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Picco di Mezzodi / Poldnik (Kopa) – par Val Romana",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.456648,
+          "lon": 13.618514,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-mountaineering:0017",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2063,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1021066",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Campanile di Val Montanaia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Campanile di Val Montanaia – Via Von Glanvell - Von Saar",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.388278,
+          "lon": 12.48518,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-mountaineering:0018",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2173,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/919752",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torre delle Madri dei Camosci",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre delle Madri dei Camosci / Gamsmutterturm – Arête N (Peters - Deye)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.432483,
+          "lon": 13.499221,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-mountaineering:0019",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1703,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2503,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/807931",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima del Vallone",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima del Vallone – Pilier N (Krobath - Metzger)",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.429329,
+          "lon": 13.510344,
           "itinerari": [
             {
               "id": "IT-36:routes:routes-mountaineering:0021",
@@ -639,14 +713,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.429329,
-          "lon": 13.510344
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monfalcon di Montanaia",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monfalcon di Montanaia – Via comune da E",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.388362,
+          "lon": 12.488328,
           "itinerari": [
             {
               "id": "IT-36:routes:routes-mountaineering:0022",
@@ -667,9 +749,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.388362,
-          "lon": 12.488328
+          ]
         }
       ],
       "lat": null,

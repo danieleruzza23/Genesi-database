@@ -8,34 +8,6 @@
       "paese": "SI",
       "pareti": [
         {
-          "nome": "Raduha",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-004:routes:routes-skialp:0001",
-              "nome": "mimo koče na Loki (iz Radušnika)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2062,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1687188",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.410384,
-          "lon": 14.754441
-        },
-        {
           "nome": "Veliki vrh in Dleskovec",
           "disciplina": "skialp",
           "esposizione": null,
@@ -64,90 +36,6 @@
           "lon": 14.70008
         },
         {
-          "nome": "Lepenatka",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-004:routes:routes-skialp:0003",
-              "nome": "krog s Knebovška",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1425,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1687092",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.314692,
-          "lon": 14.740472
-        },
-        {
-          "nome": "Savinjsko sedlo",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-004:routes:routes-skialp:0004",
-              "nome": " iz Okrešlja",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2001,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/792013",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.372846,
-          "lon": 14.569584
-        },
-        {
-          "nome": "Rinke",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-004:routes:routes-skialp:0005",
-              "nome": "običajni pristopi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2453,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/791778",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.366113,
-          "lon": 14.568422
-        },
-        {
           "nome": "Mali Podi (vrh Turskega žleba)",
           "disciplina": "skialp",
           "esposizione": null,
@@ -174,6 +62,150 @@
           ],
           "lat": 46.368003,
           "lon": 14.576025
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Raduha",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Raduha",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.410384,
+          "lon": 14.754441,
+          "itinerari": [
+            {
+              "id": "SI-004:routes:routes-skialp:0001",
+              "nome": "mimo koče na Loki (iz Radušnika)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2062,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1687188",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lepenatka",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Lepenatka",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.314692,
+          "lon": 14.740472,
+          "itinerari": [
+            {
+              "id": "SI-004:routes:routes-skialp:0003",
+              "nome": "krog s Knebovška",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1425,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1687092",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Carinzia",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Savinjsko sedlo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.372846,
+          "lon": 14.569584,
+          "itinerari": [
+            {
+              "id": "SI-004:routes:routes-skialp:0004",
+              "nome": " iz Okrešlja",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2001,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/792013",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rinke",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Rinke",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.366113,
+          "lon": 14.568422,
+          "itinerari": [
+            {
+              "id": "SI-004:routes:routes-skialp:0005",
+              "nome": "običajni pristopi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2453,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/791778",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

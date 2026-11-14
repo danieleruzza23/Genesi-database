@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Križevnik",
       "paese": "SI",
       "pareti": [
         {
           "nome": "Križevnik",
           "disciplina": "climbing",
           "esposizione": "N",
+          "lat": 46.381846,
+          "lon": 14.690735,
           "itinerari": [
             {
               "id": "SI-004:routes:routes-climbing:0001",
@@ -19,7 +21,7 @@
               "gradoMassimo": "TD",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -31,14 +33,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.381846,
-          "lon": 14.690735
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mrzla gora",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Mrzla gora",
           "disciplina": "climbing",
           "esposizione": "S",
+          "lat": 46.373136,
+          "lon": 14.582433,
           "itinerari": [
             {
               "id": "SI-004:routes:routes-climbing:0002",
@@ -47,7 +57,7 @@
               "gradoMassimo": "AD+",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1760,
@@ -58,16 +68,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.373136,
-          "lon": 14.582433
-        },
-        {
-          "nome": "Mrzla gora",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
+            },
             {
               "id": "SI-004:routes:routes-climbing:0003",
               "nome": "Direktna",
@@ -75,7 +76,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1760,
@@ -87,14 +88,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.373394,
-          "lon": 14.582964
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mala Rinka",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Mala Rinka",
           "disciplina": "climbing",
           "esposizione": "N",
+          "lat": 46.367028,
+          "lon": 14.571936,
           "itinerari": [
             {
               "id": "SI-004:routes:routes-climbing:0004",
@@ -103,7 +112,7 @@
               "gradoMassimo": "D",
               "spittatura": "P2+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2230,
@@ -115,9 +124,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.367028,
-          "lon": 14.571936
+          ]
         }
       ],
       "lat": null,

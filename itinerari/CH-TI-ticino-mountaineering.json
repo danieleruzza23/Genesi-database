@@ -716,13 +716,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Pizzo Nero",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Pizzo Nero – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.486836,
+          "lon": 8.413127,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0023",
@@ -743,425 +745,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.486836,
-          "lon": 8.413127
-        },
-        {
-          "nome": "Denti della Vecchia – Denti della Vecchia : Sasso Grande per la via normale (facciata S)",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0024",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 735,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1490,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1331142",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.056618,
-          "lon": 9.020206
-        },
-        {
-          "nome": "Pizzo Sorda",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0025",
-              "nome": "- Val di Carassino",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2885,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1047617",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.537927,
-          "lon": 8.999704
-        },
-        {
-          "nome": "Punta di val Scaradra – Val Carassino - Arête S",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0026",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2823,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1047572",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.544471,
-          "lon": 8.995954
-        },
-        {
-          "nome": "Cima di Fornee",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0027",
-              "nome": "depuis le Val di Carassino",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3054,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1039389",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0028",
-              "nome": "voie normale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3129,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1038813",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.523175,
-          "lon": 8.990614
-        },
-        {
-          "nome": "Boucle Punta dello Stambecco > Punta Isabella",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0029",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1596,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3168,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1009221",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.507612,
-          "lon": 9.024428
-        },
-        {
-          "nome": "Plattenberg – Depuis Lago di Luzzone",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0030",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3041,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/937460",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.558077,
-          "lon": 9.0108
-        },
-        {
-          "nome": "Gridone / Monte Limidario – Gridone Versante Nord da Isella in Val Vigezzo",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0031",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1500,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2110,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/933778",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.123433,
-          "lon": 8.648209
-        },
-        {
-          "nome": "Pizzo Cassinello",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0032",
-              "nome": "Descente au lac Luzzone",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3103,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/917887",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.552336,
-          "lon": 9.006562
-        },
-        {
-          "nome": "Denti della Vecchia",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0033",
-              "nome": "Hors des sentiers",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1431,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/915527",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.052563,
-          "lon": 9.025008
-        },
-        {
-          "nome": "Adula / Rheinwaldhorn",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0034",
-              "nome": "Via Malvaglia & crete WSW",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3402,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/898730",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.491214,
-          "lon": 9.024358
-        },
-        {
-          "nome": "Piz Medel",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0035",
-              "nome": "Cresta SW concatenando il Piz Camadra, da Pian Geirett ",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1600,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3172,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/789509",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.615146,
-          "lon": 8.9347
-        },
-        {
-          "nome": "Basòdino",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0036",
-              "nome": "Arête SSW",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1165,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3272,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/672982",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.403947,
-          "lon": 8.493756
-        },
-        {
-          "nome": "Forcella – Sabbia nel vento",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0037",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2845,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/288949",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.489609,
-          "lon": 8.447441
-        },
-        {
-          "nome": "Poncione di Cassina Baggio – Arête SE",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-mountaineering:0038",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 900,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2850,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/177839",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.493979,
-          "lon": 8.465741
+          ]
         },
         {
           "nome": "Pizzo Nero",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.492518,
+          "lon": 8.410998,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0039",
@@ -1182,238 +773,510 @@
                 }
               ]
             }
-          ],
-          "lat": 46.492518,
-          "lon": 8.410998
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Denti della Vecchia",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Punta di Elgio – Cresta E dal Passo San Giacomo",
+          "nome": "Denti della Vecchia – Denti della Vecchia : Sasso Grande per la via normale (facciata S)",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.056618,
+          "lon": 9.020206,
           "itinerari": [
             {
-              "id": "CH-TI:routes:routes-mountaineering:0040",
-              "nome": "Est",
+              "id": "CH-TI:routes:routes-mountaineering:0024",
+              "nome": "Sud",
               "gradoObbligatorio": null,
               "gradoMassimo": "F",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": 735,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2837,
+              "quotaMassima": 1490,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57926",
+                  "url": "https://www.camptocamp.org/routes/1331142",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.472686,
-          "lon": 8.445176
+          ]
         },
         {
-          "nome": "Poncione di Vespero – Cresta E dal Passo dei Sassi",
+          "nome": "Denti della Vecchia",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.052563,
+          "lon": 9.025008,
           "itinerari": [
             {
-              "id": "CH-TI:routes:routes-mountaineering:0041",
-              "nome": "Est",
+              "id": "CH-TI:routes:routes-mountaineering:0033",
+              "nome": "Hors des sentiers",
               "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
+              "gradoMassimo": "F",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2717,
+              "quotaMassima": 1431,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57922",
+                  "url": "https://www.camptocamp.org/routes/915527",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.511831,
-          "lon": 8.59223
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Sorda",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Pizzo Colombe – Via Coolidge-Gardiner",
+          "nome": "Pizzo Sorda",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.537927,
+          "lon": 8.999704,
           "itinerari": [
             {
-              "id": "CH-TI:routes:routes-mountaineering:0042",
+              "id": "CH-TI:routes:routes-mountaineering:0025",
+              "nome": "- Val di Carassino",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2885,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1047617",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta di val Scaradra",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Punta di val Scaradra – Val Carassino - Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.544471,
+          "lon": 8.995954,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0026",
               "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2823,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1047572",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima di Fornee",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Cima di Fornee",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.523175,
+          "lon": 8.990614,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0027",
+              "nome": "depuis le Val di Carassino",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3054,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1039389",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Jut",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Cima di Fornee",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.523175,
+          "lon": 8.990614,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0028",
+              "nome": "voie normale",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 900,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2545,
+              "quotaMassima": 3129,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57045",
+                  "url": "https://www.camptocamp.org/routes/1038813",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.535829,
-          "lon": 8.772491
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grigioni / Ticino",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Pizzo dell'Uomo  – cresta NNE integrale",
+          "nome": "Boucle Punta dello Stambecco > Punta Isabella",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.507612,
+          "lon": 9.024428,
           "itinerari": [
             {
-              "id": "CH-TI:routes:routes-mountaineering:0043",
-              "nome": "Nord-est",
+              "id": "CH-TI:routes:routes-mountaineering:0029",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1596,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3168,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1009221",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Plattenberg",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Plattenberg – Depuis Lago di Luzzone",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.558077,
+          "lon": 9.0108,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0030",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3041,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/937460",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gridone / Monte Limidario",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Gridone / Monte Limidario – Gridone Versante Nord da Isella in Val Vigezzo",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.123433,
+          "lon": 8.648209,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0031",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2110,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/933778",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Cassinello",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Pizzo Cassinello",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.552336,
+          "lon": 9.006562,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0032",
+              "nome": "Descente au lac Luzzone",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 750,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2662,
+              "quotaMassima": 3103,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56981",
+                  "url": "https://www.camptocamp.org/routes/917887",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.554029,
-          "lon": 8.788926
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Adula",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Sasso di Luzzone – cresta ENE",
+          "nome": "Adula / Rheinwaldhorn",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.491214,
+          "lon": 9.024358,
           "itinerari": [
             {
-              "id": "CH-TI:routes:routes-mountaineering:0044",
-              "nome": "Nord-est",
+              "id": "CH-TI:routes:routes-mountaineering:0034",
+              "nome": "Via Malvaglia & crete WSW",
               "gradoObbligatorio": null,
-              "gradoMassimo": "F",
+              "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2366,
+              "quotaMassima": 3402,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56980",
+                  "url": "https://www.camptocamp.org/routes/898730",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.452005,
-          "lon": 9.019674
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Medel",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Monte Prosa – Cresta E",
+          "nome": "Piz Medel",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.615146,
+          "lon": 8.9347,
           "itinerari": [
             {
-              "id": "CH-TI:routes:routes-mountaineering:0045",
-              "nome": "Est",
+              "id": "CH-TI:routes:routes-mountaineering:0035",
+              "nome": "Cresta SW concatenando il Piz Camadra, da Pian Geirett ",
               "gradoObbligatorio": null,
-              "gradoMassimo": "F",
+              "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 1600,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2737,
+              "quotaMassima": 3172,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56160",
+                  "url": "https://www.camptocamp.org/routes/789509",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.562012,
-          "lon": 8.58133
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Basòdino",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Scaglia di Corno – cresta E e discesa alla Capanna Corno Gries",
+          "nome": "Basòdino",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.403947,
+          "lon": 8.493756,
           "itinerari": [
             {
-              "id": "CH-TI:routes:routes-mountaineering:0046",
-              "nome": "Est",
+              "id": "CH-TI:routes:routes-mountaineering:0036",
+              "nome": "Arête SSW",
               "gradoObbligatorio": null,
-              "gradoMassimo": "F",
+              "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 650,
+              "sviluppo": 1165,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2641,
+              "quotaMassima": 3272,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56075",
+                  "url": "https://www.camptocamp.org/routes/672982",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.469569,
-          "lon": 8.403529
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Forcella",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Cima di Gana Rossa – cresta SE dalla Capanna di Gana Rossa",
+          "nome": "Forcella – Sabbia nel vento",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.489609,
+          "lon": 8.447441,
           "itinerari": [
             {
-              "id": "CH-TI:routes:routes-mountaineering:0047",
-              "nome": "Sud-est",
+              "id": "CH-TI:routes:routes-mountaineering:0037",
+              "nome": "Sud",
               "gradoObbligatorio": null,
-              "gradoMassimo": "F",
+              "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1000,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2565,
+              "quotaMassima": 2845,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56074",
+                  "url": "https://www.camptocamp.org/routes/288949",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.511896,
-          "lon": 8.837659
+          ]
         },
         {
           "nome": "Forcella",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.486106,
+          "lon": 8.42856,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0048",
@@ -1434,14 +1297,346 @@
                 }
               ]
             }
-          ],
-          "lat": 46.486106,
-          "lon": 8.42856
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Poncione di Cassina Baggio",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Poncione di Cassina Baggio – Arête SE",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.493979,
+          "lon": 8.465741,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0038",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2850,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/177839",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta di Elgio",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Punta di Elgio – Cresta E dal Passo San Giacomo",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.472686,
+          "lon": 8.445176,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0040",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2837,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57926",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Poncione di Vespero",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Poncione di Vespero – Cresta E dal Passo dei Sassi",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.511831,
+          "lon": 8.59223,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0041",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2717,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57922",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Colombe",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Pizzo Colombe – Via Coolidge-Gardiner",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.535829,
+          "lon": 8.772491,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0042",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2545,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57045",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo dell'Uomo",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Pizzo dell'Uomo  – cresta NNE integrale",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.554029,
+          "lon": 8.788926,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0043",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2662,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56981",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sasso di Luzzone",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Sasso di Luzzone – cresta ENE",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.452005,
+          "lon": 9.019674,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0044",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2366,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56980",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Prosa",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Monte Prosa – Cresta E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.562012,
+          "lon": 8.58133,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0045",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2737,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56160",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Scaglia di Corno",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Scaglia di Corno – cresta E e discesa alla Capanna Corno Gries",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.469569,
+          "lon": 8.403529,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0046",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2641,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56075",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima di Gana Rossa",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Cima di Gana Rossa – cresta SE dalla Capanna di Gana Rossa",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.511896,
+          "lon": 8.837659,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-mountaineering:0047",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2565,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56074",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torrone di Nav",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Torrone di Nav",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.547415,
+          "lon": 8.993525,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0049",
@@ -1462,14 +1657,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.547415,
-          "lon": 8.993525
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Corandoni",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Piz Corandoni – cresta E",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.544328,
+          "lon": 8.70251,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0050",
@@ -1490,14 +1693,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.544328,
-          "lon": 8.70251
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Predèlp",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Pizzo Predèlp",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.522252,
+          "lon": 8.802096,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0051",
@@ -1518,14 +1729,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.522252,
-          "lon": 8.802096
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sosto",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Sosto – Spigolo N",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.549727,
+          "lon": 8.957161,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0052",
@@ -1546,14 +1765,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.549727,
-          "lon": 8.957161
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Prevat",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Piz Prevat – Per lo Spigolo NE",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.474797,
+          "lon": 8.721677,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0053",
@@ -1574,14 +1801,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.474797,
-          "lon": 8.721677
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima d'Erbea",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Cima d'Erbea – dalla Capanna Albagno ed il Gaggio (2267)",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.227144,
+          "lon": 8.954372,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0054",
@@ -1602,14 +1837,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.227144,
-          "lon": 8.954372
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schenadui",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Schenadui",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.542671,
+          "lon": 8.711299,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0055",
@@ -1630,14 +1873,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.542671,
-          "lon": 8.711299
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Pianca",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Pizzo Pianca – dal Lago di Luzzone",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.576336,
+          "lon": 8.962076,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0056",
@@ -1658,14 +1909,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.576336,
-          "lon": 8.962076
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pécianett",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Pécianett",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.524862,
+          "lon": 8.753959,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0057",
@@ -1686,14 +1945,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.524862,
-          "lon": 8.753959
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Rondadura",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Piz Rondadura – per la Bocchetta di Rondadura e la cresta ESE",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.569913,
+          "lon": 8.775777,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0058",
@@ -1714,14 +1981,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.569913,
-          "lon": 8.775777
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Valdraus",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Piz Valdraus – Per il versante S",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.612172,
+          "lon": 8.956482,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-mountaineering:0059",
@@ -1742,9 +2017,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.612172,
-          "lon": 8.956482
+          ]
         }
       ],
       "lat": null,

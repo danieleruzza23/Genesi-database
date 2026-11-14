@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Stadelwand",
       "paese": "AT",
       "pareti": [
         {
           "nome": "Stadelwand",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 47.749992,
+          "lon": 15.791843,
           "itinerari": [
             {
               "id": "AT-3:routes:routes-mountaineering:0001",
@@ -31,9 +33,7 @@
                 }
               ]
             }
-          ],
-          "lat": 47.749992,
-          "lon": 15.791843
+          ]
         }
       ],
       "lat": null,

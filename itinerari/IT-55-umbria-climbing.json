@@ -104,13 +104,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Penna della Rocca",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Penna della Rocca",
           "disciplina": "climbing",
           "esposizione": "SW",
+          "lat": 42.60159,
+          "lon": 12.627819,
           "itinerari": [
             {
               "id": "IT-55:routes:routes-climbing:0004",
@@ -187,16 +189,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 42.60159,
-          "lon": 12.627819
-        },
-        {
-          "nome": "Penna della Rocca",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
+            },
             {
               "id": "IT-55:routes:routes-climbing:0008",
               "nome": "Le ali dell'angelo",
@@ -234,16 +227,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 42.599319,
-          "lon": 12.625266
-        },
-        {
-          "nome": "Penna della Rocca",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
+            },
             {
               "id": "IT-55:routes:routes-climbing:0010",
               "nome": "GEA",
@@ -263,9 +247,7 @@
                 }
               ]
             }
-          ],
-          "lat": 42.599476,
-          "lon": 12.627856
+          ]
         }
       ],
       "lat": null,

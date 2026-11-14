@@ -432,13 +432,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Giovo",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Giovo",
           "disciplina": "ice_mixed",
           "esposizione": "NE",
+          "lat": 44.1328,
+          "lon": 10.5769,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-ice_mixed:0018",
@@ -447,7 +449,7 @@
               "gradoMassimo": "AD+",
               "spittatura": "P3",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1991,
@@ -459,9 +461,7 @@
                 }
               ]
             }
-          ],
-          "lat": 44.1328,
-          "lon": 10.5769
+          ]
         }
       ],
       "lat": null,

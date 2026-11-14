@@ -1439,182 +1439,6 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Civetta",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-ice_mixed:0052",
-              "nome": "Zuita Patavina",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1404906",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.380148,
-          "lon": 12.053309
-        },
-        {
-          "nome": "Forcella degli Angeli (Cadini di Misurina)",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-ice_mixed:0053",
-              "nome": "Da NW",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2650,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1399399",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.57394,
-          "lon": 12.276521
-        },
-        {
-          "nome": "Forcella Grande",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-ice_mixed:0054",
-              "nome": "Traversata dal Passo 3 Croci all'albergo Ospitale, per Forcella Grande e Forcella Verde",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2870,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1291719",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.580511,
-          "lon": 12.189103
-        },
-        {
-          "nome": "Cima Cadin di San Lucano",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-ice_mixed:0055",
-              "nome": "Via normale per la Forcella Alta",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2839,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1123657",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.5773,
-          "lon": 12.2851
-        },
-        {
-          "nome": "Croda dei Toni",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-ice_mixed:0056",
-              "nome": "Parete W, Via delle Rocce (via normale)",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3094,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/663060",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.618702,
-          "lon": 12.360838
-        },
-        {
-          "nome": "Forcella delle Bance",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-ice_mixed:0057",
-              "nome": "Traversata Sud - Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2650,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/618966",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.593815,
-          "lon": 12.232755
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Canale d`Agordo",
       "paese": "IT",
       "pareti": [
@@ -1966,6 +1790,206 @@
           ],
           "lat": null,
           "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Civetta",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Civetta",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "lat": 46.380148,
+          "lon": 12.053309,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-ice_mixed:0052",
+              "nome": "Zuita Patavina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1404906",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Belluno",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Forcella degli Angeli (Cadini di Misurina)",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.57394,
+          "lon": 12.276521,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-ice_mixed:0053",
+              "nome": "Da NW",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2650,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1399399",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella Grande",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 46.580511,
+          "lon": 12.189103,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-ice_mixed:0054",
+              "nome": "Traversata dal Passo 3 Croci all'albergo Ospitale, per Forcella Grande e Forcella Verde",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2870,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1291719",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella delle Bance",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 46.593815,
+          "lon": 12.232755,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-ice_mixed:0057",
+              "nome": "Traversata Sud - Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2650,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/618966",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Cadin di San Lucano",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Cadin di San Lucano",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.5773,
+          "lon": 12.2851,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-ice_mixed:0055",
+              "nome": "Via normale per la Forcella Alta",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2839,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1123657",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Croda dei Toni",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Croda dei Toni",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "lat": 46.618702,
+          "lon": 12.360838,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-ice_mixed:0056",
+              "nome": "Parete W, Via delle Rocce (via normale)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2650.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3094,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/663060",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

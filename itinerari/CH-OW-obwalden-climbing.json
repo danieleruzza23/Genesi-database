@@ -196,13 +196,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Titlis",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Titlis",
           "disciplina": "climbing",
           "esposizione": "NW",
+          "lat": 46.772057,
+          "lon": 8.437782,
           "itinerari": [
             {
               "id": "CH-OW:routes:routes-climbing:0007",
@@ -211,7 +213,7 @@
               "gradoMassimo": "7b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2250,
@@ -230,7 +232,7 @@
               "gradoMassimo": "7b",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 280.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2250,
@@ -241,15 +243,42 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-OW:routes:routes-climbing:0035",
+              "nome": "Stubby & Charlie",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2320,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/797166",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.772057,
-          "lon": 8.437782
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ofen",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Ofen",
           "disciplina": "climbing",
           "esposizione": "S",
+          "lat": 46.806651,
+          "lon": 8.311664,
           "itinerari": [
             {
               "id": "CH-OW:routes:routes-climbing:0009",
@@ -258,7 +287,7 @@
               "gradoMassimo": "TD-",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -277,7 +306,7 @@
               "gradoMassimo": "TD+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2188,
@@ -288,16 +317,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.806651,
-          "lon": 8.311664
-        },
-        {
-          "nome": "Ofen",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
+            },
             {
               "id": "CH-OW:routes:routes-climbing:0011",
               "nome": "Schwarz Peter",
@@ -305,7 +325,7 @@
               "gradoMassimo": "6b+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -316,460 +336,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.8081,
-          "lon": 8.318
-        },
-        {
-          "nome": "Engelberg - Klettergarten Leitistein",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-OW:routes:routes-climbing:0012",
-              "nome": "Muggibude",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1326390",
-                  "siteName": null
-                }
-              ]
             },
-            {
-              "id": "CH-OW:routes:routes-climbing:0013",
-              "nome": "der Kraxler",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1326382",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0014",
-              "nome": "Z'Bärg mit Bini",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1326215",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0015",
-              "nome": "Offalaff/Crystal",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1326205",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0016",
-              "nome": "Kneke di knek",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "3c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1326202",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.794196,
-          "lon": 8.469396
-        },
-        {
-          "nome": "Engelberg - Klettergarten Leitistein",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-OW:routes:routes-climbing:0017",
-              "nome": "Luke Skywalker",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1326200",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0018",
-              "nome": "Stairway to heaven",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1326198",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.820062,
-          "lon": 8.400914
-        },
-        {
-          "nome": "Klettergarten Schneesturm",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "CH-OW:routes:routes-climbing:0019",
-              "nome": "Secondo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262250",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0020",
-              "nome": "Primo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262249",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0021",
-              "nome": "Angela",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262248",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0022",
-              "nome": "Nora",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "3a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262247",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0023",
-              "nome": "Manuel",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "3a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262246",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.97952,
-          "lon": 8.26155
-        },
-        {
-          "nome": "Bettlerstock",
-          "disciplina": "climbing",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "CH-OW:routes:routes-climbing:0024",
-              "nome": "Kletterlehrpfad - Mungg",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2100,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1125207",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.847755,
-          "lon": 8.411204
-        },
-        {
-          "nome": "Cheselenflue",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "CH-OW:routes:routes-climbing:0025",
-              "nome": "Viadukt",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/810884",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0026",
-              "nome": "Die Männer von Memmental",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/810882",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0027",
-              "nome": "Kontinuum",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/810878",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0028",
-              "nome": "Roter Punkt",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/810875",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0029",
-              "nome": "Technoparty",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/810873",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0030",
-              "nome": "Meteorit-Kombination",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57665",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0031",
-              "nome": "Dr Blau Chäfer",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57664",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-OW:routes:routes-climbing:0032",
-              "nome": "Stairway to Heaven",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57002",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.79796,
-          "lon": 8.270482
-        },
-        {
-          "nome": "Ofen",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
             {
               "id": "CH-OW:routes:routes-climbing:0033",
               "nome": "Indianerpfeiler",
@@ -777,7 +344,7 @@
               "gradoMassimo": "TD",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2188,
@@ -796,7 +363,7 @@
               "gradoMassimo": "TD+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2188,
@@ -807,43 +374,247 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.814147,
-          "lon": 8.303286
-        },
-        {
-          "nome": "Titlis",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
-              "id": "CH-OW:routes:routes-climbing:0035",
-              "nome": "Stubby & Charlie",
+              "id": "CH-OW:routes:routes-climbing:0039",
+              "nome": "Lugispiel",
               "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P1",
+              "gradoMassimo": "ED-",
+              "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2320,
+              "quotaMassima": 2188,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/797166",
+                  "url": "https://www.camptocamp.org/routes/187673",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.796065,
-          "lon": 8.419348
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bettlerstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Bettlerstock",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "lat": 46.847755,
+          "lon": 8.411204,
+          "itinerari": [
+            {
+              "id": "CH-OW:routes:routes-climbing:0024",
+              "nome": "Kletterlehrpfad - Mungg",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1125207",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cheselenflue",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Cheselenflue",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 46.79796,
+          "lon": 8.270482,
+          "itinerari": [
+            {
+              "id": "CH-OW:routes:routes-climbing:0025",
+              "nome": "Viadukt",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/810884",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-OW:routes:routes-climbing:0026",
+              "nome": "Die Männer von Memmental",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/810882",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-OW:routes:routes-climbing:0027",
+              "nome": "Kontinuum",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/810878",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-OW:routes:routes-climbing:0028",
+              "nome": "Roter Punkt",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/810875",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-OW:routes:routes-climbing:0029",
+              "nome": "Technoparty",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/810873",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-OW:routes:routes-climbing:0030",
+              "nome": "Meteorit-Kombination",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57665",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-OW:routes:routes-climbing:0031",
+              "nome": "Dr Blau Chäfer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57664",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-OW:routes:routes-climbing:0032",
+              "nome": "Stairway to Heaven",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57002",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Obvaldo",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Laub",
           "disciplina": "climbing",
           "esposizione": "NW",
+          "lat": 46.9744,
+          "lon": 8.252405,
           "itinerari": [
             {
               "id": "CH-OW:routes:routes-climbing:0036",
@@ -864,14 +635,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.9744,
-          "lon": 8.252405
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pilatus",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Pilatus",
           "disciplina": "climbing",
           "esposizione": "S",
+          "lat": 46.964056,
+          "lon": 8.261777,
           "itinerari": [
             {
               "id": "CH-OW:routes:routes-climbing:0037",
@@ -880,7 +659,7 @@
               "gradoMassimo": "AD",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 370.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2129,
@@ -892,14 +671,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.964056,
-          "lon": 8.261777
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Matthorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Matthorn",
           "disciplina": "climbing",
           "esposizione": "SW",
+          "lat": 46.973794,
+          "lon": 8.250206,
           "itinerari": [
             {
               "id": "CH-OW:routes:routes-climbing:0038",
@@ -908,7 +695,7 @@
               "gradoMassimo": "PD+",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2041,
@@ -920,37 +707,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.973794,
-          "lon": 8.250206
-        },
-        {
-          "nome": "Ofen",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-OW:routes:routes-climbing:0039",
-              "nome": "Lugispiel",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2188,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/187673",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.821122,
-          "lon": 8.303641
+          ]
         }
       ],
       "lat": null,

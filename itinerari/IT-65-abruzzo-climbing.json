@@ -520,7 +520,7 @@
               "gradoMassimo": "TD",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 230.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2400,
@@ -567,7 +567,7 @@
               "gradoMassimo": "TD-",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2450,
@@ -1200,7 +1200,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P3",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2655,
@@ -2011,13 +2011,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Gran Sasso d'Italia - Corno Grande",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Gran Sasso d'Italia - Corno Grande",
           "disciplina": "climbing",
           "esposizione": "E",
+          "lat": 42.457979,
+          "lon": 13.56043,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-climbing:0075",
@@ -2038,9 +2040,7 @@
                 }
               ]
             }
-          ],
-          "lat": 42.457979,
-          "lon": 13.56043
+          ]
         }
       ],
       "lat": null,

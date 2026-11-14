@@ -76,13 +76,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Terminillo",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Terminillo",
           "disciplina": "ice_mixed",
           "esposizione": "NW",
+          "lat": 42.47281,
+          "lon": 13.004265,
           "itinerari": [
             {
               "id": "IT-62:routes:routes-ice_mixed:0003",
@@ -91,7 +93,7 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 1812.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2216,
@@ -103,9 +105,7 @@
                 }
               ]
             }
-          ],
-          "lat": 42.47281,
-          "lon": 13.004265
+          ]
         }
       ],
       "lat": null,

@@ -3599,13 +3599,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Pizzo d'Uccello",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Pizzo d'Uccello – Via normale (da rif. Giudo Donegani)",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 44.139212,
+          "lon": 10.183315,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-mountaineering:0124",
@@ -3626,14 +3628,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.139212,
-          "lon": 10.183315
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Massa e Carrara",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Lagoni – Roccapumaccioletto Spigolo Sud",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 44.311244,
+          "lon": 9.793773,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-mountaineering:0125",
@@ -3654,14 +3664,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.311244,
-          "lon": 9.793773
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Lucca / Provincia di Massa e Carrara",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Altissimo da Pian delle Fiobe",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 44.107778,
+          "lon": 10.232778,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-mountaineering:0126",
@@ -3682,14 +3700,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.107778,
-          "lon": 10.232778
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Pania della Croce",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Pania della Croce – Pania della Croce da Pruno",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 44.035997,
+          "lon": 10.325006,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-mountaineering:0127",
@@ -3710,9 +3736,7 @@
                 }
               ]
             }
-          ],
-          "lat": 44.035997,
-          "lon": 10.325006
+          ]
         }
       ],
       "lat": null,

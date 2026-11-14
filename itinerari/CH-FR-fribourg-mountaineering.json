@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Le Moléson",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Le Moléson",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.562044,
+          "lon": 7.036888,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0001",
@@ -31,14 +33,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.562044,
-          "lon": 7.036888
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Zuckerspitz",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Zuckerspitz",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.556655,
+          "lon": 7.247392,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0002",
@@ -59,14 +69,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.556655,
-          "lon": 7.247392
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Dent de Broc",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Dent de Broc",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.588548,
+          "lon": 7.12784,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0003",
@@ -86,15 +104,42 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-FR:routes:routes-mountaineering:0009",
+              "nome": "Arête W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1829,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/464311",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.588548,
-          "lon": 7.12784
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vanil des Artses",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Vanil des Artses",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.482331,
+          "lon": 6.98735,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0004",
@@ -114,16 +159,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.482331,
-          "lon": 6.98735
-        },
-        {
-          "nome": "Vanil des Artses",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "CH-FR:routes:routes-mountaineering:0005",
               "nome": "Arête N",
@@ -143,14 +179,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.482093,
-          "lon": 6.987364
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Canton Friburgo / Vaud",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Traversée Pointe de Paray >> Vanil Carré",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.515199,
+          "lon": 7.126522,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0006",
@@ -171,14 +215,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.515199,
-          "lon": 7.126522
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kaiseregg",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Kaiseregg",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.651719,
+          "lon": 7.323362,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0007",
@@ -199,14 +251,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.651719,
-          "lon": 7.323362
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chörblispitz",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Chörblispitz",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.619031,
+          "lon": 7.280225,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0008",
@@ -227,42 +287,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.619031,
-          "lon": 7.280225
-        },
-        {
-          "nome": "Dent de Broc",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-FR:routes:routes-mountaineering:0009",
-              "nome": "Arête W",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1829,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/464311",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.590338,
-          "lon": 7.120147
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Le Pila",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Le Pila",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.472116,
+          "lon": 6.988781,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0010",
@@ -283,14 +323,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.472116,
-          "lon": 6.988781
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vanil Noir",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Vanil Noir",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.542497,
+          "lon": 7.172004,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0011",
@@ -311,14 +359,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.542497,
-          "lon": 7.172004
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pointe de Paray",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Pointe de Paray",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.524976,
+          "lon": 7.113574,
           "itinerari": [
             {
               "id": "CH-FR:routes:routes-mountaineering:0012",
@@ -339,9 +395,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.524976,
-          "lon": 7.113574
+          ]
         }
       ],
       "lat": null,

@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Ruchstock",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Ruchstock",
           "disciplina": "climbing",
           "esposizione": "S",
+          "lat": 46.855933,
+          "lon": 8.47079,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-climbing:0001",
@@ -19,7 +21,7 @@
               "gradoMassimo": "TD+",
               "spittatura": "P1+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2818,
@@ -31,9 +33,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.855933,
-          "lon": 8.47079
+          ]
         }
       ],
       "lat": null,

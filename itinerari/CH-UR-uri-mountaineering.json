@@ -237,13 +237,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Chammliberg",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Chammliberg – S-N ridge (Überschreitung Südwesten)",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.836801,
+          "lon": 8.84478,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0008",
@@ -264,14 +266,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.836801,
-          "lon": 8.84478
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lochberg",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Lochberg – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.625321,
+          "lon": 8.46831,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0009",
@@ -292,14 +302,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.625321,
-          "lon": 8.46831
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Uri",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Göschenenalpsee",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.649551,
+          "lon": 8.499945,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0010",
@@ -320,14 +338,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.649551,
-          "lon": 8.499945
+          ]
         },
         {
           "nome": "Sewenhütte – Hoch Seewen Arete S",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.763182,
+          "lon": 8.531984,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0011",
@@ -348,322 +366,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.763182,
-          "lon": 8.531984
-        },
-        {
-          "nome": "Sewenstock – Pilier SE",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0012",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 600,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2818,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1803833",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.761128,
-          "lon": 8.526829
-        },
-        {
-          "nome": "Chelenalphorn – Arête S",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0013",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1700,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3202,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1465135",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.677068,
-          "lon": 8.464776
-        },
-        {
-          "nome": "Vorder Feldschijen - Tour III",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0014",
-              "nome": "Arête W",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2828,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1452195",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.629686,
-          "lon": 8.496687
-        },
-        {
-          "nome": "Clariden – Versant ENE",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0015",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3267,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1444071",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.842011,
-          "lon": 8.871259
-        },
-        {
-          "nome": "Gross Ruchen – Arête E par Ruchenchälen et le Ruchenfirn",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0016",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 2170,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3137,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1354903",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.810876,
-          "lon": 8.780045
-        },
-        {
-          "nome": "Laged Windgallen",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0017",
-              "nome": "Schächentaler Windgällen",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1331325",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.88348,
-          "lon": 8.80004
-        },
-        {
-          "nome": "Kanzelgrat / Chanzelgrat – Traversée W → E",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0018",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2445,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1251678",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.754245,
-          "lon": 8.486179
-        },
-        {
-          "nome": "Krönten",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0019",
-              "nome": "Arête E en traversée par le Chli Krönten et descente flanc SW, en boucle depuis Leutschachhütte",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 898,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3107,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1219997",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.78208,
-          "lon": 8.56972
-        },
-        {
-          "nome": "Gross Schärhorn",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0020",
-              "nome": "Südgrat",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1211960",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.826498,
-          "lon": 8.829474
-        },
-        {
-          "nome": "Moosstock",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0021",
-              "nome": "SE ridge",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1145410",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.648666,
-          "lon": 8.451075
-        },
-        {
-          "nome": "Bristen – Arête S",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0022",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1100,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3073,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1032887",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.727524,
-          "lon": 8.700961
+          ]
         },
         {
           "nome": "Morgesunnä",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.678512,
+          "lon": 8.540563,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0023",
@@ -684,378 +394,366 @@
                 }
               ]
             }
-          ],
-          "lat": 46.678512,
-          "lon": 8.540563
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sewenstock",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Gross Leckihorn – Traversée Klein → Gross Leckihorn",
+          "nome": "Sewenstock – Pilier SE",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.761128,
+          "lon": 8.526829,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0024",
-              "nome": "Est",
+              "id": "CH-UR:routes:routes-mountaineering:0012",
+              "nome": "Sud-est",
               "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
+              "gradoMassimo": "D",
               "spittatura": null,
               "tiri": null,
               "sviluppo": 600,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3068,
+              "quotaMassima": 2818,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1027708",
+                  "url": "https://www.camptocamp.org/routes/1803833",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.538117,
-          "lon": 8.471977
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chelenalphorn",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Chli Sustenhorn",
+          "nome": "Chelenalphorn – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.677068,
+          "lon": 8.464776,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0025",
-              "nome": "Arête NE",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3318,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1011812",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.713624,
-          "lon": 8.459103
-        },
-        {
-          "nome": "Zwillingsturm – Salbitissima",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0026",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 815,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2920,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/801214",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.673622,
-          "lon": 8.54664
-        },
-        {
-          "nome": "Zwillingsturm – Licht und Schatten",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0027",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2980,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/136237",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.673622,
-          "lon": 8.54664
-        },
-        {
-          "nome": "Hochschijen – Arête S",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0028",
+              "id": "CH-UR:routes:routes-mountaineering:0013",
               "nome": "Sud",
               "gradoObbligatorio": null,
               "gradoMassimo": "D-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 1700,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2637,
+              "quotaMassima": 3202,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/790291",
+                  "url": "https://www.camptocamp.org/routes/1465135",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.656796,
-          "lon": 8.493185
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vorder Feldschijen - Tour III",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Klein Furkahorn",
+          "nome": "Vorder Feldschijen - Tour III",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.629686,
+          "lon": 8.496687,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0029",
+              "id": "CH-UR:routes:routes-mountaineering:0014",
               "nome": "Arête W",
               "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
+              "gradoMassimo": "D+",
               "spittatura": null,
               "tiri": null,
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2968,
+              "quotaMassima": 2828,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/681639",
+                  "url": "https://www.camptocamp.org/routes/1452195",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.579242,
-          "lon": 8.410728
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Clariden",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Wendenhorn – Arête SE",
+          "nome": "Clariden – Versant ENE",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.842011,
+          "lon": 8.871259,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0030",
-              "nome": "Sud-est",
+              "id": "CH-UR:routes:routes-mountaineering:0015",
+              "nome": "Est",
               "gradoObbligatorio": null,
-              "gradoMassimo": "D",
+              "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 920,
+              "sviluppo": 1000,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3023,
+              "quotaMassima": 3267,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/678416",
+                  "url": "https://www.camptocamp.org/routes/1444071",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.752398,
-          "lon": 8.448819
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Ruchen",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Fleckistock (Rot Stock) – Arête S",
+          "nome": "Gross Ruchen – Arête E par Ruchenchälen et le Ruchenfirn",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.810876,
+          "lon": 8.780045,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0031",
+              "id": "CH-UR:routes:routes-mountaineering:0016",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2170,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3137,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1354903",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Laged Windgallen",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Laged Windgallen",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.88348,
+          "lon": 8.80004,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0017",
+              "nome": "Schächentaler Windgällen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1331325",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kanzelgrat / Chanzelgrat",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Kanzelgrat / Chanzelgrat – Traversée W → E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.754245,
+          "lon": 8.486179,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0018",
               "nome": "Sud",
               "gradoObbligatorio": null,
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1290,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3416,
+              "quotaMassima": 2445,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/652069",
+                  "url": "https://www.camptocamp.org/routes/1251678",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.686463,
-          "lon": 8.505639
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Krönten",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Galenstock",
+          "nome": "Krönten",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.78208,
+          "lon": 8.56972,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0032",
-              "nome": "Galengrat-Verschneidung",
+              "id": "CH-UR:routes:routes-mountaineering:0019",
+              "nome": "Arête E en traversée par le Chli Krönten et descente flanc SW, en boucle depuis Leutschachhütte",
               "gradoObbligatorio": null,
-              "gradoMassimo": "D",
+              "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 840,
+              "sviluppo": 898,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3270,
+              "quotaMassima": 3107,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/651239",
+                  "url": "https://www.camptocamp.org/routes/1219997",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.600006,
-          "lon": 8.416287
+          ]
         },
         {
-          "nome": "Galenstock – Éperon SE",
+          "nome": "Krönten – Tour S",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.781132,
+          "lon": 8.607659,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0033",
-              "nome": "Sud-est",
+              "id": "CH-UR:routes:routes-mountaineering:0046",
+              "nome": "Sud",
               "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 880,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3586,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/567364",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.612125,
-          "lon": 8.417465
-        },
-        {
-          "nome": "Gemsplanggenstock – Hüttengrat",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0034",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
+              "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2752,
+              "quotaMassima": 3107,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/553890",
+                  "url": "https://www.camptocamp.org/routes/288672",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.674553,
-          "lon": 8.548468
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Schärhorn",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Gross Furkahorn – Eperon E (Via Evalyn)",
+          "nome": "Gross Schärhorn",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.826498,
+          "lon": 8.829474,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0035",
-              "nome": "Est",
+              "id": "CH-UR:routes:routes-mountaineering:0020",
+              "nome": "Südgrat",
               "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
+              "gradoMassimo": "AD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 750,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3169,
+              "quotaMassima": null,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/545725",
+                  "url": "https://www.camptocamp.org/routes/1211960",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.588934,
-          "lon": 8.417426
-        },
-        {
-          "nome": "Gross Furkahorn – Cresta ESE",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0036",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 300,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3169,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56700",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.588934,
-          "lon": 8.417426
+          ]
         },
         {
           "nome": "Gross Schärhorn – Flanc NE",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.835891,
+          "lon": 8.831978,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0037",
@@ -1076,14 +774,650 @@
                 }
               ]
             }
-          ],
-          "lat": 46.835891,
-          "lon": 8.831978
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Moosstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Moosstock",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.648666,
+          "lon": 8.451075,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0021",
+              "nome": "SE ridge",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1145410",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bristen",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Bristen – Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.727524,
+          "lon": 8.700961,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0022",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3073,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1032887",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Leckihorn",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Gross Leckihorn – Traversée Klein → Gross Leckihorn",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.538117,
+          "lon": 8.471977,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0024",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3068,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1027708",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chli Sustenhorn",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Chli Sustenhorn",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.713624,
+          "lon": 8.459103,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0025",
+              "nome": "Arête NE",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3318,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1011812",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Zwillingsturm",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Zwillingsturm – Salbitissima",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.673622,
+          "lon": 8.54664,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0026",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 815,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2920,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/801214",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         },
+        {
+          "nome": "Zwillingsturm – Licht und Schatten",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.673622,
+          "lon": 8.54664,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0027",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2980,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/136237",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Zwillingsturm – Pilier Villiger",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.673622,
+          "lon": 8.54664,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0064",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 805,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2910,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/465994",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Zwillingsturm – Via Niedermann alla Zwillingsturm",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.673622,
+          "lon": 8.54664,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0065",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 820,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2920,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55797",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hochschijen",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Hochschijen – Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.656796,
+          "lon": 8.493185,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0028",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2637,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/790291",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochschijen – Cresta S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.656796,
+          "lon": 8.493185,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0066",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2637,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56142",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Klein Furkahorn",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Klein Furkahorn",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.579242,
+          "lon": 8.410728,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0029",
+              "nome": "Arête W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2968,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/681639",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Wendenhorn",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Wendenhorn – Arête SE",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.752398,
+          "lon": 8.448819,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0030",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 920,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3023,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/678416",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Fleckistock (Rot Stock)",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Fleckistock (Rot Stock) – Arête S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.686463,
+          "lon": 8.505639,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0031",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1290,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3416,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/652069",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Galenstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Galenstock",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.600006,
+          "lon": 8.416287,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0032",
+              "nome": "Galengrat-Verschneidung",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 840,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3270,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/651239",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Galenstock – Éperon SE",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.612125,
+          "lon": 8.417465,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0033",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 880,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3586,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/567364",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Galenstock – Cresta S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.59812,
+          "lon": 8.431782,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0053",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 910,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3586,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57905",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gemsplanggenstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Gemsplanggenstock – Hüttengrat",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.674553,
+          "lon": 8.548468,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0034",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2752,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/553890",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Furkahorn",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Gross Furkahorn – Eperon E (Via Evalyn)",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.588934,
+          "lon": 8.417426,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0035",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3169,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/545725",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gross Furkahorn – Cresta ESE",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.588934,
+          "lon": 8.417426,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0036",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3169,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56700",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Wichelhorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Wichelhorn – Vom Arnisee durch das Leutschachtal",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.775557,
+          "lon": 8.610263,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0038",
@@ -1104,14 +1438,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.775557,
-          "lon": 8.610263
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Jakobiger",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Jakobiger",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.791304,
+          "lon": 8.60631,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0039",
@@ -1132,14 +1474,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.791304,
-          "lon": 8.60631
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Salbitschijen",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Salbitschijen",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.670699,
+          "lon": 8.540006,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0040",
@@ -1160,14 +1510,78 @@
                 }
               ]
             }
-          ],
-          "lat": 46.670699,
-          "lon": 8.540006
+          ]
         },
+        {
+          "nome": "Salbitschijen – Cresta S",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.68029,
+          "lon": 8.541342,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0052",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 880,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2981,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/137906",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Salbitschijen – Clog and Stock",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.673747,
+          "lon": 8.546372,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0063",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 880,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2980,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/784902",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Trotzigplanggstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Trotzigplanggstock – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.763836,
+          "lon": 8.474075,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0041",
@@ -1188,14 +1602,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.763836,
-          "lon": 8.474075
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schinstock / Shijenstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Schinstock / Shijenstock – Arête S",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.658776,
+          "lon": 8.486664,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0042",
@@ -1216,14 +1638,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.658776,
-          "lon": 8.486664
+          ]
         },
         {
           "nome": "Schinstock / Shijenstock – Sperone SE - Via Diretta",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.658776,
+          "lon": 8.486664,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0043",
@@ -1244,14 +1666,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.658776,
-          "lon": 8.486664
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Windgällen",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Gross Windgällen",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.788689,
+          "lon": 8.73386,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0044",
@@ -1291,42 +1721,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.788689,
-          "lon": 8.73386
-        },
-        {
-          "nome": "Krönten – Tour S",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0046",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3107,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/288672",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.781132,
-          "lon": 8.607659
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mäntliser",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Mäntliser",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.782762,
+          "lon": 8.613787,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0047",
@@ -1347,14 +1757,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.782762,
-          "lon": 8.613787
+          ]
         },
         {
           "nome": "Mäntliser – Sonnenkönig",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.782762,
+          "lon": 8.613787,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0048",
@@ -1375,14 +1785,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.782762,
-          "lon": 8.613787
+          ]
         },
         {
           "nome": "Mäntliser – Arête SE",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.782762,
+          "lon": 8.613787,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0049",
@@ -1403,14 +1813,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.782762,
-          "lon": 8.613787
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Bielenhorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Gross Bielenhorn – Cresta SE",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.602611,
+          "lon": 8.428684,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0050",
@@ -1431,14 +1849,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.602611,
-          "lon": 8.428684
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sustenhorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Sustenhorn – Arête E",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.683644,
+          "lon": 8.491502,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0051",
@@ -1459,70 +1885,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.683644,
-          "lon": 8.491502
-        },
-        {
-          "nome": "Salbitschijen – Cresta S",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0052",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 880,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2981,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/137906",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.68029,
-          "lon": 8.541342
-        },
-        {
-          "nome": "Galenstock – Cresta S",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0053",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 910,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3586,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57905",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.59812,
-          "lon": 8.431782
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Dammazwillinge",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Dammazwillinge",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.608119,
+          "lon": 8.452164,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0054",
@@ -1543,14 +1921,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.608119,
-          "lon": 8.452164
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Winterhorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Winterhorn – Cresta SSE e discesa per il Pizzo d'Orsirora",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.586755,
+          "lon": 8.539253,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0055",
@@ -1571,14 +1957,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.586755,
-          "lon": 8.539253
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chli Bielenhorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Chli Bielenhorn – via normale dalla Sidelenhutte",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.589667,
+          "lon": 8.425575,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0056",
@@ -1599,154 +1993,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.589667,
-          "lon": 8.425575
-        },
-        {
-          "nome": "Gross Schijen",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0057",
-              "nome": "Par le Klein Schijen",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 450,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2786,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55906",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.653383,
-          "lon": 8.61818
-        },
-        {
-          "nome": "Gletschhorn – Cresta S",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0058",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1035,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3305,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55755",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.607156,
-          "lon": 8.454636
-        },
-        {
-          "nome": "Pizzo Centrale",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0059",
-              "nome": "cresta NW (per la Gamsspitz)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 800,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2999,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55273",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.5782,
-          "lon": 8.615
-        },
-        {
-          "nome": "Strahlengrat – Arête E",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0060",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 750,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3021,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55246",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.6031,
-          "lon": 8.451345
-        },
-        {
-          "nome": "Signalstock – Herkules",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0061",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2572,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/54710",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.898694,
-          "lon": 8.904138
+          ]
         },
         {
           "nome": "Chli Bielenhorn",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.599045,
+          "lon": 8.435147,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-mountaineering:0062",
@@ -1767,121 +2021,187 @@
                 }
               ]
             }
-          ],
-          "lat": 46.599045,
-          "lon": 8.435147
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Schijen",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Salbitschijen – Clog and Stock",
+          "nome": "Gross Schijen",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.653383,
+          "lon": 8.61818,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0063",
-              "nome": "Sud-est",
+              "id": "CH-UR:routes:routes-mountaineering:0057",
+              "nome": "Par le Klein Schijen",
               "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
+              "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 880,
+              "sviluppo": 450,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2980,
+              "quotaMassima": 2786,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/784902",
+                  "url": "https://www.camptocamp.org/routes/55906",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.673747,
-          "lon": 8.546372
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gletschhorn",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Zwillingsturm – Pilier Villiger",
+          "nome": "Gletschhorn – Cresta S",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.607156,
+          "lon": 8.454636,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-mountaineering:0064",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 805,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2910,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/465994",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.673622,
-          "lon": 8.54664
-        },
-        {
-          "nome": "Zwillingsturm – Via Niedermann alla Zwillingsturm",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0065",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 820,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2920,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55797",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.673622,
-          "lon": 8.54664
-        },
-        {
-          "nome": "Hochschijen – Cresta S",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-mountaineering:0066",
+              "id": "CH-UR:routes:routes-mountaineering:0058",
               "nome": "Sud",
               "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
+              "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 1035,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2637,
+              "quotaMassima": 3305,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56142",
+                  "url": "https://www.camptocamp.org/routes/55755",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.656796,
-          "lon": 8.493185
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Centrale",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Pizzo Centrale",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.5782,
+          "lon": 8.615,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0059",
+              "nome": "cresta NW (per la Gamsspitz)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2999,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55273",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Strahlengrat",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Strahlengrat – Arête E",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.6031,
+          "lon": 8.451345,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0060",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3021,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55246",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Signalstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Signalstock – Herkules",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 46.898694,
+          "lon": 8.904138,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-mountaineering:0061",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2572,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54710",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

@@ -1150,7 +1150,7 @@
               "gradoMassimo": "AD",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1800,
@@ -1169,7 +1169,7 @@
               "gradoMassimo": "AD-",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1800,
@@ -2652,7 +2652,7 @@
               "gradoMassimo": "AD-",
               "spittatura": "P3",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2177,
@@ -4876,7 +4876,7 @@
               "gradoMassimo": "D-",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1500,
@@ -5087,6 +5087,34 @@
           ],
           "lat": 45.864447879454005,
           "lon": 9.447662829444589
+        },
+        {
+          "nome": "Resegone",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.859494,
+          "lon": 9.447429,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0909",
+              "nome": "Bastionata S : Nuovi Orizzonti",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1875,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/58057",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,
@@ -6328,7 +6356,7 @@
               "gradoMassimo": "6b+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -6347,7 +6375,7 @@
               "gradoMassimo": null,
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 220.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1165,
@@ -6366,7 +6394,7 @@
               "gradoMassimo": "5c",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 90.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -6385,7 +6413,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1165,
@@ -7051,7 +7079,7 @@
               "gradoMassimo": "5b+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 110.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1200,
@@ -7070,7 +7098,7 @@
               "gradoMassimo": "6a+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -7089,7 +7117,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 280.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1165,
@@ -8246,6 +8274,34 @@
           ],
           "lat": 45.9291959,
           "lon": 10.098444
+        },
+        {
+          "nome": "Presolana del Prato",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.94543,
+          "lon": 10.075049,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0881",
+              "nome": " Via del Gemello Destro",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286243",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,
@@ -8929,7 +8985,7 @@
               "gradoMassimo": "TD",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 660,
@@ -10153,7 +10209,7 @@
               "gradoMassimo": "TD-",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -10172,7 +10228,7 @@
               "gradoMassimo": "TD+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 400.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1600,
@@ -11618,7 +11674,7 @@
               "gradoMassimo": "TD-",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 880,
@@ -11642,7 +11698,7 @@
               "gradoMassimo": "TD-",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 880,
@@ -11666,7 +11722,7 @@
               "gradoMassimo": "TD+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 880,
@@ -11995,7 +12051,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 850,
@@ -12396,7 +12452,7 @@
               "gradoMassimo": "6b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 130.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -12420,7 +12476,7 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 350.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -12444,7 +12500,7 @@
               "gradoMassimo": "6c+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 190.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -12468,7 +12524,7 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -12492,7 +12548,7 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 160.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -12516,7 +12572,7 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 120.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -12540,7 +12596,7 @@
               "gradoMassimo": "7b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 240.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -12559,7 +12615,7 @@
               "gradoMassimo": "7b",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 370.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -12920,7 +12976,7 @@
               "gradoMassimo": "6c",
               "spittatura": null,
               "tiri": 7,
-              "sviluppo": null,
+              "sviluppo": 335.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -17281,6 +17337,34 @@
           ],
           "lat": 46.295347,
           "lon": 9.670747
+        },
+        {
+          "nome": "Punta Allievi",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 46.278176,
+          "lon": 9.65845,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0833",
+              "nome": "Contrefort W - Il fortissimo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2790,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/803425",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,
@@ -19556,7 +19640,7 @@
               "gradoMassimo": "TD",
               "spittatura": "P1+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 550.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1730,
@@ -20019,7 +20103,7 @@
               "gradoMassimo": "TD",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 270.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1800,
@@ -20290,7 +20374,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P1+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 70.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1270,
@@ -20922,7 +21006,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1300,
@@ -20941,7 +21025,7 @@
               "gradoMassimo": "TD-",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1300,
@@ -21166,7 +21250,7 @@
               "gradoMassimo": "TD",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 235.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1435,
@@ -23182,2563 +23266,6 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Avancorpo del Porcellizzo",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0817",
-              "nome": "Vernaccia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1937893",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.278999,
-          "lon": 9.576885
-        },
-        {
-          "nome": "Parete Stoppani",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0818",
-              "nome": "Delfix",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1080,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1720175",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.860032,
-          "lon": 9.444237
-        },
-        {
-          "nome": "Antimedale",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0819",
-              "nome": "Pilastro Irene - Via Don Lorenzo Milani",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6c+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1433799",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0820",
-              "nome": "via Quo vadis? Ubi me paret!",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "7b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1429340",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Antimedale-viaQuoVadisUbiMeParet/18/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.875932,
-          "lon": 9.390121
-        },
-        {
-          "nome": "Monte Piezza",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0821",
-              "nome": "Un vianDante alle isole Paleari",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1457711",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-piezza-m-1350-via-un-viandante-alle-isole-paleari/887/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.226017,
-          "lon": 9.65749
-        },
-        {
-          "nome": "El Schenun",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0822",
-              "nome": "La coda del Dinosauro",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1454455",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.244701,
-          "lon": 9.59811
-        },
-        {
-          "nome": "Cima di Fojorina / Fiorina",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0823",
-              "nome": "e Torrione di Valsolda ad anello",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1809,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1122269",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0824",
-              "nome": "da Seghebbia (val Rezzo)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1809,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57154",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0825",
-              "nome": "dalla Val Rezzo e la Cima di Fojorina",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1805,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56979",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.057618,
-          "lon": 9.073363
-        },
-        {
-          "nome": "Forcellino del Dosso",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0826",
-              "nome": "L'Ombra del Lupo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2660,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/912546",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.022195,
-          "lon": 10.421964
-        },
-        {
-          "nome": "Pizzo della Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0827",
-              "nome": "Emmental Strasse",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2267,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/912491",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0828",
-              "nome": " Via Sa.Vi.An.",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2511,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/280911",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0829",
-              "nome": "Spigolo SSW - Via Bramani Ratti",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2517,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/176066",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0830",
-              "nome": "Spigolando",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2511,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/58055",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0831",
-              "nome": "Pilier S, Via Fratelli Longo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2511,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55255",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.946131,
-          "lon": 10.072809
-        },
-        {
-          "nome": "Ago di Tredenus",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0832",
-              "nome": "Spigolo NW (voie Quarenghi)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2760,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/911603",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.020711,
-          "lon": 10.418209
-        },
-        {
-          "nome": "Punta Allievi",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0833",
-              "nome": "Contrefort W - Il fortissimo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2790,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/803425",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.278176,
-          "lon": 9.65845
-        },
-        {
-          "nome": "Val di Mello",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0834",
-              "nome": "Stella Marina - Vortice di Fiabe",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1400,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/666238",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.252422,
-          "lon": 9.64737
-        },
-        {
-          "nome": "Monte Qualido",
-          "disciplina": "climbing",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0835",
-              "nome": "Stargate",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2550,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/663945",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.259979,
-          "lon": 9.642862
-        },
-        {
-          "nome": "Pian delle Rose",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0836",
-              "nome": "Rosa Alpina",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2430,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/654059",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.40234,
-          "lon": 10.193167
-        },
-        {
-          "nome": "Pilastri del Lago",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0837",
-              "nome": "Via del Gaggia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2400,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/576499",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CampoMoro-PilastriLago-viaDelGaggia/111/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.305365,
-          "lon": 9.930701
-        },
-        {
-          "nome": "Campo dei Fiori",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0838",
-              "nome": "Palestra di Arrampicata",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1100,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/542292",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.868889,
-          "lon": 8.7625
-        },
-        {
-          "nome": "Zucco di Teral - Dito Dones",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0839",
-              "nome": "Via del Miro",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/526060",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.909198,
-          "lon": 9.425792
-        },
-        {
-          "nome": "Pizzo d'Erna",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0840",
-              "nome": "Via Mariet alla Punta Centa",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6c+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/473420",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0841",
-              "nome": "A un amico lontano",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286645",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0842",
-              "nome": "Via Bastianel",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/132205",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.862631,
-          "lon": 9.437014
-        },
-        {
-          "nome": "Pizzo d' Urìa ",
-          "disciplina": "climbing",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0843",
-              "nome": "da Bodengo per le creste ESE e S",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2287,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/444155",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.258789,
-          "lon": 9.278818
-        },
-        {
-          "nome": "Zuccone Campelli",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0844",
-              "nome": "Via dei Bergamaschi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2092,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/289086",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0845",
-              "nome": "Via Patrizia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2092,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/240896",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0846",
-              "nome": "Parete N: Via Gasparotto",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/137953",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.954914,
-          "lon": 9.49454
-        },
-        {
-          "nome": "Grignetta - Torrioni Magnaghi",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0847",
-              "nome": "Spigolo Falc - I Torrione",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2040,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/355209",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0848",
-              "nome": "Via Ultima Pagnotta - III Torrione",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2078,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/222231",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0849",
-              "nome": "Via Rizieri",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1980,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/175238",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0850",
-              "nome": "Fissure Gandin - II Torrione",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2045,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/131076",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0851",
-              "nome": "Via Normale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1980,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/129844",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0852",
-              "nome": "Traversata delle Vie Normali",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2078,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55286",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0853",
-              "nome": "Via sogni d'autunno - I torrione",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1581104",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0854",
-              "nome": "Via Fasana 2000 - III Torrione",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2078,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/222228",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0855",
-              "nome": "Via I Maggio - III Torrione",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2078,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/222227",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0856",
-              "nome": "Via Chiappa-Mozzanica - II Torrione",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2045,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/188289",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.913094,
-          "lon": 9.393399
-        },
-        {
-          "nome": "Monte San Martino",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0857",
-              "nome": "per la Parete Rossa, Via Savini",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6c+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 580,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/299824",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.872335,
-          "lon": 9.38597
-        },
-        {
-          "nome": "Zucco di Teral - Dito Dones",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0858",
-              "nome": "Via del Diedro Obliquo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1000,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/290693",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.90582,
-          "lon": 9.421231
-        },
-        {
-          "nome": "Corna delle Capre",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0859",
-              "nome": "I figli del Nepal",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/290672",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.75,
-          "lon": 10.14
-        },
-        {
-          "nome": "Rogno",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0860",
-              "nome": "Placca dei Moschettieri - Via D'Artagnan",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/290652",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0861",
-              "nome": "Corno Pagano - Via le man dal cul",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/290649",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0862",
-              "nome": " Pilastro dei Pitoti - Via Pastasciutta e Scaloppine",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286421",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0863",
-              "nome": "Corno Pagano - Via Salamandra",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/290637",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.861,
-          "lon": 10.131
-        },
-        {
-          "nome": "Pizzo della Gratella",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0864",
-              "nome": "Versante N, da Bodengo per la Bocchetta di Correggia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2230,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/290062",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.245982,
-          "lon": 9.279278
-        },
-        {
-          "nome": "Guglia Fabrizia Binelli",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0865",
-              "nome": "Via del gesto leale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/288149",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.185137,
-          "lon": 9.247465
-        },
-        {
-          "nome": "Cima del Collino - Torre Bering",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0866",
-              "nome": "Pilastro delle stelle cadenti",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/287949",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.177327,
-          "lon": 9.566515
-        },
-        {
-          "nome": "Muro dei Misteri",
-          "disciplina": "climbing",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0867",
-              "nome": "Via El Veronica",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/287908",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.309285,
-          "lon": 9.940035
-        },
-        {
-          "nome": "Monte Boris",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0868",
-              "nome": "Via Patras",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/287711",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.252629,
-          "lon": 9.584194
-        },
-        {
-          "nome": "Sasso dei Carbonari",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0869",
-              "nome": "Via Moss Ruggero",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286634",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.951001,
-          "lon": 9.360164
-        },
-        {
-          "nome": "Rocce di Dervio",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0870",
-              "nome": "Spigolo dei piccioni",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286631",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.073758,
-          "lon": 9.305818
-        },
-        {
-          "nome": "Pizzo d'Eghen (Il Pizzo)",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0871",
-              "nome": "Via Soffiando nel vento",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "7b+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1800,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286500",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Grignone-Eghen-viaSoffiandoNelVento/641/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.975272,
-          "lon": 9.384062
-        },
-        {
-          "nome": "Pilastro Rosso",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0872",
-              "nome": "Via Panzeri Riva",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286496",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PilastroRosso-viaPanzeriRiva/579/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.878,
-          "lon": 9.375
-        },
-        {
-          "nome": "Monte San Vittore",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0873",
-              "nome": "Via Decadence",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286480",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.8799,
-          "lon": 9.3891
-        },
-        {
-          "nome": "Pizzo della Presolana Centrale",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0874",
-              "nome": "Via Echi verticali",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286457",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.943897,
-          "lon": 10.07783
-        },
-        {
-          "nome": "Pilastro di Prada (Pizzo dei Nibbi)",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0875",
-              "nome": "Via della libertà",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1700,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286451",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0876",
-              "nome": "Via CAI Vedano",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1811,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286445",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.976635,
-          "lon": 9.367356
-        },
-        {
-          "nome": "Forcellino",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0877",
-              "nome": "Via Astra",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "7b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286441",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Forcellino-viaAstra/78/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.896216,
-          "lon": 9.386535
-        },
-        {
-          "nome": "Corno Rat",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0878",
-              "nome": "Via Dell'Oro",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 900,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286426",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CornoRat-viaDellOro/77/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.85215,
-          "lon": 9.345455
-        },
-        {
-          "nome": "Monte Marmere",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0879",
-              "nome": "Via Diagonale dei sogni",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286411",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.681,
-          "lon": 10.541
-        },
-        {
-          "nome": "Presolana di Castione",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0880",
-              "nome": " Via A Federico",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2474,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286246",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.942977,
-          "lon": 10.020916
-        },
-        {
-          "nome": "Presolana del Prato",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0881",
-              "nome": " Via del Gemello Destro",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/286243",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.94543,
-          "lon": 10.075049
-        },
-        {
-          "nome": "Rifugio Antonio Curò",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0882",
-              "nome": "Vent'anni di sfiga",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1857,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/242792",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.051284,
-          "lon": 10.028493
-        },
-        {
-          "nome": "Buco del Piombo",
-          "disciplina": "climbing",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0883",
-              "nome": "Via degli Ambrogi e Via Diretta",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 700,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/238312",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.822436,
-          "lon": 9.204932
-        },
-        {
-          "nome": "Precipizio degli Asteroidi",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0884",
-              "nome": "Piedi di Piombo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/231011",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0885",
-              "nome": "Oceano Irrazionale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/231008",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0886",
-              "nome": "Self Control",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/127312",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.254427,
-          "lon": 9.64356
-        },
-        {
-          "nome": "Grignetta - Pilone Centrale",
-          "disciplina": "climbing",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0887",
-              "nome": "Spigolo E",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2080,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/224681",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0888",
-              "nome": "Via Gandin",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1860,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/185199",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0889",
-              "nome": "Via Zucchi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2080,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57609",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.913246,
-          "lon": 9.390729
-        },
-        {
-          "nome": "Corna di Medale",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0890",
-              "nome": "Via Colnaghi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 700,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/223262",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0891",
-              "nome": "Calcaria termina",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 850,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/132842",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Medale-viaCalcariaTermina/46/",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0892",
-              "nome": "Via Cassin alla parete SE",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1029,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56964",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0893",
-              "nome": "Via dell'Anniversario",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1029,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56599",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.87833,
-          "lon": 9.400345
-        },
-        {
-          "nome": "Pilastri del Lago",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0894",
-              "nome": "Caprice",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/192476",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.30686,
-          "lon": 9.932331
-        },
-        {
-          "nome": "Parete della Diga",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0895",
-              "nome": "Via South ASS",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/192475",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.30421,
-          "lon": 9.92808
-        },
-        {
-          "nome": "Grignetta - Piramide Casati",
-          "disciplina": "climbing",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0896",
-              "nome": "Fessura  Gasparotto",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1940,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/185069",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.916243,
-          "lon": 9.383874
-        },
-        {
-          "nome": "Pizzo della Presolana Occidentale",
-          "disciplina": "climbing",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0897",
-              "nome": "Spigolo NW",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2521,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/177698",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.965361,
-          "lon": 10.06882
-        },
-        {
-          "nome": "Pizzo di Trona",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0898",
-              "nome": "da Gerola Alta per la valle della Pietra",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2510,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/177245",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.038252,
-          "lon": 9.537155
-        },
-        {
-          "nome": "Rocca di Pescegallo - Denti della Vecchia",
-          "disciplina": "climbing",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0899",
-              "nome": "via Anita 2000",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2125,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/176854",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0900",
-              "nome": "via Master Sport",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2125,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/176849",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0901",
-              "nome": "via Impossibile Florens",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2125,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/176700",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.031466,
-          "lon": 9.57046
-        },
-        {
-          "nome": "Grignetta - Piramide Casati",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0902",
-              "nome": "Spigolo Vallepiana",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1940,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/175243",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0903",
-              "nome": "Via Cassin",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1928,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/169998",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0904",
-              "nome": "Via Giovane Italia (o Via Boga)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1563,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/140206",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-25:routes:routes-climbing:0905",
-              "nome": "Via Normale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1563,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/140200",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.913237,
-          "lon": 9.387511
-        },
-        {
-          "nome": "Corno di Canzo Occidentale",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0906",
-              "nome": "traversata E-W dei Corni di Canzo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1371,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/143500",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.857361,
-          "lon": 9.309248
-        },
-        {
-          "nome": "Predarossa (Val Masino)",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0907",
-              "nome": "Quota 2687 : cresta sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2687,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/139373",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.233702,
-          "lon": 9.695982
-        },
-        {
-          "nome": "Zucco Pesciola",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0908",
-              "nome": "Versante Nord, Diedro Bramani",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2058,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/137819",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.953488,
-          "lon": 9.513645
-        },
-        {
-          "nome": "Resegone",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0909",
-              "nome": "Bastionata S : Nuovi Orizzonti",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1875,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/58057",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.859494,
-          "lon": 9.447429
-        },
-        {
-          "nome": "Grignetta - Fungo",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0910",
-              "nome": "Giro del Fungo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1713,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57675",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.911127,
-          "lon": 9.388684
-        },
-        {
-          "nome": "Grignetta - Torrione del Pertusio",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0911",
-              "nome": "Santo Domingo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1557,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57207",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.915249,
-          "lon": 9.379928
-        },
-        {
-          "nome": "Sasso Rosso",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0912",
-              "nome": "Via Papini - Solano '55",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1552,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57064",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.06089,
-          "lon": 9.215998
-        },
-        {
-          "nome": "Zucco di Teral - Dito Dones",
-          "disciplina": "climbing",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0913",
-              "nome": "Via Lunga",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1000,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56638",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.90549,
-          "lon": 9.411757
-        },
-        {
-          "nome": "Punta Osvaldo Esposito",
-          "disciplina": "climbing",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0914",
-              "nome": "Diedro NNE - via Calegari-Farina",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2170,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56271",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.019824,
-          "lon": 9.814419
-        },
-        {
-          "nome": "Sasso Grande",
-          "disciplina": "climbing",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0915",
-              "nome": "couloir NE (Canalino)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F+",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1491,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56218",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.049394,
-          "lon": 9.017213
-        },
-        {
-          "nome": "Torrione Bernardino Giuliana",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0916",
-              "nome": "Vento che Passa",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1537,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55522",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.961682,
-          "lon": 9.348142
-        },
-        {
-          "nome": "Cima Delle Dune",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-25:routes:routes-climbing:0917",
-              "nome": "Via Marmotta in Placca",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1417,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55501",
-                  "siteName": null
-                },
-                {
-                  "provider": "guidodellatorre",
-                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Dune-viaMarmottaInPlacca/35/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.210076,
-          "lon": 9.411949
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Gaino bei Toscolano Maderno",
       "paese": "IT",
       "pareti": [
@@ -27541,6 +25068,2905 @@
           ],
           "lat": 46.296064720125216,
           "lon": 9.834826678922392
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Sondrio",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Avancorpo del Porcellizzo",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 46.278999,
+          "lon": 9.576885,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0817",
+              "nome": "Vernaccia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1937893",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "El Schenun",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.244701,
+          "lon": 9.59811,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0822",
+              "nome": "La coda del Dinosauro",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1454455",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Val di Mello",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.252422,
+          "lon": 9.64737,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0834",
+              "nome": "Stella Marina - Vortice di Fiabe",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1400,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/666238",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pilastri del Lago",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 46.305365,
+          "lon": 9.930701,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0837",
+              "nome": "Via del Gaggia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/576499",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CampoMoro-PilastriLago-viaDelGaggia/111/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0894",
+              "nome": "Caprice",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/192476",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Muro dei Misteri",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "lat": 46.309285,
+          "lon": 9.940035,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0867",
+              "nome": "Via El Veronica",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/287908",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Parete della Diga",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "lat": 46.30421,
+          "lon": 9.92808,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0895",
+              "nome": "Via South ASS",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/192475",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Predarossa (Val Masino)",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.233702,
+          "lon": 9.695982,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0907",
+              "nome": "Quota 2687 : cresta sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2687,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/139373",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Parete Stoppani",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Parete Stoppani",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.860032,
+          "lon": 9.444237,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0818",
+              "nome": "Delfix",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1080,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1720175",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzo d'Erna",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 45.862631,
+          "lon": 9.437014,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0842",
+              "nome": "Via Bastianel",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/132205",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Antimedale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Antimedale",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 45.875932,
+          "lon": 9.390121,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0819",
+              "nome": "Pilastro Irene - Via Don Lorenzo Milani",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1433799",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0820",
+              "nome": "via Quo vadis? Ubi me paret!",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1429340",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Antimedale-viaQuoVadisUbiMeParet/18/",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Piezza",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Piezza",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.226017,
+          "lon": 9.65749,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0821",
+              "nome": "Un vianDante alle isole Paleari",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1457711",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/monte-piezza-m-1350-via-un-viandante-alle-isole-paleari/887/",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima di Fojorina / Fiorina",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima di Fojorina / Fiorina",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 46.057618,
+          "lon": 9.073363,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0823",
+              "nome": "e Torrione di Valsolda ad anello",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 60.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1809,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1122269",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torrione di Valsolda",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima di Fojorina / Fiorina",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 46.057618,
+          "lon": 9.073363,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0824",
+              "nome": "da Seghebbia (val Rezzo)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1809,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57154",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0825",
+              "nome": "dalla Val Rezzo e la Cima di Fojorina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 60.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1805,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56979",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Brescia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Forcellino del Dosso",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.022195,
+          "lon": 10.421964,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0826",
+              "nome": "L'Ombra del Lupo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2660,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/912546",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Corna delle Capre",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.75,
+          "lon": 10.14,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0859",
+              "nome": "I figli del Nepal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/290672",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo della Presolana Centrale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo della Presolana Centrale",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 45.946131,
+          "lon": 10.072809,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0827",
+              "nome": "Emmental Strasse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2267,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/912491",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0828",
+              "nome": " Via Sa.Vi.An.",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2511,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/280911",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0829",
+              "nome": "Spigolo SSW - Via Bramani Ratti",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 210.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2517,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/176066",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0830",
+              "nome": "Spigolando",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 190.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2511,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/58055",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0831",
+              "nome": "Pilier S, Via Fratelli Longo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2511,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55255",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0874",
+              "nome": "Via Echi verticali",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286457",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ago di Tredenus",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Ago di Tredenus",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.020711,
+          "lon": 10.418209,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0832",
+              "nome": "Spigolo NW (voie Quarenghi)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2760,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/911603",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Qualido",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Qualido",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "lat": 46.259979,
+          "lon": 9.642862,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0835",
+              "nome": "Stargate",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2550,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/663945",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pian delle Rose",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pian delle Rose",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 46.40234,
+          "lon": 10.193167,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0836",
+              "nome": "Rosa Alpina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2430,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/654059",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Campo dei Fiori",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Campo dei Fiori",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "lat": 45.868889,
+          "lon": 8.7625,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0838",
+              "nome": "Palestra di Arrampicata",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1100,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/542292",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Zucco di Teral - Dito Dones",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Zucco di Teral - Dito Dones",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "lat": 45.909198,
+          "lon": 9.425792,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0839",
+              "nome": "Via del Miro",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/526060",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0858",
+              "nome": "Via del Diedro Obliquo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1000,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/290693",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0913",
+              "nome": "Via Lunga",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1000,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56638",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo d'Erna",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo d'Erna",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 45.862631,
+          "lon": 9.437014,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0840",
+              "nome": "Via Mariet alla Punta Centa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/473420",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Lecco",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo d'Erna",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 45.862631,
+          "lon": 9.437014,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0841",
+              "nome": "A un amico lontano",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286645",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rocce di Dervio",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 46.073758,
+          "lon": 9.305818,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0870",
+              "nome": "Spigolo dei piccioni",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286631",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pilastro Rosso",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 45.878,
+          "lon": 9.375,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0872",
+              "nome": "Via Panzeri Riva",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 230.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286496",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/PilastroRosso-viaPanzeriRiva/579/",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo d' Urìa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo d' Urìa ",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "lat": 46.258789,
+          "lon": 9.278818,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0843",
+              "nome": "da Bodengo per le creste ESE e S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2287,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/444155",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Zucco Pesciola",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Zuccone Campelli",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 45.954914,
+          "lon": 9.49454,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0844",
+              "nome": "Via dei Bergamaschi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2092,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/289086",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0845",
+              "nome": "Via Patrizia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2092,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/240896",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0846",
+              "nome": "Parete N: Via Gasparotto",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/137953",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Zucco Pesciola",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 45.953488,
+          "lon": 9.513645,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0908",
+              "nome": "Versante Nord, Diedro Bramani",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2058,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/137819",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grignetta - Torrioni Magnaghi",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grignetta - Torrioni Magnaghi",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 45.913094,
+          "lon": 9.393399,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0847",
+              "nome": "Spigolo Falc - I Torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2040,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/355209",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0848",
+              "nome": "Via Ultima Pagnotta - III Torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 40.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2078,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/222231",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0850",
+              "nome": "Fissure Gandin - II Torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2045,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/131076",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0852",
+              "nome": "Traversata delle Vie Normali",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2078,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55286",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0853",
+              "nome": "Via sogni d'autunno - I torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1581104",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0854",
+              "nome": "Via Fasana 2000 - III Torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 45.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2078,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/222228",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0855",
+              "nome": "Via I Maggio - III Torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 60.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2078,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/222227",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0856",
+              "nome": "Via Chiappa-Mozzanica - II Torrione",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2045,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/188289",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grignetta - Sigaro Dones",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grignetta - Torrioni Magnaghi",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 45.913094,
+          "lon": 9.393399,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0849",
+              "nome": "Via Rizieri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1980,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/175238",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0851",
+              "nome": "Via Normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1980,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/129844",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte San Martino",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte San Martino",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.872335,
+          "lon": 9.38597,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0857",
+              "nome": "per la Parete Rossa, Via Savini",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 330.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 580,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/299824",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Bergamo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Rogno",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 45.861,
+          "lon": 10.131,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0860",
+              "nome": "Placca dei Moschettieri - Via D'Artagnan",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/290652",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0861",
+              "nome": "Corno Pagano - Via le man dal cul",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/290649",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0862",
+              "nome": " Pilastro dei Pitoti - Via Pastasciutta e Scaloppine",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 160.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286421",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0863",
+              "nome": "Corno Pagano - Via Salamandra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/290637",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rifugio Antonio Curò",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.051284,
+          "lon": 10.028493,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0882",
+              "nome": "Vent'anni di sfiga",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 310.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1857,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/242792",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo della Gratella",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo della Gratella",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "lat": 46.245982,
+          "lon": 9.279278,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0864",
+              "nome": "Versante N, da Bodengo per la Bocchetta di Correggia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 30.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2230,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/290062",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Guglia Fabrizia Binelli",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Guglia Fabrizia Binelli",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.185137,
+          "lon": 9.247465,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0865",
+              "nome": "Via del gesto leale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288149",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima del Collino - Torre Bering",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima del Collino - Torre Bering",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.177327,
+          "lon": 9.566515,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0866",
+              "nome": "Pilastro delle stelle cadenti",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/287949",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Boris",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Boris",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 46.252629,
+          "lon": 9.584194,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0868",
+              "nome": "Via Patras",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/287711",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sasso dei Carbonari",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sasso dei Carbonari",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.951001,
+          "lon": 9.360164,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0869",
+              "nome": "Via Moss Ruggero",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286634",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo d'Eghen (Il Pizzo)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo d'Eghen (Il Pizzo)",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 45.975272,
+          "lon": 9.384062,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0871",
+              "nome": "Via Soffiando nel vento",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1800,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286500",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Grignone-Eghen-viaSoffiandoNelVento/641/",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte San Vittore",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte San Vittore",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.8799,
+          "lon": 9.3891,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0873",
+              "nome": "Via Decadence",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286480",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pilastro di Prada (Pizzo dei Nibbi)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pilastro di Prada (Pizzo dei Nibbi)",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 45.976635,
+          "lon": 9.367356,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0875",
+              "nome": "Via della libertà",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 110.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1700,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286451",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0876",
+              "nome": "Via CAI Vedano",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1811,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286445",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Forcellino",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Forcellino",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 45.896216,
+          "lon": 9.386535,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0877",
+              "nome": "Via Astra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286441",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Forcellino-viaAstra/78/",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Corno Rat",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Corno Rat",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.85215,
+          "lon": 9.345455,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0878",
+              "nome": "Via Dell'Oro",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 900,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286426",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/CornoRat-viaDellOro/77/",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Marmere",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Marmere",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.681,
+          "lon": 10.541,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0879",
+              "nome": "Via Diagonale dei sogni",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286411",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Presolana di Castione",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Presolana di Castione",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 45.942977,
+          "lon": 10.020916,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0880",
+              "nome": " Via A Federico",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2474,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/286246",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Como",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Buco del Piombo",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "lat": 45.822436,
+          "lon": 9.204932,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0883",
+              "nome": "Via degli Ambrogi e Via Diretta",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 700,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/238312",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Precipizio degli Asteroidi",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Precipizio degli Asteroidi",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "lat": 46.254427,
+          "lon": 9.64356,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0884",
+              "nome": "Piedi di Piombo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 210.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/231011",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0885",
+              "nome": "Oceano Irrazionale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/231008",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0886",
+              "nome": "Self Control",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/127312",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grignetta - Pilone Centrale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grignetta - Pilone Centrale",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "lat": 45.913246,
+          "lon": 9.390729,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0887",
+              "nome": "Spigolo E",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 210.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2080,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/224681",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0889",
+              "nome": "Via Zucchi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 190.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2080,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57609",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grignetta - Ago Teresita",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grignetta - Pilone Centrale",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "lat": 45.913246,
+          "lon": 9.390729,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0888",
+              "nome": "Via Gandin",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 70.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1860,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/185199",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Corna di Medale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Corna di Medale",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 45.87833,
+          "lon": 9.400345,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0890",
+              "nome": "Via Colnaghi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 700,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/223262",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0891",
+              "nome": "Calcaria termina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 850,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/132842",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Medale-viaCalcariaTermina/46/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0892",
+              "nome": "Via Cassin alla parete SE",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1029,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56964",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0893",
+              "nome": "Via dell'Anniversario",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 360.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1029,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56599",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grignetta - Piramide Casati",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grignetta - Piramide Casati",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "lat": 45.916243,
+          "lon": 9.383874,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0896",
+              "nome": "Fessura  Gasparotto",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1940,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/185069",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0902",
+              "nome": "Spigolo Vallepiana",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1940,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/175243",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo della Presolana Occidentale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo della Presolana Occidentale",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "lat": 45.965361,
+          "lon": 10.06882,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0897",
+              "nome": "Spigolo NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2521,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/177698",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo di Trona",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzo di Trona",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 46.038252,
+          "lon": 9.537155,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0898",
+              "nome": "da Gerola Alta per la valle della Pietra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 310.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2510,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/177245",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rocca di Pescegallo - Denti della Vecchia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Rocca di Pescegallo - Denti della Vecchia",
+          "disciplina": "climbing",
+          "esposizione": "NE",
+          "lat": 46.031466,
+          "lon": 9.57046,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0899",
+              "nome": "via Anita 2000",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 85.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2125,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/176854",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0900",
+              "nome": "via Master Sport",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2125,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/176849",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0901",
+              "nome": "via Impossibile Florens",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 95.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2125,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/176700",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grignetta - Torrione Palma",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grignetta - Piramide Casati",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 45.913237,
+          "lon": 9.387511,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0903",
+              "nome": "Via Cassin",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1928,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/169998",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grignetta - Punta Giulia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grignetta - Piramide Casati",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 45.913237,
+          "lon": 9.387511,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0904",
+              "nome": "Via Giovane Italia (o Via Boga)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1563,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/140206",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-25:routes:routes-climbing:0905",
+              "nome": "Via Normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 60.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1563,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/140200",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Corno di Canzo Occidentale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Corno di Canzo Occidentale",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "lat": 45.857361,
+          "lon": 9.309248,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0906",
+              "nome": "traversata E-W dei Corni di Canzo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1371,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/143500",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grignetta - Fungo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grignetta - Fungo",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 45.911127,
+          "lon": 9.388684,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0910",
+              "nome": "Giro del Fungo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1713,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57675",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grignetta - Torrione del Pertusio",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grignetta - Torrione del Pertusio",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.915249,
+          "lon": 9.379928,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0911",
+              "nome": "Santo Domingo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1557,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57207",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sasso Rosso",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sasso Rosso",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.06089,
+          "lon": 9.215998,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0912",
+              "nome": "Via Papini - Solano '55",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 90.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1552,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57064",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Osvaldo Esposito",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Punta Osvaldo Esposito",
+          "disciplina": "climbing",
+          "esposizione": "NE",
+          "lat": 46.019824,
+          "lon": 9.814419,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0914",
+              "nome": "Diedro NNE - via Calegari-Farina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2170,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56271",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sasso Grande",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sasso Grande",
+          "disciplina": "climbing",
+          "esposizione": "NE",
+          "lat": 46.049394,
+          "lon": 9.017213,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0915",
+              "nome": "couloir NE (Canalino)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 75.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1491,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56218",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torrione Bernardino Giuliana",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torrione Bernardino Giuliana",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 45.961682,
+          "lon": 9.348142,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0916",
+              "nome": "Vento che Passa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1537,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55522",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Delle Dune",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Delle Dune",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 46.210076,
+          "lon": 9.411949,
+          "itinerari": [
+            {
+              "id": "IT-25:routes:routes-climbing:0917",
+              "nome": "Via Marmotta in Placca",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 380.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1417,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55501",
+                  "siteName": null
+                },
+                {
+                  "provider": "guidodellatorre",
+                  "url": "https://www.scuolaguidodellatorre.it/relazioni/Dune-viaMarmottaInPlacca/35/",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

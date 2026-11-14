@@ -4,182 +4,6 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "AT",
-      "pareti": [
-        {
-          "nome": "Grimming",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "AT-6:routes:routes-ice_mixed:0001",
-              "nome": "Versant N",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1101296",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.520834,
-          "lon": 14.004089
-        },
-        {
-          "nome": "Hohe Gamsfeldspitze",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "AT-6:routes:routes-ice_mixed:0002",
-              "nome": "Edelgrieẞ",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2655,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1101247",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.455531,
-          "lon": 13.642702
-        },
-        {
-          "nome": "Hohe Gamsfeldspitze",
-          "disciplina": "ice_mixed",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "AT-6:routes:routes-ice_mixed:0003",
-              "nome": "Groẞe Rinne",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2655,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1101246",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.450017,
-          "lon": 13.640127
-        },
-        {
-          "nome": "Gamskögel",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "AT-6:routes:routes-ice_mixed:0004",
-              "nome": "Mittelschartenrinne",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1083384",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.36794,
-          "lon": 14.557443
-        },
-        {
-          "nome": "Gamskögel",
-          "disciplina": "ice_mixed",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "AT-6:routes:routes-ice_mixed:0005",
-              "nome": "Couloir sommital direct",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2386,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1083105",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.36887,
-          "lon": 14.55122
-        },
-        {
-          "nome": "Gamskögel",
-          "disciplina": "ice_mixed",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "AT-6:routes:routes-ice_mixed:0006",
-              "nome": "Prinzessinenrinne",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2386,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1083091",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.367919,
-          "lon": 14.553859
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Aflenz Kurort",
       "paese": "AT",
       "pareti": [
@@ -1523,6 +1347,171 @@
           ],
           "lat": 47.59445073,
           "lon": 14.19266224
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grimming",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Grimming",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "lat": 47.520834,
+          "lon": 14.004089,
+          "itinerari": [
+            {
+              "id": "AT-6:routes:routes-ice_mixed:0001",
+              "nome": "Versant N",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1101296",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hohe Gamsfeldspitze",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hohe Gamsfeldspitze",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 47.455531,
+          "lon": 13.642702,
+          "itinerari": [
+            {
+              "id": "AT-6:routes:routes-ice_mixed:0002",
+              "nome": "Edelgrieẞ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2655,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1101247",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-6:routes:routes-ice_mixed:0003",
+              "nome": "Groẞe Rinne",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2655,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1101246",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gamskögel",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Gamskögel",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 47.36794,
+          "lon": 14.557443,
+          "itinerari": [
+            {
+              "id": "AT-6:routes:routes-ice_mixed:0004",
+              "nome": "Mittelschartenrinne",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1083384",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-6:routes:routes-ice_mixed:0005",
+              "nome": "Couloir sommital direct",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2386,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1083105",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-6:routes:routes-ice_mixed:0006",
+              "nome": "Prinzessinenrinne",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2386,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1083091",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

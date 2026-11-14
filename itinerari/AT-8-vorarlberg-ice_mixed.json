@@ -104,70 +104,6 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "AT",
-      "pareti": [
-        {
-          "nome": "Raid en Silvretta",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-8:routes:routes-ice_mixed:0004",
-              "nome": "traversée E>>W, de Samnaun à Klosters Platz",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3310,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/638353",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.871947,
-          "lon": 10.123622
-        },
-        {
-          "nome": "Piz Buin",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "AT-8:routes:routes-ice_mixed:0005",
-              "nome": "Voie normale (été)",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "F+",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3312,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/54670",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.872203,
-          "lon": 10.111223
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Dalaas",
       "paese": "AT",
       "pareti": [
@@ -298,6 +234,78 @@
           ],
           "lat": 47.308155,
           "lon": 10.189742
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grigioni / Tirolo / Vorarlberg",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Raid en Silvretta",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "lat": 46.871947,
+          "lon": 10.123622,
+          "itinerari": [
+            {
+              "id": "AT-8:routes:routes-ice_mixed:0004",
+              "nome": "traversée E>>W, de Samnaun à Klosters Platz",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3310,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/638353",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Buin",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Piz Buin",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.872203,
+          "lon": 10.111223,
+          "itinerari": [
+            {
+              "id": "AT-8:routes:routes-ice_mixed:0005",
+              "nome": "Voie normale (été)",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "F+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3312,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54670",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

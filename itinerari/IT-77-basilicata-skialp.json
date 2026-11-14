@@ -76,13 +76,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Sirino",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Sirino",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 40.132752,
+          "lon": 15.837238,
           "itinerari": [
             {
               "id": "IT-77:routes:routes-skialp:0003",
@@ -103,9 +105,7 @@
                 }
               ]
             }
-          ],
-          "lat": 40.132752,
-          "lon": 15.837238
+          ]
         }
       ],
       "lat": null,

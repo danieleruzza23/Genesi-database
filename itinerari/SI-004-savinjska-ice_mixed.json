@@ -4,126 +4,6 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "SI",
-      "pareti": [
-        {
-          "nome": "Lučka Baba",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "SI-004:routes:routes-ice_mixed:0001",
-              "nome": "Recesija",
-              "gradoObbligatorio": "V",
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1267272",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.362664,
-          "lon": 14.620645
-        },
-        {
-          "nome": "Planjava ",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "SI-004:routes:routes-ice_mixed:0002",
-              "nome": "Bela grapa",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1267267",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.363493,
-          "lon": 14.608694
-        },
-        {
-          "nome": "Štajerska Rinka",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "SI-004:routes:routes-ice_mixed:0003",
-              "nome": "Huliganska",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1267185",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.369691,
-          "lon": 14.57106
-        },
-        {
-          "nome": "Štajerska Rinka",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "SI-004:routes:routes-ice_mixed:0004",
-              "nome": "Ledenka",
-              "gradoObbligatorio": "V",
-              "gradoMassimo": "ED",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1267131",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.37034,
-          "lon": 14.570336
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Logarska Dolina",
       "paese": "SI",
       "pareti": [
@@ -154,6 +34,133 @@
           ],
           "lat": 46.3695,
           "lon": 14.599
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lučka Baba",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Lučka Baba",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.362664,
+          "lon": 14.620645,
+          "itinerari": [
+            {
+              "id": "SI-004:routes:routes-ice_mixed:0001",
+              "nome": "Recesija",
+              "gradoObbligatorio": "V",
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1267272",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Planjava",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Planjava ",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.363493,
+          "lon": 14.608694,
+          "itinerari": [
+            {
+              "id": "SI-004:routes:routes-ice_mixed:0002",
+              "nome": "Bela grapa",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1267267",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Štajerska Rinka",
+      "paese": "SI",
+      "pareti": [
+        {
+          "nome": "Štajerska Rinka",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.369691,
+          "lon": 14.57106,
+          "itinerari": [
+            {
+              "id": "SI-004:routes:routes-ice_mixed:0003",
+              "nome": "Huliganska",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1267185",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-004:routes:routes-ice_mixed:0004",
+              "nome": "Ledenka",
+              "gradoObbligatorio": "V",
+              "gradoMassimo": "ED",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1267131",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

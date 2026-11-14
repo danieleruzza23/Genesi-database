@@ -1246,13 +1246,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Provincia di Parma",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Scala - Spigolo sud dal passo delle Fugicchia",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 44.379354,
+          "lon": 10.040797,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-mountaineering:0042",
@@ -1273,14 +1275,14 @@
                 }
               ]
             }
-          ],
-          "lat": 44.379354,
-          "lon": 10.040797
+          ]
         },
         {
           "nome": "Cerreto laghi",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 44.629293,
+          "lon": 9.94295,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-mountaineering:0043",
@@ -1301,9 +1303,7 @@
                 }
               ]
             }
-          ],
-          "lat": 44.629293,
-          "lon": 9.94295
+          ]
         }
       ],
       "lat": null,

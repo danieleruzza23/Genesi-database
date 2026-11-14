@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Maselnik",
       "paese": "SI",
       "pareti": [
         {
           "nome": "Maselnik",
           "disciplina": "ice_mixed",
           "esposizione": "SW",
+          "lat": 46.24984,
+          "lon": 13.681331,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0001",
@@ -19,7 +21,7 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 600.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1903,
@@ -31,14 +33,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.24984,
-          "lon": 13.681331
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vršac",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Vršac",
           "disciplina": "ice_mixed",
           "esposizione": "NW",
+          "lat": 46.368162,
+          "lon": 13.796431,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0002",
@@ -47,7 +57,7 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 500.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -59,14 +69,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.368162,
-          "lon": 13.796431
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Plešivec",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Plešivec",
           "disciplina": "ice_mixed",
           "esposizione": "N",
+          "lat": 46.413333,
+          "lon": 13.652936,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0003",
@@ -75,7 +93,7 @@
               "gradoMassimo": "TD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 900.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -86,15 +104,61 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "SI-011:routes:routes-ice_mixed:0010",
+              "nome": "Vrnitev odpisanih",
+              "gradoObbligatorio": "V",
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1264294",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-011:routes:routes-ice_mixed:0013",
+              "nome": "običajni pristop",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2185,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47240",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.413333,
-          "lon": 13.652936
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vrh polic",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Vrh polic",
           "disciplina": "ice_mixed",
           "esposizione": "N",
+          "lat": 46.372852,
+          "lon": 13.541251,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0004",
@@ -103,7 +167,7 @@
               "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 740.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -115,14 +179,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.372852,
-          "lon": 13.541251
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bedinji vrh",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Bedinji vrh",
           "disciplina": "ice_mixed",
           "esposizione": "NW",
+          "lat": 46.403026,
+          "lon": 13.643595,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0005",
@@ -131,7 +203,7 @@
               "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -143,14 +215,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.403026,
-          "lon": 13.643595
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rombon",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Rombon",
           "disciplina": "ice_mixed",
           "esposizione": "N",
+          "lat": 46.371811,
+          "lon": 13.56414,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0006",
@@ -159,7 +239,7 @@
               "gradoMassimo": "TD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 800.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -171,14 +251,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.371811,
-          "lon": 13.56414
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Oltarji",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Oltarji",
           "disciplina": "ice_mixed",
           "esposizione": "N",
+          "lat": 46.393671,
+          "lon": 13.621013,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0007",
@@ -187,7 +275,7 @@
               "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 700.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -199,14 +287,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.393671,
-          "lon": 13.621013
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Morež",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Morež",
           "disciplina": "ice_mixed",
           "esposizione": "NW",
+          "lat": 46.403243,
+          "lon": 13.632928,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0008",
@@ -215,7 +311,7 @@
               "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2251,
@@ -227,14 +323,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.403243,
-          "lon": 13.632928
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bavh",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Bavh",
           "disciplina": "ice_mixed",
           "esposizione": "N",
+          "lat": 46.410327,
+          "lon": 13.654067,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0009",
@@ -243,7 +347,7 @@
               "gradoMassimo": "ED",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 620.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -255,42 +359,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.410327,
-          "lon": 13.654067
-        },
-        {
-          "nome": "Plešivec",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "SI-011:routes:routes-ice_mixed:0010",
-              "nome": "Vrnitev odpisanih",
-              "gradoObbligatorio": "V",
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1264294",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.417104,
-          "lon": 13.660063
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Votli vrh",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Votli vrh",
           "disciplina": "ice_mixed",
           "esposizione": "W",
+          "lat": 46.401396,
+          "lon": 13.639793,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0011",
@@ -299,7 +383,7 @@
               "gradoMassimo": "TD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 1000.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -311,14 +395,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.401396,
-          "lon": 13.639793
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Razor",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Razor",
           "disciplina": "ice_mixed",
           "esposizione": "W",
+          "lat": 46.416906,
+          "lon": 13.787103,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0012",
@@ -339,42 +431,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.416906,
-          "lon": 13.787103
-        },
-        {
-          "nome": "Plešivec",
-          "disciplina": "ice_mixed",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "SI-011:routes:routes-ice_mixed:0013",
-              "nome": "običajni pristop",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2185,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47240",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.408258,
-          "lon": 13.662683
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Forato",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Prestreljenik",
           "disciplina": "ice_mixed",
           "esposizione": null,
+          "lat": 46.352894,
+          "lon": 13.508276,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-ice_mixed:0014",
@@ -383,7 +455,7 @@
               "gradoMassimo": "AD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 206.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2498,
@@ -395,9 +467,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.352894,
-          "lon": 13.508276
+          ]
         }
       ],
       "lat": null,

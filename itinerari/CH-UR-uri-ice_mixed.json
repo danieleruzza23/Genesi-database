@@ -160,13 +160,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Clariden",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Clariden",
           "disciplina": "ice_mixed",
           "esposizione": "E",
+          "lat": 46.842011,
+          "lon": 8.871259,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0006",
@@ -175,7 +177,7 @@
               "gradoMassimo": "PD",
               "spittatura": "P1+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3267,
@@ -186,15 +188,61 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-UR:routes:routes-ice_mixed:0012",
+              "nome": "Face N",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3267,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/992083",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-UR:routes:routes-ice_mixed:0026",
+              "nome": "Arête W depuis le Klausenpass",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3267,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57104",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.842011,
-          "lon": 8.871259
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Ruchen",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Gross Ruchen",
           "disciplina": "ice_mixed",
           "esposizione": "NE",
+          "lat": 46.810876,
+          "lon": 8.780045,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0007",
@@ -214,16 +262,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.810876,
-          "lon": 8.780045
-        },
-        {
-          "nome": "Gross Ruchen",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
+            },
             {
               "id": "CH-UR:routes:routes-ice_mixed:0008",
               "nome": "Egidius",
@@ -231,7 +270,7 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 1300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -242,72 +281,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.816008,
-          "lon": 8.767778
-        },
-        {
-          "nome": "Krönten",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-ice_mixed:0009",
-              "nome": "Arête E en traversée par le Chli Krönten et descente flanc SW, en boucle depuis Leutschachhütte",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3107,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1219997",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.78208,
-          "lon": 8.56972
-        },
-        {
-          "nome": "Gross Schärhorn",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-ice_mixed:0010",
-              "nome": "Südgrat",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "AD-",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1211960",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.826498,
-          "lon": 8.829474
-        },
-        {
-          "nome": "Gross Ruchen",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
+            },
             {
               "id": "CH-UR:routes:routes-ice_mixed:0011",
               "nome": "Der dunkle Turm",
@@ -315,7 +289,7 @@
               "gradoMassimo": "ED",
               "spittatura": "P4",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 680.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -326,44 +300,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.810189,
-          "lon": 8.774714
-        },
-        {
-          "nome": "Clariden",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-ice_mixed:0012",
-              "nome": "Face N",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3267,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/992083",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.84731,
-          "lon": 8.862903
-        },
-        {
-          "nome": "Gross Ruchen",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
+            },
             {
               "id": "CH-UR:routes:routes-ice_mixed:0013",
               "nome": "Face N",
@@ -371,7 +308,7 @@
               "gradoMassimo": "D",
               "spittatura": "P3",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 1200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3138,
@@ -383,43 +320,42 @@
                 }
               ]
             }
-          ],
-          "lat": 46.816328,
-          "lon": 8.775458
-        },
-        {
-          "nome": "Dammapass",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-ice_mixed:0014",
-              "nome": "Dammastock dallla Dammahutte per il Dammapass",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3630,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/889013",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.623447,
-          "lon": 8.436338
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Krönten",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Krönten",
           "disciplina": "ice_mixed",
-          "esposizione": "N",
+          "esposizione": "W",
+          "lat": 46.78208,
+          "lon": 8.56972,
           "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-ice_mixed:0009",
+              "nome": "Arête E en traversée par le Chli Krönten et descente flanc SW, en boucle depuis Leutschachhütte",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 370.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3107,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1219997",
+                  "siteName": null
+                }
+              ]
+            },
             {
               "id": "CH-UR:routes:routes-ice_mixed:0015",
               "nome": "Arête W depuis la Kröntenhütte",
@@ -439,43 +375,42 @@
                 }
               ]
             }
-          ],
-          "lat": 46.798364,
-          "lon": 8.584453
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Schärhorn",
+      "paese": "CH",
+      "pareti": [
         {
-          "nome": "Galenstock",
+          "nome": "Gross Schärhorn",
           "disciplina": "ice_mixed",
-          "esposizione": "SE",
+          "esposizione": null,
+          "lat": 46.826498,
+          "lon": 8.829474,
           "itinerari": [
             {
-              "id": "CH-UR:routes:routes-ice_mixed:0016",
-              "nome": "Éperon SE",
-              "gradoObbligatorio": "III",
+              "id": "CH-UR:routes:routes-ice_mixed:0010",
+              "nome": "Südgrat",
+              "gradoObbligatorio": "II",
               "gradoMassimo": "AD-",
-              "spittatura": "P1",
+              "spittatura": "P4",
               "tiri": null,
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 3586,
+              "quotaMassima": null,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/567364",
+                  "url": "https://www.camptocamp.org/routes/1211960",
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.612125,
-          "lon": 8.417465
-        },
-        {
-          "nome": "Gross Schärhorn",
-          "disciplina": "ice_mixed",
-          "esposizione": "NE",
-          "itinerari": [
+            },
             {
               "id": "CH-UR:routes:routes-ice_mixed:0017",
               "nome": "Flanc NE",
@@ -495,15 +430,78 @@
                 }
               ]
             }
-          ],
-          "lat": 46.835891,
-          "lon": 8.831978
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Uri",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Dammapass",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "lat": 46.623447,
+          "lon": 8.436338,
+          "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-ice_mixed:0014",
+              "nome": "Dammastock dallla Dammahutte per il Dammapass",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3630,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/889013",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Galenstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Galenstock",
           "disciplina": "ice_mixed",
-          "esposizione": "NE",
+          "esposizione": "SE",
+          "lat": 46.612125,
+          "lon": 8.417465,
           "itinerari": [
+            {
+              "id": "CH-UR:routes:routes-ice_mixed:0016",
+              "nome": "Éperon SE",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "AD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3586,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/567364",
+                  "siteName": null
+                }
+              ]
+            },
             {
               "id": "CH-UR:routes:routes-ice_mixed:0018",
               "nome": "Arête N",
@@ -511,7 +509,7 @@
               "gradoMassimo": "PD+",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3586,
@@ -522,15 +520,42 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-UR:routes:routes-ice_mixed:0025",
+              "nome": "Arête S",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D-",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3586,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57905",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.60267,
-          "lon": 8.43923
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Jakobiger",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Jakobiger",
           "disciplina": "ice_mixed",
           "esposizione": null,
+          "lat": 46.791304,
+          "lon": 8.60631,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0019",
@@ -551,14 +576,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.791304,
-          "lon": 8.60631
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chli Leckihorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Chli Leckihorn",
           "disciplina": "ice_mixed",
           "esposizione": "SE",
+          "lat": 46.557102,
+          "lon": 8.471104,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0020",
@@ -567,7 +600,7 @@
               "gradoMassimo": "PD",
               "spittatura": "P4",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3023,
@@ -579,14 +612,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.557102,
-          "lon": 8.471104
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Spannort",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Gross Spannort",
           "disciplina": "ice_mixed",
           "esposizione": "S",
+          "lat": 46.79638,
+          "lon": 8.500417,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0021",
@@ -595,7 +636,7 @@
               "gradoMassimo": "PD+",
               "spittatura": "P3",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3198,
@@ -607,14 +648,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.79638,
-          "lon": 8.500417
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Tiefenstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Tiefenstock",
           "disciplina": "ice_mixed",
           "esposizione": "NW",
+          "lat": 46.609676,
+          "lon": 8.449124,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0022",
@@ -623,7 +672,7 @@
               "gradoMassimo": "AD-",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 130.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3515,
@@ -642,7 +691,7 @@
               "gradoMassimo": "AD",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 100.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3515,
@@ -654,14 +703,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.609676,
-          "lon": 8.449124
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gross Bielenhorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Gross Bielenhorn",
           "disciplina": "ice_mixed",
           "esposizione": "NW",
+          "lat": 46.591367,
+          "lon": 8.42313,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0024",
@@ -670,7 +727,7 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3210,
@@ -682,70 +739,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.591367,
-          "lon": 8.42313
-        },
-        {
-          "nome": "Galenstock",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-ice_mixed:0025",
-              "nome": "Arête S",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "D-",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3586,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57905",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.59812,
-          "lon": 8.431782
-        },
-        {
-          "nome": "Clariden",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "CH-UR:routes:routes-ice_mixed:0026",
-              "nome": "Arête W depuis le Klausenpass",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "F",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3267,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57104",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.853906,
-          "lon": 8.848607
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Stegenhorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Stegenhorn",
           "disciplina": "ice_mixed",
           "esposizione": "S",
+          "lat": 46.548512,
+          "lon": 8.515694,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0027",
@@ -754,7 +763,7 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2821,
@@ -766,14 +775,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.548512,
-          "lon": 8.515694
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grassen",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Grassen",
           "disciplina": "ice_mixed",
           "esposizione": "NE",
+          "lat": 46.754175,
+          "lon": 8.461496,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0028",
@@ -794,14 +811,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.754175,
-          "lon": 8.461496
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sustenhorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Sustenhorn",
           "disciplina": "ice_mixed",
           "esposizione": "S",
+          "lat": 46.67342,
+          "lon": 8.465027,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0029",
@@ -822,14 +847,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.67342,
-          "lon": 8.465027
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Rotondo",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Pizzo Rotondo",
           "disciplina": "ice_mixed",
           "esposizione": "S",
+          "lat": 46.551054,
+          "lon": 8.482762,
           "itinerari": [
             {
               "id": "CH-UR:routes:routes-ice_mixed:0030",
@@ -850,9 +883,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.551054,
-          "lon": 8.482762
+          ]
         }
       ],
       "lat": null,

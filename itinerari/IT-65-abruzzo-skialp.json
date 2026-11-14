@@ -8348,13 +8348,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Genzana",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Genzana – Versant SE par le refuge de la Fascia",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 41.947968,
+          "lon": 13.887463,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0279",
@@ -8375,14 +8377,22 @@
                 }
               ]
             }
-          ],
-          "lat": 41.947968,
-          "lon": 13.887463
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Blockhaus",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Blockhaus – Anello Fonte Tettone m1650>Vetta>Stazzo Ottagonale m 1750>Cresta NE La Majelletta m 2050>Fonte Tettone.",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.144836,
+          "lon": 14.110339,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0280",
@@ -8403,14 +8413,50 @@
                 }
               ]
             }
-          ],
-          "lat": 42.144836,
-          "lon": 14.110339
+          ]
         },
+        {
+          "nome": "Blockhaus",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.156649,
+          "lon": 14.069875,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0319",
+              "nome": "Da Decontra per Piangrande",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1132,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2142,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51681",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Aquila",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Aquila – da Campo Imperatore",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.459106,
+          "lon": 13.565328,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0281",
@@ -8431,14 +8477,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.459106,
-          "lon": 13.565328
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Tremoggia",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Tremoggia – da Fonte Vetica",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.42541,
+          "lon": 13.741478,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0282",
@@ -8459,14 +8513,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.42541,
-          "lon": 13.741478
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gran Sasso d'Italia - Corno Grande",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Gran Sasso d'Italia - Corno Grande – Direttissima - Bissolati /Normale - Portella",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.463367,
+          "lon": 13.558114,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0283",
@@ -8487,98 +8549,14 @@
                 }
               ]
             }
-          ],
-          "lat": 42.463367,
-          "lon": 13.558114
-        },
-        {
-          "nome": "Monte Portella – con discesa su Assergi",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0284",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1255,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2385,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1387968",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.449281,
-          "lon": 13.530764
-        },
-        {
-          "nome": "Monte Sirente – en boucle salendo la valle della Lupara e sciando il Canale Maiori",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0285",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1170,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2348,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/871728",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.143167,
-          "lon": 13.613104
-        },
-        {
-          "nome": "Monte Sirente – versant Sud",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0286",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1100,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2300,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/119327",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.143167,
-          "lon": 13.613104
+          ]
         },
         {
           "nome": "Gran Sasso d'Italia - Corno Grande – per la Direttissima con discesa nel canalone Bissolati",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.470233,
+          "lon": 13.564656,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0287",
@@ -8599,14 +8577,253 @@
                 }
               ]
             }
-          ],
-          "lat": 42.470233,
-          "lon": 13.564656
+          ]
         },
+        {
+          "nome": "Gran Sasso d'Italia - Corno Grande",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.484823,
+          "lon": 13.561878,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0308",
+              "nome": "En boucle par la Calderone et le Vallone dei Ginepri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2912,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/120946",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-65:routes:routes-skialp:0312",
+              "nome": "Valle dell' Inferno et canale Bissolati",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2912,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/50856",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso d'Italia - Corno Grande – Traversata del Gran Sasso",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.456751,
+          "lon": 13.561683,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0313",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 3810,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2912,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52855",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso d'Italia - Corno Grande – Da Prati di Tivo per il Ghiacciaio del Calderone",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.481877,
+          "lon": 13.562929,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0321",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2912,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51678",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Portella",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Portella – con discesa su Assergi",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.449281,
+          "lon": 13.530764,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0284",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1255,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2385,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1387968",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Sirente",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Sirente – en boucle salendo la valle della Lupara e sciando il Canale Maiori",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.143167,
+          "lon": 13.613104,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0285",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1170,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2348,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/871728",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Sirente – versant Sud",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.143167,
+          "lon": 13.613104,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0286",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2300,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/119327",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Sirente – Canale Majori",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.143167,
+          "lon": 13.613104,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0331",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1180,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2348,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/50755",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo d'Intermesoli",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Pizzo d'Intermesoli – da Campo Imperatore per la Sella dei Grilli, con discesa per il vers. SUD dal M.te Portella su Fonte Cerreto",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.448073,
+          "lon": 13.537811,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0288",
@@ -8627,14 +8844,106 @@
                 }
               ]
             }
-          ],
-          "lat": 42.448073,
-          "lon": 13.537811
+          ]
         },
+        {
+          "nome": "Pizzo d'Intermesoli",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.472906,
+          "lon": 13.527031,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0306",
+              "nome": "par le val Venacquaro et la face SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2635,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/121769",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzo d'Intermesoli – Par le Val Maone et le versant SE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.486159,
+          "lon": 13.543066,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0307",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2635,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/121768",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzo d'Intermesoli – Versant S par le Val Maone - depuis Prati di Tivo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.486159,
+          "lon": 13.543065,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0333",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2635,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/48060",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Mileto",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Mileto – per la Costa del Sole",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.070999,
+          "lon": 14.013783,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0289",
@@ -8655,14 +8964,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.070999,
-          "lon": 14.013783
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Chieti",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Forchetta Maiella",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.04413,
+          "lon": 14.09374,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0290",
@@ -8702,14 +9019,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.04413,
-          "lon": 14.09374
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Corvo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Corvo",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.479761,
+          "lon": 13.493444,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0292",
@@ -8730,182 +9055,14 @@
                 }
               ]
             }
-          ],
-          "lat": 42.479761,
-          "lon": 13.493444
-        },
-        {
-          "nome": "Monte di Mezzo – dalla diga di Campotosto",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0293",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 840,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2155,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/589846",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.57253,
-          "lon": 13.4048
-        },
-        {
-          "nome": "Monte Amaro",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0294",
-              "nome": "Traversée Rava del Ferro - Rava della Giumenta bianca",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1700,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2793,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/340988",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.088456,
-          "lon": 14.084053
-        },
-        {
-          "nome": "Monte Amaro – Par le vallon de Taranta",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0295",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 2200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2793,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/162136",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.088456,
-          "lon": 14.084053
-        },
-        {
-          "nome": "Pesco Falcone",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0296",
-              "nome": "En circuit par le Monte Rapina et la Combe du Cucchiaio",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1800,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2657,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/339729",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.122596,
-          "lon": 14.061359
-        },
-        {
-          "nome": "Monte Velino",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0297",
-              "nome": "Au départ de Rosciolo, boucle Vallone di Sevice / Vallone della Chiave",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1600,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2487,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/336171",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.150139,
-          "lon": 13.381812
-        },
-        {
-          "nome": "Monte Cefalone",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0298",
-              "nome": "traversata  Monte Portella- Sella di Monte Corvo-Val Chiarino",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1450,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2533,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/163608",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.447869,
-          "lon": 13.544643
+          ]
         },
         {
           "nome": "Monte Corvo – per la valle Crivellaro",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.501647,
+          "lon": 13.492664,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0299",
@@ -8926,14 +9083,318 @@
                 }
               ]
             }
-          ],
+          ]
+        },
+        {
+          "nome": "Monte Corvo – Par le Versant N",
+          "disciplina": "skialp",
+          "esposizione": null,
           "lat": 42.501647,
-          "lon": 13.492664
+          "lon": 13.492663,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0332",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1550,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2623,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/48059",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte di Mezzo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte di Mezzo – dalla diga di Campotosto",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.57253,
+          "lon": 13.4048,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0293",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 840,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2155,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/589846",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Amaro",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Amaro",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.088456,
+          "lon": 14.084053,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0294",
+              "nome": "Traversée Rava del Ferro - Rava della Giumenta bianca",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2793,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/340988",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-65:routes:routes-skialp:0326",
+              "nome": "Ravone della Vespa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1690,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2793,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47734",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-65:routes:routes-skialp:0328",
+              "nome": "Rava della Giumenta Bianca",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1530,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2793,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47728",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Amaro – Par le vallon de Taranta",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.088456,
+          "lon": 14.084053,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0295",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2793,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/162136",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pesco Falcone",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pesco Falcone",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.122596,
+          "lon": 14.061359,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0296",
+              "nome": "En circuit par le Monte Rapina et la Combe du Cucchiaio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2657,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/339729",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-65:routes:routes-skialp:0314",
+              "nome": "Per il monte Rapina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1780,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2657,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52854",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-65:routes:routes-skialp:0329",
+              "nome": "Rava del Ferro",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1560,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2657,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47726",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pesco Falcone – Arête et face NW",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.127994,
+          "lon": 14.051375,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0315",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2657,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52492",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Velino",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Velino",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.150139,
+          "lon": 13.381812,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0297",
+              "nome": "Au départ de Rosciolo, boucle Vallone di Sevice / Vallone della Chiave",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2487,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/336171",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         },
         {
           "nome": "Monte Velino – Depuis Campo Felice, par le Costone et le Cafornia",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.146744,
+          "lon": 13.381726,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0300",
@@ -8954,14 +9415,58 @@
                 }
               ]
             }
-          ],
-          "lat": 42.146744,
-          "lon": 13.381726
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Cefalone",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Cefalone",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 42.447869,
+          "lon": 13.544643,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-skialp:0298",
+              "nome": "traversata  Monte Portella- Sella di Monte Corvo-Val Chiarino",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1450,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2533,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/163608",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Camicia",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Camicia",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.439863,
+          "lon": 13.717386,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0301",
@@ -8981,72 +9486,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 42.439863,
-          "lon": 13.717386
-        },
-        {
-          "nome": "Monte Prena – dal lago di Pagliara per La Cimetta",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0302",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1800,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2561,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/123927",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.458322,
-          "lon": 13.686276
-        },
-        {
-          "nome": "Monte Acquaviva – passando per Scrima Cavallo-Focalone-Mammoccio",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0303",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1930,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2737,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/123919",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.132034,
-          "lon": 14.123571
-        },
-        {
-          "nome": "Monte Camicia",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "IT-65:routes:routes-skialp:0304",
               "nome": "par le versant SW",
@@ -9085,98 +9525,94 @@
                 }
               ]
             }
-          ],
-          "lat": 42.423889,
-          "lon": 13.87702
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Prena",
+      "paese": "IT",
+      "pareti": [
         {
-          "nome": "Pizzo d'Intermesoli",
+          "nome": "Monte Prena – dal lago di Pagliara per La Cimetta",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.458322,
+          "lon": 13.686276,
           "itinerari": [
             {
-              "id": "IT-65:routes:routes-skialp:0306",
-              "nome": "par le val Venacquaro et la face SW",
+              "id": "IT-65:routes:routes-skialp:0302",
+              "nome": "Nord",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1600,
+              "sviluppo": 1800,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2635,
+              "quotaMassima": 2561,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/121769",
+                  "url": "https://www.camptocamp.org/routes/123927",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 42.472906,
-          "lon": 13.527031
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Acquaviva",
+      "paese": "IT",
+      "pareti": [
         {
-          "nome": "Pizzo d'Intermesoli – Par le Val Maone et le versant SE",
+          "nome": "Monte Acquaviva – passando per Scrima Cavallo-Focalone-Mammoccio",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.132034,
+          "lon": 14.123571,
           "itinerari": [
             {
-              "id": "IT-65:routes:routes-skialp:0307",
-              "nome": "Sud-est",
+              "id": "IT-65:routes:routes-skialp:0303",
+              "nome": "Nord-est",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 1400,
+              "sviluppo": 1930,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2635,
+              "quotaMassima": 2737,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/121768",
+                  "url": "https://www.camptocamp.org/routes/123919",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 42.486159,
-          "lon": 13.543066
-        },
-        {
-          "nome": "Gran Sasso d'Italia - Corno Grande",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0308",
-              "nome": "En boucle par la Calderone et le Vallone dei Ginepri",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1650,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2912,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/120946",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.484823,
-          "lon": 13.561878
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia dell'Aquila",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Argatone, antécime nord (Pt 2103) – Depuis Villalago (voie normale)",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 41.918865,
+          "lon": 13.80584,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0309",
@@ -9197,14 +9633,22 @@
                 }
               ]
             }
-          ],
-          "lat": 41.918865,
-          "lon": 13.80584
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte san Franco",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte san Franco",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.46535,
+          "lon": 13.3901,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0310",
@@ -9244,126 +9688,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.46535,
-          "lon": 13.3901
-        },
-        {
-          "nome": "Gran Sasso d'Italia - Corno Grande",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0312",
-              "nome": "Valle dell' Inferno et canale Bissolati",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1700,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2912,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/50856",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.456751,
-          "lon": 13.561683
-        },
-        {
-          "nome": "Gran Sasso d'Italia - Corno Grande – Traversata del Gran Sasso",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0313",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 3810,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2912,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52855",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.456751,
-          "lon": 13.561683
-        },
-        {
-          "nome": "Pesco Falcone",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0314",
-              "nome": "Per il monte Rapina",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1780,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2657,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52854",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.127994,
-          "lon": 14.051375
-        },
-        {
-          "nome": "Pesco Falcone – Arête et face NW",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0315",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1600,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2657,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52492",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.127994,
-          "lon": 14.051375
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Girella",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Girella – Depuis San Giacomo",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.738611,
+          "lon": 13.583979,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0316",
@@ -9384,14 +9724,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.738611,
-          "lon": 13.583979
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Gorzano",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Gorzano – Face S - depuis Cesacastina",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.603558,
+          "lon": 13.421827,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0317",
@@ -9412,14 +9760,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.603558,
-          "lon": 13.421827
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Rotella",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Rotella",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 41.916667,
+          "lon": 14.016667,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0318",
@@ -9440,42 +9796,22 @@
                 }
               ]
             }
-          ],
-          "lat": 41.916667,
-          "lon": 14.016667
-        },
-        {
-          "nome": "Blockhaus",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0319",
-              "nome": "Da Decontra per Piangrande",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1132,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2142,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51681",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.156649,
-          "lon": 14.069875
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Tavola Rotonda",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Tavola Rotonda – Da Guado di Coccia",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.036438,
+          "lon": 14.098492,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0320",
@@ -9496,42 +9832,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.036438,
-          "lon": 14.098492
-        },
-        {
-          "nome": "Gran Sasso d'Italia - Corno Grande – Da Prati di Tivo per il Ghiacciaio del Calderone",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0321",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1450,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2912,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51678",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.481877,
-          "lon": 13.562929
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Brancastello",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Brancastello – Depuis Campo Imperatore",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.445814,
+          "lon": 13.598975,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0322",
@@ -9552,14 +9868,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.445814,
-          "lon": 13.598975
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Focalone",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Focalone – Concatenamento Blockhaus-M.Cavallo-M.Focalone-C.Murelle",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.135078,
+          "lon": 14.121365,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0323",
@@ -9580,14 +9904,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.135078,
-          "lon": 14.121365
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima della Laghetta",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima della Laghetta – Da Cesacastina",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.600174,
+          "lon": 13.390045,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0324",
@@ -9608,14 +9940,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.600174,
-          "lon": 13.390045
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Orsello",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Orsello – Da s.antonio",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.233333,
+          "lon": 13.35,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0325",
@@ -9636,42 +9976,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.233333,
-          "lon": 13.35
-        },
-        {
-          "nome": "Monte Amaro",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0326",
-              "nome": "Ravone della Vespa",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1690,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2793,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47734",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.091499,
-          "lon": 14.067855
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Rapina",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Rapina",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.131497,
+          "lon": 14.049853,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0327",
@@ -9692,70 +10012,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.131497,
-          "lon": 14.049853
-        },
-        {
-          "nome": "Monte Amaro",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0328",
-              "nome": "Rava della Giumenta Bianca",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1530,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2793,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47728",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.083305,
-          "lon": 14.069142
-        },
-        {
-          "nome": "Pesco Falcone",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0329",
-              "nome": "Rava del Ferro",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1560,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2657,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47726",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.096943,
-          "lon": 14.067961
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte d'Ocre",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte d'Ocre",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.256389,
+          "lon": 13.443194,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-skialp:0330",
@@ -9776,93 +10048,7 @@
                 }
               ]
             }
-          ],
-          "lat": 42.256389,
-          "lon": 13.443194
-        },
-        {
-          "nome": "Monte Sirente – Canale Majori",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0331",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1180,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2348,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/50755",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.143167,
-          "lon": 13.613104
-        },
-        {
-          "nome": "Monte Corvo – Par le Versant N",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0332",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1550,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2623,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/48059",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.501647,
-          "lon": 13.492663
-        },
-        {
-          "nome": "Pizzo d'Intermesoli – Versant S par le Val Maone - depuis Prati di Tivo",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-skialp:0333",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1300,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2635,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/48060",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.486159,
-          "lon": 13.543065
+          ]
         }
       ],
       "lat": null,

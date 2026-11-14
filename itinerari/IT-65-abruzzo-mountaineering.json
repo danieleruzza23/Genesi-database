@@ -1576,13 +1576,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Prena",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Prena – via dei laghetti",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 42.443036,
+          "lon": 13.682383,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-mountaineering:0052",
@@ -1603,14 +1605,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.443036,
-          "lon": 13.682383
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gran Sasso d'Italia - Corno Piccolo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Gran Sasso d'Italia - Corno Piccolo",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 42.480044,
+          "lon": 13.559189,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-mountaineering:0053",
@@ -1649,44 +1659,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 42.480044,
-          "lon": 13.559189
-        },
-        {
-          "nome": "Gran Sasso d'Italia - Corno Piccolo – Monolito Via Di Federico De Luca",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-mountaineering:0055",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2655,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/284209",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.480044,
-          "lon": 13.559189
-        },
-        {
-          "nome": "Gran Sasso d'Italia - Corno Piccolo",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "IT-65:routes:routes-mountaineering:0056",
               "nome": "II Spalla - Via Aquilotti ’75",
@@ -1724,34 +1697,43 @@
                   "siteName": null
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "nome": "Gran Sasso d'Italia - Corno Piccolo – Monolito Via Di Federico De Luca",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 42.480044,
+          "lon": 13.559189,
+          "itinerari": [
             {
-              "id": "IT-65:routes:routes-mountaineering:0058",
-              "nome": "Via Valeria",
+              "id": "IT-65:routes:routes-mountaineering:0055",
+              "nome": "Est",
               "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
+              "gradoMassimo": "TD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 250,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2580,
+              "quotaMassima": 2655,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55675",
+                  "url": "https://www.camptocamp.org/routes/284209",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 42.485147,
-          "lon": 13.561107
+          ]
         },
         {
           "nome": "Gran Sasso d'Italia - Corno Piccolo – Antecima N - Spigolo a destra della crepa",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 42.485147,
+          "lon": 13.561107,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-mountaineering:0059",
@@ -1772,14 +1754,58 @@
                 }
               ]
             }
-          ],
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Campanile Livia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Gran Sasso d'Italia - Corno Piccolo",
+          "disciplina": "mountaineering",
+          "esposizione": null,
           "lat": 42.485147,
-          "lon": 13.561107
-        },
+          "lon": 13.561107,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-mountaineering:0058",
+              "nome": "Via Valeria",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2580,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55675",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gran Sasso d'Italia - Corno Grande",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Gran Sasso d'Italia - Corno Grande – Direttissima (percorso estivo)",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 42.456751,
+          "lon": 13.561683,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-mountaineering:0060",
@@ -1800,42 +1826,14 @@
                 }
               ]
             }
-          ],
-          "lat": 42.456751,
-          "lon": 13.561683
-        },
-        {
-          "nome": "Torrione Cambi – Spigolo Sud Est",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-65:routes:routes-mountaineering:0061",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 720,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2850,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55458",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 42.47033,
-          "lon": 13.568978
+          ]
         },
         {
           "nome": "Gran Sasso d'Italia - Corno Grande – Spigolo SSE",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 42.467985,
+          "lon": 13.566614,
           "itinerari": [
             {
               "id": "IT-65:routes:routes-mountaineering:0062",
@@ -1856,9 +1854,43 @@
                 }
               ]
             }
-          ],
-          "lat": 42.467985,
-          "lon": 13.566614
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torrione Cambi",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torrione Cambi – Spigolo Sud Est",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "lat": 42.47033,
+          "lon": 13.568978,
+          "itinerari": [
+            {
+              "id": "IT-65:routes:routes-mountaineering:0061",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 720,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2850,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55458",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

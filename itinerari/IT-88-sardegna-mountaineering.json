@@ -140,13 +140,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Punta Giogadorgiu",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Punta Giogadorgiu",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 40.040391,
+          "lon": 9.530891,
           "itinerari": [
             {
               "id": "IT-88:routes:routes-mountaineering:0005",
@@ -167,14 +169,22 @@
                 }
               ]
             }
-          ],
-          "lat": 40.040391,
-          "lon": 9.530891
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Surtana",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Surtana – Arête N Mont Oddeu (via quindicesima legione)",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 40.234024,
+          "lon": 9.504768,
           "itinerari": [
             {
               "id": "IT-88:routes:routes-mountaineering:0006",
@@ -195,9 +205,7 @@
                 }
               ]
             }
-          ],
-          "lat": 40.234024,
-          "lon": 9.504768
+          ]
         }
       ],
       "lat": null,

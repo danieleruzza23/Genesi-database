@@ -1400,7 +1400,7 @@
               "gradoMassimo": "D",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -2303,7 +2303,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P4",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 660.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1781,
@@ -2964,7 +2964,7 @@
               "gradoMassimo": "5c",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 431,
@@ -4372,7 +4372,7 @@
               "gradoMassimo": "6b+",
               "spittatura": null,
               "tiri": 3,
-              "sviluppo": null,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -7987,13 +7987,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Provincia di Massa e Carrara",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Torri di Monzone - pala dei Fiorentini",
           "disciplina": "climbing",
           "esposizione": "NE",
+          "lat": 44.136923,
+          "lon": 10.141858,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-climbing:0278",
@@ -8002,7 +8004,7 @@
               "gradoMassimo": "7a+",
               "spittatura": "P2+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1000,
@@ -8014,14 +8016,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.136923,
-          "lon": 10.141858
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Grosseto",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Capo d’Uomo",
           "disciplina": "climbing",
           "esposizione": "S",
+          "lat": 42.401647,
+          "lon": 11.101786,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-climbing:0279",
@@ -8030,7 +8040,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 80.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 350,
@@ -8042,14 +8052,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.401647,
-          "lon": 11.101786
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte san Bartolomeo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte san Bartolomeo",
           "disciplina": "climbing",
           "esposizione": null,
+          "lat": 42.757872,
+          "lon": 10.128079,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-climbing:0280",
@@ -8058,7 +8076,7 @@
               "gradoMassimo": "D",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 170.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 431,
@@ -8070,14 +8088,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.757872,
-          "lon": 10.128079
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Livorno",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Ile d'Elbe - Biodola",
           "disciplina": "climbing",
           "esposizione": "N",
+          "lat": 42.800909,
+          "lon": 10.257267,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-climbing:0281",
@@ -8097,16 +8123,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 42.800909,
-          "lon": 10.257267
-        },
-        {
-          "nome": "Ile d'Elbe - Biodola",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
+            },
             {
               "id": "IT-52:routes:routes-climbing:0282",
               "nome": "Spiaggia della Lamaia",
@@ -8126,14 +8143,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.798492,
-          "lon": 10.26186
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Procinto",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Procinto",
           "disciplina": "climbing",
           "esposizione": "NE",
+          "lat": 44.004104,
+          "lon": 10.341406,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-climbing:0283",
@@ -8173,9 +8198,7 @@
                 }
               ]
             }
-          ],
-          "lat": 44.004104,
-          "lon": 10.341406
+          ]
         }
       ],
       "lat": null,

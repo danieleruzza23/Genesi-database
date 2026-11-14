@@ -536,378 +536,6 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Pizzi Deneri – dal rifugio Citelli",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0018",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1175,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2845,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1513014",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.76637,
-          "lon": 15.01694
-        },
-        {
-          "nome": "Etna – Anello alle pendici dei crateri sommitali di SE",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0019",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 500,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3000,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/609527",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.755278,
-          "lon": 14.995278
-        },
-        {
-          "nome": "Etna - Cratere di NE – Dal Piano Provenzana al cratere di NE e discesa dal versante NE dei Pizzi Deneri",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0020",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1550,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3340,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/336987",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.771172,
-          "lon": 15.031388
-        },
-        {
-          "nome": "Etna - Cratère SE – Versant S",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0021",
-              "nome": "Sud",
-              "gradoObbligatorio": "F",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1440,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3286,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/336566",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.74836,
-          "lon": 14.998705
-        },
-        {
-          "nome": "Etna – Traversata S >> N del cratere centrale e discesa dai Pizzi Deneri",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0022",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3340,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/53190",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.748537,
-          "lon": 15.010884
-        },
-        {
-          "nome": "Etna",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0023",
-              "nome": "Traversée E >> W",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1800,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3340,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52633",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.772179,
-          "lon": 14.982602
-        },
-        {
-          "nome": "Etna - Cratère NE",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0024",
-              "nome": "Versant E depuis Citelli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1700,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3340,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52632",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.759985,
-          "lon": 15.027965
-        },
-        {
-          "nome": "Etna",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0025",
-              "nome": "Traversata S >> NW - da Rif. Sapienza a Maletto",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 856,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3340,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51436",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.74994,
-          "lon": 14.967139
-        },
-        {
-          "nome": "La Montagnola – Valle del Bove >> Serra dell'Acqua - depuis le refuge Sapienza",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0026",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2644,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/49256",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.71873,
-          "lon": 15.00578
-        },
-        {
-          "nome": "Etna - Cratère NE – Versant NE",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0027",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1515,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3340,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47669",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.751507,
-          "lon": 15.023077
-        },
-        {
-          "nome": "Etna - Punta Lucia – Traversata E >> W",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0028",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 715,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2931,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47667",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.775951,
-          "lon": 14.991013
-        },
-        {
-          "nome": "Pizzi Deneri – da Provenzana",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0029",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1022,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2847,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/123087",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.76637,
-          "lon": 15.01694
-        },
-        {
-          "nome": "Pizzi Deneri – Canalone Y",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-skialp:0030",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1180,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2847,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51299",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.76637,
-          "lon": 15.01694
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Zafferana",
       "paese": "IT",
       "pareti": [
@@ -966,6 +594,409 @@
           ],
           "lat": 37.7982702,
           "lon": 15.0366037
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzi Deneri",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pizzi Deneri – dal rifugio Citelli",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.76637,
+          "lon": 15.01694,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0018",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1175,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2845,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1513014",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzi Deneri – da Provenzana",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.76637,
+          "lon": 15.01694,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0029",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1022,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2847,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/123087",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Pizzi Deneri – Canalone Y",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.76637,
+          "lon": 15.01694,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0030",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1180,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2847,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51299",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Etna",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Etna – Anello alle pendici dei crateri sommitali di SE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.755278,
+          "lon": 14.995278,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0019",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/609527",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Etna – Traversata S >> N del cratere centrale e discesa dai Pizzi Deneri",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.748537,
+          "lon": 15.010884,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0022",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3340,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/53190",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Etna",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.772179,
+          "lon": 14.982602,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0023",
+              "nome": "Traversée E >> W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3340,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52633",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-82:routes:routes-skialp:0025",
+              "nome": "Traversata S >> NW - da Rif. Sapienza a Maletto",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 856,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3340,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51436",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Etna - Cratere di NE",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Etna - Cratere di NE – Dal Piano Provenzana al cratere di NE e discesa dal versante NE dei Pizzi Deneri",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.771172,
+          "lon": 15.031388,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0020",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1550,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3340,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/336987",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Etna - Cratère NE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.759985,
+          "lon": 15.027965,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0024",
+              "nome": "Versant E depuis Citelli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3340,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52632",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Etna - Cratère NE – Versant NE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.751507,
+          "lon": 15.023077,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0027",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1515,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3340,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47669",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Etna - Cratere di SE",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Etna - Cratère SE – Versant S",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.74836,
+          "lon": 14.998705,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0021",
+              "nome": "Sud",
+              "gradoObbligatorio": "F",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1440,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3286,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/336566",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "La Montagnola",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "La Montagnola – Valle del Bove >> Serra dell'Acqua - depuis le refuge Sapienza",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.71873,
+          "lon": 15.00578,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0026",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2644,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/49256",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Etna - Punta Lucia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Etna - Punta Lucia – Traversata E >> W",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 37.775951,
+          "lon": 14.991013,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-skialp:0028",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 715,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2931,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47667",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

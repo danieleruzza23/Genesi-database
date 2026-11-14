@@ -40,13 +40,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Grassen",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Grassen",
           "disciplina": "ice_mixed",
           "esposizione": "S",
+          "lat": 46.766123,
+          "lon": 8.453958,
           "itinerari": [
             {
               "id": "CH-OW:routes:routes-ice_mixed:0002",
@@ -67,9 +69,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.766123,
-          "lon": 8.453958
+          ]
         }
       ],
       "lat": null,

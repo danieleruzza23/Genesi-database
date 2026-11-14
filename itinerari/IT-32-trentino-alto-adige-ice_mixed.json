@@ -2913,7 +2913,7 @@
               "gradoMassimo": "ED",
               "spittatura": "P3",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2100,
@@ -2932,7 +2932,7 @@
               "gradoMassimo": "TD-",
               "spittatura": "P4",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2624,
@@ -4577,1518 +4577,6 @@
           ],
           "lat": 46.21611464,
           "lon": 10.67776679
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Cima Brenta",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0162",
-              "nome": "La via que non c'è",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "TD+",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3151,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1882127",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.179758,
-          "lon": 10.900028
-        },
-        {
-          "nome": "Torre Innerkofler / Innerkoflerturm",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0163",
-              "nome": "Mistica",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "TD",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3081,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1866207",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.51074,
-          "lon": 11.73036
-        },
-        {
-          "nome": "Palla Bianca - Weißkugel",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0164",
-              "nome": " Arête E",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "AD-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3739,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1829111",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.787221,
-          "lon": 10.746771
-        },
-        {
-          "nome": "Cime Nere / Hintere Schwärze",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0165",
-              "nome": "Normal route",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3624,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1702401",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0166",
-              "nome": "Face N",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1220568",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.772645,
-          "lon": 10.914309
-        },
-        {
-          "nome": "Pederü",
-          "disciplina": "ice_mixed",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0167",
-              "nome": "Col sans nom depuis Pederù",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2400,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1600814",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.627974,
-          "lon": 12.01762
-        },
-        {
-          "nome": "Monte Carè Alto",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0168",
-              "nome": "Cresta Cerana",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "AD-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3465,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1563266",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.108062,
-          "lon": 10.610731
-        },
-        {
-          "nome": "Grand Vernel",
-          "disciplina": "ice_mixed",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0169",
-              "nome": "Face NE",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "D+",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3210,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1516201",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.442425,
-          "lon": 11.832011
-        },
-        {
-          "nome": "Vallunga",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0170",
-              "nome": "Zauberflöte / Flauto Magico",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "ED+",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2100,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1503291",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.583786,
-          "lon": 11.795782
-        },
-        {
-          "nome": "Marmolada",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0171",
-              "nome": "Trèi Magi",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "ED",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3000,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1496226",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.443385,
-          "lon": 11.889073
-        },
-        {
-          "nome": "Sassolungo / Langkofel",
-          "disciplina": "ice_mixed",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0172",
-              "nome": "Goulotte Holzknecht",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "ED",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3181,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1494752",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.52504,
-          "lon": 11.735144
-        },
-        {
-          "nome": "Monte Nero di Presanella",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0173",
-              "nome": "Illogika - monte nero di Presanella",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "TD-",
-              "spittatura": "P3+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3344,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1264120",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.21605,
-          "lon": 10.672405
-        },
-        {
-          "nome": "Cima Presanella",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0174",
-              "nome": "Via Gulottina - a destra del seracco",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3478,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1218074",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.224309,
-          "lon": 10.662197
-        },
-        {
-          "nome": "Cima Undici (Elferkofel)",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0175",
-              "nome": "Zsigmondycouloir",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "TD+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2788,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1191860",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.636111,
-          "lon": 12.378056
-        },
-        {
-          "nome": "Piz Pisciadù / Cima Pissadu",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0176",
-              "nome": "Val di Mezdi - Via Hruschka",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "TD+",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1178203",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.537219,
-          "lon": 11.833965
-        },
-        {
-          "nome": "Punta Bianca",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0177",
-              "nome": "Cresta SW dal Lago di Neves",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3370,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/813681",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.954849,
-          "lon": 11.767199
-        },
-        {
-          "nome": "Cima Presanella",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0178",
-              "nome": "Parete Nord alla Muraccia (Via Granatina Gully)",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "D+",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3410,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/704294",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.219867,
-          "lon": 10.663941
-        },
-        {
-          "nome": "Cima Presanella",
-          "disciplina": "ice_mixed",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0179",
-              "nome": "Via normale dalla Val Nambrone",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3558,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/697097",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.215224,
-          "lon": 10.711561
-        },
-        {
-          "nome": "Cima Tosa",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0180",
-              "nome": "Parete N per il Canalone Neri",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3173,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/645392",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.15575,
-          "lon": 10.871333
-        },
-        {
-          "nome": "Cima Cevedale",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0181",
-              "nome": "Cresta E, per il passo Forcola dal rifugio Cevedale-G. Larcher ",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3757,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/581305",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.444783,
-          "lon": 10.636778
-        },
-        {
-          "nome": "Rifugio \"Ai Caduti dell'Adamello\" alla Lobbia Alta",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0182",
-              "nome": "From Ponte Maria to Rifugio  alla Lobbia Alta via Passo delle Topette",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3040,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/568287",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.166861,
-          "lon": 10.602563
-        },
-        {
-          "nome": "Torre Innerkofler / Innerkoflerturm",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0183",
-              "nome": "Clean Gully",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3000,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/481490",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.50997,
-          "lon": 11.74383
-        },
-        {
-          "nome": "Cima Vermiglio",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0184",
-              "nome": "via Anna e Mario",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3450,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/479085",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0185",
-              "nome": "via Steinkotter",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3450,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/282336",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.221949,
-          "lon": 10.656738
-        },
-        {
-          "nome": "Cima Presanella",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0186",
-              "nome": "Via Faustinelli alla parete NW con discesa dalla normale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3556,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/436208",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.231713,
-          "lon": 10.659703
-        },
-        {
-          "nome": "Cresta della Croce",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0187",
-              "nome": "Dal Passo Presena",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3294,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/422621",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.183439,
-          "lon": 10.559653
-        },
-        {
-          "nome": "Punta Tabaretta ",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0188",
-              "nome": "dal Rifugio Payer per il versante W",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3128,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/375138",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.528333,
-          "lon": 10.530606
-        },
-        {
-          "nome": "Monte Adamello",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0189",
-              "nome": "E ridge -  from Val Genova",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "F+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3539,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/290852",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.180091,
-          "lon": 10.556862
-        },
-        {
-          "nome": "Traversée des Dolomites de Brenta",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0190",
-              "nome": "[Via ferrata]",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3192,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/289475",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.19456,
-          "lon": 10.850509
-        },
-        {
-          "nome": "Hochfernerspitze",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0191",
-              "nome": "Parete NW, via dei seracchi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3471,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/281620",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.977786,
-          "lon": 11.718119
-        },
-        {
-          "nome": "Bocca di Tuckett",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0192",
-              "nome": "Traversée E-W",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2647,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/217765",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.199014,
-          "lon": 10.89078
-        },
-        {
-          "nome": "Cima Presanella",
-          "disciplina": "ice_mixed",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0193",
-              "nome": "Couloir dell'H al Monte Nero",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "D+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3344,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/193074",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.213286,
-          "lon": 10.690256
-        },
-        {
-          "nome": "Monte Zebrù",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0194",
-              "nome": "Via normale dal Rif. V Alpini",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3684,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/185677",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.493001,
-          "lon": 10.536042
-        },
-        {
-          "nome": "Bocca di Camosci",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0195",
-              "nome": "Traversée (sentiers dell'Ideale et Martinazzi)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "F",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2784,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/183654",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.159264,
-          "lon": 10.862521
-        },
-        {
-          "nome": "Bocca degli Armi",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0196",
-              "nome": "Via Bocchette Centrali [Via ferrata]",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2749,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/183584",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.166794,
-          "lon": 10.890687
-        },
-        {
-          "nome": "Ortles",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0197",
-              "nome": "Pleisshorngrat  - Via dei Meranesi / Meranerweg",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "PD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3905,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/179195",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.522677,
-          "lon": 10.521367
-        },
-        {
-          "nome": "Cima Tosa",
-          "disciplina": "ice_mixed",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0198",
-              "nome": "Versant SE (voie normale)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "PD",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3173,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/177028",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.149773,
-          "lon": 10.878666
-        },
-        {
-          "nome": "Ortles",
-          "disciplina": "ice_mixed",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0199",
-              "nome": "Via Minnigerode  e uscita sulla Hintergrat",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "AD",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3905,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/175215",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.532288,
-          "lon": 10.541491
-        },
-        {
-          "nome": "Cima Presanella",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0200",
-              "nome": "Via di sinistra del seracco",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3558,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/174345",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0201",
-              "nome": "Via Faustinelli alla parete NW",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3556,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/131929",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0202",
-              "nome": "Parete N: Via Classica",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "AD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3556,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55947",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.246526,
-          "lon": 10.659745
-        },
-        {
-          "nome": "Marmolada - Punta Penia",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0203",
-              "nome": "W Ridge",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "PD+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3343,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/142817",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.443219,
-          "lon": 11.825556
-        },
-        {
-          "nome": "Marmolada - Punta Penia",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0204",
-              "nome": "Versant N (Voie normale)",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "F",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3342,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/140790",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.449358,
-          "lon": 11.859632
-        },
-        {
-          "nome": "Cima Libera -  Wilder Freiger",
-          "disciplina": "ice_mixed",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0205",
-              "nome": "S-Side from Val Ridanna",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3418,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/119239",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.966826,
-          "lon": 11.183937
-        },
-        {
-          "nome": "Ortles",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0206",
-              "nome": "Via normale, dal Rif. Payer",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3905,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57916",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.522518,
-          "lon": 10.554861
-        },
-        {
-          "nome": "Cima Vertana",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0207",
-              "nome": "Parete N",
-              "gradoObbligatorio": "III",
-              "gradoMassimo": "D+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3545,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57624",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.536386,
-          "lon": 10.606023
-        },
-        {
-          "nome": "Bocca d'Ambiez",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0208",
-              "nome": "Traversée Ambiez - Camosci",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "PD",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2871,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56168",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.142238,
-          "lon": 10.881516
-        },
-        {
-          "nome": "Ortler / Ortles",
-          "disciplina": "ice_mixed",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0209",
-              "nome": "Hintergrat (Cresta del Coston)",
-              "gradoObbligatorio": "IV",
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3905,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55287",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.515861,
-          "lon": 10.572429
-        },
-        {
-          "nome": "Punta degli Spiriti",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0210",
-              "nome": "Dal passo dello Stelvio",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3467,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/54701",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.514075,
-          "lon": 10.463531
-        },
-        {
-          "nome": "Monte Vioz",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0211",
-              "nome": "Da Pejo Fonti",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "F+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3645,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/53335",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.385695,
-          "lon": 10.64372
-        },
-        {
-          "nome": "Similaun",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0212",
-              "nome": "Da Vernago per il Rifugio Similaun",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3605,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47308",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.758007,
-          "lon": 10.861539
-        },
-        {
-          "nome": "Palla Bianca",
-          "disciplina": "ice_mixed",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0213",
-              "nome": "Dal Rifugio Bellavista per il Teufelsegg",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3739,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47210",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.778949,
-          "lon": 10.766792
-        },
-        {
-          "nome": "Palla Bianca",
-          "disciplina": "ice_mixed",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0214",
-              "nome": "Da SW per la val Mazia",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "F",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3739,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47209",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.762151,
-          "lon": 10.706059
-        },
-        {
-          "nome": "Monte Nevoso",
-          "disciplina": "ice_mixed",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0215",
-              "nome": "Da N",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3358,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47188",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.921215,
-          "lon": 12.093008
-        },
-        {
-          "nome": "Gran Zebrù / Königspitze",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-32:routes:routes-ice_mixed:0216",
-              "nome": "Voie Normale : Couloir S et face SE",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3851,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47076",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.477948,
-          "lon": 10.571426
         }
       ],
       "lat": null,
@@ -10163,6 +8651,1667 @@
           ],
           "lat": null,
           "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Brenta",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Brenta",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.179758,
+          "lon": 10.900028,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0162",
+              "nome": "La via que non c'è",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "TD+",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3151,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1882127",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torre Innerkofler",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Torre Innerkofler / Innerkoflerturm",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "lat": 46.51074,
+          "lon": 11.73036,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0163",
+              "nome": "Mistica",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "TD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3081,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1866207",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0183",
+              "nome": "Clean Gully",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/481490",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Palla Bianca",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Palla Bianca - Weißkugel",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 46.787221,
+          "lon": 10.746771,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0164",
+              "nome": " Arête E",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "AD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3739,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1829111",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Palla Bianca",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "lat": 46.778949,
+          "lon": 10.766792,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0213",
+              "nome": "Dal Rifugio Bellavista per il Teufelsegg",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3739,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47210",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0214",
+              "nome": "Da SW per la val Mazia",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 750.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3739,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47209",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cime Nere",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cime Nere / Hintere Schwärze",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "lat": 46.772645,
+          "lon": 10.914309,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0165",
+              "nome": "Normal route",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3624,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1702401",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0166",
+              "nome": "Face N",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 260.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1220568",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia autonoma di Bolzano",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pederü",
+          "disciplina": "ice_mixed",
+          "esposizione": "SW",
+          "lat": 46.627974,
+          "lon": 12.01762,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0167",
+              "nome": "Col sans nom depuis Pederù",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1600814",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vallunga",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "lat": 46.583786,
+          "lon": 11.795782,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0170",
+              "nome": "Zauberflöte / Flauto Magico",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "ED+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2100,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1503291",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Carè Alto",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Carè Alto",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "lat": 46.108062,
+          "lon": 10.610731,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0168",
+              "nome": "Cresta Cerana",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3465,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1563266",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gran Vernel",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Grand Vernel",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "lat": 46.442425,
+          "lon": 11.832011,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0169",
+              "nome": "Face NE",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D+",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3210,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1516201",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Marmolada",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Marmolada",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "lat": 46.443385,
+          "lon": 11.889073,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0171",
+              "nome": "Trèi Magi",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "ED",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3000,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1496226",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sassolungo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sassolungo / Langkofel",
+          "disciplina": "ice_mixed",
+          "esposizione": "SW",
+          "lat": 46.52504,
+          "lon": 11.735144,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0172",
+              "nome": "Goulotte Holzknecht",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "ED",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3181,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1494752",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Nero di Presanella",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Nero di Presanella",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.21605,
+          "lon": 10.672405,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0173",
+              "nome": "Illogika - monte nero di Presanella",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD-",
+              "spittatura": "P3+",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3344,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1264120",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Presanella",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Presanella",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.224309,
+          "lon": 10.662197,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0174",
+              "nome": "Via Gulottina - a destra del seracco",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 378.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3478,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1218074",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0178",
+              "nome": "Parete Nord alla Muraccia (Via Granatina Gully)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "D+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 460.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3410,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/704294",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0179",
+              "nome": "Via normale dalla Val Nambrone",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3558,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/697097",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0186",
+              "nome": "Via Faustinelli alla parete NW con discesa dalla normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3556,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/436208",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0193",
+              "nome": "Couloir dell'H al Monte Nero",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3344,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/193074",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0200",
+              "nome": "Via di sinistra del seracco",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3558,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/174345",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0201",
+              "nome": "Via Faustinelli alla parete NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3556,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/131929",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0202",
+              "nome": "Parete N: Via Classica",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3556,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55947",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Undici",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Undici (Elferkofel)",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.636111,
+          "lon": 12.378056,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0175",
+              "nome": "Zsigmondycouloir",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2788,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1191860",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Pissadu / Piz Pisciadù",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Piz Pisciadù / Cima Pissadu",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.537219,
+          "lon": 11.833965,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0176",
+              "nome": "Val di Mezdi - Via Hruschka",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "TD+",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1178203",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Bianca",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Punta Bianca",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 46.954849,
+          "lon": 11.767199,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0177",
+              "nome": "Cresta SW dal Lago di Neves",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 360.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3370,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/813681",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Tosa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Tosa",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.15575,
+          "lon": 10.871333,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0180",
+              "nome": "Parete N per il Canalone Neri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3173,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/645392",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0198",
+              "nome": "Versant SE (voie normale)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 40.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3173,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/177028",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Cevedale",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Cevedale",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "lat": 46.444783,
+          "lon": 10.636778,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0181",
+              "nome": "Cresta E, per il passo Forcola dal rifugio Cevedale-G. Larcher ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 725.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3757,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/581305",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia autonoma di Trento",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Rifugio \"Ai Caduti dell'Adamello\" alla Lobbia Alta",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "lat": 46.166861,
+          "lon": 10.602563,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0182",
+              "nome": "From Ponte Maria to Rifugio  alla Lobbia Alta via Passo delle Topette",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3040,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/568287",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Traversée des Dolomites de Brenta",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "lat": 46.19456,
+          "lon": 10.850509,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0190",
+              "nome": "[Via ferrata]",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3192,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/289475",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bocca di Tuckett",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "lat": 46.199014,
+          "lon": 10.89078,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0192",
+              "nome": "Traversée E-W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2647,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/217765",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bocca di Camosci",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "lat": 46.159264,
+          "lon": 10.862521,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0195",
+              "nome": "Traversée (sentiers dell'Ideale et Martinazzi)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2784,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/183654",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bocca degli Armi",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "lat": 46.166794,
+          "lon": 10.890687,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0196",
+              "nome": "Via Bocchette Centrali [Via ferrata]",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 2700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2749,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/183584",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bocca d'Ambiez",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "lat": 46.142238,
+          "lon": 10.881516,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0208",
+              "nome": "Traversée Ambiez - Camosci",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2871,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56168",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Vermiglio",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Vermiglio",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.221949,
+          "lon": 10.656738,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0184",
+              "nome": "via Anna e Mario",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3450,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/479085",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0185",
+              "nome": "via Steinkotter",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3450,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/282336",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cresta della Croce",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cresta della Croce",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.183439,
+          "lon": 10.559653,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0187",
+              "nome": "Dal Passo Presena",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3294,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/422621",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta Tabaretta",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Punta Tabaretta ",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "lat": 46.528333,
+          "lon": 10.530606,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0188",
+              "nome": "dal Rifugio Payer per il versante W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3128,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/375138",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Adamello",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Adamello",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "lat": 46.180091,
+          "lon": 10.556862,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0189",
+              "nome": "E ridge -  from Val Genova",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3539,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/290852",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hochfernerspitze",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Hochfernerspitze",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "lat": 46.977786,
+          "lon": 11.718119,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0191",
+              "nome": "Parete NW, via dei seracchi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 970.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3471,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/281620",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Zebrù",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Zebrù",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "lat": 46.493001,
+          "lon": 10.536042,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0194",
+              "nome": "Via normale dal Rif. V Alpini",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3684,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/185677",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ortles",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Ortles",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "lat": 46.522677,
+          "lon": 10.521367,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0197",
+              "nome": "Pleisshorngrat  - Via dei Meranesi / Meranerweg",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "PD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 1645.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/179195",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0199",
+              "nome": "Via Minnigerode  e uscita sulla Hintergrat",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "AD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/175215",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0206",
+              "nome": "Via normale, dal Rif. Payer",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57916",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ortler / Ortles",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "lat": 46.515861,
+          "lon": 10.572429,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0209",
+              "nome": "Hintergrat (Cresta del Coston)",
+              "gradoObbligatorio": "IV",
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 550.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3905,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55287",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Marmolada - Punta Penia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Marmolada - Punta Penia",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "lat": 46.443219,
+          "lon": 11.825556,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0203",
+              "nome": "W Ridge",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "PD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3343,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/142817",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0204",
+              "nome": "Versant N (Voie normale)",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3342,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/140790",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Libera",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Libera -  Wilder Freiger",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "lat": 46.966826,
+          "lon": 11.183937,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0205",
+              "nome": "S-Side from Val Ridanna",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3418,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/119239",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Vertana",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Vertana",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.536386,
+          "lon": 10.606023,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0207",
+              "nome": "Parete N",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "D+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3545,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57624",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta degli Spiriti",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Punta degli Spiriti",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.514075,
+          "lon": 10.463531,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0210",
+              "nome": "Dal passo dello Stelvio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3467,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/54701",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Vioz",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Vioz",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 46.385695,
+          "lon": 10.64372,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0211",
+              "nome": "Da Pejo Fonti",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3645,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/53335",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Similaun",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Similaun",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 46.758007,
+          "lon": 10.861539,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0212",
+              "nome": "Da Vernago per il Rifugio Similaun",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3605,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47308",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Nevoso",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Nevoso",
+          "disciplina": "ice_mixed",
+          "esposizione": "NE",
+          "lat": 46.921215,
+          "lon": 12.093008,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0215",
+              "nome": "Da N",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3358,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47188",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gran Zebrù",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Gran Zebrù / Königspitze",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 46.477948,
+          "lon": 10.571426,
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0216",
+              "nome": "Voie Normale : Couloir S et face SE",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3851,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47076",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

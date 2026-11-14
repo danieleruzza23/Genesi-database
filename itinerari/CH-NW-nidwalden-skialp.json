@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Schluchberg",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Schluchberg",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.851352,
+          "lon": 8.351211,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0001",
@@ -31,14 +33,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.851352,
-          "lon": 8.351211
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grafimattstand",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Grafimattstand",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.877854,
+          "lon": 8.32866,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0002",
@@ -59,14 +69,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.877854,
-          "lon": 8.32866
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chaiserstuel",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Chaiserstuel",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.877149,
+          "lon": 8.467907,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0003",
@@ -86,15 +104,61 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-NW:routes:routes-skialp:0016",
+              "nome": "Bannalp round tour (aka Bannalp Rundtour)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52308",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-NW:routes:routes-skialp:0025",
+              "nome": "Depuis Bannalp",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2400,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46545",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.877149,
-          "lon": 8.467907
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Tomlishorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Tomlishorn",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.979229,
+          "lon": 8.252487,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0004",
@@ -115,14 +179,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.979229,
-          "lon": 8.252487
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hasenstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Hasenstock",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.859463,
+          "lon": 8.468911,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0005",
@@ -143,14 +215,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.859463,
-          "lon": 8.468911
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Nidwaldo",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Schuenegg",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.916309,
+          "lon": 8.448958,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0006",
@@ -171,14 +251,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.916309,
-          "lon": 8.448958
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Brisen",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Brisen",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.895963,
+          "lon": 8.433061,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0007",
@@ -198,15 +286,99 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-NW:routes:routes-skialp:0011",
+              "nome": "Da Brandlen per la Haldigrat. Traversata Brandlen-Niederrickenbach",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2404,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/253535",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-NW:routes:routes-skialp:0022",
+              "nome": "Traversata Bannalp >> Niederrickenbach",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2404,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47800",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-NW:routes:routes-skialp:0023",
+              "nome": "Von Niederrickenbach über das Steinalper Jochli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2404,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47676",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-NW:routes:routes-skialp:0024",
+              "nome": "Par le Hinter Jochli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2404,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47532",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.895963,
-          "lon": 8.433061
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Risetenstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Risetenstock",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.929816,
+          "lon": 8.474051,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0008",
@@ -226,15 +398,42 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-NW:routes:routes-skialp:0012",
+              "nome": "über Glattigrat",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2290,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/249961",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.929816,
-          "lon": 8.474051
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sinsgäuer Schonegg",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Sinsgäuer Schonegg",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.890711,
+          "lon": 8.466006,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0009",
@@ -255,14 +454,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.890711,
-          "lon": 8.466006
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schwalmis",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Schwalmis",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.919993,
+          "lon": 8.461621,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0010",
@@ -283,70 +490,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.919993,
-          "lon": 8.461621
-        },
-        {
-          "nome": "Brisen",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-NW:routes:routes-skialp:0011",
-              "nome": "Da Brandlen per la Haldigrat. Traversata Brandlen-Niederrickenbach",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2404,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/253535",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.904103,
-          "lon": 8.429705
-        },
-        {
-          "nome": "Risetenstock",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-NW:routes:routes-skialp:0012",
-              "nome": "über Glattigrat",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2290,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/249961",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.911738,
-          "lon": 8.472684
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ruchstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Ruchstock",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.868786,
+          "lon": 8.467198,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0013",
@@ -366,15 +525,42 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-NW:routes:routes-skialp:0015",
+              "nome": "Ab Bannalp über die NW-Seite",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2814,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/121799",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.868786,
-          "lon": 8.467198
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Widderfeld Stock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Widderfeldstock",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.835634,
+          "lon": 8.349615,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0014",
@@ -395,70 +581,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.835634,
-          "lon": 8.349615
-        },
-        {
-          "nome": "Ruchstock",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-NW:routes:routes-skialp:0015",
-              "nome": "Ab Bannalp über die NW-Seite",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2814,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/121799",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.863857,
-          "lon": 8.453091
-        },
-        {
-          "nome": "Chaiserstuel",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-NW:routes:routes-skialp:0016",
-              "nome": "Bannalp round tour (aka Bannalp Rundtour)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2400,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52308",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.8844,
-          "lon": 8.462987
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Laucherenstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Laucherenstock",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.865185,
+          "lon": 8.445895,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0017",
@@ -479,14 +617,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.865185,
-          "lon": 8.445895
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Buochserhorn",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Buochserhorn",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.933418,
+          "lon": 8.417717,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0018",
@@ -506,15 +652,42 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-NW:routes:routes-skialp:0020",
+              "nome": "Von Beckenried Oberdort via Alpelen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1807,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/50267",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.933418,
-          "lon": 8.417717
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Glattegrat",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Glattegrat",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.91226,
+          "lon": 8.445134,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0019",
@@ -535,42 +708,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.91226,
-          "lon": 8.445134
-        },
-        {
-          "nome": "Buochserhorn",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-NW:routes:routes-skialp:0020",
-              "nome": "Von Beckenried Oberdort via Alpelen",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1807,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/50267",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.955994,
-          "lon": 8.451033
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Haldigrat-Giri",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Haldigrat-Giri",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.915114,
+          "lon": 8.429867,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-skialp:0021",
@@ -591,121 +744,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.915114,
-          "lon": 8.429867
-        },
-        {
-          "nome": "Brisen",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-NW:routes:routes-skialp:0022",
-              "nome": "Traversata Bannalp >> Niederrickenbach",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2404,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47800",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.903015,
-          "lon": 8.435486
-        },
-        {
-          "nome": "Brisen",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-NW:routes:routes-skialp:0023",
-              "nome": "Von Niederrickenbach über das Steinalper Jochli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2404,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47676",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.912628,
-          "lon": 8.442737
-        },
-        {
-          "nome": "Brisen",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-NW:routes:routes-skialp:0024",
-              "nome": "Par le Hinter Jochli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2404,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47532",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.912628,
-          "lon": 8.442737
-        },
-        {
-          "nome": "Chaiserstuel",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-NW:routes:routes-skialp:0025",
-              "nome": "Depuis Bannalp",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2400,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/46545",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.880484,
-          "lon": 8.444427
+          ]
         }
       ],
       "lat": null,

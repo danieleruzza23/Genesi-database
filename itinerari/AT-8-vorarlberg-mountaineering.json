@@ -140,13 +140,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Roggalspitze",
       "paese": "AT",
       "pareti": [
         {
           "nome": "Roggalspitze",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 47.164575,
+          "lon": 10.094324,
           "itinerari": [
             {
               "id": "AT-8:routes:routes-mountaineering:0005",
@@ -185,15 +187,34 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "AT-8:routes:routes-mountaineering:0008",
+              "nome": "N-Kante",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2673,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/662109",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 47.164575,
-          "lon": 10.094324
+          ]
         },
         {
           "nome": "Roggalspitze – Baureinstieg + NE Pfeiler",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 47.164575,
+          "lon": 10.094324,
           "itinerari": [
             {
               "id": "AT-8:routes:routes-mountaineering:0007",
@@ -214,42 +235,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.164575,
-          "lon": 10.094324
-        },
-        {
-          "nome": "Roggalspitze",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-8:routes:routes-mountaineering:0008",
-              "nome": "N-Kante",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 700,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2673,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/662109",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.16859,
-          "lon": 10.116262
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Buin",
+      "paese": "AT",
+      "pareti": [
         {
           "nome": "Piz Buin – Versant W (voie normale hiver) depuis la Wiesbadenerhütte",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.844888,
+          "lon": 10.110087,
           "itinerari": [
             {
               "id": "AT-8:routes:routes-mountaineering:0009",
@@ -270,9 +271,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.844888,
-          "lon": 10.110087
+          ]
         }
       ],
       "lat": null,

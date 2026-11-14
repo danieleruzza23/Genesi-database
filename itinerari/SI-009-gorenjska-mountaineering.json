@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Grande Moistrocca",
       "paese": "SI",
       "pareti": [
         {
           "nome": "Velika Mojstrovka",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.433748,
+          "lon": 13.719193,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0001",
@@ -30,15 +32,61 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0014",
+              "nome": "The steelworkers route (kovinarska smer)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1292062",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0015",
+              "nome": "Debelakova route",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1292059",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.433748,
-          "lon": 13.719193
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kalška gora",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Kalška gora",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.341129,
+          "lon": 14.546597,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0002",
@@ -59,14 +107,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.341129,
-          "lon": 14.546597
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Velika Ponca",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Velika Ponca",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.438576,
+          "lon": 13.826421,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0003",
@@ -87,14 +143,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.438576,
-          "lon": 13.826421
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rjavina",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Rjavina",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.395136,
+          "lon": 13.884085,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0004",
@@ -114,15 +178,156 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0023",
+              "nome": "NE ridge",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2532,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1263304",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0024",
+              "nome": "Drofenik - Križaj",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P3+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1263303",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0025",
+              "nome": "Dimnik - Krušic",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P3+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1263295",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0026",
+              "nome": "Centralna smer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P3+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1263271",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0027",
+              "nome": "Rjavinine grede",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1263269",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0028",
+              "nome": "Milijarda",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1263265",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0030",
+              "nome": "Labirint",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2532,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/587009",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.395136,
-          "lon": 13.884085
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Tricorno",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Triglav",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.386553,
+          "lon": 13.834619,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0005",
@@ -142,15 +347,118 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0018",
+              "nome": "Prusik - Szalay",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1268880",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0019",
+              "nome": "Čopov steber",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1266919",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0029",
+              "nome": "Slovenska",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2200,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/784948",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0036",
+              "nome": "Skalaška in Gorenjska",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2500,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/583353",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0038",
+              "nome": "Bavarska smer in Nemška smer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2864,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/238577",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.386553,
-          "lon": 13.834619
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Travnik",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Travnik",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.429027,
+          "lon": 13.71281,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0006",
@@ -170,15 +478,80 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0013",
+              "nome": "Zajeda",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1292520",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0020",
+              "nome": "Črni biser (black pearl)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2379,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1264225",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0034",
+              "nome": "Debeljakova Varianta",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2379,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/583845",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.429027,
-          "lon": 13.71281
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kočna",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Kočna",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.35667,
+          "lon": 14.516182,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0007",
@@ -199,14 +572,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.35667,
-          "lon": 14.516182
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Široka peč",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Široka peč",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.444172,
+          "lon": 13.839606,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0008",
@@ -226,15 +607,80 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0010",
+              "nome": "Opium",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1292556",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0011",
+              "nome": "Vzhodni steber (E pillar)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1292541",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-009:routes:routes-mountaineering:0022",
+              "nome": "Čihula route",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2497,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1264216",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.444172,
-          "lon": 13.839606
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Prisojnik",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Prisojnik",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.4308,
+          "lon": 13.766564,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0009",
@@ -255,70 +701,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.4308,
-          "lon": 13.766564
-        },
-        {
-          "nome": "Široka peč",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0010",
-              "nome": "Opium",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1292556",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.444347,
-          "lon": 13.839855
-        },
-        {
-          "nome": "Široka peč",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0011",
-              "nome": "Vzhodni steber (E pillar)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1292541",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.446711,
-          "lon": 13.846314
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Šite",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Šite",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.428151,
+          "lon": 13.700872,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0012",
@@ -338,22 +736,13 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.428151,
-          "lon": 13.700872
-        },
-        {
-          "nome": "Travnik",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
-              "id": "SI-009:routes:routes-mountaineering:0013",
-              "nome": "Zajeda",
+              "id": "SI-009:routes:routes-mountaineering:0021",
+              "nome": "Zajeda (dihedral)",
               "gradoObbligatorio": null,
               "gradoMassimo": "TD",
-              "spittatura": "P3",
+              "spittatura": "P2",
               "tiri": null,
               "sviluppo": null,
               "lunghezzaKm": null,
@@ -362,75 +751,46 @@
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1292520",
+                  "url": "https://www.camptocamp.org/routes/1264221",
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.43169,
-          "lon": 13.713362
-        },
-        {
-          "nome": "Velika Mojstrovka",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
-              "id": "SI-009:routes:routes-mountaineering:0014",
-              "nome": "The steelworkers route (kovinarska smer)",
+              "id": "SI-009:routes:routes-mountaineering:0032",
+              "nome": "Belač - Zupan",
               "gradoObbligatorio": null,
               "gradoMassimo": "D",
-              "spittatura": "P2+",
+              "spittatura": "P2",
               "tiri": null,
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": null,
+              "quotaMassima": 2250,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1292062",
+                  "url": "https://www.camptocamp.org/routes/585286",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.437195,
-          "lon": 13.725752
-        },
-        {
-          "nome": "Velika Mojstrovka",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0015",
-              "nome": "Debelakova route",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1292059",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.435914,
-          "lon": 13.722328
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rakova špica",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Rakova špica",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.430393,
+          "lon": 13.810905,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0016",
@@ -451,14 +811,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.430393,
-          "lon": 13.810905
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Špik",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Špik",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.452091,
+          "lon": 13.814452,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0017",
@@ -478,379 +846,42 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.452091,
-          "lon": 13.814452
-        },
-        {
-          "nome": "Triglav",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
-              "id": "SI-009:routes:routes-mountaineering:0018",
-              "nome": "Prusik - Szalay",
+              "id": "SI-009:routes:routes-mountaineering:0035",
+              "nome": "Direktna",
               "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1268880",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.385829,
-          "lon": 13.831032
-        },
-        {
-          "nome": "Triglav",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0019",
-              "nome": "Čopov steber",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1266919",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.386299,
-          "lon": 13.833949
-        },
-        {
-          "nome": "Travnik",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0020",
-              "nome": "Črni biser (black pearl)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2379,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1264225",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.432144,
-          "lon": 13.712309
-        },
-        {
-          "nome": "Šite",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0021",
-              "nome": "Zajeda (dihedral)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
+              "gradoMassimo": "D+",
               "spittatura": "P2",
               "tiri": null,
               "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": null,
+              "quotaMassima": 2472,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1264221",
+                  "url": "https://www.camptocamp.org/routes/583434",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.426299,
-          "lon": 13.695489
-        },
-        {
-          "nome": "Široka peč",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0022",
-              "nome": "Čihula route",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2497,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1264216",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.446069,
-          "lon": 13.841624
-        },
-        {
-          "nome": "Rjavina",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0023",
-              "nome": "NE ridge",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2532,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1263304",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.394614,
-          "lon": 13.890637
-        },
-        {
-          "nome": "Rjavina",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0024",
-              "nome": "Drofenik - Križaj",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P3+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1263303",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.394013,
-          "lon": 13.876934
-        },
-        {
-          "nome": "Rjavina",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0025",
-              "nome": "Dimnik - Krušic",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P3+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1263295",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.392417,
-          "lon": 13.878529
-        },
-        {
-          "nome": "Rjavina",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0026",
-              "nome": "Centralna smer",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P3+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1263271",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.396013,
-          "lon": 13.8821
-        },
-        {
-          "nome": "Rjavina",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0027",
-              "nome": "Rjavinine grede",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1263269",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.393251,
-          "lon": 13.876737
-        },
-        {
-          "nome": "Rjavina",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0028",
-              "nome": "Milijarda",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1263265",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.394459,
-          "lon": 13.884172
-        },
-        {
-          "nome": "Triglav",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0029",
-              "nome": "Slovenska",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2200,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/784948",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.387003,
-          "lon": 13.841534
-        },
-        {
-          "nome": "Rjavina",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0030",
-              "nome": "Labirint",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2532,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/587009",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.393155,
-          "lon": 13.880376
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mali Oltar",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Mali Oltar",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.442397,
+          "lon": 13.831744,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0031",
@@ -871,42 +902,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.442397,
-          "lon": 13.831744
-        },
-        {
-          "nome": "Šite",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0032",
-              "nome": "Belač - Zupan",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2250,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/585286",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.426029,
-          "lon": 13.696869
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Veliki Draški vrh",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Veliki Draški vrh ",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.362122,
+          "lon": 13.877639,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0033",
@@ -927,98 +938,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.362122,
-          "lon": 13.877639
-        },
-        {
-          "nome": "Travnik",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0034",
-              "nome": "Debeljakova Varianta",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2379,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/583845",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.430352,
-          "lon": 13.712587
-        },
-        {
-          "nome": "Špik",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0035",
-              "nome": "Direktna",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2472,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/583434",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.450946,
-          "lon": 13.814546
-        },
-        {
-          "nome": "Triglav",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0036",
-              "nome": "Skalaška in Gorenjska",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2500,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/583353",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.384643,
-          "lon": 13.834527
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Dolgi hrbet",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Dolgi hrbet",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.365743,
+          "lon": 14.548237,
           "itinerari": [
             {
               "id": "SI-009:routes:routes-mountaineering:0037",
@@ -1039,37 +974,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.365743,
-          "lon": 14.548237
-        },
-        {
-          "nome": "Triglav",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-009:routes:routes-mountaineering:0038",
-              "nome": "Bavarska smer in Nemška smer",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2864,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/238577",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.384719,
-          "lon": 13.83834
+          ]
         }
       ],
       "lat": null,

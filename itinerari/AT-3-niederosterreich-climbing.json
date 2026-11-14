@@ -4,334 +4,6 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "AT",
-      "pareti": [
-        {
-          "nome": "Stadelwand",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0001",
-              "nome": "Stadelwandgrat",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1407,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1905838",
-                  "siteName": null
-                },
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/stadelwandgrat-stadelwand/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.749992,
-          "lon": 15.791843
-        },
-        {
-          "nome": "Stadelwand",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0002",
-              "nome": "Bruderherz",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1407,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822855",
-                  "siteName": null
-                },
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/bruderherz-stadelwand/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.748187,
-          "lon": 15.793225
-        },
-        {
-          "nome": "Hohe Wand",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0003",
-              "nome": "Wüde posteline",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 880,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1821896",
-                  "siteName": null
-                },
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/wuede-posteline-hohe-wand/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.83019,
-          "lon": 16.050735
-        },
-        {
-          "nome": "Hohe Wand",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0004",
-              "nome": "Reinecke Fuchs",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1766823",
-                  "siteName": null
-                },
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/reinecke-fuchs-hohe-wand/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.832504,
-          "lon": 16.052527
-        },
-        {
-          "nome": "Hohe Wand",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0005",
-              "nome": "Betty + Paul",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1766822",
-                  "siteName": null
-                },
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/betty-paul-hohe-wand/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.832504,
-          "lon": 16.052527
-        },
-        {
-          "nome": "Preinerwand",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0006",
-              "nome": "Mit Göttlicher Hand",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1790,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1507792",
-                  "siteName": null
-                },
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/mit-goettlicher-hand-preinerwand/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.701192,
-          "lon": 15.733073
-        },
-        {
-          "nome": "Hohe Wand",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0007",
-              "nome": "Zukunftsweiser",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 850,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1241105",
-                  "siteName": null
-                },
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/zukunftsweiser-hohe-wand/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.832504,
-          "lon": 16.052527
-        },
-        {
-          "nome": "Preinerwand",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0008",
-              "nome": "Sturmzeit",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1800,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1240066",
-                  "siteName": null
-                },
-                {
-                  "provider": "bergsteigen",
-                  "url": "https://www.bergsteigen.com/touren/klettern/sturmzeit-preinerwand/",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.700538,
-          "lon": 15.735746
-        },
-        {
-          "nome": "Hohe Wand",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0009",
-              "nome": "Draschgrat",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 850,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/520530",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.833597,
-          "lon": 16.055163
-        },
-        {
-          "nome": "Vogelberg",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "AT-3:routes:routes-climbing:0010",
-              "nome": "Don Bosco Grat",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 546,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/480893",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 48.405812,
-          "lon": 15.521298
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Dürnstein",
       "paese": "AT",
       "pareti": [
@@ -9561,6 +9233,304 @@
           ],
           "lat": 47.8104,
           "lon": 16.0203
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Stadelwand",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Stadelwand",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 47.749992,
+          "lon": 15.791843,
+          "itinerari": [
+            {
+              "id": "AT-3:routes:routes-climbing:0001",
+              "nome": "Stadelwandgrat",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1407,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1905838",
+                  "siteName": null
+                },
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/stadelwandgrat-stadelwand/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-3:routes:routes-climbing:0002",
+              "nome": "Bruderherz",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 360.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1407,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1822855",
+                  "siteName": null
+                },
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/bruderherz-stadelwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bassa Austria",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hohe Wand",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 47.83019,
+          "lon": 16.050735,
+          "itinerari": [
+            {
+              "id": "AT-3:routes:routes-climbing:0003",
+              "nome": "Wüde posteline",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 880,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1821896",
+                  "siteName": null
+                },
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/wuede-posteline-hohe-wand/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-3:routes:routes-climbing:0004",
+              "nome": "Reinecke Fuchs",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1766823",
+                  "siteName": null
+                },
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/reinecke-fuchs-hohe-wand/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-3:routes:routes-climbing:0005",
+              "nome": "Betty + Paul",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 145.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1766822",
+                  "siteName": null
+                },
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/betty-paul-hohe-wand/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-3:routes:routes-climbing:0007",
+              "nome": "Zukunftsweiser",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 195.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 850,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1241105",
+                  "siteName": null
+                },
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/zukunftsweiser-hohe-wand/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-3:routes:routes-climbing:0009",
+              "nome": "Draschgrat",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 850,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/520530",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Preinerwand",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Preinerwand",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 47.701192,
+          "lon": 15.733073,
+          "itinerari": [
+            {
+              "id": "AT-3:routes:routes-climbing:0006",
+              "nome": "Mit Göttlicher Hand",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 190.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1790,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1507792",
+                  "siteName": null
+                },
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/mit-goettlicher-hand-preinerwand/",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-3:routes:routes-climbing:0008",
+              "nome": "Sturmzeit",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 375.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1800,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1240066",
+                  "siteName": null
+                },
+                {
+                  "provider": "bergsteigen",
+                  "url": "https://www.bergsteigen.com/touren/klettern/sturmzeit-preinerwand/",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vogelberg",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Vogelberg",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 48.405812,
+          "lon": 15.521298,
+          "itinerari": [
+            {
+              "id": "AT-3:routes:routes-climbing:0010",
+              "nome": "Don Bosco Grat",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 546,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/480893",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

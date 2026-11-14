@@ -396,13 +396,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Sibilla",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Sibilla – Versant E",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.901076,
+          "lon": 13.266388,
           "itinerari": [
             {
               "id": "IT-57:routes:routes-skialp:0013",
@@ -423,14 +425,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.901076,
-          "lon": 13.266388
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima delle Prata",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima delle Prata – versant E, depuis Altino",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.873923,
+          "lon": 13.292816,
           "itinerari": [
             {
               "id": "IT-57:routes:routes-skialp:0014",
@@ -451,14 +461,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.873923,
-          "lon": 13.292816
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Palazzo Borghese",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Palazzo Borghese",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.867953,
+          "lon": 13.232729,
           "itinerari": [
             {
               "id": "IT-57:routes:routes-skialp:0015",
@@ -479,14 +497,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.867953,
-          "lon": 13.232729
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Vettore",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Vettore",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.824587,
+          "lon": 13.275254,
           "itinerari": [
             {
               "id": "IT-57:routes:routes-skialp:0016",
@@ -507,14 +533,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.824587,
-          "lon": 13.275254
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta di Prato Polito",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Punta di Prato Polito – De la Plaine de Castelluccio par la Pente SW",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.817841,
+          "lon": 13.266449,
           "itinerari": [
             {
               "id": "IT-57:routes:routes-skialp:0017",
@@ -535,9 +569,7 @@
                 }
               ]
             }
-          ],
-          "lat": 42.817841,
-          "lon": 13.266449
+          ]
         }
       ],
       "lat": null,

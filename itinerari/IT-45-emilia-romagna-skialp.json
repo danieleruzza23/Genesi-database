@@ -2091,13 +2091,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Cimone",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Cimone",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.193889,
+          "lon": 10.701389,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-skialp:0071",
@@ -2118,490 +2120,14 @@
                 }
               ]
             }
-          ],
-          "lat": 44.193889,
-          "lon": 10.701389
-        },
-        {
-          "nome": "Libro Aperto",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0072",
-              "nome": "Traversata Doganaccia - Libro Aperto - Abetone",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 800,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1937,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/269311",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.158132,
-          "lon": 10.711448
-        },
-        {
-          "nome": "Libro Aperto – Da Casulie di Fellicarolo per i Taburri ed il versante Nord.",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0073",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 865,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1937,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1504058",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.158132,
-          "lon": 10.711448
-        },
-        {
-          "nome": "Lago Santo parmese – Monte Aquila",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0074",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 600,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1780,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1499156",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.402666,
-          "lon": 10.007
-        },
-        {
-          "nome": "Valditacca – Monte Losanna e giro dei laghi",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0075",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 850,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1800,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1497576",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.387728,
-          "lon": 10.099633
-        },
-        {
-          "nome": "Monte Montaganana – Da Ravarano",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0076",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1313,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1278762",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.565777,
-          "lon": 10.082964
-        },
-        {
-          "nome": "Monte Bocco – da Prato Spilla",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0077",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 600,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1791,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1265820",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.351962,
-          "lon": 10.101015
-        },
-        {
-          "nome": "Monte Sillano – e Monte Asinara , da Ospitaletto",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0078",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 900,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1876,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/956229",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.272446,
-          "lon": 10.335277
-        },
-        {
-          "nome": "Monte Cusna",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0079",
-              "nome": "dallo Spallone NE di Prassordo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2121,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47725",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.296933,
-          "lon": 10.412191
-        },
-        {
-          "nome": "Monte Cusna – Anello Monte la Piella > Sasso del Morto > Canale della Borra.",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0080",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1166,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2121,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/955946",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.296933,
-          "lon": 10.412191
-        },
-        {
-          "nome": "Monte Mongiardonda – da Febbio Rescadore per il \"Ghiacciaio\"",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0081",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1650,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/947015",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.287173,
-          "lon": 10.401594
-        },
-        {
-          "nome": "Monte Cavalbianco – Versante NE",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0082",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 554,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1855,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/406023",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.297624,
-          "lon": 10.296714
-        },
-        {
-          "nome": "Rocca Pianaccia",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0083",
-              "nome": "da Valditacca",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 750,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1802,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/331102",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.381151,
-          "lon": 10.08221
-        },
-        {
-          "nome": "Roccabiasca",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0084",
-              "nome": "Lago santo Parmense traversata",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 500,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1750,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/261096",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.393917,
-          "lon": 10.026194
-        },
-        {
-          "nome": "Monte Orsaro",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0085",
-              "nome": "da Lagdei",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 577,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1830,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/249012",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.404555,
-          "lon": 10.002785
-        },
-        {
-          "nome": "Monte Orsaro – da Lagdei",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0086",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 613,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1863,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/114504",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.404555,
-          "lon": 10.002785
-        },
-        {
-          "nome": "Alpe di Succiso",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0087",
-              "nome": "da Succiso Nuovo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1017,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2017,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/206998",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.332694,
-          "lon": 10.195472
-        },
-        {
-          "nome": "Monte Casarola – Casarola Appennino Tosco Emiliano",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0088",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 969,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1979,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/202705",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.331417,
-          "lon": 10.2075
+          ]
         },
         {
           "nome": "Monte Cimone – Da Doccia per il versante W",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.191045,
+          "lon": 10.68535,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-skialp:0089",
@@ -2622,14 +2148,333 @@
                 }
               ]
             }
-          ],
-          "lat": 44.191045,
-          "lon": 10.68535
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Libro Aperto",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Libro Aperto",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.158132,
+          "lon": 10.711448,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0072",
+              "nome": "Traversata Doganaccia - Libro Aperto - Abetone",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1937,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/269311",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Libro Aperto – Da Casulie di Fellicarolo per i Taburri ed il versante Nord.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.158132,
+          "lon": 10.711448,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0073",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 865,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1937,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1504058",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Parma",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Lago Santo parmese – Monte Aquila",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.402666,
+          "lon": 10.007,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0074",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1780,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1499156",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Valditacca – Monte Losanna e giro dei laghi",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.387728,
+          "lon": 10.099633,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0075",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 850,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1800,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1497576",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Montaganana",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Montaganana – Da Ravarano",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.565777,
+          "lon": 10.082964,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0076",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1313,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1278762",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Bocco",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Bocco – da Prato Spilla",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.351962,
+          "lon": 10.101015,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0077",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1791,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1265820",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Sillano",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Sillano – e Monte Asinara , da Ospitaletto",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.272446,
+          "lon": 10.335277,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0078",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1876,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/956229",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Cusna",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Cusna",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.296933,
+          "lon": 10.412191,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0079",
+              "nome": "dallo Spallone NE di Prassordo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2121,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47725",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-45:routes:routes-skialp:0094",
+              "nome": "Dal Rif.Battisti per il M.La Piella e canale della Borra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2121,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51385",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Cusna – Anello Monte la Piella > Sasso del Morto > Canale della Borra.",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.296933,
+          "lon": 10.412191,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0080",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1166,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2121,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/955946",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         },
         {
           "nome": "Monte Cusna – per Prati Sara",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.302464,
+          "lon": 10.406591,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-skialp:0090",
@@ -2650,14 +2495,310 @@
                 }
               ]
             }
-          ],
-          "lat": 44.302464,
-          "lon": 10.406591
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Mongiardonda",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Mongiardonda – da Febbio Rescadore per il \"Ghiacciaio\"",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.287173,
+          "lon": 10.401594,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0081",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1650,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/947015",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Cavalbianco",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Cavalbianco – Versante NE",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.297624,
+          "lon": 10.296714,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0082",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 554,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1855,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/406023",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rocca Pianaccia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Rocca Pianaccia",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.381151,
+          "lon": 10.08221,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0083",
+              "nome": "da Valditacca",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1802,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/331102",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Roccabiasca",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Roccabiasca",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.393917,
+          "lon": 10.026194,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0084",
+              "nome": "Lago santo Parmense traversata",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1750,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/261096",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Orsaro",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Orsaro",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.404555,
+          "lon": 10.002785,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0085",
+              "nome": "da Lagdei",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 577,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1830,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/249012",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Marmagna",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Orsaro – da Lagdei",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.404555,
+          "lon": 10.002785,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0086",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 613,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1863,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/114504",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Alpe di Succiso",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Alpe di Succiso",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.332694,
+          "lon": 10.195472,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0087",
+              "nome": "da Succiso Nuovo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1017,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2017,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/206998",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Casarola",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Casarola – Casarola Appennino Tosco Emiliano",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.331417,
+          "lon": 10.2075,
+          "itinerari": [
+            {
+              "id": "IT-45:routes:routes-skialp:0088",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 969,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1979,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/202705",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Bragalata",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Bragalata – Versante NE dal Lago Ballano",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.357058,
+          "lon": 10.080661,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-skialp:0091",
@@ -2678,14 +2819,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.357058,
-          "lon": 10.080661
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Giovo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Giovo – Dal Lago Santo per il vallone delle Fontanacce",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.1328,
+          "lon": 10.5769,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-skialp:0092",
@@ -2706,14 +2855,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.1328,
-          "lon": 10.5769
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Corno Alle Scale",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Corno Alle Scale – Da Le Polle => Rifugio Malghe => Lago Scaffaiolo => Val di Gorgo",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.125729,
+          "lon": 10.822935,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-skialp:0093",
@@ -2734,42 +2891,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.125729,
-          "lon": 10.822935
-        },
-        {
-          "nome": "Monte Cusna",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-45:routes:routes-skialp:0094",
-              "nome": "Dal Rif.Battisti per il M.La Piella e canale della Borra",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2121,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51385",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.285237,
-          "lon": 10.412403
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Prado",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Prado – Da Febbio per il Passone e il Rif.Battisti",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.277537,
+          "lon": 10.419959,
           "itinerari": [
             {
               "id": "IT-45:routes:routes-skialp:0095",
@@ -2790,9 +2927,7 @@
                 }
               ]
             }
-          ],
-          "lat": 44.277537,
-          "lon": 10.419959
+          ]
         }
       ],
       "lat": null,

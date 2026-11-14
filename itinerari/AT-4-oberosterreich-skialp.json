@@ -4,182 +4,6 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "AT",
-      "pareti": [
-        {
-          "nome": "Torstein",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-4:routes:routes-skialp:0001",
-              "nome": "Eisrinne",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2948,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1100156",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.475643,
-          "lon": 13.587728
-        },
-        {
-          "nome": "Hoher Trog",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-4:routes:routes-skialp:0002",
-              "nome": "East",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2355,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/727073",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.509574,
-          "lon": 13.619573
-        },
-        {
-          "nome": "Hoher Dachstein",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-4:routes:routes-skialp:0003",
-              "nome": "N, via Simonyhütte - Hallstätter Gletscher",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2995,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/726996",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.494682,
-          "lon": 13.612917
-        },
-        {
-          "nome": "Zwischenwändscharte",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-4:routes:routes-skialp:0004",
-              "nome": "Unteres Loigistal",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2004,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/721420",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.682794,
-          "lon": 14.218085
-        },
-        {
-          "nome": "Warscheneck",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-4:routes:routes-skialp:0005",
-              "nome": "N, via Zellerhuette",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2388,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/721414",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.679178,
-          "lon": 14.237127
-        },
-        {
-          "nome": "Hoher Dachstein",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-4:routes:routes-skialp:0006",
-              "nome": "Traversing via Schladminger Gletscher and Tiergarten-descent",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2993,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51750",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.475865,
-          "lon": 13.643016
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Ardning",
       "paese": "AT",
       "pareti": [
@@ -882,6 +706,205 @@
           ],
           "lat": 47.746095,
           "lon": 14.296497
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Torstein",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Torstein",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.475643,
+          "lon": 13.587728,
+          "itinerari": [
+            {
+              "id": "AT-4:routes:routes-skialp:0001",
+              "nome": "Eisrinne",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2948,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1100156",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Alta Austria",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hoher Trog",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.509574,
+          "lon": 13.619573,
+          "itinerari": [
+            {
+              "id": "AT-4:routes:routes-skialp:0002",
+              "nome": "East",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2355,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/727073",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hoher Dachstein",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hoher Dachstein",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.494682,
+          "lon": 13.612917,
+          "itinerari": [
+            {
+              "id": "AT-4:routes:routes-skialp:0003",
+              "nome": "N, via Simonyhütte - Hallstätter Gletscher",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2995,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/726996",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-4:routes:routes-skialp:0006",
+              "nome": "Traversing via Schladminger Gletscher and Tiergarten-descent",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2993,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51750",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Alta Austria / Stiria",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Zwischenwändscharte",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.682794,
+          "lon": 14.218085,
+          "itinerari": [
+            {
+              "id": "AT-4:routes:routes-skialp:0004",
+              "nome": "Unteres Loigistal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2004,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/721420",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Warscheneck",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Warscheneck",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.679178,
+          "lon": 14.237127,
+          "itinerari": [
+            {
+              "id": "AT-4:routes:routes-skialp:0005",
+              "nome": "N, via Zellerhuette",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2388,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/721414",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

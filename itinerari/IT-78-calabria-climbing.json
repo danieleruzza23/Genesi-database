@@ -40,13 +40,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Stilo - Monte Consolino",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Stilo - Monte Consolino",
           "disciplina": "climbing",
           "esposizione": "SE",
+          "lat": 38.478122,
+          "lon": 16.460731,
           "itinerari": [
             {
               "id": "IT-78:routes:routes-climbing:0002",
@@ -55,7 +57,7 @@
               "gradoMassimo": "D+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 60.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -74,7 +76,7 @@
               "gradoMassimo": "TD-",
               "spittatura": "P1+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 55.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -86,9 +88,7 @@
                 }
               ]
             }
-          ],
-          "lat": 38.478122,
-          "lon": 16.460731
+          ]
         }
       ],
       "lat": null,

@@ -684,602 +684,6 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "AT",
-      "pareti": [
-        {
-          "nome": "Erzherzog-Johann-Hütte",
-          "disciplina": "ice_mixed",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0025",
-              "nome": "depuis Salmhütte",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3454,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1111642",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.066174,
-          "lon": 12.712706
-        },
-        {
-          "nome": "Traversée du Haut Tirol",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0026",
-              "nome": "Traversée du Haut Tirol",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3798,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1102190",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.074264,
-          "lon": 12.69448
-        },
-        {
-          "nome": "Hocharn",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0027",
-              "nome": "Arête S via Goldzechkopf",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3254,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1101624",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.070458,
-          "lon": 12.93889
-        },
-        {
-          "nome": "Grosser Bärenkopf",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0028",
-              "nome": "Arête W",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "PD-",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3396,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1026274",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.122994,
-          "lon": 12.720344
-        },
-        {
-          "nome": "Johannisberg",
-          "disciplina": "ice_mixed",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0029",
-              "nome": "Arête NW",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "PD",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3453,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1024464",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.116134,
-          "lon": 12.667279
-        },
-        {
-          "nome": "Grossglockner",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0030",
-              "nome": "Couloir Pallavicini",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3798,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/919318",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.077164,
-          "lon": 12.698933
-        },
-        {
-          "nome": "Glockner-Biwak",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0031",
-              "nome": "Depuis Franz-Josefs-Höhe",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3205,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/918969",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.082404,
-          "lon": 12.702298
-        },
-        {
-          "nome": "Hochalmspitze",
-          "disciplina": "ice_mixed",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0032",
-              "nome": "Detmolder Grat (arête SW)",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "AD-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3360,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/817879",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.007577,
-          "lon": 13.313284
-        },
-        {
-          "nome": "Ankogel",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0033",
-              "nome": "arête SW par le Kleiner Ankogel",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3252,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/817066",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.046992,
-          "lon": 13.242334
-        },
-        {
-          "nome": "Hochstuhl / Stol",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0034",
-              "nome": "Johannsenrinne",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2237,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/717449",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.438964,
-          "lon": 14.173388
-        },
-        {
-          "nome": "Fuscherkarkopf",
-          "disciplina": "ice_mixed",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0035",
-              "nome": "En boucle arête NW >> arête SSW depuis Franz-Josefs-Höhe",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "F",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3331,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/230686",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.106296,
-          "lon": 12.732339
-        },
-        {
-          "nome": "Hochstuhl",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0036",
-              "nome": "Gipfelrinne",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2237,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/161376",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.437277,
-          "lon": 14.173065
-        },
-        {
-          "nome": "Grossglockner",
-          "disciplina": "ice_mixed",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0037",
-              "nome": "Voie normale",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "PD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3798,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56842",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.07411,
-          "lon": 12.698225
-        },
-        {
-          "nome": "Kölnbreinspitze",
-          "disciplina": "ice_mixed",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0038",
-              "nome": "SW Face",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2934,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47133",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.088986,
-          "lon": 13.37182
-        },
-        {
-          "nome": "Johannisberg",
-          "disciplina": "ice_mixed",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0039",
-              "nome": "Arête E",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3453,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47125",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.109436,
-          "lon": 12.685061
-        },
-        {
-          "nome": "Hochalmspitze",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0040",
-              "nome": "E side, from Maltatal, Rudolstädter Weg",
-              "gradoObbligatorio": "II",
-              "gradoMassimo": "F+",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3360,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47102",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.015112,
-          "lon": 13.34856
-        },
-        {
-          "nome": "Hochalmspitze",
-          "disciplina": "ice_mixed",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0041",
-              "nome": "durch Grosselendkees",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3360,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47101",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.027961,
-          "lon": 13.329898
-        },
-        {
-          "nome": "Erzherzog-Johann-Hütte",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0042",
-              "nome": "par le glacier Hofmannskees",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3798,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47086",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.070589,
-          "lon": 12.715606
-        },
-        {
-          "nome": "Bärennock",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0043",
-              "nome": "aus E",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2587,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/46978",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.962726,
-          "lon": 13.462887
-        },
-        {
-          "nome": "Ankogel",
-          "disciplina": "ice_mixed",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0044",
-              "nome": "Par l'W",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3252,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/46974",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.04473,
-          "lon": 13.236122
-        },
-        {
-          "nome": "Ankogel",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "AT-2:routes:routes-ice_mixed:0045",
-              "nome": "Ostflanke",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3250,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/46973",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.056484,
-          "lon": 13.273973
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Boden",
       "paese": "AT",
       "pareti": [
@@ -3118,6 +2522,627 @@
           ],
           "lat": 46.881593,
           "lon": 12.891214
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Carinzia",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Erzherzog-Johann-Hütte",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "lat": 47.066174,
+          "lon": 12.712706,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0025",
+              "nome": "depuis Salmhütte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3454,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1111642",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0042",
+              "nome": "par le glacier Hofmannskees",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3798,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47086",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Glockner-Biwak",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "lat": 47.082404,
+          "lon": 12.702298,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0031",
+              "nome": "Depuis Franz-Josefs-Höhe",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3205,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/918969",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Tirolo",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Traversée du Haut Tirol",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "lat": 47.074264,
+          "lon": 12.69448,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0026",
+              "nome": "Traversée du Haut Tirol",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3798,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1102190",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hocharn",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hocharn",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 47.070458,
+          "lon": 12.93889,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0027",
+              "nome": "Arête S via Goldzechkopf",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3254,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1101624",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grosser Bärenkopf",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Grosser Bärenkopf",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "lat": 47.122994,
+          "lon": 12.720344,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0028",
+              "nome": "Arête W",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD-",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3396,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1026274",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Johannisberg",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Johannisberg",
+          "disciplina": "ice_mixed",
+          "esposizione": "NW",
+          "lat": 47.116134,
+          "lon": 12.667279,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0029",
+              "nome": "Arête NW",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3453,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1024464",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0039",
+              "nome": "Arête E",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 443.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3453,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47125",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Grossglockner",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Grossglockner",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 47.077164,
+          "lon": 12.698933,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0030",
+              "nome": "Couloir Pallavicini",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3798,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/919318",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0037",
+              "nome": "Voie normale",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "PD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3798,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56842",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hochalmspitze",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hochalmspitze",
+          "disciplina": "ice_mixed",
+          "esposizione": "SE",
+          "lat": 47.007577,
+          "lon": 13.313284,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0032",
+              "nome": "Detmolder Grat (arête SW)",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "AD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/817879",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0040",
+              "nome": "E side, from Maltatal, Rudolstädter Weg",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "F+",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47102",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0041",
+              "nome": "durch Grosselendkees",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3360,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47101",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ankogel",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Ankogel",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 47.046992,
+          "lon": 13.242334,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0033",
+              "nome": "arête SW par le Kleiner Ankogel",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "PD-",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3252,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/817066",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0044",
+              "nome": "Par l'W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3252,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46974",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0045",
+              "nome": "Ostflanke",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3250,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46973",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Hochstuhl / Stol",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Hochstuhl / Stol",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.438964,
+          "lon": 14.173388,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0034",
+              "nome": "Johannsenrinne",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 600.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2237,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/717449",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hochstuhl",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.437277,
+          "lon": 14.173065,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0036",
+              "nome": "Gipfelrinne",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2237,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/161376",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Fuscherkarkopf",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Fuscherkarkopf",
+          "disciplina": "ice_mixed",
+          "esposizione": null,
+          "lat": 47.106296,
+          "lon": 12.732339,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0035",
+              "nome": "En boucle arête NW >> arête SSW depuis Franz-Josefs-Höhe",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3331,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/230686",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kölnbreinspitze",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Kölnbreinspitze",
+          "disciplina": "ice_mixed",
+          "esposizione": "SW",
+          "lat": 47.088986,
+          "lon": 13.37182,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0038",
+              "nome": "SW Face",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2934,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47133",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bärennock",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Bärennock",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "lat": 46.962726,
+          "lon": 13.462887,
+          "itinerari": [
+            {
+              "id": "AT-2:routes:routes-ice_mixed:0043",
+              "nome": "aus E",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2587,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46978",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

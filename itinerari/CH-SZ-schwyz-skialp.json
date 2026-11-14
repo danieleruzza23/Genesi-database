@@ -400,13 +400,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Hochstuckli",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Hochstuckli",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.058158,
+          "lon": 8.670292,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0014",
@@ -427,14 +429,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.058158,
-          "lon": 8.670292
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rigi - Scheidegg",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Rigi - Scheidegg",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.020258,
+          "lon": 8.563173,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0015",
@@ -455,14 +465,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.020258,
-          "lon": 8.563173
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mieserenstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Mieserenstock – Da Nord per la valle della Sihl e il Chraloch.",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.002706,
+          "lon": 8.854675,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0016",
@@ -483,14 +501,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.002706,
-          "lon": 8.854675
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Stöcklichrüz",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Stöcklichrüz – Traversée Sihlsee - Zürich Obersee",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.15799,
+          "lon": 8.8185,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0017",
@@ -511,14 +537,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.15799,
-          "lon": 8.8185
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chaiserstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Chaiserstock",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.9296,
+          "lon": 8.707872,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0018",
@@ -539,14 +573,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.9296,
-          "lon": 8.707872
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Blüemberg",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Blüemberg",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.941004,
+          "lon": 8.71063,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0019",
@@ -586,14 +628,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.941004,
-          "lon": 8.71063
+          ]
         },
         {
           "nome": "Blüemberg – Dalla Lidernenhütte giro ad \"U\" fino a Käppeliberg",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.937972,
+          "lon": 8.739331,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0021",
@@ -614,462 +656,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.937972,
-          "lon": 8.739331
-        },
-        {
-          "nome": "Chläbdächer",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0022",
-              "nome": "Depuis Weglosen",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1100,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2141,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/980721",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.021863,
-          "lon": 8.807909
-        },
-        {
-          "nome": "Chli Aubrig – Dal Wagitalersee",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0023",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 930,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1642,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/957923",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.094592,
-          "lon": 8.887851
-        },
-        {
-          "nome": "Biet – boucle depuis Weglosen",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0024",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1965,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/950262",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.037514,
-          "lon": 8.841119
-        },
-        {
-          "nome": "Glatten – en traversée depuis la Glattalphütte",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0025",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 760,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2505,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/717072",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.912215,
-          "lon": 8.856597
-        },
-        {
-          "nome": "Chlingenstock – Traversata Stoos >> Muotathal (i.e. STOOS SAFARI)",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0026",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1935,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/714819",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.971336,
-          "lon": 8.706689
-        },
-        {
-          "nome": "Fluebrig Diethelm – Versant N",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0027",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1180,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2092,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/599974",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.074124,
-          "lon": 8.907026
-        },
-        {
-          "nome": "Nüssen",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0028",
-              "nome": "Über SW Flanke",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 597,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1529,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/590868",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.086957,
-          "lon": 8.861297
-        },
-        {
-          "nome": "Chli Aubrig",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0029",
-              "nome": "Über SW Flanke",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 697,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1529,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/590867",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.09298,
-          "lon": 8.858346
-        },
-        {
-          "nome": "Spital – Da Unteriberg per il versante S",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0030",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 650,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1574,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/590078",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.070406,
-          "lon": 8.794741
-        },
-        {
-          "nome": "Glattalphütte SAC",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0031",
-              "nome": "De Bisithal",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 750,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1892,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/410630",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.927665,
-          "lon": 8.855175
-        },
-        {
-          "nome": "Mutschen",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0032",
-              "nome": "Du Bisithal",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 840,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1980,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/410628",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.922725,
-          "lon": 8.862937
-        },
-        {
-          "nome": "Seestock",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0033",
-              "nome": "Traversée Schwarzenbach >> Muotathal",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1473,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2429,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/406885",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.939192,
-          "lon": 8.796985
-        },
-        {
-          "nome": "Rädertenstock",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0034",
-              "nome": "Depuis Wägitalersee",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1380,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2295,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/386867",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.077188,
-          "lon": 8.931929
-        },
-        {
-          "nome": "Höch Hund – dalla Sihltal per il versante N",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0035",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2215,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/339229",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.034561,
-          "lon": 8.847675
-        },
-        {
-          "nome": "Laucherenstöckli",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0036",
-              "nome": "versante SW da Illgau",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 950,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1753,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/320724",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.997724,
-          "lon": 8.746322
-        },
-        {
-          "nome": "Druesberg  ",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0037",
-              "nome": "Da Weglosen per il versante NW e la cresta SW",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1250,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2282,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/207431",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.0042,
-          "lon": 8.8337
+          ]
         },
         {
           "nome": "Blüemberg – Traversée Khäppeliberg - Muotathal",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.95155,
+          "lon": 8.729263,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0038",
@@ -1090,70 +684,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.95155,
-          "lon": 8.729263
-        },
-        {
-          "nome": "Roggenstock",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0039",
-              "nome": "De Oberiberg",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 691,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1778,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/195502",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.030067,
-          "lon": 8.783397
-        },
-        {
-          "nome": "Liderner Plänggeli – Da Khäppeliberg",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0040",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1050,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2194,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/195287",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.934572,
-          "lon": 8.699979
+          ]
         },
         {
           "nome": "Blüemberg – Da Khäppeliberg per la Linderhütte con discesa su Rotenbalm",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.939057,
+          "lon": 8.704626,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0041",
@@ -1174,14 +712,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.939057,
-          "lon": 8.704626
+          ]
         },
         {
           "nome": "Blüemberg – Dalla Lindernen Hutte giro fino a Käppeliber",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.939057,
+          "lon": 8.704626,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0042",
@@ -1202,14 +740,278 @@
                 }
               ]
             }
-          ],
-          "lat": 46.939057,
-          "lon": 8.704626
+          ]
+        },
+        {
+          "nome": "Blüemberg – Da Stoos passando per il Wannentritt",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.95403,
+          "lon": 8.750849,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0053",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2405,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51323",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Blüemberg – Da Muotathal",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.95403,
+          "lon": 8.750849,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0073",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2405,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/48895",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chläbdächer",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Chläbdächer",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.021863,
+          "lon": 8.807909,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0022",
+              "nome": "Depuis Weglosen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2141,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/980721",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chli Aubrig",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Chli Aubrig – Dal Wagitalersee",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.094592,
+          "lon": 8.887851,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0023",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 930,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1642,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/957923",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Chli Aubrig",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.09298,
+          "lon": 8.858346,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0029",
+              "nome": "Über SW Flanke",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 697,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1529,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/590867",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Biet",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Biet – boucle depuis Weglosen",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.037514,
+          "lon": 8.841119,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0024",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1965,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/950262",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Glatten",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Glatten – en traversée depuis la Glattalphütte",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.912215,
+          "lon": 8.856597,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0025",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 760,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2505,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/717072",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chlingenstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Chlingenstock – Traversata Stoos >> Muotathal (i.e. STOOS SAFARI)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.971336,
+          "lon": 8.706689,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0026",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1935,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/714819",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         },
         {
           "nome": "Chlingenstock – da Stoos",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.974853,
+          "lon": 8.671685,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0043",
@@ -1230,14 +1032,548 @@
                 }
               ]
             }
-          ],
-          "lat": 46.974853,
-          "lon": 8.671685
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Fluebrig Diethelm",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Fluebrig Diethelm – Versant N",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.074124,
+          "lon": 8.907026,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0027",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1180,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2092,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/599974",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         },
+        {
+          "nome": "Fluebrig Diethelm",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.066001,
+          "lon": 8.872677,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0047",
+              "nome": "Traversée S >> N",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2092,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52173",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Nüssen",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Nüssen",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.086957,
+          "lon": 8.861297,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0028",
+              "nome": "Über SW Flanke",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 597,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1529,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/590868",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Spital",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Spital – Da Unteriberg per il versante S",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.070406,
+          "lon": 8.794741,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0030",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1574,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/590078",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Canton Svitto",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Glattalphütte SAC",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.927665,
+          "lon": 8.855175,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0031",
+              "nome": "De Bisithal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1892,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/410630",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Hohfläschenmatt",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.094893,
+          "lon": 8.938891,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0054",
+              "nome": "Vom Wägitaler See",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 983,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1903,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51313",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mutschen",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Mutschen",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.922725,
+          "lon": 8.862937,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0032",
+              "nome": "Du Bisithal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 840,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1980,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/410628",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Seestock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Seestock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.939192,
+          "lon": 8.796985,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0033",
+              "nome": "Traversée Schwarzenbach >> Muotathal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1473,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2429,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/406885",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rädertenstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Rädertenstock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.077188,
+          "lon": 8.931929,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0034",
+              "nome": "Depuis Wägitalersee",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1380,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2295,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/386867",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Höch Hund",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Höch Hund – dalla Sihltal per il versante N",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.034561,
+          "lon": 8.847675,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0035",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2215,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/339229",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Laucherenstöckli",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Laucherenstöckli",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.997724,
+          "lon": 8.746322,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0036",
+              "nome": "versante SW da Illgau",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 950,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1753,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/320724",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-SZ:routes:routes-skialp:0048",
+              "nome": "Von Tschalun (Oberiberg)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 590,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1753,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52003",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-SZ:routes:routes-skialp:0071",
+              "nome": "Von der Ibergeregg",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1753,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47403",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Druesberg",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Druesberg  ",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.0042,
+          "lon": 8.8337,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0037",
+              "nome": "Da Weglosen per il versante NW e la cresta SW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2282,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/207431",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Roggenstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Roggenstock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.030067,
+          "lon": 8.783397,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0039",
+              "nome": "De Oberiberg",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 691,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1778,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/195502",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Liderner Plänggeli",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Liderner Plänggeli – Da Khäppeliberg",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.934572,
+          "lon": 8.699979,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0040",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2194,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/195287",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lauiberg",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Lauiberg – Dalla Bisistal",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.976667,
+          "lon": 8.84855,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0044",
@@ -1258,14 +1594,50 @@
                 }
               ]
             }
-          ],
-          "lat": 46.976667,
-          "lon": 8.84855
+          ]
         },
+        {
+          "nome": "Lauiberg – N Mulde",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.039634,
+          "lon": 8.854864,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0061",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1034,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2057,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/49846",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Chronenstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Chronenstock",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.937417,
+          "lon": 8.705125,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0045",
@@ -1305,70 +1677,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.937417,
-          "lon": 8.705125
-        },
-        {
-          "nome": "Fluebrig Diethelm",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0047",
-              "nome": "Traversée S >> N",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2092,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52173",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.066001,
-          "lon": 8.872677
-        },
-        {
-          "nome": "Laucherenstöckli",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0048",
-              "nome": "Von Tschalun (Oberiberg)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 590,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1753,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52003",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.022449,
-          "lon": 8.772506
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Silberen",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Silberen",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.98995,
+          "lon": 8.862552,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0049",
@@ -1389,14 +1713,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.98995,
-          "lon": 8.862552
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rupperslaui, cima N",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Rupperslaui, cima N – Versante N",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.955066,
+          "lon": 8.758204,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0050",
@@ -1417,14 +1749,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.955066,
-          "lon": 8.758204
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rigi Hochflue",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Rigi Hochflue – Ab Lauerz",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.020716,
+          "lon": 8.574139,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0051",
@@ -1445,14 +1785,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.020716,
-          "lon": 8.574139
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Twäriberg",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Twäriberg",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.016266,
+          "lon": 8.821615,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0052",
@@ -1473,70 +1821,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.016266,
-          "lon": 8.821615
-        },
-        {
-          "nome": "Blüemberg – Da Stoos passando per il Wannentritt",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0053",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2405,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51323",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.95403,
-          "lon": 8.750849
-        },
-        {
-          "nome": "Hohfläschenmatt",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0054",
-              "nome": "Vom Wägitaler See",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 983,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1903,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51313",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.094893,
-          "lon": 8.938891
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Misthufen",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Misthufen – Via normale",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.956633,
+          "lon": 8.759161,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0055",
@@ -1557,14 +1857,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.956633,
-          "lon": 8.759161
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Rütistein",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Rütistein",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.030736,
+          "lon": 8.822169,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0056",
@@ -1584,15 +1892,42 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "CH-SZ:routes:routes-skialp:0068",
+              "nome": "Versant NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1000,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2025,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47587",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 47.030736,
-          "lon": 8.822169
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lachenstock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Lachenstock – Depuis le Wägital",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.076662,
+          "lon": 8.943876,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0057",
@@ -1613,14 +1948,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.076662,
-          "lon": 8.943876
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schiberg",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Schiberg",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.089827,
+          "lon": 8.942313,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0058",
@@ -1641,294 +1984,14 @@
                 }
               ]
             }
-          ],
-          "lat": 47.089827,
-          "lon": 8.942313
-        },
-        {
-          "nome": "Huser Stock – Versante N da Stoos",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0059",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1904,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/50007",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.977152,
-          "lon": 8.659481
-        },
-        {
-          "nome": "Wildspitz (Rossberg) – Ab Steinerberg",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0060",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 960,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1580,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/49998",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.069139,
-          "lon": 8.58132
-        },
-        {
-          "nome": "Lauiberg – N Mulde",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0061",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1034,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2057,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/49846",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.039634,
-          "lon": 8.854864
-        },
-        {
-          "nome": "Furggelenstock – Ab Oberiberg, Route 52c",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0062",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 566,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1656,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/49807",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.038236,
-          "lon": 8.755145
-        },
-        {
-          "nome": "Pfannenstock",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0063",
-              "nome": "Voie Normale du Bisital",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1650,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2572,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/48893",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.950047,
-          "lon": 8.873476
-        },
-        {
-          "nome": "Redertengrat",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0064",
-              "nome": "Vom Wägitalersee, Route 85",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1250,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2160,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/48824",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.073779,
-          "lon": 8.940725
-        },
-        {
-          "nome": "Stock",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0065",
-              "nome": "Von Waag",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 675,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1600,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/48724",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.051439,
-          "lon": 8.816207
-        },
-        {
-          "nome": "Brüschstockbügel",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0066",
-              "nome": "Von Innerthal",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 580,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1489,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/48721",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.106733,
-          "lon": 8.928468
-        },
-        {
-          "nome": "Forstberg",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0067",
-              "nome": "Von der Weglosen",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2215,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47799",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.010438,
-          "lon": 8.81592
-        },
-        {
-          "nome": "Rütistein",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0068",
-              "nome": "Versant NW",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1000,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2025,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47587",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.026459,
-          "lon": 8.809259
+          ]
         },
         {
           "nome": "Schiberg – Versante S",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.099103,
+          "lon": 8.936429,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0069",
@@ -1949,14 +2012,310 @@
                 }
               ]
             }
-          ],
-          "lat": 47.099103,
-          "lon": 8.936429
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Huser Stock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Huser Stock – Versante N da Stoos",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.977152,
+          "lon": 8.659481,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0059",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1904,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/50007",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Wildspitz (Rossberg)",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Wildspitz (Rossberg) – Ab Steinerberg",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.069139,
+          "lon": 8.58132,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0060",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 960,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1580,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/49998",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Furggelenstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Furggelenstock – Ab Oberiberg, Route 52c",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.038236,
+          "lon": 8.755145,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0062",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 566,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1656,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/49807",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pfannenstock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Pfannenstock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.950047,
+          "lon": 8.873476,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0063",
+              "nome": "Voie Normale du Bisital",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2572,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/48893",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Redertengrat",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Redertengrat",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.073779,
+          "lon": 8.940725,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0064",
+              "nome": "Vom Wägitalersee, Route 85",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2160,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/48824",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Stock",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Stock",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.051439,
+          "lon": 8.816207,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0065",
+              "nome": "Von Waag",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 675,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/48724",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Brüschstockbügel",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Brüschstockbügel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.106733,
+          "lon": 8.928468,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0066",
+              "nome": "Von Innerthal",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 580,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1489,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/48721",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Forstberg",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Forstberg",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 47.010438,
+          "lon": 8.81592,
+          "itinerari": [
+            {
+              "id": "CH-SZ:routes:routes-skialp:0067",
+              "nome": "Von der Weglosen",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2215,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47799",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mutteristock",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Mutteristock",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 47.048175,
+          "lon": 8.942305,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0070",
@@ -1977,42 +2336,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.048175,
-          "lon": 8.942305
-        },
-        {
-          "nome": "Laucherenstöckli",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0071",
-              "nome": "Von der Ibergeregg",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1753,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47403",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.012479,
-          "lon": 8.750509
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sangigrat",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Sangigrat",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.94415,
+          "lon": 8.789914,
           "itinerari": [
             {
               "id": "CH-SZ:routes:routes-skialp:0072",
@@ -2033,37 +2372,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.94415,
-          "lon": 8.789914
-        },
-        {
-          "nome": "Blüemberg – Da Muotathal",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-SZ:routes:routes-skialp:0073",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1800,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2405,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/48895",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.95403,
-          "lon": 8.750849
+          ]
         }
       ],
       "lat": null,

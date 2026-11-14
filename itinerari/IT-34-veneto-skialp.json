@@ -2890,13 +2890,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Pala dell'Asco",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Pala dell'Asco – par Ra Stua",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.625697,
+          "lon": 12.123193,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0097",
@@ -2917,14 +2919,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.625697,
-          "lon": 12.123193
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lastoni di Formin",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Lastoni di Formin",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.478806,
+          "lon": 12.081561,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0098",
@@ -2945,14 +2955,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.478806,
-          "lon": 12.081561
+          ]
         },
         {
           "nome": "Lastoni di Formin – Partendo da Pezie di Paru (Cortina)",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.478806,
+          "lon": 12.081561,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0099",
@@ -2973,14 +2983,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.478806,
-          "lon": 12.081561
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Belluno",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Forcella degli Angeli (Cadini di Misurina) – Da NW",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.57394,
+          "lon": 12.276521,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0100",
@@ -3001,42 +3019,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.57394,
-          "lon": 12.276521
-        },
-        {
-          "nome": "Cima Bagni – Dai Bagni di Valgrande per il Canalone Witzenmann-Oppel",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0101",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1700,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2983,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1312006",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.615154,
-          "lon": 12.410003
+          ]
         },
         {
           "nome": "Forcella Grande – Traversata dal Passo 3 Croci all'albergo Ospitale, per Forcella Grande e Forcella Verde",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.580511,
+          "lon": 12.189103,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0102",
@@ -3057,98 +3047,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.580511,
-          "lon": 12.189103
-        },
-        {
-          "nome": "Monte Baldo - Punta Pettorina – dal rifugio Novezza",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0103",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 820,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2192,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1267186",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.709282,
-          "lon": 10.857521
-        },
-        {
-          "nome": "Lagazuoi Piccolo – Canalino della Liberazione sulla Torre di Fanis Nord - Cortina d'Ampezzo",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0104",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 700,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2658,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1267028",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.548709,
-          "lon": 12.025176
-        },
-        {
-          "nome": "Monte Sief – dal castello di Andraz",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0105",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 700,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2424,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1171492",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.505322,
-          "lon": 11.989678
+          ]
         },
         {
           "nome": "Passo del Cristallo – Dal Passo Tre Croci per il versante Sud (Traversata Passo Tre Croci-Carbonin)",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.57515,
+          "lon": 12.20512,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0106",
@@ -3169,98 +3075,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.57515,
-          "lon": 12.20512
-        },
-        {
-          "nome": "Cima de Gasperi – da Capanna Trieste per la Val dei Cantoni",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0107",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1860,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2994,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1105594",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.376533,
-          "lon": 12.043382
-        },
-        {
-          "nome": "Monte Serva – da SW",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0108",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1300,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2133,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/985745",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.200638,
-          "lon": 12.232357
-        },
-        {
-          "nome": "Monte Zevola – Dal versante Nord per il Vajo dell’acqua",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0109",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 960,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1976,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/860997",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.688824,
-          "lon": 11.14254
+          ]
         },
         {
           "nome": "Forcella La Porta (Mezzodi) – Traversata degli Spiz di Mezzodì per il Giaròn Dantre i Spiz e la Val de Dòa",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.332355,
+          "lon": 12.1812,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0110",
@@ -3281,98 +3103,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.332355,
-          "lon": 12.1812
-        },
-        {
-          "nome": "Cima di Forca Rossa",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0111",
-              "nome": "Traversata Est-Ovest",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1224,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2784,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/732694",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.406357,
-          "lon": 12.158313
-        },
-        {
-          "nome": "Monte Baldo - Cima Costabella",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0112",
-              "nome": "da Prada / Punta Veleno",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1150,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2062,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/730466",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 45.689118,
-          "lon": 10.818961
-        },
-        {
-          "nome": "Col Visentin – Dal Piazzale del Nevegal",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0113",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 763,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1763,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/728152",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.056276,
-          "lon": 12.281942
+          ]
         },
         {
           "nome": "Forcella delle Bance – Traversata Sud - Nord",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.593815,
+          "lon": 12.232755,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0114",
@@ -3393,14 +3131,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.593815,
-          "lon": 12.232755
+          ]
         },
         {
           "nome": "Forcella degli Angeli",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.57752,
+          "lon": 12.271522,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0115",
@@ -3421,14 +3159,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.57752,
-          "lon": 12.271522
+          ]
         },
         {
           "nome": "Forcella dei Fulmini di Popera – Dal rif. Lunelli per il Canalone N",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.622638,
+          "lon": 12.399677,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0116",
@@ -3449,70 +3187,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.622638,
-          "lon": 12.399677
-        },
-        {
-          "nome": "Piz Boè",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0117",
-              "nome": "Couloir Holzer, Col Alton, couloir Joel et le versant NW de Boè",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1100,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3152,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/509628",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.499003,
-          "lon": 11.815578
-        },
-        {
-          "nome": "Corvo Alto – o monte Mondeval dalla val Fiorentina",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0118",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 995,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2455,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/497245",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.463611,
-          "lon": 12.0825
+          ]
         },
         {
           "nome": "Forcella Popera – da sud- da Bagni di Valgrande",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.64282,
+          "lon": 12.402687,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0119",
@@ -3533,14 +3215,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.64282,
-          "lon": 12.402687
+          ]
         },
         {
           "nome": "Cima Forada – Canale Nord o Canale \"Flaibani\"",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.434353,
+          "lon": 12.120851,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0120",
@@ -3561,14 +3243,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.434353,
-          "lon": 12.120851
+          ]
         },
         {
           "nome": "Forcella Cristallino – Val Cristallino attraversata dalla val Fonda alla val Cristallino",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.589895,
+          "lon": 12.217834,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0121",
@@ -3589,42 +3271,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.589895,
-          "lon": 12.217834
-        },
-        {
-          "nome": "Sestier",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0122",
-              "nome": "da SW per la Val Salatis",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1030,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2084,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/408047",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.153158,
-          "lon": 12.49558
+          ]
         },
         {
           "nome": "Forcella del Diavolo (Cadini di Misurina) – da NW",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.584555,
+          "lon": 12.270452,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0123",
@@ -3645,14 +3299,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.584555,
-          "lon": 12.270452
+          ]
         },
         {
           "nome": "Haute Route des Dolomites",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.44781,
+          "lon": 12.038551,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0124",
@@ -3672,43 +3326,34 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.44781,
-          "lon": 12.038551
-        },
-        {
-          "nome": "Forca Rossa al Pelmo",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
-              "id": "IT-34:routes:routes-skialp:0125",
-              "nome": "Dalla Val Fiorentina",
+              "id": "IT-34:routes:routes-skialp:0129",
+              "nome": "Passo Rolle → Innichen",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 963,
+              "sviluppo": null,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2626,
+              "quotaMassima": 3200,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51553",
+                  "url": "https://www.camptocamp.org/routes/260970",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.422247,
-          "lon": 12.124081
+          ]
         },
         {
           "nome": "Forca Rossa al Pelmo – dalla Val Fiorentina",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.422247,
+          "lon": 12.124081,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0126",
@@ -3729,14 +3374,1068 @@
                 }
               ]
             }
-          ],
-          "lat": 46.422247,
-          "lon": 12.124081
+          ]
         },
+        {
+          "nome": "Forcella del Lago",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.519068,
+          "lon": 12.030254,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0131",
+              "nome": "Traversée S >N - Du Passo Giau au refuge Fanes - Alta Via nº1",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2750,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/259096",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forca Rossa al Pelmo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.453083,
+          "lon": 12.098763,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0132",
+              "nome": "Traversée S-N, de Pecol di Zoldo au Passo Giau, Alta Via nº1",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2621,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/259067",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella delle Sasse",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.38539,
+          "lon": 12.082676,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0133",
+              "nome": "En traversée, du refuge Carestiato à Pecol di Zoldo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1800,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2476,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/258919",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella delle Sasse – dalla Val Zoldana",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.38539,
+          "lon": 12.082676,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0134",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1094,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2476,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/200509",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella del Marmol",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.207814,
+          "lon": 12.192913,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0137",
+              "nome": "Traversée S > N - Bivouac Lussato > Bivouac Dal Mas - Alta Via nº1",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2262,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/258827",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella della Neve (Cadini di Misurina) – Forcella della neve+ forcella di Pogoffa+forcella degli angeli",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.584501,
+          "lon": 12.273505,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0142",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/255571",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella del Nevaio (Cadini di Misurina) – Forcella del Nevaio da NW",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.580774,
+          "lon": 12.269498,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0143",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 860,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2620,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/249555",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella della Neve (Cadini di Misurina)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.579624,
+          "lon": 12.268448,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0144",
+              "nome": "da NW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 710,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2471,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/249543",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forca Rossa",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.392176,
+          "lon": 11.841031,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0149",
+              "nome": "Passo Forca Rossa depuis Malga Boer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2486,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/205212",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella la Porta (del Tàmer)",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.329614,
+          "lon": 12.149824,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0150",
+              "nome": "da Pralongo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1400,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2326,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/202088",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella Colfiedo – per la Val di Gotres con discesa dal valon di Colfiedo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.63,
+          "lon": 12.142778,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0151",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1250,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2721,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/201829",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forca Rossa – Forca Rossa e Col Becher da Malga Ciapela",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.412243,
+          "lon": 11.874977,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0152",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1200,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2490,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/196062",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Passo Mimoias – Versante E - dal Pian di Casa",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.514568,
+          "lon": 12.627182,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0156",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 690,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1976,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52975",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Tacca del Cridola – Da N",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.435998,
+          "lon": 12.483706,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0171",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1405,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2290,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47319",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Forcella del Frate",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.365286,
+          "lon": 12.419718,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0175",
+              "nome": "Da S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1289,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2209,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47064",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Brèche du Cristallo – du N par le Val Fonda",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.57515,
+          "lon": 12.20512,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0181",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2808,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/166003",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Bagni",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Bagni – Dai Bagni di Valgrande per il Canalone Witzenmann-Oppel",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.615154,
+          "lon": 12.410003,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0101",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2983,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1312006",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Baldo - Punta Pettorina",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Baldo - Punta Pettorina – dal rifugio Novezza",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 45.709282,
+          "lon": 10.857521,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0103",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 820,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2192,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1267186",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Lagazuoi Piccolo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Lagazuoi Piccolo – Canalino della Liberazione sulla Torre di Fanis Nord - Cortina d'Ampezzo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.548709,
+          "lon": 12.025176,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0104",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2658,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1267028",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Lagazuoi Piccolo – dal Passo Falzarego",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.524421,
+          "lon": 12.00661,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0146",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 650,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2752,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/244739",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Sief",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Sief – dal castello di Andraz",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.505322,
+          "lon": 11.989678,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0105",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2424,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1171492",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima de Gasperi",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima de Gasperi – da Capanna Trieste per la Val dei Cantoni",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.376533,
+          "lon": 12.043382,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0107",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1860,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2994,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1105594",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Serva",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Serva – da SW",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.200638,
+          "lon": 12.232357,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0108",
+              "nome": "Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1300,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2133,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/985745",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Zevola",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Zevola – Dal versante Nord per il Vajo dell’acqua",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 45.688824,
+          "lon": 11.14254,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0109",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 960,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1976,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/860997",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima di Forca Rossa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima di Forca Rossa",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.406357,
+          "lon": 12.158313,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0111",
+              "nome": "Traversata Est-Ovest",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1224,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2784,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/732694",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Baldo - Cima Costabella",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Baldo - Cima Costabella",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 45.689118,
+          "lon": 10.818961,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0112",
+              "nome": "da Prada / Punta Veleno",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1150,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2062,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/730466",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Col Visentin",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Col Visentin – Dal Piazzale del Nevegal",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.056276,
+          "lon": 12.281942,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0113",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 763,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1763,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/728152",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Boè",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Piz Boè",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.499003,
+          "lon": 11.815578,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0117",
+              "nome": "Couloir Holzer, Col Alton, couloir Joel et le versant NW de Boè",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3152,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/509628",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-skialp:0140",
+              "nome": "Canale Col Alton e val Lasties",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 100,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2873,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/255904",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-skialp:0141",
+              "nome": "per la Forcella Pordoi",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1750,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3152,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/49004",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Corvo Alto",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Corvo Alto – o monte Mondeval dalla val Fiorentina",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.463611,
+          "lon": 12.0825,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0118",
+              "nome": "Sud-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 995,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2455,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/497245",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Corvo Alto",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.473002,
+          "lon": 12.067954,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0178",
+              "nome": "Da NE",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2456,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47024",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sestier",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sestier",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.153158,
+          "lon": 12.49558,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0122",
+              "nome": "da SW per la Val Salatis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1030,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2084,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/408047",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima di Val d'Arcia",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Forca Rossa al Pelmo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.422247,
+          "lon": 12.124081,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0125",
+              "nome": "Dalla Val Fiorentina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 963,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2626,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51553",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Cornor",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Cornor",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.134616,
+          "lon": 12.486469,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0127",
@@ -3776,42 +4475,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.134616,
-          "lon": 12.486469
-        },
-        {
-          "nome": "Haute Route des Dolomites",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0129",
-              "nome": "Passo Rolle → Innichen",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3200,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/260970",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.497621,
-          "lon": 12.0032
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sasso di Sesto",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Sasso di Sesto / Sextenstein – Traversée Misurina >> Innichen par la Forcella di Lavaredo et l'Innerfeldtal",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.616946,
+          "lon": 12.286263,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0130",
@@ -3832,126 +4511,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.616946,
-          "lon": 12.286263
-        },
-        {
-          "nome": "Forcella del Lago",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0131",
-              "nome": "Traversée S >N - Du Passo Giau au refuge Fanes - Alta Via nº1",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 800,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2750,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/259096",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.519068,
-          "lon": 12.030254
-        },
-        {
-          "nome": "Forca Rossa al Pelmo",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0132",
-              "nome": "Traversée S-N, de Pecol di Zoldo au Passo Giau, Alta Via nº1",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 2400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2621,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/259067",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.453083,
-          "lon": 12.098763
-        },
-        {
-          "nome": "Forcella delle Sasse",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0133",
-              "nome": "En traversée, du refuge Carestiato à Pecol di Zoldo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1800,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2476,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/258919",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.38539,
-          "lon": 12.082676
-        },
-        {
-          "nome": "Forcella delle Sasse – dalla Val Zoldana",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0134",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1094,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2476,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/200509",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.38539,
-          "lon": 12.082676
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima de le Balanzole",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima de le Balanzole",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.285336,
+          "lon": 12.147177,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0135",
@@ -3972,14 +4547,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.285336,
-          "lon": 12.147177
+          ]
         },
         {
           "nome": "Cima de le Balanzole – Dalla Val Pramper",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.285336,
+          "lon": 12.147177,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0136",
@@ -4000,42 +4575,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.285336,
-          "lon": 12.147177
-        },
-        {
-          "nome": "Forcella del Marmol",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0137",
-              "nome": "Traversée S > N - Bivouac Lussato > Bivouac Dal Mas - Alta Via nº1",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2262,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/258827",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.207814,
-          "lon": 12.192913
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Croda da Campo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Croda da Campo – via normale",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.588955,
+          "lon": 12.434305,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0138",
@@ -4056,14 +4611,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.588955,
-          "lon": 12.434305
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Ombretta",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima Ombretta – Cima Ombretta da malga Ciapela",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.422915,
+          "lon": 11.868879,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0139",
@@ -4084,145 +4647,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.422915,
-          "lon": 11.868879
-        },
-        {
-          "nome": "Piz Boè",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0140",
-              "nome": "Canale Col Alton e val Lasties",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 100,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2873,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/255904",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-34:routes:routes-skialp:0141",
-              "nome": "per la Forcella Pordoi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1750,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3152,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/49004",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.498261,
-          "lon": 11.81964
-        },
-        {
-          "nome": "Forcella della Neve (Cadini di Misurina) – Forcella della neve+ forcella di Pogoffa+forcella degli angeli",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0142",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1500,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2600,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/255571",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.584501,
-          "lon": 12.273505
-        },
-        {
-          "nome": "Forcella del Nevaio (Cadini di Misurina) – Forcella del Nevaio da NW",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0143",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 860,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2620,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/249555",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.580774,
-          "lon": 12.269498
-        },
-        {
-          "nome": "Forcella della Neve (Cadini di Misurina)",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0144",
-              "nome": "da NW",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 710,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2471,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/249543",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.579624,
-          "lon": 12.268448
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Taè",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Taè",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.600791,
+          "lon": 12.088687,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0145",
@@ -4243,42 +4683,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.600791,
-          "lon": 12.088687
-        },
-        {
-          "nome": "Lagazuoi Piccolo – dal Passo Falzarego",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0146",
-              "nome": "Sud-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 650,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2752,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/244739",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.524421,
-          "lon": 12.00661
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Guslon",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Guslon",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.130795,
+          "lon": 12.454361,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0147",
@@ -4298,15 +4718,34 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "IT-34:routes:routes-skialp:0174",
+              "nome": "Da WNW",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1050,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2195,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47095",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.130795,
-          "lon": 12.454361
+          ]
         },
         {
           "nome": "Monte Guslon – Da SW e discesa per la valle del Cadin",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.130795,
+          "lon": 12.454361,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0148",
@@ -4327,126 +4766,50 @@
                 }
               ]
             }
-          ],
+          ]
+        },
+        {
+          "nome": "Monte Guslon – Da S",
+          "disciplina": "skialp",
+          "esposizione": null,
           "lat": 46.130795,
-          "lon": 12.454361
-        },
-        {
-          "nome": "Forca Rossa",
-          "disciplina": "skialp",
-          "esposizione": null,
+          "lon": 12.454361,
           "itinerari": [
             {
-              "id": "IT-34:routes:routes-skialp:0149",
-              "nome": "Passo Forca Rossa depuis Malga Boer",
+              "id": "IT-34:routes:routes-skialp:0182",
+              "nome": "Sud",
               "gradoObbligatorio": null,
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": 700,
+              "sviluppo": 1050,
               "lunghezzaKm": null,
               "pendioMassimo": null,
-              "quotaMassima": 2486,
+              "quotaMassima": 2195,
               "links": [
                 {
                   "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/205212",
+                  "url": "https://www.camptocamp.org/routes/47094",
                   "siteName": null
                 }
               ]
             }
-          ],
-          "lat": 46.392176,
-          "lon": 11.841031
-        },
-        {
-          "nome": "Forcella la Porta (del Tàmer)",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0150",
-              "nome": "da Pralongo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1400,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2326,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/202088",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.329614,
-          "lon": 12.149824
-        },
-        {
-          "nome": "Forcella Colfiedo – per la Val di Gotres con discesa dal valon di Colfiedo",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0151",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1250,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2721,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/201829",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.63,
-          "lon": 12.142778
-        },
-        {
-          "nome": "Forca Rossa – Forca Rossa e Col Becher da Malga Ciapela",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0152",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1200,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2490,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/196062",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.412243,
-          "lon": 11.874977
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Tofana di Rozes",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Tofana di Rozes – dal parcheggio dei piani di Falzarego",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.532167,
+          "lon": 12.047088,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0153",
@@ -4467,14 +4830,50 @@
                 }
               ]
             }
-          ],
-          "lat": 46.532167,
-          "lon": 12.047088
+          ]
         },
+        {
+          "nome": "Tofana di Rozes – Dal Rifugio Dibona",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 46.534827,
+          "lon": 12.060689,
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-skialp:0170",
+              "nome": "Nord-est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1142,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3225,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47322",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Nord di San Sebastiano",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima Nord di San Sebastiano",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.319766,
+          "lon": 12.113137,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0154",
@@ -4495,14 +4894,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.319766,
-          "lon": 12.113137
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Colròsolo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Colròsolo – Colròsolo e Monte Verna da Casera Doana",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.475258,
+          "lon": 12.559548,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0155",
@@ -4523,42 +4930,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.475258,
-          "lon": 12.559548
-        },
-        {
-          "nome": "Passo Mimoias – Versante E - dal Pian di Casa",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0156",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 690,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1976,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52975",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.514568,
-          "lon": 12.627182
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Tanzon",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima Tanzon – Da casera Cajada",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.222057,
+          "lon": 12.208328,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0157",
@@ -4579,14 +4966,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.222057,
-          "lon": 12.208328
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Baldo - Vetta delle Buse",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Baldo - Vetta delle Buse",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 45.685663,
+          "lon": 10.805346,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0158",
@@ -4626,14 +5021,22 @@
                 }
               ]
             }
-          ],
-          "lat": 45.685663,
-          "lon": 10.805346
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Portule",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima Portule – Per il Costone di Portule",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 45.979167,
+          "lon": 11.446944,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0160",
@@ -4654,14 +5057,22 @@
                 }
               ]
             }
-          ],
-          "lat": 45.979167,
-          "lon": 11.446944
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cimon di Palantina",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cimon di Palantina – Da Col Indes Per Casera Palantina",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.123751,
+          "lon": 12.465047,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0161",
@@ -4682,14 +5093,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.123751,
-          "lon": 12.465047
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Pelf",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Pelf – Da Cajada",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.231111,
+          "lon": 12.197778,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0162",
@@ -4710,14 +5129,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.231111,
-          "lon": 12.197778
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Busazza",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Busazza – Giro della Civetta",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.365355,
+          "lon": 12.043856,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0163",
@@ -4738,14 +5165,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.365355,
-          "lon": 12.043856
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schiara",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Schiara",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.243427,
+          "lon": 12.161393,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0164",
@@ -4766,14 +5201,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.243427,
-          "lon": 12.161393
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta della Puina",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Punta della Puina",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.443621,
+          "lon": 12.130263,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0165",
@@ -4794,14 +5237,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.443621,
-          "lon": 12.130263
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Delle Vacche",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima Delle Vacche",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.127356,
+          "lon": 12.458953,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0166",
@@ -4822,14 +5273,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.127356,
-          "lon": 12.458953
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Antelao",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Antelao – Via Normale",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.458694,
+          "lon": 12.242772,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0167",
@@ -4850,14 +5309,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.458694,
-          "lon": 12.242772
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Civetta",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Civetta – Via Normale",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.391218,
+          "lon": 12.077136,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0168",
@@ -4878,14 +5345,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.391218,
-          "lon": 12.077136
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Pelmo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Pelmo – Per la Cengia di Ball",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.403937,
+          "lon": 12.153241,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0169",
@@ -4906,70 +5381,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.403937,
-          "lon": 12.153241
-        },
-        {
-          "nome": "Tofana di Rozes – Dal Rifugio Dibona",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0170",
-              "nome": "Nord-est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1142,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3225,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47322",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.534827,
-          "lon": 12.060689
-        },
-        {
-          "nome": "Tacca del Cridola – Da N",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0171",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1405,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2290,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47319",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.435998,
-          "lon": 12.483706
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Peralba",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Peralba / Hochweißstein – Voie normale hiver",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.629444,
+          "lon": 12.719444,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0172",
@@ -4990,14 +5417,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.629444,
-          "lon": 12.719444
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia autonoma di Bolzano",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Passo della Sentinella – Da SE per il Vallon Popera",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.641311,
+          "lon": 12.378849,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0173",
@@ -5018,70 +5453,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.641311,
-          "lon": 12.378849
-        },
-        {
-          "nome": "Monte Guslon",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0174",
-              "nome": "Da WNW",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1050,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2195,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47095",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.140358,
-          "lon": 12.470369
-        },
-        {
-          "nome": "Forcella del Frate",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0175",
-              "nome": "Da S",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1289,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2209,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47064",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.365286,
-          "lon": 12.419718
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Croda dei Longerin Sud",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Croda dei Longerin Sud",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.6266,
+          "lon": 12.5618,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0176",
@@ -5102,14 +5489,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.6266,
-          "lon": 12.5618
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Crep Nudo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Crep Nudo",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.207772,
+          "lon": 12.446386,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0177",
@@ -5130,42 +5525,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.207772,
-          "lon": 12.446386
-        },
-        {
-          "nome": "Corvo Alto",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0178",
-              "nome": "Da NE",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 700,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2456,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47024",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.473002,
-          "lon": 12.067954
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Palombino",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Cima Palombino – Da SE",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.65,
+          "lon": 12.57,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0179",
@@ -5186,14 +5561,14 @@
                 }
               ]
             }
-          ],
-          "lat": 46.65,
-          "lon": 12.57
+          ]
         },
         {
           "nome": "Cima Palombino – Da S",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 46.65,
+          "lon": 12.57,
           "itinerari": [
             {
               "id": "IT-34:routes:routes-skialp:0180",
@@ -5214,65 +5589,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.65,
-          "lon": 12.57
-        },
-        {
-          "nome": "Brèche du Cristallo – du N par le Val Fonda",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0181",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1300,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2808,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/166003",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.57515,
-          "lon": 12.20512
-        },
-        {
-          "nome": "Monte Guslon – Da S",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-34:routes:routes-skialp:0182",
-              "nome": "Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1050,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2195,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47094",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.130795,
-          "lon": 12.454361
+          ]
         }
       ],
       "lat": null,

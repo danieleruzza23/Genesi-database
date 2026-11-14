@@ -980,13 +980,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Punta del Termine / Marchhorn",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Punta del Termine / Marchhorn",
           "disciplina": "ice_mixed",
           "esposizione": "NW",
+          "lat": 46.455739,
+          "lon": 8.456233,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-ice_mixed:0031",
@@ -995,7 +997,7 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 300.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2962,
@@ -1007,14 +1009,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.455739,
-          "lon": 8.456233
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Adula",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Adula / Rheinwaldhorn",
           "disciplina": "ice_mixed",
           "esposizione": null,
+          "lat": 46.491214,
+          "lon": 9.024358,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-ice_mixed:0032",
@@ -1034,44 +1044,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.491214,
-          "lon": 9.024358
-        },
-        {
-          "nome": "Piz Medel",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-ice_mixed:0033",
-              "nome": "Par le Val Camadra",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3210,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/709428",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.601469,
-          "lon": 8.930503
-        },
-        {
-          "nome": "Adula / Rheinwaldhorn",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
+            },
             {
               "id": "CH-TI:routes:routes-ice_mixed:0034",
               "nome": "Arête W",
@@ -1079,7 +1052,7 @@
               "gradoMassimo": "PD-",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 2650.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3402,
@@ -1091,14 +1064,86 @@
                 }
               ]
             }
-          ],
-          "lat": 46.488693,
-          "lon": 9.003856
+          ]
         },
+        {
+          "nome": "Adula",
+          "disciplina": "ice_mixed",
+          "esposizione": "W",
+          "lat": 46.490418,
+          "lon": 8.991205,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-ice_mixed:0042",
+              "nome": "traversata Cap.Quarnei - Cap.Adula Utoe",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3402,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55304",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz Medel",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Piz Medel",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "lat": 46.601469,
+          "lon": 8.930503,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-ice_mixed:0033",
+              "nome": "Par le Val Camadra",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 2703.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3210,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/709428",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Basòdino",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Basòdino",
           "disciplina": "ice_mixed",
           "esposizione": "SW",
+          "lat": 46.403947,
+          "lon": 8.493756,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-ice_mixed:0035",
@@ -1107,7 +1152,7 @@
               "gradoMassimo": "PD",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 270.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3272,
@@ -1119,14 +1164,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.403947,
-          "lon": 8.493756
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Piz da Termin",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Piz da Termin",
           "disciplina": "ice_mixed",
           "esposizione": "NE",
+          "lat": 46.365658,
+          "lon": 9.071642,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-ice_mixed:0036",
@@ -1135,7 +1188,7 @@
               "gradoMassimo": "F+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2902,
@@ -1147,14 +1200,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.365658,
-          "lon": 9.071642
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Poncione d'Alnasca",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Poncione d'Alnasca",
           "disciplina": "ice_mixed",
           "esposizione": "W",
+          "lat": 46.283223,
+          "lon": 8.821172,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-ice_mixed:0037",
@@ -1175,14 +1236,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.283223,
-          "lon": 8.821172
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Rotondo",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Pizzo Rotondo",
           "disciplina": "ice_mixed",
           "esposizione": "SE",
+          "lat": 46.499688,
+          "lon": 8.47091,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-ice_mixed:0038",
@@ -1191,7 +1260,7 @@
               "gradoMassimo": "PD+",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 3192,
@@ -1203,14 +1272,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.499688,
-          "lon": 8.47091
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Poncione di Cassina Baggio",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Poncione di Cassina Baggio ",
           "disciplina": "ice_mixed",
           "esposizione": "NE",
+          "lat": 46.493863,
+          "lon": 8.4664,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-ice_mixed:0039",
@@ -1219,7 +1296,7 @@
               "gradoMassimo": "PD",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2850,
@@ -1231,14 +1308,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.493863,
-          "lon": 8.4664
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Gallina",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Pizzo Gallina",
           "disciplina": "ice_mixed",
           "esposizione": "SE",
+          "lat": 46.486937,
+          "lon": 8.419349,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-ice_mixed:0040",
@@ -1259,14 +1344,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.486937,
-          "lon": 8.419349
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pizzo Lucendro",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Pizzo Lucendro",
           "disciplina": "ice_mixed",
           "esposizione": "SE",
+          "lat": 46.538851,
+          "lon": 8.519374,
           "itinerari": [
             {
               "id": "CH-TI:routes:routes-ice_mixed:0041",
@@ -1275,7 +1368,7 @@
               "gradoMassimo": "F",
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 150.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2963,
@@ -1287,37 +1380,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.538851,
-          "lon": 8.519374
-        },
-        {
-          "nome": "Adula",
-          "disciplina": "ice_mixed",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-ice_mixed:0042",
-              "nome": "traversata Cap.Quarnei - Cap.Adula Utoe",
-              "gradoObbligatorio": "I",
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 3402,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55304",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.490418,
-          "lon": 8.991205
+          ]
         }
       ],
       "lat": null,

@@ -270,7 +270,7 @@
               "gradoMassimo": "TD+",
               "spittatura": "P1",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 180.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": null,
@@ -480,7 +480,7 @@
               "gradoMassimo": "TD+",
               "spittatura": "P1+",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 200.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 225,
@@ -653,1101 +653,6 @@
       "paese": "IT",
       "pareti": [
         {
-          "nome": "Bunker",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0022",
-              "nome": "Lu bugie dell’amore",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1825307",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0023",
-              "nome": "Siamo fragili",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1825306",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0024",
-              "nome": "Coca in pezzi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1825305",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0025",
-              "nome": "Piccolonza",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1825304",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.11618,
-          "lon": 15.17375
-        },
-        {
-          "nome": "Orient Valley",
-          "disciplina": "climbing",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0026",
-              "nome": "Vaddatu Ro Sbirru",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 360,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824972",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0027",
-              "nome": "Aderenza Sexy",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 360,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824971",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0028",
-              "nome": "Buona Prestatzione",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 360,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824970",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 36.853363,
-          "lon": 14.750147
-        },
-        {
-          "nome": "Laddinara",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0029",
-              "nome": "Titi e Silvestro",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824925",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0030",
-              "nome": "E qui ti Voglio",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824924",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0031",
-              "nome": "Lampi e Trona",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "7a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824923",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0032",
-              "nome": "U Terrazzinu",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824922",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0033",
-              "nome": "Monsignor Canzonieri",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824921",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0034",
-              "nome": "N’Tuppatiedi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824920",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 36.881,
-          "lon": 14.7503
-        },
-        {
-          "nome": "Cava d'Ispica",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0035",
-              "nome": "Pernamazzone - Calacausi",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 300,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824205",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0036",
-              "nome": "Pernamazzone - Sumenza",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 300,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824204",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0037",
-              "nome": "Pernamazzone - Calia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 300,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824203",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0038",
-              "nome": "Pernamazzone - La Mora",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 300,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1824202",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 36.839816,
-          "lon": 14.84276
-        },
-        {
-          "nome": "Puntalazzo",
-          "disciplina": "climbing",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0039",
-              "nome": "Quella di Jonny",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 500,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1823206",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0040",
-              "nome": "Back Door",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "7a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 500,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1823205",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0041",
-              "nome": "Club Privè",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 500,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1823203",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0042",
-              "nome": "Chiodo Fisso",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 500,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1823201",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0043",
-              "nome": "Incastro di Dildo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 500,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1823200",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0044",
-              "nome": "Penelope Crux",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 500,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1823198",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0045",
-              "nome": "Puntalazzo - Orge Di Provincia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 500,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1823197",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.757371,
-          "lon": 15.150285
-        },
-        {
-          "nome": "Collesano - Secteur Grotte",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0046",
-              "nome": "L’Afghano",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 650,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1823193",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.9173,
-          "lon": 13.922688
-        },
-        {
-          "nome": "White Wall",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0047",
-              "nome": "Felice",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822152",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.174294,
-          "lon": 12.717912
-        },
-        {
-          "nome": "San Vito - Portella delle vacche",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0048",
-              "nome": "Leo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822146",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0049",
-              "nome": "Capricornus",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822145",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0050",
-              "nome": "Cappuccino con Ornamenti",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822139",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0051",
-              "nome": "It’s coffee time",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822133",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0052",
-              "nome": "Fay is the Boss",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822132",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0053",
-              "nome": "For Snails",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822131",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.156932,
-          "lon": 12.730311
-        },
-        {
-          "nome": "San Vito - Secteur Camping",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0054",
-              "nome": "Gehe Düschen",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822125",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0055",
-              "nome": "Solution",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822124",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0056",
-              "nome": "Blue",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822123",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0057",
-              "nome": "Redhead",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822121",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0058",
-              "nome": "Last Orders",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822117",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0059",
-              "nome": "Red Planet",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822116",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0060",
-              "nome": "Anita",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1822109",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.152595,
-          "lon": 12.733793
-        },
-        {
-          "nome": "Sperone Est",
-          "disciplina": "climbing",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0061",
-              "nome": "Vento del Sud",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 532,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1769495",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0062",
-              "nome": "Sogni d'Oro",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 250,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1769446",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0063",
-              "nome": "Via delle punte (anciennement via Fratelli Titt)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 532,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1594564",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0064",
-              "nome": "Palma Nana",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262971",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.165183,
-          "lon": 12.759953
-        },
-        {
-          "nome": "Addaura",
-          "disciplina": "climbing",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0065",
-              "nome": "Facciamo cucine a gasse",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1640821",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0066",
-              "nome": "Mariella crack'n up",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1640735",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.190817,
-          "lon": 13.338639
-        },
-        {
-          "nome": "Monte Monaco",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0067",
-              "nome": "La lingua pura",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED+",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1495489",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.166922,
-          "lon": 12.756839
-        },
-        {
-          "nome": "Monte Gallo",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0068",
-              "nome": "Vuoti di Memoria",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262977",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.217685,
-          "lon": 13.310896
-        },
-        {
-          "nome": "San Vito - Bunker",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0069",
-              "nome": "Dall'Alba al Tramonto",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262841",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0070",
-              "nome": "Super-G",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6b",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262840",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0071",
-              "nome": "Right Wall",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262839",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "IT-82:routes:routes-climbing:0072",
-              "nome": "Red Arête",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1262837",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 38.160483,
-          "lon": 12.725505
-        },
-        {
           "nome": "Capo Muro di Porco",
           "disciplina": "climbing",
           "esposizione": "SW",
@@ -1759,7 +664,7 @@
               "gradoMassimo": null,
               "spittatura": null,
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 9.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 10,
@@ -1774,62 +679,6 @@
           ],
           "lat": 37.003098,
           "lon": 15.323295
-        },
-        {
-          "nome": "Gorges du Monti Climiti",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0074",
-              "nome": "Pilier de droite",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 330,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/956748",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.114204,
-          "lon": 15.162808
-        },
-        {
-          "nome": "Monte Santa Caterina",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-82:routes:routes-climbing:0075",
-              "nome": "Boulboul de Nannina",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 300,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/932771",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 37.927357,
-          "lon": 12.312054
         }
       ],
       "lat": null,
@@ -1866,6 +715,298 @@
           ],
           "lat": 38.2074276,
           "lon": 13.2868964
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Trapani",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Sperone Est",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "lat": 38.165183,
+          "lon": 12.759953,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-climbing:0061",
+              "nome": "Vento del Sud",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 532,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1769495",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-82:routes:routes-climbing:0062",
+              "nome": "Sogni d'Oro",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 250,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1769446",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-82:routes:routes-climbing:0063",
+              "nome": "Via delle punte (anciennement via Fratelli Titt)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 450.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 532,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1594564",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-82:routes:routes-climbing:0064",
+              "nome": "Palma Nana",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6b",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1262971",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Palermo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Addaura",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "lat": 38.190817,
+          "lon": 13.338639,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-climbing:0065",
+              "nome": "Facciamo cucine a gasse",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1640821",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-82:routes:routes-climbing:0066",
+              "nome": "Mariella crack'n up",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1640735",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Monaco",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Monaco",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 38.166922,
+          "lon": 12.756839,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-climbing:0067",
+              "nome": "La lingua pura",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED+",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1495489",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Gallo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Gallo",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 38.217685,
+          "lon": 13.310896,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-climbing:0068",
+              "nome": "Vuoti di Memoria",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1262977",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Provincia di Siracusa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Gorges du Monti Climiti",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 37.114204,
+          "lon": 15.162808,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-climbing:0074",
+              "nome": "Pilier de droite",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 80.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 330,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/956748",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Santa Caterina",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Santa Caterina",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 37.927357,
+          "lon": 12.312054,
+          "itinerari": [
+            {
+              "id": "IT-82:routes:routes-climbing:0075",
+              "nome": "Boulboul de Nannina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 300,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/932771",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

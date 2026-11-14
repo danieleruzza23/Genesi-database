@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Graustock",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Graustock",
           "disciplina": "ice_mixed",
           "esposizione": "NE",
+          "lat": 46.78859,
+          "lon": 8.379127,
           "itinerari": [
             {
               "id": "CH-NW:routes:routes-ice_mixed:0001",
@@ -19,7 +21,7 @@
               "gradoMassimo": "AD",
               "spittatura": "P4",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 623.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2523,
@@ -31,9 +33,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.78859,
-          "lon": 8.379127
+          ]
         }
       ],
       "lat": null,

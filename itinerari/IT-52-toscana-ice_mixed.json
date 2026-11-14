@@ -224,13 +224,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Cavallo",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Cavallo",
           "disciplina": "ice_mixed",
           "esposizione": "NE",
+          "lat": 44.11862,
+          "lon": 10.240755,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-ice_mixed:0008",
@@ -239,7 +241,7 @@
               "gradoMassimo": "AD-",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 250.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 1840,
@@ -251,9 +253,7 @@
                 }
               ]
             }
-          ],
-          "lat": 44.11862,
-          "lon": 10.240755
+          ]
         }
       ],
       "lat": null,

@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Rombon",
       "paese": "SI",
       "pareti": [
         {
           "nome": "Rombon",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.372678,
+          "lon": 13.550631,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0001",
@@ -31,14 +33,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.372678,
-          "lon": 13.550631
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima del Lago (Canin)",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Jerebica",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.39907,
+          "lon": 13.568891,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0002",
@@ -58,15 +68,42 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "SI-011:routes:routes-mountaineering:0025",
+              "nome": "Steber svetega Martina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2126,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/586169",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.39907,
-          "lon": 13.568891
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Planja",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Planja",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.407501,
+          "lon": 13.78256,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0003",
@@ -87,14 +124,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.407501,
-          "lon": 13.78256
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Briceljk",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Briceljk",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.397859,
+          "lon": 13.630262,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0004",
@@ -114,16 +159,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.397859,
-          "lon": 13.630262
-        },
-        {
-          "nome": "Briceljk",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "SI-011:routes:routes-mountaineering:0005",
               "nome": "Novogoriška",
@@ -142,16 +178,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.399443,
-          "lon": 13.628105
-        },
-        {
-          "nome": "Briceljk",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "SI-011:routes:routes-mountaineering:0006",
               "nome": "Lovska smer",
@@ -170,16 +197,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.39981,
-          "lon": 13.620142
-        },
-        {
-          "nome": "Briceljk",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "SI-011:routes:routes-mountaineering:0007",
               "nome": "Cesar - Comici",
@@ -199,14 +217,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.399381,
-          "lon": 13.627592
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Bavh",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Bavh",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.410011,
+          "lon": 13.654248,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0008",
@@ -227,14 +253,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.410011,
-          "lon": 13.654248
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vršac",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Vršac",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.364565,
+          "lon": 13.792337,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0009",
@@ -255,14 +289,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.364565,
-          "lon": 13.792337
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Srebrnjak",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Srebrnjak",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.386638,
+          "lon": 13.697335,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0010",
@@ -283,14 +325,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.386638,
-          "lon": 13.697335
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Oblica",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Oblica",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.388958,
+          "lon": 13.618744,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0011",
@@ -310,16 +360,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.388958,
-          "lon": 13.618744
-        },
-        {
-          "nome": "Oblica",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "SI-011:routes:routes-mountaineering:0012",
               "nome": "Radovednež",
@@ -338,16 +379,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.388182,
-          "lon": 13.61507
-        },
-        {
-          "nome": "Oblica",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "SI-011:routes:routes-mountaineering:0013",
               "nome": "Mojca",
@@ -366,16 +398,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.389659,
-          "lon": 13.617626
-        },
-        {
-          "nome": "Oblica",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "SI-011:routes:routes-mountaineering:0014",
               "nome": "Skrita žalost",
@@ -394,16 +417,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.389256,
-          "lon": 13.618515
-        },
-        {
-          "nome": "Oblica",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "SI-011:routes:routes-mountaineering:0015",
               "nome": "Loška smer",
@@ -422,15 +436,61 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "SI-011:routes:routes-mountaineering:0019",
+              "nome": "Uvertura",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2246,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/677793",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-011:routes:routes-mountaineering:0024",
+              "nome": "Borutova smer",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P2+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2246,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/676501",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.388362,
-          "lon": 13.614897
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Votli vrh",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Votli vrh",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.401579,
+          "lon": 13.637493,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0016",
@@ -450,16 +510,7 @@
                   "siteName": null
                 }
               ]
-            }
-          ],
-          "lat": 46.401579,
-          "lon": 13.637493
-        },
-        {
-          "nome": "Votli vrh",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
+            },
             {
               "id": "SI-011:routes:routes-mountaineering:0017",
               "nome": "NW ridge",
@@ -478,15 +529,61 @@
                   "siteName": null
                 }
               ]
+            },
+            {
+              "id": "SI-011:routes:routes-mountaineering:0021",
+              "nome": "Odrešitev",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P3+",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2197,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/677050",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "SI-011:routes:routes-mountaineering:0022",
+              "nome": "Znamenje ob poti",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2197,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/676791",
+                  "siteName": null
+                }
+              ]
             }
-          ],
-          "lat": 46.40424,
-          "lon": 13.637202
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pelc nad Klonicami",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Pelc nad Klonicami",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.40595,
+          "lon": 13.670387,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0018",
@@ -507,42 +604,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.40595,
-          "lon": 13.670387
-        },
-        {
-          "nome": "Oblica",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-011:routes:routes-mountaineering:0019",
-              "nome": "Uvertura",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2246,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/677793",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.390397,
-          "lon": 13.614328
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Vrh Zelenic",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Vrh Zelenic",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.412409,
+          "lon": 13.671518,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0020",
@@ -563,70 +640,22 @@
                 }
               ]
             }
-          ],
-          "lat": 46.412409,
-          "lon": 13.671518
-        },
-        {
-          "nome": "Votli vrh",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-011:routes:routes-mountaineering:0021",
-              "nome": "Odrešitev",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED",
-              "spittatura": "P3+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2197,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/677050",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.404857,
-          "lon": 13.640671
-        },
-        {
-          "nome": "Votli vrh",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-011:routes:routes-mountaineering:0022",
-              "nome": "Znamenje ob poti",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2197,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/676791",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.401441,
-          "lon": 13.641495
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mali Ozebnik",
+      "paese": "SI",
+      "pareti": [
         {
           "nome": "Mali Ozebnik",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 46.407443,
+          "lon": 13.668536,
           "itinerari": [
             {
               "id": "SI-011:routes:routes-mountaineering:0023",
@@ -647,65 +676,7 @@
                 }
               ]
             }
-          ],
-          "lat": 46.407443,
-          "lon": 13.668536
-        },
-        {
-          "nome": "Oblica",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-011:routes:routes-mountaineering:0024",
-              "nome": "Borutova smer",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2246,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/676501",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.389299,
-          "lon": 13.616298
-        },
-        {
-          "nome": "Jerebica",
-          "disciplina": "mountaineering",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "SI-011:routes:routes-mountaineering:0025",
-              "nome": "Steber svetega Martina",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P2+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2126,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/586169",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.396192,
-          "lon": 13.565525
+          ]
         }
       ],
       "lat": null,

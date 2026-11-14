@@ -40,13 +40,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Cervialto",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Cervialto",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 40.782967,
+          "lon": 15.132408,
           "itinerari": [
             {
               "id": "IT-72:routes:routes-skialp:0002",
@@ -67,14 +69,22 @@
                 }
               ]
             }
-          ],
-          "lat": 40.782967,
-          "lon": 15.132408
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Terminio",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Terminio – Versant N",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 40.833333,
+          "lon": 14.933333,
           "itinerari": [
             {
               "id": "IT-72:routes:routes-skialp:0003",
@@ -95,9 +105,7 @@
                 }
               ]
             }
-          ],
-          "lat": 40.833333,
-          "lon": 14.933333
+          ]
         }
       ],
       "lat": null,

@@ -132,89 +132,6 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "AT",
-      "pareti": [
-        {
-          "nome": "Schöner Mann",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "AT-8:routes:routes-climbing:0005",
-              "nome": "en circuit par l'Äuelegrat, le Bepposteig, la Wandfluhgrat et les Löwenzähne",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1532,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1531325",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.356936,
-          "lon": 9.737853
-        },
-        {
-          "nome": "Schweizereck",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "AT-8:routes:routes-climbing:0006",
-              "nome": "Lilith",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/668006",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "AT-8:routes:routes-climbing:0007",
-              "nome": "Intifada",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "ED-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/668005",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 47.034121,
-          "lon": 9.790149
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Bieler Höhe",
       "paese": "AT",
       "pareti": [
@@ -353,6 +270,97 @@
           ],
           "lat": 47.1683,
           "lon": 10.1162
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schöner Mann",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Schöner Mann",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "lat": 47.356936,
+          "lon": 9.737853,
+          "itinerari": [
+            {
+              "id": "AT-8:routes:routes-climbing:0005",
+              "nome": "en circuit par l'Äuelegrat, le Bepposteig, la Wandfluhgrat et les Löwenzähne",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1532,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1531325",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schweizereck",
+      "paese": "AT",
+      "pareti": [
+        {
+          "nome": "Schweizereck",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 47.034121,
+          "lon": 9.790149,
+          "itinerari": [
+            {
+              "id": "AT-8:routes:routes-climbing:0006",
+              "nome": "Lilith",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/668006",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "AT-8:routes:routes-climbing:0007",
+              "nome": "Intifada",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "ED-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/668005",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

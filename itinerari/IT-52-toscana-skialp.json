@@ -1420,13 +1420,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Monte Rondinaio",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Monte Rondinaio – Dal Lago Santo Modenese per la valle delle Meraviglie.",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.109936,
+          "lon": 10.59145,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-skialp:0047",
@@ -1447,14 +1449,50 @@
                 }
               ]
             }
-          ],
-          "lat": 44.109936,
-          "lon": 10.59145
+          ]
         },
+        {
+          "nome": "Monte Rondinaio – Dal Lago Santo",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.109936,
+          "lon": 10.59145,
+          "itinerari": [
+            {
+              "id": "IT-52:routes:routes-skialp:0058",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 500,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1964,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/52049",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Sillara",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Sillara",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.367476,
+          "lon": 10.062287,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-skialp:0048",
@@ -1475,14 +1513,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.367476,
-          "lon": 10.062287
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Matto",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Matto – dai Lagoni",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.373722,
+          "lon": 10.043,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-skialp:0049",
@@ -1503,14 +1549,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.373722,
-          "lon": 10.043
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Tambura",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Tambura – Per il rio Vendagio e il lato NW della Carcaraia.",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.107778,
+          "lon": 10.232778,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-skialp:0050",
@@ -1531,14 +1585,78 @@
                 }
               ]
             }
-          ],
-          "lat": 44.107778,
-          "lon": 10.232778
+          ]
         },
+        {
+          "nome": "Monte Tambura – Da Vagli di Sopra",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.113029,
+          "lon": 10.250264,
+          "itinerari": [
+            {
+              "id": "IT-52:routes:routes-skialp:0057",
+              "nome": "Est",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 1115,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1895,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/51490",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Tambura – Per il versante Nord, la Carcaraia",
+          "disciplina": "skialp",
+          "esposizione": null,
+          "lat": 44.107778,
+          "lon": 10.232778,
+          "itinerari": [
+            {
+              "id": "IT-52:routes:routes-skialp:0059",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 900,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1890,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/155446",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Pania della Croce",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Pania della Croce – Da Piglionico per la Focetta del Puntone ed il Vallone dell’Inferno abbinando discesa della Borra di Canala.",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.035997,
+          "lon": 10.325006,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-skialp:0051",
@@ -1559,14 +1677,14 @@
                 }
               ]
             }
-          ],
-          "lat": 44.035997,
-          "lon": 10.325006
+          ]
         },
         {
           "nome": "Monte Pania della Croce – Costa Pulita",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.032088,
+          "lon": 10.341524,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-skialp:0052",
@@ -1587,14 +1705,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.032088,
-          "lon": 10.341524
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Cavallo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Cavallo – Canale Cambron",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 44.11862,
+          "lon": 10.240755,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-skialp:0053",
@@ -1615,14 +1741,22 @@
                 }
               ]
             }
-          ],
-          "lat": 44.11862,
-          "lon": 10.240755
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Brusà",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Brusà – Da Cancelli per il lago del Pradaccio",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 43.686667,
+          "lon": 11.515833,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-skialp:0054",
@@ -1643,14 +1777,22 @@
                 }
               ]
             }
-          ],
-          "lat": 43.686667,
-          "lon": 11.515833
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Vecchio",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Vecchio",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.9,
+          "lon": 11.383333,
           "itinerari": [
             {
               "id": "IT-52:routes:routes-skialp:0055",
@@ -1690,93 +1832,7 @@
                 }
               ]
             }
-          ],
-          "lat": 42.9,
-          "lon": 11.383333
-        },
-        {
-          "nome": "Monte Tambura – Da Vagli di Sopra",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-52:routes:routes-skialp:0057",
-              "nome": "Est",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 1115,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1895,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/51490",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.113029,
-          "lon": 10.250264
-        },
-        {
-          "nome": "Monte Rondinaio – Dal Lago Santo",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-52:routes:routes-skialp:0058",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 500,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1964,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/52049",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.109936,
-          "lon": 10.59145
-        },
-        {
-          "nome": "Monte Tambura – Per il versante Nord, la Carcaraia",
-          "disciplina": "skialp",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "IT-52:routes:routes-skialp:0059",
-              "nome": "Nord",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": 900,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1890,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/155446",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 44.107778,
-          "lon": 10.232778
+          ]
         }
       ],
       "lat": null,

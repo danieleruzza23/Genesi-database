@@ -4,13 +4,15 @@
   "esportato": "2026-09-20T00:00:00Z",
   "luoghi": [
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Vrenelisgärtli",
       "paese": "CH",
       "pareti": [
         {
           "nome": "Vrenelisgärtli",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 47.007958,
+          "lon": 9.017007,
           "itinerari": [
             {
               "id": "CH-GL:routes:routes-mountaineering:0001",
@@ -31,14 +33,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.007958,
-          "lon": 9.017007
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Mürtschenstock Ruchen",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Mürtschenstock Ruchen",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 47.070158,
+          "lon": 9.144158,
           "itinerari": [
             {
               "id": "CH-GL:routes:routes-mountaineering:0002",
@@ -59,14 +69,22 @@
                 }
               ]
             }
-          ],
-          "lat": 47.070158,
-          "lon": 9.144158
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Schiberg",
+      "paese": "CH",
+      "pareti": [
         {
           "nome": "Schiberg",
           "disciplina": "mountaineering",
           "esposizione": null,
+          "lat": 47.092982,
+          "lon": 8.953982,
           "itinerari": [
             {
               "id": "CH-GL:routes:routes-mountaineering:0003",
@@ -87,9 +105,7 @@
                 }
               ]
             }
-          ],
-          "lat": 47.092982,
-          "lon": 8.953982
+          ]
         }
       ],
       "lat": null,

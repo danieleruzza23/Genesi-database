@@ -96,182 +96,6 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "IT",
-      "pareti": [
-        {
-          "nome": "Špik nad Nosom",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-ice_mixed:0004",
-              "nome": "Via Alberto",
-              "gradoObbligatorio": "V",
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2531,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1689562",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.420942,
-          "lon": 13.468071
-        },
-        {
-          "nome": "Jôf Fuart",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-ice_mixed:0005",
-              "nome": "Da S attraverso la forcella del Vallone",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2666,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/258149",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.426688,
-          "lon": 13.495535
-        },
-        {
-          "nome": "Jôf Fuart",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-ice_mixed:0006",
-              "nome": "Da S per la Via Normale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2666,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47124",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.424706,
-          "lon": 13.498156
-        },
-        {
-          "nome": "Jôf di Montasio",
-          "disciplina": "ice_mixed",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-ice_mixed:0007",
-              "nome": "Da S",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2753,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47122",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.43359,
-          "lon": 13.439619
-        },
-        {
-          "nome": "Cima di Terrarossa",
-          "disciplina": "ice_mixed",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-ice_mixed:0008",
-              "nome": "Versante N per la Huda Paliza",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2420,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/47005",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.42649,
-          "lon": 13.460499
-        },
-        {
-          "nome": "Monte Canin",
-          "disciplina": "ice_mixed",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "IT-36:routes:routes-ice_mixed:0009",
-              "nome": "Da N",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2587,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/46990",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.365284,
-          "lon": 13.444798
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Fusine in Valromana",
       "paese": "IT",
       "pareti": [
@@ -413,6 +237,205 @@
           ],
           "lat": 46.43133,
           "lon": 13.47351
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Foronon del Buinz",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Špik nad Nosom",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.420942,
+          "lon": 13.468071,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-ice_mixed:0004",
+              "nome": "Via Alberto",
+              "gradoObbligatorio": "V",
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 800.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2531,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1689562",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Jôf Fuart",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Jôf Fuart",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 46.426688,
+          "lon": 13.495535,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-ice_mixed:0005",
+              "nome": "Da S attraverso la forcella del Vallone",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2666,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/258149",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-36:routes:routes-ice_mixed:0006",
+              "nome": "Da S per la Via Normale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2666,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47124",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Jôf di Montasio",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Jôf di Montasio",
+          "disciplina": "ice_mixed",
+          "esposizione": "S",
+          "lat": 46.43359,
+          "lon": 13.439619,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-ice_mixed:0007",
+              "nome": "Da S",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2753,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47122",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima di Terrarossa",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima di Terrarossa",
+          "disciplina": "ice_mixed",
+          "esposizione": "E",
+          "lat": 46.42649,
+          "lon": 13.460499,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-ice_mixed:0008",
+              "nome": "Versante N per la Huda Paliza",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2420,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/47005",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Canin",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Monte Canin",
+          "disciplina": "ice_mixed",
+          "esposizione": "N",
+          "lat": 46.365284,
+          "lon": 13.444798,
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-ice_mixed:0009",
+              "nome": "Da N",
+              "gradoObbligatorio": null,
+              "gradoMassimo": null,
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2587,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/46990",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

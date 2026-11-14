@@ -233,7 +233,7 @@
               "gradoMassimo": "TD+",
               "spittatura": "P2",
               "tiri": null,
-              "sviluppo": null,
+              "sviluppo": 215.0,
               "lunghezzaKm": null,
               "pendioMassimo": null,
               "quotaMassima": 2669,
@@ -332,6 +332,34 @@
           ],
           "lat": 46.50571814,
           "lon": 8.510541915
+        },
+        {
+          "nome": "Poncione di Cassina Baggio ",
+          "disciplina": "climbing",
+          "esposizione": "SE",
+          "lat": 46.493863,
+          "lon": 8.4664,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0136",
+              "nome": "Floranna",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 300.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2494,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/229074",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,
@@ -2070,1716 +2098,6 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
-      "paese": "CH",
-      "pareti": [
-        {
-          "nome": "Piansecco",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0070",
-              "nome": "I regalatori",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "7a",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1932490",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.4791,
-          "lon": 8.3908
-        },
-        {
-          "nome": "Parete di Cevio",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0071",
-              "nome": "Vamos a la playa",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "7b",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1515613",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.325882,
-          "lon": 8.601028
-        },
-        {
-          "nome": "Ove tornar desio",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0072",
-              "nome": "Troppe parole",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 990,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1336978",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0073",
-              "nome": "via Max Frisch",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6c",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1109161",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.203063,
-          "lon": 8.652905
-        },
-        {
-          "nome": "San Carlo (Val Bavona)",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0074",
-              "nome": "Las Empanadas",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6c+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1350,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1300965",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.413529,
-          "lon": 8.528912
-        },
-        {
-          "nome": "Bellinzona",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0075",
-              "nome": "Parete Val D'Iragna - My Darling",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "7a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 960,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1290119",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.328177,
-          "lon": 8.948741
-        },
-        {
-          "nome": "Placche di Tegna",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0076",
-              "nome": "Centrale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1250993",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.187783,
-          "lon": 8.748555
-        },
-        {
-          "nome": "Fusio (Valle Maggia)",
-          "disciplina": "climbing",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0077",
-              "nome": "Balestrucci - Barrage de Sambuco ",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1220554",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.455896,
-          "lon": 8.65984
-        },
-        {
-          "nome": "Ponte Brolla",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0078",
-              "nome": "Placche rosse - Pinocchio",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 686,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1142902",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0079",
-              "nome": "Wim",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 340,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/573513",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0080",
-              "nome": "Framezzo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 340,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/356792",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0081",
-              "nome": "Le-Le",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 340,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/356790",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.18845,
-          "lon": 8.75151
-        },
-        {
-          "nome": "Sasso Grande",
-          "disciplina": "climbing",
-          "esposizione": "NW",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0082",
-              "nome": "Via del Tolo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1491,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/1093101",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0083",
-              "nome": "Directissime",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1360,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/681217",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.060117,
-          "lon": 9.023277
-        },
-        {
-          "nome": "Rovine del Castelliere",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0084",
-              "nome": "Klick",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/946971",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0085",
-              "nome": "Primavera",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/946745",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0086",
-              "nome": "Vespa",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/946542",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0087",
-              "nome": "Züchitt go home",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/946519",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0088",
-              "nome": "Sonnenblume",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/946486",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0089",
-              "nome": "Nogelli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/941062",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.19019,
-          "lon": 8.74952
-        },
-        {
-          "nome": "Valle di Gorduno - Gargamella",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0090",
-              "nome": "Orchidea Selvaggia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": null,
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/946308",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0091",
-              "nome": "Legeresse",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/946061",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0092",
-              "nome": "Via Col Lissio",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/946052",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0093",
-              "nome": "Titanic",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/946004",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0094",
-              "nome": "Calimero",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/945952",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.2213,
-          "lon": 9.0116
-        },
-        {
-          "nome": "Balladrum (Losone)",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0095",
-              "nome": "Du Pont",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/945773",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0096",
-              "nome": "Aurora",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "6a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/945772",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0097",
-              "nome": "Sloops & briggs",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/945771",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0098",
-              "nome": "Da chi da la...",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/945770",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0099",
-              "nome": "Davis",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/945769",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0100",
-              "nome": "Fury",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/945768",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.155867,
-          "lon": 8.750031
-        },
-        {
-          "nome": "Placche di Valletta",
-          "disciplina": "climbing",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0101",
-              "nome": "Mätteli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "3b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/924656",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0102",
-              "nome": "Centrale",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/924655",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0103",
-              "nome": "Gloggentürmli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/924654",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0104",
-              "nome": "Via delle marmotte",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/924653",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0105",
-              "nome": "Giübin",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/924652",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0106",
-              "nome": "Munggenweg",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4b",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/924650",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0107",
-              "nome": "Prosa",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5a",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/924649",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0108",
-              "nome": "Canariscio",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "4c",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/924648",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.56031,
-          "lon": 8.552088
-        },
-        {
-          "nome": "Diga del Luzzone",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0109",
-              "nome": "Voie du barrage",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1600,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/905117",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.56522,
-          "lon": 8.96218
-        },
-        {
-          "nome": "Corona della Bolla",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0110",
-              "nome": "Via \"L'incantesimo del Lago\"",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2532,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/902548",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.47217,
-          "lon": 8.597061
-        },
-        {
-          "nome": "Poncione di Cassina Baggio - Cime S",
-          "disciplina": "climbing",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0111",
-              "nome": "Francesca",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2580,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/809582",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.49731,
-          "lon": 8.455919
-        },
-        {
-          "nome": "Gridone / Monte Limidario",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0112",
-              "nome": "Via Amici per Sempre (Rocce del Gridone)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2136,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/768802",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.123433,
-          "lon": 8.648209
-        },
-        {
-          "nome": "Parete Ai Monti",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0113",
-              "nome": "Dimitri",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "7a",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1333,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/758119",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.206279,
-          "lon": 8.65809
-        },
-        {
-          "nome": "Speroni di Ponte Brolla",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0114",
-              "nome": "Oméga",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 550,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/544180",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0115",
-              "nome": "Alpha",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 550,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/544161",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.19001,
-          "lon": 8.759259
-        },
-        {
-          "nome": "Poncione di Cassina Baggio - Cime S",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0116",
-              "nome": "Inrika",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2645,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/677934",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0117",
-              "nome": "Tage der Kalte",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2620,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/229078",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0118",
-              "nome": "Regina",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2580,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/225479",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0119",
-              "nome": "Tanti auguri",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2850,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/187459",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0120",
-              "nome": "Piccadilly (di Bedretto)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2850,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/187223",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0121",
-              "nome": "Dr Gruën Nils",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2600,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/131242",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.492783,
-          "lon": 8.467773
-        },
-        {
-          "nome": "Vaiolet",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0122",
-              "nome": "Cresta del Vaiolet",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/542567",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0123",
-              "nome": "Scalinatella",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/540819",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0124",
-              "nome": "Via dello Spigolone",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "5c",
-              "spittatura": "P1+",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1360,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/285608",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.065372,
-          "lon": 9.040309
-        },
-        {
-          "nome": "Scalinatella",
-          "disciplina": "climbing",
-          "esposizione": "E",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0125",
-              "nome": "Peduncoli",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P3",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/540851",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.067029,
-          "lon": 9.040247
-        },
-        {
-          "nome": "Placche di Lavorgo",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0126",
-              "nome": "Via dello Spigolo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 900,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/464025",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0127",
-              "nome": "via Hammerbruch",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 900,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/463988",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.460408,
-          "lon": 8.826548
-        },
-        {
-          "nome": "Placche di Freggio",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0128",
-              "nome": "Via del Pivello",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD-",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1630,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/359863",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0129",
-              "nome": "Via del Veterano",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1950,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/56248",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.500522,
-          "lon": 8.767393
-        },
-        {
-          "nome": "Scaladri",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0130",
-              "nome": "Taroc",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/288974",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0131",
-              "nome": "Fantasia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/288970",
-                  "siteName": null
-                }
-              ]
-            },
-            {
-              "id": "CH-TI:routes:routes-climbing:0132",
-              "nome": "Arcobaleno",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/288966",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.206381,
-          "lon": 8.747283
-        },
-        {
-          "nome": "Capanna Albagno",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0133",
-              "nome": "Via La strada del lupo",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/288962",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.216163,
-          "lon": 8.966847
-        },
-        {
-          "nome": "Poncione di Ruino",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0134",
-              "nome": "Spigolo W",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D+",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2669,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/288957",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.498012,
-          "lon": 8.471797
-        },
-        {
-          "nome": "Placconata di Val Calnegia",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0135",
-              "nome": "Sergeant's pepper",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": null,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/288953",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.367613,
-          "lon": 8.533878
-        },
-        {
-          "nome": "Poncione di Cassina Baggio ",
-          "disciplina": "climbing",
-          "esposizione": "SE",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0136",
-              "nome": "Floranna",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "AD",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2494,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/229074",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.493863,
-          "lon": 8.4664
-        },
-        {
-          "nome": "Poncione di Cassina Baggio - Cime S",
-          "disciplina": "climbing",
-          "esposizione": "S",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0137",
-              "nome": "Herbstwind",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "TD",
-              "spittatura": "P2",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 2600,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/227103",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.488131,
-          "lon": 8.443386
-        },
-        {
-          "nome": "Poncione Rosso",
-          "disciplina": "climbing",
-          "esposizione": "SW",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0138",
-              "nome": "per la Val Pincascia",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD-",
-              "spittatura": "P4",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1800,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/141531",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.285109,
-          "lon": 8.883572
-        },
-        {
-          "nome": "Placche di Gramüsed",
-          "disciplina": "climbing",
-          "esposizione": "NE",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0139",
-              "nome": "Cunnilingus cengis",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 750,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57654",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.344773,
-          "lon": 8.600074
-        },
-        {
-          "nome": "Sasso Guidà",
-          "disciplina": "climbing",
-          "esposizione": null,
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0140",
-              "nome": "da Carena e traversata al Motto d'Arbino (1694)",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "F",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1713,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/57130",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.183347,
-          "lon": 9.085854
-        },
-        {
-          "nome": "Monte Garzo",
-          "disciplina": "climbing",
-          "esposizione": "W",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0141",
-              "nome": "Quarzader",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "D",
-              "spittatura": "P1",
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 790,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55695",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.189697,
-          "lon": 8.757172
-        },
-        {
-          "nome": "Sassariente",
-          "disciplina": "climbing",
-          "esposizione": "N",
-          "itinerari": [
-            {
-              "id": "CH-TI:routes:routes-climbing:0142",
-              "nome": "Per la cresta N",
-              "gradoObbligatorio": null,
-              "gradoMassimo": "PD+",
-              "spittatura": null,
-              "tiri": null,
-              "sviluppo": null,
-              "lunghezzaKm": null,
-              "pendioMassimo": null,
-              "quotaMassima": 1768,
-              "links": [
-                {
-                  "provider": "camptocamp",
-                  "url": "https://www.camptocamp.org/routes/55409",
-                  "siteName": null
-                }
-              ]
-            }
-          ],
-          "lat": 46.204042,
-          "lon": 8.895965
-        }
-      ],
-      "lat": null,
-      "lon": null
-    },
-    {
       "nome": "Olivone",
       "paese": "CH",
       "pareti": [
@@ -3846,6 +2164,1461 @@
           ],
           "lat": 46.474797,
           "lon": 8.721677
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Ticino",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Piansecco",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.4791,
+          "lon": 8.3908,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0070",
+              "nome": "I regalatori",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1932490",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Parete di Cevio",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.325882,
+          "lon": 8.601028,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0071",
+              "nome": "Vamos a la playa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7b",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1515613",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ove tornar desio",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.203063,
+          "lon": 8.652905,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0072",
+              "nome": "Troppe parole",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 115.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 990,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1336978",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0073",
+              "nome": "via Max Frisch",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 240.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1109161",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "San Carlo (Val Bavona)",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.413529,
+          "lon": 8.528912,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0074",
+              "nome": "Las Empanadas",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6c+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1350,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1300965",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Bellinzona",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.328177,
+          "lon": 8.948741,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0075",
+              "nome": "Parete Val D'Iragna - My Darling",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 960,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1290119",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placche di Tegna",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.187783,
+          "lon": 8.748555,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0076",
+              "nome": "Centrale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1250993",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Fusio (Valle Maggia)",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "lat": 46.455896,
+          "lon": 8.65984,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0077",
+              "nome": "Balestrucci - Barrage de Sambuco ",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1220554",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Ponte Brolla",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "lat": 46.18845,
+          "lon": 8.75151,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0078",
+              "nome": "Placche rosse - Pinocchio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "6a",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 686,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1142902",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0079",
+              "nome": "Wim",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 340,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/573513",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0080",
+              "nome": "Framezzo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 340,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/356792",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0081",
+              "nome": "Le-Le",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 340,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/356790",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Sasso Grande",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "lat": 46.060117,
+          "lon": 9.023277,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0083",
+              "nome": "Directissime",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1360,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/681217",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Rovine del Castelliere",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.19019,
+          "lon": 8.74952,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0089",
+              "nome": "Nogelli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/941062",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placche di Valletta",
+          "disciplina": "climbing",
+          "esposizione": "NE",
+          "lat": 46.56031,
+          "lon": 8.552088,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0101",
+              "nome": "Mätteli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "3b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 2180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/924656",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0102",
+              "nome": "Centrale",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 2180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/924655",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0103",
+              "nome": "Gloggentürmli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 2180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/924654",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0104",
+              "nome": "Via delle marmotte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 2178.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/924653",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0105",
+              "nome": "Giübin",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 2180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/924652",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0106",
+              "nome": "Munggenweg",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4b",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 2180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/924650",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0107",
+              "nome": "Prosa",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5a",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 2180.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/924649",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0108",
+              "nome": "Canariscio",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "4c",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/924648",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Diga del Luzzone",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.56522,
+          "lon": 8.96218,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0109",
+              "nome": "Voie du barrage",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 165.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1600,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/905117",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Vaiolet",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.065372,
+          "lon": 9.040309,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0122",
+              "nome": "Cresta del Vaiolet",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/542567",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0123",
+              "nome": "Scalinatella",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/540819",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0124",
+              "nome": "Via dello Spigolone",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1360,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/285608",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Scalinatella",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "lat": 46.067029,
+          "lon": 9.040247,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0125",
+              "nome": "Peduncoli",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P3",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/540851",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placche di Lavorgo",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.460408,
+          "lon": 8.826548,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0126",
+              "nome": "Via dello Spigolo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 900,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/464025",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0127",
+              "nome": "via Hammerbruch",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "AD+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 900,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/463988",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Capanna Albagno",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.216163,
+          "lon": 8.966847,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0133",
+              "nome": "Via La strada del lupo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288962",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Placconata di Val Calnegia",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.367613,
+          "lon": 8.533878,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0135",
+              "nome": "Sergeant's pepper",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288953",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sasso Grande",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Sasso Grande",
+          "disciplina": "climbing",
+          "esposizione": "NW",
+          "lat": 46.060117,
+          "lon": 9.023277,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0082",
+              "nome": "Via del Tolo",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 100.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1491,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/1093101",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Corona della Bolla",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Corona della Bolla",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 46.47217,
+          "lon": 8.597061,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0110",
+              "nome": "Via \"L'incantesimo del Lago\"",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "5c+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 170.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2532,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/902548",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Poncione di Cassina Baggio - Cima S",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Poncione di Cassina Baggio - Cime S",
+          "disciplina": "climbing",
+          "esposizione": "E",
+          "lat": 46.49731,
+          "lon": 8.455919,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0111",
+              "nome": "Francesca",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2580,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/809582",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0116",
+              "nome": "Inrika",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 250.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2645,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/677934",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0117",
+              "nome": "Tage der Kalte",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2620,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/229078",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0118",
+              "nome": "Regina",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2580,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/225479",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0119",
+              "nome": "Tanti auguri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2850,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/187459",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0120",
+              "nome": "Piccadilly (di Bedretto)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2850,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/187223",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0121",
+              "nome": "Dr Gruën Nils",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/131242",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0137",
+              "nome": "Herbstwind",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": 350.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2600,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/227103",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Gridone / Monte Limidario",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Gridone / Monte Limidario",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 46.123433,
+          "lon": 8.648209,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0112",
+              "nome": "Via Amici per Sempre (Rocce del Gridone)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2136,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/768802",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Parete Ai Monti",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Parete Ai Monti",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.206279,
+          "lon": 8.65809,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0113",
+              "nome": "Dimitri",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "7a",
+              "spittatura": "P1+",
+              "tiri": null,
+              "sviluppo": 370.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1333,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/758119",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Speroni di Ponte Brolla",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Speroni di Ponte Brolla",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.19001,
+          "lon": 8.759259,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0114",
+              "nome": "Oméga",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 550,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/544180",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0115",
+              "nome": "Alpha",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 120.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 550,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/544161",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Monte Garzo",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.189697,
+          "lon": 8.757172,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0141",
+              "nome": "Quarzader",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 400.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 790,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55695",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Placche di Freggio",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Placche di Freggio",
+          "disciplina": "climbing",
+          "esposizione": "S",
+          "lat": 46.500522,
+          "lon": 8.767393,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0128",
+              "nome": "Via del Pivello",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD-",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 500.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1630,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/359863",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0129",
+              "nome": "Via del Veterano",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 770.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1950,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/56248",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Scaladri",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Scaladri",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.206381,
+          "lon": 8.747283,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0130",
+              "nome": "Taroc",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "TD",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288974",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0131",
+              "nome": "Fantasia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288970",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0132",
+              "nome": "Arcobaleno",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288966",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Poncione di Ruino",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Poncione di Ruino",
+          "disciplina": "climbing",
+          "esposizione": "W",
+          "lat": 46.498012,
+          "lon": 8.471797,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0134",
+              "nome": "Spigolo W",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D+",
+              "spittatura": "P2",
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 2669,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/288957",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Poncione Rosso",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Poncione Rosso",
+          "disciplina": "climbing",
+          "esposizione": "SW",
+          "lat": 46.285109,
+          "lon": 8.883572,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0138",
+              "nome": "per la Val Pincascia",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD-",
+              "spittatura": "P4",
+              "tiri": null,
+              "sviluppo": 130.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1800,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/141531",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Placche di Gramüsed",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Placche di Gramüsed",
+          "disciplina": "climbing",
+          "esposizione": "NE",
+          "lat": 46.344773,
+          "lon": 8.600074,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0139",
+              "nome": "Cunnilingus cengis",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": "P1",
+              "tiri": null,
+              "sviluppo": 200.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 750,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57654",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sasso Guidà",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Sasso Guidà",
+          "disciplina": "climbing",
+          "esposizione": null,
+          "lat": 46.183347,
+          "lon": 9.085854,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0140",
+              "nome": "da Carena e traversata al Motto d'Arbino (1694)",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "F",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1713,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/57130",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Sassariente",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Sassariente",
+          "disciplina": "climbing",
+          "esposizione": "N",
+          "lat": 46.204042,
+          "lon": 8.895965,
+          "itinerari": [
+            {
+              "id": "CH-TI:routes:routes-climbing:0142",
+              "nome": "Per la cresta N",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "PD+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 150.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 1768,
+              "links": [
+                {
+                  "provider": "camptocamp",
+                  "url": "https://www.camptocamp.org/routes/55409",
+                  "siteName": null
+                }
+              ]
+            }
+          ]
         }
       ],
       "lat": null,

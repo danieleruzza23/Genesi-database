@@ -800,13 +800,15 @@
       "lon": null
     },
     {
-      "nome": "Da Camptocamp (non geolocalizzato su comune)",
+      "nome": "Pizzo di Sevo Monti della Laga",
       "paese": "IT",
       "pareti": [
         {
           "nome": "Pizzo di Sevo Monti della Laga",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.669444,
+          "lon": 13.346667,
           "itinerari": [
             {
               "id": "IT-62:routes:routes-skialp:0026",
@@ -846,14 +848,14 @@
                 }
               ]
             }
-          ],
-          "lat": 42.669444,
-          "lon": 13.346667
+          ]
         },
         {
           "nome": "Pizzo di Sevo Monti della Laga – Costone SW dalle Macchie Piane (via normale)",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.669444,
+          "lon": 13.346667,
           "itinerari": [
             {
               "id": "IT-62:routes:routes-skialp:0028",
@@ -874,14 +876,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.669444,
-          "lon": 13.346667
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte Terminillo",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte Terminillo – Traversée Terminilluccio-Terminilletto-Terminillo-Couloir nord",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.474703,
+          "lon": 12.997542,
           "itinerari": [
             {
               "id": "IT-62:routes:routes-skialp:0029",
@@ -902,14 +912,14 @@
                 }
               ]
             }
-          ],
-          "lat": 42.474703,
-          "lon": 12.997542
+          ]
         },
         {
           "nome": "Monte Terminillo – Canalone Nord",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.47281,
+          "lon": 13.004265,
           "itinerari": [
             {
               "id": "IT-62:routes:routes-skialp:0030",
@@ -930,14 +940,14 @@
                 }
               ]
             }
-          ],
-          "lat": 42.47281,
-          "lon": 13.004265
+          ]
         },
         {
           "nome": "Monte Terminillo – Canalone Centrale",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 42.47281,
+          "lon": 13.004265,
           "itinerari": [
             {
               "id": "IT-62:routes:routes-skialp:0031",
@@ -958,14 +968,22 @@
                 }
               ]
             }
-          ],
-          "lat": 42.47281,
-          "lon": 13.004265
-        },
+          ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Monte la Meta",
+      "paese": "IT",
+      "pareti": [
         {
           "nome": "Monte la Meta – Couloir ENE",
           "disciplina": "skialp",
           "esposizione": null,
+          "lat": 41.6721,
+          "lon": 13.9674,
           "itinerari": [
             {
               "id": "IT-62:routes:routes-skialp:0032",
@@ -986,9 +1004,7 @@
                 }
               ]
             }
-          ],
-          "lat": 41.6721,
-          "lon": 13.9674
+          ]
         }
       ],
       "lat": null,
