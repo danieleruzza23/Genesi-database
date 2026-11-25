@@ -5407,6 +5407,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/piccolo-lagazuoi-settore-destro-cengia-martini/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=71",
+                  "siteName": null
                 }
               ]
             }
@@ -5750,6 +5755,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/col-dei-bos-piramide-di-en-coulisse/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=38",
+                  "siteName": null
                 }
               ]
             }
@@ -5805,6 +5815,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/falzarego-torre-grande-di-via-dibona/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=241",
                   "siteName": null
                 }
               ]
@@ -9473,6 +9488,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/roda-del-canal-via-del-bafo/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=186",
+                  "siteName": null
                 }
               ]
             }
@@ -9641,6 +9661,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/spalti-di-tessari-via-rosso-kora/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=267",
+                  "siteName": null
                 }
               ]
             }
@@ -9668,6 +9693,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/cordespino-monte-il-leone-di-nemea/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=209",
                   "siteName": null
                 }
               ]
@@ -13997,6 +14027,11 @@
                   "provider": "bergsteigen",
                   "url": "https://www.bergsteigen.com/touren/klettern/via-normale-normalweg-monte-pelmo/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=265",
+                  "siteName": null
                 }
               ]
             }
@@ -14198,6 +14233,25 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/1949344",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "IT-34:routes:routes-climbing:0595",
+              "nome": "Via dei Triestini",
+              "gradoObbligatorio": "III+",
+              "gradoMassimo": "III+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=56",
                   "siteName": null
                 }
               ]
@@ -17077,6 +17131,114 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/ValleRioFreddo-MonteTormeno-viaPsychiatricCircus/709/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cima Cadin de le Bisse",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cima Cadin de le Bisse",
+          "disciplina": "climbing",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0596",
+              "nome": "Sperone ovest via Bernardi",
+              "gradoObbligatorio": "V",
+              "gradoMassimo": "V+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=55",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Pala di Punta Ellie",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Pala di Punta Ellie",
+          "disciplina": "climbing",
+          "esposizione": "ne",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0597",
+              "nome": "Via Mazzorana",
+              "gradoObbligatorio": "IV+",
+              "gradoMassimo": "V",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=57",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Punta della croce",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Punta della croce",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-34:routes:routes-climbing:0598",
+              "nome": "Via originaria siorpaes verzi",
+              "gradoObbligatorio": "IV+",
+              "gradoMassimo": "IV+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=72",
                   "siteName": null
                 }
               ]

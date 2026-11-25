@@ -176,6 +176,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/monch-nollen/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=211",
+                  "siteName": null
                 }
               ]
             }
@@ -231,6 +236,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/schreckhorn-cresta-so/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=257",
                   "siteName": null
                 }
               ]
@@ -351,6 +361,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/finsteraarhorn-dalloberaarsee/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=124",
                   "siteName": null
                 }
               ]
@@ -530,6 +545,42 @@
           ],
           "lat": 46.713171,
           "lon": 8.416024
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Doldenhorn",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Doldenhorn, parete N",
+          "disciplina": "mountaineering",
+          "esposizione": null,
+          "itinerari": [
+            {
+              "id": "CH-BE:routes:routes-mountaineering:0018",
+              "nome": "Nord",
+              "gradoObbligatorio": null,
+              "gradoMassimo": "D",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": 700.0,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": 3638.0,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=115",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

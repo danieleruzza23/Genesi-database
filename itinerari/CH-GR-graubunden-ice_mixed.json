@@ -388,6 +388,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/balzetto-vallone-del-goulotte-del-comandante/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=190",
+                  "siteName": null
                 }
               ]
             }
@@ -584,6 +589,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/diretta-dellalbigna-cascata/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=94",
+                  "siteName": null
                 }
               ]
             }
@@ -667,6 +677,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/luce-bianca/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=191",
                   "siteName": null
                 }
               ]
@@ -1650,6 +1665,34 @@
           ],
           "lat": 46.49065174,
           "lon": 9.908981323
+        },
+        {
+          "nome": "Coluoir di Pontresina",
+          "disciplina": "ice_mixed",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "CH-GR:routes:routes-ice_mixed:0160",
+              "nome": "Coluoir di Pontresina",
+              "gradoObbligatorio": "I",
+              "gradoMassimo": "3+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=103",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
@@ -1875,6 +1918,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/poschiavo-val-cavaglia-cascatone/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=222",
                   "siteName": null
                 }
               ]
@@ -4633,6 +4681,11 @@
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/54050",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=37",
+                  "siteName": null
                 }
               ]
             }
@@ -4673,6 +4726,42 @@
               ]
             }
           ]
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Cascata del laghet",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Ramo destro",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "CH-GR:routes:routes-ice_mixed:0161",
+              "nome": "Ramo destro",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "4+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=277",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,

@@ -2382,6 +2382,78 @@
       ],
       "lat": null,
       "lon": null
+    },
+    {
+      "nome": "Anticima creta di pricotic",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Anticima creta di pricotic",
+          "disciplina": "climbing",
+          "esposizione": "sw",
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-climbing:0085",
+              "nome": "Via delle placche",
+              "gradoObbligatorio": "VI",
+              "gradoMassimo": "VI+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=61",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Creta di collina",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Avancorpo sud",
+          "disciplina": "climbing",
+          "esposizione": "s",
+          "itinerari": [
+            {
+              "id": "IT-36:routes:routes-climbing:0086",
+              "nome": "Parete sud via de infanti e co con varianti",
+              "gradoObbligatorio": "V",
+              "gradoMassimo": "V+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=62",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
     }
   ]
 }

@@ -418,6 +418,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-via-tanti-auguri/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=262",
+                  "siteName": null
                 }
               ]
             }
@@ -859,6 +864,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/poncione-di-cassina-baggio-piccadilly-di-bedretto/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=197",
                   "siteName": null
                 }
               ]
@@ -3241,6 +3251,25 @@
                 {
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/544161",
+                  "siteName": null
+                }
+              ]
+            },
+            {
+              "id": "CH-TI:routes:routes-climbing:0145",
+              "nome": "Via Quarzo",
+              "gradoObbligatorio": "5b",
+              "gradoMassimo": "5c e A0",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=3&id=190",
                   "siteName": null
                 }
               ]

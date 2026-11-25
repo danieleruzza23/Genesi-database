@@ -1839,6 +1839,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/cascata-grande-salto-alto-cascate/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=198",
+                  "siteName": null
                 }
               ]
             }
@@ -2357,6 +2362,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/val-di-rabbi-grand-hotel-cascata/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=255",
                   "siteName": null
                 }
               ]
@@ -3751,6 +3761,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/porta-del-sole-cascata/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=149",
+                  "siteName": null
                 }
               ]
             }
@@ -3806,6 +3821,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/proxima-centauri-cascata/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=218",
                   "siteName": null
                 }
               ]
@@ -4058,6 +4078,11 @@
                 {
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/regina-del-lago-cascata-ramo-dx/",
+                  "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=204",
                   "siteName": null
                 }
               ]
@@ -9112,6 +9137,11 @@
                   "provider": "camptocamp",
                   "url": "https://www.camptocamp.org/routes/193074",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=130",
+                  "siteName": null
                 }
               ]
             },
@@ -10294,6 +10324,67 @@
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/Daone-cascataSognoGranScozzese/502/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=203",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Cascata Re Azul",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0360",
+              "nome": "Cascata Re Azul",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "4+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=152",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Cascata Tarzan",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0361",
+              "nome": "Cascata Tarzan",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "2+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=85",
+                  "siteName": null
                 }
               ]
             }
@@ -10329,6 +10420,178 @@
                 {
                   "provider": "guidodellatorre",
                   "url": "https://www.scuolaguidodellatorre.it/relazioni/val-di-fassa-campitello-cascata-rio-pelous-cascata-di-campitello/943/",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val Remir(Daone)",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cascata Ulrike",
+          "disciplina": "ice_mixed",
+          "esposizione": "w",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0362",
+              "nome": "Cascata Ulrike",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=135",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Val di Leno",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Calypso",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0363",
+              "nome": "Calypso",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "2+",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=199",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Circolo del Gelo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Il sogno del Play Boy",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0364",
+              "nome": "Il sogno del Play Boy",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=200",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        },
+        {
+          "nome": "Carne Salada",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0365",
+              "nome": "Carne Salada",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "4",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=201",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Circolo del Lago di Campo",
+      "paese": "IT",
+      "pareti": [
+        {
+          "nome": "Cascata Aganella",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "IT-32:routes:routes-ice_mixed:0366",
+              "nome": "Cascata Aganella",
+              "gradoObbligatorio": "II",
+              "gradoMassimo": "3",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=75",
                   "siteName": null
                 }
               ]

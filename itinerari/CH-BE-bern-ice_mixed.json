@@ -799,6 +799,11 @@
                   "provider": "gulliver",
                   "url": "https://www.gulliver.it/itinerari/oeschinenwald-blue-magic-cascata/",
                   "siteName": null
+                },
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=229",
+                  "siteName": null
                 }
               ]
             }
@@ -833,6 +838,42 @@
           ],
           "lat": 46.4916563,
           "lon": 7.686481475
+        }
+      ],
+      "lat": null,
+      "lon": null
+    },
+    {
+      "nome": "Kandertseg",
+      "paese": "CH",
+      "pareti": [
+        {
+          "nome": "Rubenzal",
+          "disciplina": "ice_mixed",
+          "esposizione": "n",
+          "itinerari": [
+            {
+              "id": "CH-BE:routes:routes-ice_mixed:0030",
+              "nome": "Rubenzal",
+              "gradoObbligatorio": "III",
+              "gradoMassimo": "6",
+              "spittatura": null,
+              "tiri": null,
+              "sviluppo": null,
+              "lunghezzaKm": null,
+              "pendioMassimo": null,
+              "quotaMassima": null,
+              "links": [
+                {
+                  "provider": "onice",
+                  "url": "http://on-ice.it/onice/onice_view_itinerario.php?type=4&id=230",
+                  "siteName": null
+                }
+              ]
+            }
+          ],
+          "lat": null,
+          "lon": null
         }
       ],
       "lat": null,
